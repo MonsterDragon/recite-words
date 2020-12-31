@@ -1,0 +1,182 @@
+{
+    "blow": {
+        "attr": "v，n", 
+        "sentence": "() out a candle -- 吹灭蜡烛", 
+        "translation": "v：吹；打击 n：吹；打击"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "cottage": {
+        "attr": "n", 
+        "sentence": "country () -- 乡间小屋", 
+        "translation": "n：村舍；小屋；小别墅"
+    }, 
+    "curb": {
+        "attr": "v，n", 
+        "sentence": "Keep a () on your anger -- 请抑制住怒气", 
+        "translation": "n：一直；约束 v：勒住；抑制住"
+    }, 
+    "diffluence": {
+        "attr": "n", 
+        "sentence": "power () -- 功率分流", 
+        "translation": "n：分流；溶解"
+    }, 
+    "doze": {
+        "attr": "v，n", 
+        "sentence": "I () off during the class -- 我上课打瞌睡", 
+        "translation": "v：打瞌睡 n：瞌睡"
+    }, 
+    "entrenched": {
+        "attr": "adj，v", 
+        "sentence": "() racism -- 根深蒂固的种族歧视", 
+        "translation": "adj：确立的；根深蒂固的 v：牢固地确立"
+    }, 
+    "fasten": {
+        "attr": "v", 
+        "sentence": "() the seat bilt -- 系好安全带", 
+        "translation": "v：栓紧；牢固"
+    }, 
+    "indulge": {
+        "attr": "v", 
+        "sentence": "to () one's curiosity -- 满足好奇心", 
+        "translation": "v：放任；沉溺；使满足；听任"
+    }, 
+    "integrity": {
+        "attr": "n", 
+        "sentence": "the () of brain function -- 脑功能健全", 
+        "translation": "n：完整；政治；诚实"
+    }, 
+    "interim": {
+        "attr": "adj，n", 
+        "sentence": "an () agreement -- 一项临时协议", 
+        "translation": "adj：暂时的；临时的 n：过渡时期；中间时期"
+    }, 
+    "metaphor": {
+        "attr": "n", 
+        "sentence": "A () is an imaginative way of describing -- 隐喻是一种富有想象力的描述事物的方式", 
+        "translation": "n：隐喻；比喻；象征"
+    }, 
+    "metaphysical": {
+        "attr": "adj", 
+        "sentence": "a () theory -- 形而上学的理论", 
+        "translation": "adj：形而上学的"
+    }, 
+    "objection": {
+        "attr": "n", 
+        "sentence": "I have no () to their plan -- 我不反对他们的计划", 
+        "translation": "n：反对；异议"
+    }, 
+    "obsolete": {
+        "attr": "adj", 
+        "sentence": "Digital cameras made film () -- 数码相机淘汰了胶片", 
+        "translation": "adj：过时的；废弃的；淘汰的"
+    }, 
+    "palm": {
+        "attr": "n", 
+        "sentence": "He put the insect on the () of his hand -- 他把虫子放在他的手心", 
+        "translation": "n：手掌；手心"
+    }, 
+    "perfume": {
+        "attr": "n，v", 
+        "sentence": "the () of roses -- 玫瑰花的芳香", 
+        "translation": "n：香水；香味 v：给 ... 添加香味"
+    }, 
+    "perplexing": {
+        "attr": "adj", 
+        "sentence": "This is indeed a () problem -- 这确实是一个费解的难题", 
+        "translation": "adj：使人困惑的；使人为难的"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "pistol": {
+        "attr": "n", 
+        "sentence": "water () -- 玩具水枪", 
+        "translation": "n：手枪"
+    }, 
+    "rein": {
+        "attr": "n，v", 
+        "sentence": "Give free () to your imagination -- 自由的运用你的想象力", 
+        "translation": "n：缰绳；控制 v：控制；驾驭"
+    }, 
+    "resume": {
+        "attr": "v", 
+        "sentence": "The work will () tomorrow -- 工作明天会继续下去", 
+        "translation": "v：继续；重新开始；重返"
+    }, 
+    "rug": {
+        "attr": "n", 
+        "sentence": "weave a () -- 编制一块毛毯", 
+        "translation": "n：小地毯；垫子"
+    }, 
+    "scarf": {
+        "attr": "n，v", 
+        "sentence": "The () was made of silk -- 这围巾是用丝绸做成的", 
+        "translation": "n：围巾；头巾 v：围围巾；"
+    }, 
+    "scent": {
+        "attr": "n，v", 
+        "sentence": "a () of danger -- 危险的气息", 
+        "translation": "n：香味；气味；气息  v：嗅出；察觉出"
+    }, 
+    "shove": {
+        "attr": "v", 
+        "sentence": "to () a boat into the water -- 把船推到水里", 
+        "translation": "v：挤；推；撞"
+    }, 
+    "slope": {
+        "attr": "n， v", 
+        "sentence": "The () is too steep for us to climb -- 这斜坡太陡，我们爬不上去", 
+        "translation": "n：斜坡；坡度 v：倾斜；有坡度"
+    }, 
+    "swing": {
+        "attr": "n，v", 
+        "sentence": "The kid is playing on the () in the park -- 那个小孩在公园里荡秋千", 
+        "translation": "n：摇摆；秋千 v：摇摆"
+    }, 
+    "synthesis": {
+        "attr": "n", 
+        "sentence": "the picture () -- 图像合成", 
+        "translation": "n：综合；合成；综合体"
+    }, 
+    "territory": {
+        "attr": "n", 
+        "sentence": "extend the () -- 扩张领土", 
+        "translation": "n：领土；领域"
+    }, 
+    "tub": {
+        "attr": "n", 
+        "sentence": "bath () -- 浴盆", 
+        "translation": "n：桶；盆；浴盆"
+    }, 
+    "unflattering": {
+        "attr": "adj", 
+        "sentence": "gave the film an () review -- 给电影以坦率的评论", 
+        "translation": "adj：耿直的"
+    }, 
+    "valve": {
+        "attr": "n", 
+        "sentence": "exhaust () -- 排气阀", 
+        "translation": "n：阀；活门"
+    }, 
+    "vibrate": {
+        "attr": "v", 
+        "sentence": "The buildings seemed to () -- 楼房好像在颤动", 
+        "translation": "v：震动；颤动"
+    }, 
+    "vicious": {
+        "attr": "adj", 
+        "sentence": "() inflation -- 恶性通胀", 
+        "translation": "adj：邪恶的；堕落的"
+    }, 
+    "wrinkle": {
+        "attr": "n，v", 
+        "sentence": "() mark -- 皱痕", 
+        "translation": "n：皱纹 v：起皱纹"
+    }
+}

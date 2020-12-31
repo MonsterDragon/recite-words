@@ -1,0 +1,167 @@
+{
+    "advisable": {
+        "attr": "adj", 
+        "sentence": "It is not () to drink too much -- 喝酒过量是不可取的", 
+        "translation": "adj：明智的；可取的"
+    }, 
+    "apt": {
+        "attr": "adj", 
+        "sentence": "an () description -- 恰如其分的描述", 
+        "translation": "adj：恰当的；聪明的"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "bunch": {
+        "attr": "n", 
+        "sentence": "I bought a () of grapes -- 我买了一串葡萄", 
+        "translation": "n：束；捆；串"
+    }, 
+    "cabinet": {
+        "attr": "n", 
+        "sentence": "a display () -- 陈列柜", 
+        "translation": "n：储藏柜；内阁"
+    }, 
+    "censor": {
+        "attr": "n，v", 
+        "sentence": "film () -- 影片审查员", 
+        "translation": "n：审查员；检察员"
+    }, 
+    "concert": {
+        "attr": "n，v", 
+        "sentence": "He refused to () with them -- 他拒绝与他们协同工作", 
+        "translation": "n：音乐会；演奏会；一致；和谐 v：协调一致行动"
+    }, 
+    "concise": {
+        "attr": "adj", 
+        "sentence": "() description -- 简要地描述", 
+        "translation": "adj：简要的；简明的"
+    }, 
+    "congestion": {
+        "attr": "n", 
+        "sentence": "There is always traffic () in that stree -- 那条路总是有交通堵塞", 
+        "translation": "n：堵塞；充血；瘀血"
+    }, 
+    "department": {
+        "attr": "n", 
+        "sentence": "the personnel () -- 人事部", 
+        "translation": "n：部门；系；部"
+    }, 
+    "dimension": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：维度；尺寸"
+    }, 
+    "disposable": {
+        "attr": "adj", 
+        "sentence": "() assets -- 可自由支配财产", 
+        "translation": "adj：一次性的；可自由支配的"
+    }, 
+    "episode": {
+        "attr": "n", 
+        "sentence": "This is the last () of the film -- 这是这部电影最后一个情节", 
+        "translation": "n：一集；事件；一段经历"
+    }, 
+    "excess": {
+        "attr": "n，adj", 
+        "sentence": "drink to () -- 过量饮酒", 
+        "translation": "n：过度；超过 adj：过度的；额外的"
+    }, 
+    "furnish": {
+        "attr": "v", 
+        "sentence": "The school doesn't () students with lunch -- 学校不提供给学生午饭", 
+        "translation": "v：布置家居；配置；供给；提供"
+    }, 
+    "incensory": {
+        "attr": "n", 
+        "sentence": "incense and () -- 熏香和香炉", 
+        "translation": "n：香炉"
+    }, 
+    "knock out": {
+        "attr": "", 
+        "sentence": "Our soldiers had the orders to () enemy guns -- 我们的战士接到了摧毁敌人火力的命令", 
+        "translation": "击倒；破坏"
+    }, 
+    "lane": {
+        "attr": "n", 
+        "sentence": "bus lane -- 公共汽车专用车道", 
+        "translation": "n：小路；小巷；巷道；车道"
+    }, 
+    "lubricate": {
+        "attr": "v", 
+        "sentence": "to () the engine -- 给发动机添加润滑油", 
+        "translation": "v：润滑；加润滑油于"
+    }, 
+    "majestic": {
+        "attr": "adj", 
+        "sentence": "The mountain scenery is () -- 这山景十分宏伟", 
+        "translation": "adj：宏伟的；壮丽的；威严的"
+    }, 
+    "odor": {
+        "attr": "n", 
+        "sentence": "awful () -- 难闻的气味", 
+        "translation": "n：臭味；气味"
+    }, 
+    "oval": {
+        "attr": "n，adj", 
+        "sentence": "The () office -- 总统办公室", 
+        "translation": "n：椭圆 adj：椭圆的"
+    }, 
+    "plaster": {
+        "attr": "n，v", 
+        "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏", 
+        "translation": "n：灰泥；膏药；熟石膏 v：涂膏药"
+    }, 
+    "rage": {
+        "attr": "n；v", 
+        "sentence": "() of infection -- 传染病的肆虐", 
+        "translation": "n：狂补；暴怒；肆虐 v：发怒；怒斥"
+    }, 
+    "sly": {
+        "attr": "adj", 
+        "sentence": "a () scheme -- 一个狡猾的阴谋", 
+        "translation": "adj：诡诈的；诡秘的；心照不宣的"
+    }, 
+    "smash": {
+        "attr": "v，n", 
+        "sentence": "() ciolently -- 猛烈地打击", 
+        "translation": "v：打碎；猛烈撞击 n：打碎；撞车事故"
+    }, 
+    "specification": {
+        "attr": "n", 
+        "sentence": "All the parts were machined to the () -- 所有的零件都是按规格加工的", 
+        "translation": "n：规格；规范"
+    }, 
+    "subsidise": {
+        "attr": "v", 
+        "sentence": "Government can use the rich people's tax money to () the less fortunate -- 政府可以用富人纳税的钱去补贴穷人", 
+        "translation": "v：以津贴补助"
+    }, 
+    "suburban": {
+        "attr": "adj", 
+        "sentence": "He works in a () factory -- 他在一个郊外的工厂工作", 
+        "translation": "adj：市郊的；郊区的"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "timid": {
+        "attr": "adj", 
+        "sentence": "He is too () to talk to others -- 他太羞怯，没法跟别人说话", 
+        "translation": "adj：胆小的；羞怯的"
+    }, 
+    "tramp": {
+        "attr": "n，v", 
+        "sentence": "a ragged () -- 一个衣衫褴褛的流浪汉", 
+        "translation": "n：流浪汉；流浪乞丐；徒步旅行 v：步行；踩；踏"
+    }, 
+    "tumble": {
+        "attr": "v，n", 
+        "sentence": "Housing prices () -- 房价暴跌", 
+        "translation": "v：跌倒；摔倒；暴跌 n：跌倒；摔倒；暴跌"
+    }
+}

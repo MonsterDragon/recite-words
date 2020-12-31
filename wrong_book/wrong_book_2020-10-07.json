@@ -1,0 +1,22 @@
+{
+    "grocer": {
+        "attr": "n", 
+        "sentence": "business a () -- 运营一家杂货店", 
+        "translation": "n：食品杂货店"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "specimen": {
+        "attr": "n", 
+        "sentence": "collect a () -- 采集标本", 
+        "translation": "n：标本；样品"
+    }, 
+    "substitute": {
+        "attr": "v，n", 
+        "sentence": "Water is not a proper () for wine -- 谁不是酒的适当替代品", 
+        "translation": "v：替代 n：代用品"
+    }
+}

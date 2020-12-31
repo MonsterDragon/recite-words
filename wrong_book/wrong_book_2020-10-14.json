@@ -1,0 +1,32 @@
+{
+    "attuned": {
+        "attr": "adj", 
+        "sentence": "He is more () to the political climate of the region -- 他更适应这一地区的政治气候", 
+        "translation": "adj：熟悉的 "
+    }, 
+    "controversial": {
+        "attr": "adj", 
+        "sentence": "we tried to stay away from () topics -- 我们尽量避免一些争议的话题", 
+        "translation": "adj：有争议的"
+    }, 
+    "discreet": {
+        "attr": "adj", 
+        "sentence": "She wore () jewellery -- 她戴着素净的首饰", 
+        "translation": "adj：谨慎的；不显眼的；朴素的"
+    }, 
+    "plug": {
+        "attr": "n，v", 
+        "sentence": "to () one's ears -- 塞住某人的耳朵", 
+        "translation": "n：插头；塞子；栓；宣传 v：堵；塞；插上；大肆宣传"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "sake": {
+        "attr": "n", 
+        "sentence": "We made concession for the () of peace -- 为了和平我们做出了让步", 
+        "translation": "n：缘故；理由"
+    }
+}

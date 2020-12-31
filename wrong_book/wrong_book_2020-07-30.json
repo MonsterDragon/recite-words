@@ -1,0 +1,17 @@
+{
+    "exception": {
+        "attr": "n", 
+        "sentence": "There is always an () to any rule -- 任何规则总有例外", 
+        "translation": "n：例外；除外"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "versus": {
+        "attr": "prep", 
+        "sentence": "income () savings -- 收益与储蓄", 
+        "translation": "prep：对...; 与 ... 相对"
+    }
+}

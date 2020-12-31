@@ -1,0 +1,162 @@
+{
+    "alienate": {
+        "attr": "v", 
+        "sentence": "to () one's fortune -- 转让某人的财产", 
+        "translation": "v：使疏远；离间；转让"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "broom": {
+        "attr": "n", 
+        "sentence": "A new () sweeps clean -- 新官上任三把火", 
+        "translation": "n：扫帚"
+    }, 
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想"
+    }, 
+    "contradictory": {
+        "attr": "adj，n", 
+        "sentence": "self-() -- 自相矛盾的", 
+        "translation": "adj：矛盾的；反驳的；抗辩的 n：对立物；矛盾因素"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "evaporate": {
+        "attr": "v", 
+        "sentence": "If you heat the water, it will () -- 如果你加热水，它会蒸发", 
+        "translation": "蒸发；消失"
+    }, 
+    "faculty": {
+        "attr": "n", 
+        "sentence": "the () of law -- 法学院", 
+        "translation": "n：才能；能力；院系；全体教员"
+    }, 
+    "fierce": {
+        "attr": "adj", 
+        "sentence": "He was frightened of the () dog -- 他让这只凶猛的狗吓怕了", 
+        "translation": "adj：凶猛的；凶狠额"
+    }, 
+    "fracture": {
+        "attr": "n, v", 
+        "sentence": "Old people's bones are easy to () -- 老年人易骨折", 
+        "translation": "n: 破裂；骨折 v: 使断裂；使骨折"
+    }, 
+    "furnish": {
+        "attr": "v", 
+        "sentence": "The school doesn't () students with lunch -- 学校不提供给学生午饭", 
+        "translation": "v：布置家居；配置；供给；提供"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "junction": {
+        "attr": "n", 
+        "sentence": "The () was not connected properly -- 接口处没有正确连接", 
+        "translation": "n：连接处；汇合处；交叉路口"
+    }, 
+    "lecture": {
+        "attr": "n，v", 
+        "sentence": "attend a () -- 听讲课", 
+        "translation": "n：讲课；演讲；训话 v：讲课；训斥"
+    }, 
+    "manuscript": {
+        "attr": "n", 
+        "sentence": "the original () -- 原稿", 
+        "translation": "n：手稿；原稿"
+    }, 
+    "pedal": {
+        "attr": "n，v", 
+        "sentence": "a bicycle () -- 自行车的脚蹬子", 
+        "translation": "n：踏板；踏镫 v：踩踏板"
+    }, 
+    "perspective": {
+        "attr": "n，adj", 
+        "sentence": "A fine () opened out before us -- 一个美好的前景展现在我们面前", 
+        "translation": "n：透视；观点；看法；远景 adj：透视的"
+    }, 
+    "pinch": {
+        "attr": "n，v", 
+        "sentence": "add a () of salt to the food -- 在食物里放一小撮盐", 
+        "translation": "n：捏；掐；一小撮 v：捏；掐；偷"
+    }, 
+    "retort": {
+        "attr": "n, v", 
+        "sentence": "sharp () -- 尖刻的反驳", 
+        "translation": "v: 反驳；回嘴 n: 反驳"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "symposium": {
+        "attr": "n", 
+        "sentence": "scientific ()  -- 科学研讨会", 
+        "translation": "n：研讨会"
+    }, 
+    "systematic": {
+        "attr": "adj", 
+        "sentence": "() error -- 系统误差", 
+        "translation": "adj：系统的；有条理的"
+    }, 
+    "tackle": {
+        "attr": "n, v", 
+        "sentence": "fishing () -- 钓鱼用具", 
+        "translation": "n: 用具；阻截 v: 处理；阻截"
+    }, 
+    "tariff": {
+        "attr": "n", 
+        "sentence": "() barrier -- 贸易壁垒", 
+        "translation": "n：关税；税率；价目表"
+    }, 
+    "torrent": {
+        "attr": "n", 
+        "sentence": "a () of criticism -- 一连串的指责", 
+        "translation": "n：急流；湍流"
+    }, 
+    "tutor": {
+        "attr": "n，v", 
+        "sentence": "to () a subject -- 辅导一门课程", 
+        "translation": "n：导师；家庭教师 v：当家教；指导"
+    }, 
+    "veteran": {
+        "attr": "n，adj", 
+        "sentence": "a () actor -- 资深演员", 
+        "translation": "n：老兵；老手 adj；老练的"
+    }, 
+    "virtual": {
+        "attr": "adj", 
+        "sentence": "() reality -- 虚拟现实", 
+        "translation": "adj：几乎的；实际上的；事实上的；虚拟的"
+    }, 
+    "weary": {
+        "attr": "adj，v", 
+        "sentence": "I am () of teaching -- 我厌烦了教书", 
+        "translation": "adj：厌倦的；厌烦的 v：厌倦；厌烦"
+    }
+}

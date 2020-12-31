@@ -1,0 +1,197 @@
+{
+    "approach": {
+        "attr": "v，n", 
+        "sentence": "the () of spring -- 春天的到来", 
+        "translation": "v：接近；靠近 n：方法；接近；靠近"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "asset": {
+        "attr": "n", 
+        "sentence": "Good health is a great () -- 好身体就是最大的资产", 
+        "translation": "n：资产；有价值的人或物"
+    }, 
+    "avenue": {
+        "attr": "n", 
+        "sentence": "You could find my house along the () -- 沿着林荫道你就能找到我的家", 
+        "translation": "n：大街；林荫道"
+    }, 
+    "bizarre": {
+        "attr": "adj", 
+        "sentence": "the () dress -- 奇装异服", 
+        "translation": "adj：离奇的；奇特的；奇怪的"
+    }, 
+    "breeze": {
+        "attr": "n", 
+        "sentence": "The wheat ripped in the () -- 小麦在微风中起伏波动", 
+        "translation": "n：微风；和风"
+    }, 
+    "clerk": {
+        "attr": "n", 
+        "sentence": "bank () -- 银行职员", 
+        "translation": "n：职员；店员"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "compromise": {
+        "attr": "n，v", 
+        "sentence": "agree on a () -- 同意妥协", 
+        "translation": "n：妥协；和解 v：妥协；和解；损害"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "concrete": {
+        "attr": "adj，n，v", 
+        "sentence": "() evidence -- 确凿的证据", 
+        "translation": "adj：有形的；混凝土的；确实具体的 n：混凝土；具体物 v：用混凝土覆盖"
+    }, 
+    "contemptuous": {
+        "attr": "adj", 
+        "sentence": "a () look -- 表示轻蔑的脸色", 
+        "translation": "adj：轻蔑的；瞧不起的"
+    }, 
+    "conventional": {
+        "attr": "adj", 
+        "sentence": "() art -- 传统艺术", 
+        "translation": "adj：传统的；惯例的"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "dignity": {
+        "attr": "n", 
+        "sentence": "the sense of human () -- 人的高尚感", 
+        "translation": "n：尊严；高贵；尊贵"
+    }, 
+    "expire": {
+        "attr": "v", 
+        "sentence": "My visa is going to () this week -- 我的签证这个星期就过期了", 
+        "translation": "v：终止；期满；断气"
+    }, 
+    "flock": {
+        "attr": "n，v", 
+        "sentence": "Birds () by the lake -- 鸟聚集在湖畔", 
+        "translation": "n：群 v：聚集；群集"
+    }, 
+    "frequency": {
+        "attr": "n", 
+        "sentence": "The () of his visits annoyed her -- 她对于他的频繁来访感到厌烦", 
+        "translation": "n：频率；频数；频繁"
+    }, 
+    "gesture": {
+        "attr": "n", 
+        "sentence": "silence th crowd with a () -- 做一个手势使人群安静下来", 
+        "translation": "n：手势；姿态；姿势"
+    }, 
+    "graze": {
+        "attr": "v，n", 
+        "sentence": "to () cattle -- 放牛", 
+        "translation": "v：放牧；吃草 n：擦伤"
+    }, 
+    "imperial": {
+        "attr": "adj", 
+        "sentence": "() rule -- 帝国统治", 
+        "translation": "adj：帝国的；皇帝的"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "integrity": {
+        "attr": "n", 
+        "sentence": "the () of brain function -- 脑功能健全", 
+        "translation": "n：完整；政治；诚实"
+    }, 
+    "nominal": {
+        "attr": "n", 
+        "sentence": "the () leader -- 挂名领导", 
+        "translation": "adj：名义上的；微不足道的；象征性的"
+    }, 
+    "offspring": {
+        "attr": "n", 
+        "sentence": "the () of the planet -- 植物的幼苗", 
+        "translation": "n：后代；子女；幼苗"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "prose": {
+        "attr": "n", 
+        "sentence": "Newspapers are written in () -- 报纸是用散文体写的", 
+        "translation": "n：散文"
+    }, 
+    "rag": {
+        "attr": "n", 
+        "sentence": "She twisted a () around my hand -- 她用一块破布包住我的手", 
+        "translation": "n：旧布；破布"
+    }, 
+    "rein": {
+        "attr": "n，v", 
+        "sentence": "Give free () to your imagination -- 自由的运用你的想象力", 
+        "translation": "n：缰绳；控制 v：控制；驾驭"
+    }, 
+    "reptile": {
+        "attr": "n，adj", 
+        "sentence": "Snake is a kind of () -- 蛇是一种爬行动物", 
+        "translation": "n：爬行动物 adj：爬行类的"
+    }, 
+    "respective": {
+        "attr": "adj", 
+        "sentence": "All men have their () duties -- 每个人都有各自的职责", 
+        "translation": "adj：各自的；各个的"
+    }, 
+    "scan": {
+        "attr": "v，n", 
+        "sentence": "I () my pocket for change -- 我仔细查看口袋找零钱", 
+        "translation": "v：扫描；浏览；审视 n：扫描；浏览"
+    }, 
+    "shove": {
+        "attr": "v", 
+        "sentence": "to () a boat into the water -- 把船推到水里", 
+        "translation": "v：挤；推；撞"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "Don't () rumors -- 别散播谣言", 
+        "translation": "v：播种；散步"
+    }, 
+    "spiral": {
+        "attr": "n，adj，v", 
+        "sentence": "a () staircase -- 螺旋形楼梯", 
+        "translation": "n：螺旋形 v：螺旋式上升 adj：螺旋形的"
+    }, 
+    "stripe": {
+        "attr": "n", 
+        "sentence": "a dress with dark () -- 一条有着深色条纹的裙子", 
+        "translation": "n：条纹；类型"
+    }, 
+    "territory": {
+        "attr": "n", 
+        "sentence": "extend the () -- 扩张领土", 
+        "translation": "n：领土；领域"
+    }, 
+    "wrinkle": {
+        "attr": "n，v", 
+        "sentence": "() mark -- 皱痕", 
+        "translation": "n：皱纹 v：起皱纹"
+    }
+}

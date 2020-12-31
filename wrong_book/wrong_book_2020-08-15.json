@@ -1,0 +1,12 @@
+{
+    "qualitative": {
+        "attr": "adj", 
+        "sentence": "This will cause () changes -- 这将会引起质的变化", 
+        "translation": "adj：性质的；定型的"
+    }, 
+    "sponge": {
+        "attr": "n，v", 
+        "sentence": "() the mud off the car -- 用海绵擦去车上的污泥", 
+        "translation": "n：海绵块；海绵动物 v：用海绵擦拭"
+    }
+}

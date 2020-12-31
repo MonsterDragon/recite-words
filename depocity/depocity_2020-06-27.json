@@ -1,0 +1,192 @@
+{
+	"repression": {
+            "sentence": "() made him behave worse -- 受压抑使她表现更糟糕",
+            "translation": "n: 抑制；压抑",
+            "attr": "n"
+        },
+	"infirm": {
+            "sentence": "We should protect the () -- 我们应该保护体弱的人",
+            "translation": "adj: 体弱的；虚弱的",
+            "attr": "adj"
+        },
+	"stationary": {
+            "sentence": "He crashed into a () bus -- 他撞上了一辆停着不动的公交",
+            "translation": "adj: 静止的；固定不动的",
+            "attr": "adj"
+        },
+	"postpone": {
+            "sentence": "I have to () our appointment -- 我需要推迟我们的约会",
+            "translation": "v: 延期；推迟",
+            "attr": "v"
+        },
+	"expedition": {
+            "sentence": "He joined the () -- 他加入了探险队",
+            "translation": "n: 探险队；远征",
+            "attr": "n"
+        },
+	"instalment": {
+            "sentence": "The () plan is popular in buying houses -- 流行用分期付款的办法买房子",
+            "translation": "n: 部分；分期付款",
+            "attr": "n"
+        },
+	"depict": {
+            "sentence": "They () him as a hero -- 他们把他描绘成了英雄",
+            "translation": "v: 描绘",
+            "attr": "v"
+        },
+	"plaster": {
+            "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏",
+            "translation": "v: 涂以药膏 n: 膏药；灰泥",
+            "attr": "v, n"
+        },
+	"remedy": {
+            "sentence": "The mistake is beyond () -- 这个错误是无法纠正的",
+            "translation": "v: 纠正 n: 疗法",
+            "attr": "v, n"
+        },
+	"innovatice": {
+            "sentence": "() product -- 新颖的产品",
+            "translation": "adj: 新颖的；革新的",
+            "attr": "adj"
+        },
+	"excerpt": {
+            "sentence": "You can () passages from a book -- 你可以从书中摘录写文章",
+            "translation": "v: 摘录；引用 n: 摘录；引用",
+            "attr": "v, n"
+        },
+	"pope": {
+            "sentence": "() is a leader of region -- 罗马教皇是宗教领袖",
+            "translation": "n: 教皇",
+            "attr": "n"
+        },
+	"amend": {
+            "sentence": "to () a document -- 修改一个文件",
+            "translation": "v: 修正；改进",
+            "attr": "v"
+        },
+	"contemptible": {
+            "sentence": "a () of violence -- 卑劣的暴力行为",
+            "translation": "adj: 可比的；可轻视的",
+            "attr": "adj"
+        },
+	"versatile": {
+            "sentence": "Nylon is a () material -- 尼龙是一种有多方面用途的材料",
+            "translation": "adj: 多才多艺的；多方面的",
+            "attr": "adj"
+        },
+	"episode": {
+            "sentence": "This is the last () of the film -- 这是这部电影的最后一个情节",
+            "translation": "n: 一集；事件；一段经历",
+            "attr": "n"
+        },
+	"sophistic": {
+            "sentence": "After finishing the classics, you can read () books  -- 经传读完之后就可以读子书了",
+            "translation": "adj: 诡辩的",
+            "attr": "adj"
+        },
+	"exempt": {
+            "sentence": "to be () from taxes -- 免税",
+            "translation": "v: 豁免；免除 adj: 被免除的；被豁免的",
+            "attr": "v, n"
+        },
+	"utterly": {
+            "sentence": "It is () beyond reaching -- 这是完全可望而不可及的",
+            "translation": "adv: 全然的；绝对地",
+            "attr": "adv"
+        },
+	"wink": {
+            "sentence": "I'll be bakc in a () -- 我马上回来",
+            "translation": "v: 眨眼；使眼色 n: 眨眼；眼色",
+            "attr": "v, n"
+        },
+	"propaganda": {
+            "sentence": "political () -- 政治宣传",
+            "translation": "n: 宣传",
+            "attr": "n"
+        },
+	"kettle": {
+            "sentence": "Put the () on the stove -- 把水壶放到炉子上",
+            "translation": "n: 水壶",
+            "attr": "n"
+        },
+	"sideways": {
+            "sentence": "He looked () at her -- 他斜着眼看着她",
+            "translation": "adj: 斜着的 adv: 斜向一边地",
+            "attr": "adj, adv"
+        },
+	"lick": {
+            "sentence": "He gave the bowl a thorough () -- 他把碗舔的一干二净",
+            "translation": "v: 舔；轻拍 n: 舔；少许",
+            "attr": "v, n"
+        },
+	"plateau": {
+            "sentence": "Price has now reached a () -- 物价现在已经平稳了 ",
+            "translation": "n: 高原；平稳期",
+            "attr": "n"
+        },
+	"devise": {
+            "sentence": "We'll () a better solution -- 我们会想出更高的解决办法",
+            "translation": "v: 巧妙设计；发明",
+            "attr": "v"
+        },
+	"commence": {
+            "sentence": "I'll () the painting next week -- 我将在下周着手画画",
+            "translation": "v: 开始着手",
+            "attr": "v"
+        },
+	"startling": {
+            "sentence": "a () change -- 令人吃惊的变化",
+            "translation": "adj: 令人吃惊的 v: 使吃惊；使惊愕",
+            "attr": "adj, v"
+        },
+	"equation": {
+            "sentence": "chemical () -- 化学等式",
+            "translation": "n: 等式；方程式",
+            "attr": "n"
+        },
+	"entrepreneur": {
+            "sentence": "The () is rich -- 企业家很富有",
+            "translation": "n: 企业家；创业者",
+            "attr": "n"
+        },
+	"handicap": {
+            "sentence": "Being small is a () in a crowd like this -- 在这一群人中；个子小吃亏",
+            "translation": "n: 障碍；阻碍；不利 v: 妨碍；使不利",
+            "attr": "n, v"
+        },
+	"stale": {
+            "sentence": "() news -- 旧闻",
+            "translation": "adj: 不新鲜的； 陈腐的",
+            "attr": "adj"
+        },
+	"bunch": {
+            "sentence": "a () of keys -- 一串钥匙",
+            "translation": "n：束；串；捆",
+            "attr": "n"
+        },
+	"cordial": {
+            "sentence": "Please accept my () apology -- 请接受我衷心的道歉",
+            "translation": "adj：热诚的；衷心的 n：兴奋剂；甜酒",
+            "attr": "adj；n"
+        },
+	"kit": {
+            "sentence": "We made a model plane out of a () -- 我们用一套零件做了一个模型飞机",
+            "translation": "n：成套工具；配套元件",
+            "attr": "n"
+        },
+	"aide": {
+            "sentence": "a nurse () -- 护士的助手",
+            "translation": "n：副官；助手",
+            "attr": "n"
+        },
+	"exceptional": {
+            "sentence": "It's an () case -- 这是个特殊案例",
+            "translation": "adj：特殊的；卓越的",
+            "attr": "adj"
+        },
+	"feeble": {
+            "sentence": "He has () will -- 他的意志很薄弱",
+            "translation": "adj：薄弱的；衰弱的；无力的",
+            "attr": "adj"
+        }
+}

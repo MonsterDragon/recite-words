@@ -1,0 +1,27 @@
+{
+    "absorption": {
+        "attr": "n", 
+        "sentence": "() in one's work -- 专心于工作", 
+        "translation": "n：吸收；专注；合并"
+    }, 
+    "chamber": {
+        "attr": "n", 
+        "sentence": "() of the heart -- 心室", 
+        "translation": "n：房间；室；腔"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想；怀孕"
+    }, 
+    "disposition": {
+        "attr": "n", 
+        "sentence": "Her property is at her () -- 她的财产由她自由处置", 
+        "translation": "n：处置；意向；性情"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }
+}

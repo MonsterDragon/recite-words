@@ -1,0 +1,187 @@
+{
+    "cater": {
+        "attr": "v", 
+        "sentence": "It is difficult to () to everyone's wish -- 满足每个人的愿望是很难的", 
+        "translation": "v：迎合；满足需要"
+    }, 
+    "bewilder": {
+        "attr": "v", 
+        "sentence": "So many questions () me -- 有如此多的问题是我困惑", 
+        "translation": "v：使迷惑；使不知所措"
+    }, 
+    "blunt": {
+        "attr": "adj，v", 
+        "sentence": "a few  () words -- 几句直言不讳的话", 
+        "translation": "adj：直率的；不锋利的 v：使变钝"
+    }, 
+    "boast": {
+        "attr": "v", 
+        "sentence": "Nobody should () of his own learning -- 谁也不应当夸耀自己的学识", 
+        "translation": "v：自夸；夸耀"
+    }, 
+    "bully": {
+        "attr": "v，n", 
+        "sentence": "The terrorists () the citizens -- 恐怖分子恐吓市民们", 
+        "translation": "v：恐吓；威胁；欺负 n：仗势欺人者"
+    }, 
+    "cargo": {
+        "attr": "n", 
+        "sentence": "air () -- 空运货物", 
+        "translation": "n：货物"
+    }, 
+    "cement": {
+        "attr": "n，v", 
+        "sentence": "() is made of from limestone -- 水泥是由石灰石制成的", 
+        "translation": "n：水泥；胶合剂 v：粘牢；巩固"
+    }, 
+    "comb": {
+        "attr": "n，v", 
+        "sentence": "wooden () -- 木质梳子", 
+        "translation": "n：梳子 v：梳理"
+    }, 
+    "communism": {
+        "attr": "n", 
+        "sentence": "() is based on Marxism -- 共产主义是以马克思主义为基础的", 
+        "translation": "n：共产主义"
+    }, 
+    "convict": {
+        "attr": "v，n", 
+        "sentence": "() a man of a crime -- 判定一个人有罪", 
+        "translation": "v：定罪；宣判有罪 n：罪犯；囚犯"
+    }, 
+    "curriculum": {
+        "attr": "n", 
+        "sentence": "arraneg the () -- 安排课程", 
+        "translation": "n：课程"
+    }, 
+    "delegate": {
+        "attr": "n，v", 
+        "sentence": "appoint a () -- 委派代表", 
+        "translation": "n：代表 v：委派"
+    }, 
+    "demolition": {
+        "attr": "n", 
+        "sentence": "We will give that team a () -- 我们要打败那个队伍", 
+        "translation": "n：摧毁；拆毁"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "embrace": {
+        "attr": "v，n", 
+        "sentence": "You should () his offer to go to the hospital -- 你应该接受他送你去医院的建议", 
+        "translation": "v：拥抱；包围；囊括；接收 n：拥抱"
+    }, 
+    "enforcement": {
+        "attr": "n", 
+        "sentence": "The () of the laws must be strict -- 执法必严", 
+        "translation": "n：执行；实施"
+    }, 
+    "entail": {
+        "attr": "v", 
+        "sentence": "The crisis would () dissolution of the union -- 这场危机定会导致联盟解体", 
+        "translation": "v：是必要的；牵涉"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "() should not be rushed -- 实施不宜操之过急", 
+        "translation": "n：履行；实施"
+    }, 
+    "lottery": {
+        "attr": "n", 
+        "sentence": "She won a fortune in a () -- 她在抽奖中赢得了一大笔钱", 
+        "translation": "n：抽奖；彩票"
+    }, 
+    "mortgage": {
+        "attr": "n，v", 
+        "sentence": "() rates declined -- 按揭利率下跌了", 
+        "translation": "n：抵押；按揭 v：按揭；抵押"
+    }, 
+    "orthordox": {
+        "attr": "adj", 
+        "sentence": "The young people don't like () teaching -- 年轻人不喜欢正统的说教", 
+        "translation": "adj：正统的；规范的；传统的"
+    }, 
+    "parade": {
+        "attr": "n", 
+        "sentence": "have a () -- 举行游行", 
+        "translation": "n：游行"
+    }, 
+    "protein": {
+        "attr": "n", 
+        "sentence": "a lack of () in the idet -- 饮食中缺乏蛋白质", 
+        "translation": "n：蛋白质"
+    }, 
+    "resemblance": {
+        "attr": "n", 
+        "sentence": "Your story shows little () to the facts -- 你说的与事实相去甚远", 
+        "translation": "n：相似；相像"
+    }, 
+    "rotary": {
+        "attr": "adj", 
+        "sentence": "a () engine -- 转缸发动机", 
+        "translation": "adj：旋转的"
+    }, 
+    "seam": {
+        "attr": "n，v", 
+        "sentence": "coal () -- 煤层", 
+        "translation": "nL解封；矿层 v：缝合；有裂痕"
+    }, 
+    "spectator": {
+        "attr": "n", 
+        "sentence": "the common () -- 普通观众", 
+        "translation": "n：观众；旁观者"
+    }, 
+    "stain": {
+        "attr": "v,n", 
+        "sentence": "He will () the family honor -- 他将会玷污家族的荣誉", 
+        "translation": "v：玷污 n：玷污"
+    }, 
+    "stool": {
+        "attr": "n", 
+        "sentence": "Please go and take a () test -- 请去化验一下粪便", 
+        "translation": "n：凳子；粪便"
+    }, 
+    "suffice": {
+        "attr": "v", 
+        "sentence": "I will do my best to () you -- 我会尽一切努力来满足你的要求", 
+        "translation": "v：足够；足以"
+    }, 
+    "syndrome": {
+        "attr": "n", 
+        "sentence": "The () has no effective treatments yet -- 这种综合征尚无有效的治疗方法", 
+        "translation": "n：综合征；综合症状"
+    }, 
+    "tease": {
+        "attr": "v，n", 
+        "sentence": "You should not () your sister -- 你不应该取消你的妹妹", 
+        "translation": "v：取消；戏弄；梳理 n：戏弄"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }, 
+    "ward": {
+        "attr": "n，v", 
+        "sentence": "There are two nurses in the () -- 病房里有两个护士", 
+        "translation": "n：病房；病室；选区  v：监护；守护"
+    }, 
+    "weep": {
+        "attr": "n，v", 
+        "sentence": "Evil men should () for their evil deeds -- 作恶的人应该为他们的恶行而哭泣", 
+        "translation": "n：哭泣；流泪 v：流泪；流出"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "bind": {
+        "attr": "v", 
+        "sentence": "to () a book -- 装订一本书", 
+        "translation": "v：捆绑；约束；装订"
+    }, 
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "browse": {
+        "attr": "v，n", 
+        "sentence": "You are welcome to come in and () -- 欢迎您光临本店随便看看", 
+        "translation": "v：浏览；随意观看；吃草 n：浏览；吃草"
+    }, 
+    "charter": {
+        "attr": "n，v", 
+        "sentence": "Project () -- 项目章程", 
+        "translation": "n：宪章；许可证 v：租赁；特许"
+    }, 
+    "chimney": {
+        "attr": "n", 
+        "sentence": "sweep a () -- 清晰烟囱", 
+        "translation": "n：烟囱"
+    }, 
+    "clay": {
+        "attr": "n", 
+        "sentence": "layer of () -- 黏土层", 
+        "translation": "n：黏土"
+    }, 
+    "collision": {
+        "attr": "n", 
+        "sentence": "a () between two opposing opinions -- 两个对立观点的冲突", 
+        "translation": "n：碰撞；冲突"
+    }, 
+    "commemorate": {
+        "attr": "v", 
+        "sentence": "to () history -- 纪念历史", 
+        "translation": "v：纪念"
+    }, 
+    "concede": {
+        "attr": "v", 
+        "sentence": "I () that I made a mistake -- 我承认我犯了一个错误", 
+        "translation": "v：承认；让步"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "dam": {
+        "attr": "n", 
+        "sentence": "the Three Gorges () -- 三峡大坝", 
+        "translation": "n：水坝"
+    }, 
+    "dim": {
+        "attr": "adj，v", 
+        "sentence": "dim sound -- 模糊不清的声音", 
+        "translation": "adj：暗淡的；昏暗的 v：变暗淡；变模糊"
+    }, 
+    "discriminate": {
+        "attr": "v", 
+        "sentence": "Laws don't () against anyone -- 法律不歧视任何人", 
+        "translation": "v：歧视；区别；区分"
+    }, 
+    "disperse": {
+        "attr": "v", 
+        "sentence": "The clouds () themselves -- 云散了", 
+        "translation": "v：散开；驱散"
+    }, 
+    "fetch": {
+        "attr": "v，n", 
+        "sentence": "Please () my coat -- 请把我的大衣拿过来", 
+        "translation": "v：取来；拿来 n：取来；拿回"
+    }, 
+    "gross": {
+        "attr": "adj，adv，n", 
+        "sentence": "() instance -- 总收入", 
+        "translation": "adj：总的；令人恶心的；严重的 adv：总共；总的 v：总收入"
+    }, 
+    "lift": {
+        "attr": "v， n", 
+        "sentence": "He was too weak even to () his head -- 他虚弱的连头都抬不起来", 
+        "translation": "v：举起；抬起；提起 n：电梯；搭便车"
+    }, 
+    "mingle": {
+        "attr": "v", 
+        "sentence": "The two rivers () their waters here -- 这两条河流在这里汇聚", 
+        "translation": "v：使想混；使联结；交际"
+    }, 
+    "mischief": {
+        "attr": "n", 
+        "sentence": "What () are you up to -- 你在捣什么鬼", 
+        "translation": "n：恶作剧；淘气；伤害"
+    }, 
+    "pharmaceutical": {
+        "attr": "n，adj", 
+        "sentence": "a () laboratory -- 一个药剂实验室", 
+        "translation": "n：药物 adj：制药的；配药的"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "slice": {
+        "attr": "n，v", 
+        "sentence": "a () of meat -- 一片肉", 
+        "translation": "n：切片；薄片；部分 v：切成片"
+    }, 
+    "solemn": {
+        "attr": "adj", 
+        "sentence": "() ceremony -- 隆重的仪式", 
+        "translation": "adj：严肃的；庄严的；隆重的"
+    }, 
+    "spin": {
+        "attr": "v，n", 
+        "sentence": "to () at full speed -- 全速旋转", 
+        "translation": "v：旋转；疾驰 n：旋转"
+    }, 
+    "stunning": {
+        "attr": "adj，v", 
+        "sentence": "His performance was simply () -- 他的表演真是精彩极了", 
+        "translation": "adj：极好的；令人震惊的 v：使眩晕；使震惊"
+    }, 
+    "sulfur": {
+        "attr": "n", 
+        "sentence": "() dioxide -- 二氧化硫", 
+        "translation": "n：硫磺"
+    }, 
+    "toxic": {
+        "attr": "adj，n", 
+        "sentence": "a () drug -- 毒药", 
+        "translation": "adj：有毒的；中毒的 n：毒物；毒剂"
+    }, 
+    "tuition": {
+        "attr": "n", 
+        "sentence": "Thank for your () -- 谢谢您的指导", 
+        "translation": "n：指导；学费"
+    }, 
+    "vinegar": {
+        "attr": "n", 
+        "sentence": "apple () -- 苹果醋", 
+        "translation": "n：醋"
+    }, 
+    "wonder": {
+        "attr": "n，v", 
+        "sentence": "the () of world -- 世界奇观", 
+        "translation": "n：惊奇；奇迹 v：惊讶；想知道"
+    }
+}

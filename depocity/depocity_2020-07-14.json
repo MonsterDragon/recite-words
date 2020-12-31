@@ -1,0 +1,142 @@
+{
+    "assess": {
+        "attr": "v", 
+        "sentence": "He can quickly () a person's character -- 他能很快的评定某人的品质", 
+        "translation": "v：评估；评定"
+    }, 
+    "commemorate": {
+        "attr": "v", 
+        "sentence": "to () history -- 纪念历史", 
+        "translation": "v：纪念"
+    }, 
+    "controversy": {
+        "attr": "n", 
+        "sentence": "That is a fact beyond () -- 那是一个不争的事实", 
+        "translation": "n：争论；论战"
+    }, 
+    "daunt": {
+        "attr": "v", 
+        "sentence": "Danger did't () the hero -- 危险并没有吓住哪位英雄", 
+        "translation": "v：使气馁；使胆怯"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "demolition": {
+        "attr": "n", 
+        "sentence": "We will give that team a () -- 我们要打败那个队伍", 
+        "translation": "n：摧毁；拆毁"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "discriminate": {
+        "attr": "v", 
+        "sentence": "Laws don't () against anyone -- 法律不歧视任何人", 
+        "translation": "v：歧视；区别；区分"
+    }, 
+    "eligible": {
+        "attr": "adj", 
+        "sentence": "She can't find an () man --她找不到和她意的男人", 
+        "translation": "adj：有资格的；合格的；合意的"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "fabulous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 巨额财富", 
+        "translation": "adj：难以置信的；极好的"
+    }, 
+    "fetch": {
+        "attr": "v，n", 
+        "sentence": "Please () me my coat -- 请把我的大衣拿过来", 
+        "translation": "：取来；拿来 n：取来；拿回"
+    }, 
+    "hut": {
+        "attr": "n", 
+        "sentence": "live in a () -- 住在小屋里", 
+        "translation": "n：小屋；棚屋；茅屋"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "() manner -- 命令的态度", 
+        "translation": "adj：急需的；势在必行的；专横的 n：必要的事；命令"
+    }, 
+    "incline": {
+        "attr": "n", 
+        "sentence": "He rolled the balls down the() -- 他把球滚下斜坡", 
+        "translation": "n：倾斜；倾向"
+    }, 
+    "infrastructure": {
+        "attr": "n", 
+        "sentence": "social () --社会基础设施", 
+        "translation": "n：基础设施"
+    }, 
+    "lift": {
+        "attr": "v， n", 
+        "sentence": "He was too weak even to () his head -- 他虚弱的连头都抬不起来", 
+        "translation": "v：举起；抬起；提起 n：电梯；搭便车"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "phase": {
+        "attr": "n，v", 
+        "sentence": "crucial () -- 关键阶段", 
+        "translation": "n：阶段；局面 v：分阶段进行"
+    }, 
+    "ponder": {
+        "attr": "v", 
+        "sentence": "We should () what to do next -- 我们应该考虑下一步怎么办", 
+        "translation": "v：深思；仔细考虑"
+    }, 
+    "predecessor": {
+        "attr": "n", 
+        "sentence": "The new building is more spacious than its （） -- 这一建筑比原先的更宽敞", 
+        "translation": "n：前辈；原有的事物"
+    }, 
+    "pretext": {
+        "attr": "n", 
+        "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们", 
+        "translation": "n：借口；托词"
+    }, 
+    "profile": {
+        "attr": "n", 
+        "sentence": "His handsome () attracts me -- 他的英俊侧面轮廓吸引了我", 
+        "translation": "n：轮廓；侧面像；简介"
+    }, 
+    "sophistic": {
+        "attr": "adj", 
+        "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩", 
+        "translation": "adj: 诡辩的"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }, 
+    "strict": {
+        "attr": "adj", 
+        "sentence": "a () coach -- 严格的教练", 
+        "translation": "adj：严格的"
+    }, 
+    "suffice": {
+        "attr": "v", 
+        "sentence": "I will do my best to () you -- 我会尽一切努力来满足你的要求", 
+        "translation": "v：足够；足以"
+    }, 
+    "vibrate": {
+        "attr": "v", 
+        "sentence": "The buildings seemed to () -- 楼房好像在颤动", 
+        "translation": "v：震动；颤动"
+    }
+}

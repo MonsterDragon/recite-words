@@ -1,0 +1,127 @@
+{
+    "abound": {
+        "attr": "v", 
+        "sentence": "Streams () with fish -- 河里鱼很多", 
+        "translation": "v：大量存在；有许多"
+    }, 
+    "anecdote": {
+        "attr": "n", 
+        "sentence": "That little () tells you a lot -- 那件小小的轶事告诉你许多信息", 
+        "translation": "n：趣闻；轶事"
+    }, 
+    "anxiety": {
+        "attr": "n", 
+        "sentence": "() for knowledge -- 渴望知识", 
+        "translation": "n：忧虑；焦虑；渴望"
+    }, 
+    "barren": {
+        "attr": "adj", 
+        "sentence": "() efforts -- 无效的努力", 
+        "translation": "adj：贫瘠的；无价值的；不孕的"
+    }, 
+    "coalition": {
+        "attr": "n", 
+        "sentence": "plitical () -- 政治联盟", 
+        "translation": "n：结合；联合；联盟"
+    }, 
+    "coordinate": {
+        "attr": "v，n", 
+        "sentence": "() plane -- 坐标平面", 
+        "translation": "v：协调；使配合 n：坐标"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "diabetes": {
+        "attr": "n", 
+        "sentence": "Insulin is used in the treatment of () -- 胰岛素用于治疗糖尿病", 
+        "translation": "n：糖尿病；多尿症"
+    }, 
+    "erect": {
+        "attr": "v，adj", 
+        "sentence": "They () the rent -- 他们支起帐篷", 
+        "translation": "v：竖立；直立 adj：直立的；树立的"
+    }, 
+    "eternal": {
+        "attr": "adj", 
+        "sentence": "the () love -- 永恒的爱", 
+        "translation": "adj：不朽的；永久的"
+    }, 
+    "fracture": {
+        "attr": "n, v", 
+        "sentence": "Old people's bones are easy to () -- 老年人易骨折", 
+        "translation": "n: 破裂；骨折 v: 使断裂；使骨折"
+    }, 
+    "lad": {
+        "attr": "n", 
+        "sentence": "The () desires to go to university -- 这小伙子渴望去上大学", 
+        "translation": "n：小伙子；少年"
+    }, 
+    "majority": {
+        "attr": "n", 
+        "sentence": "The () were for the plan -- 多数人赞成这个计划", 
+        "translation": "n：大多数；大部分"
+    }, 
+    "pinch": {
+        "attr": "n，v", 
+        "sentence": "add a () of salt to the food -- 在食物里放一小撮盐", 
+        "translation": "n：捏；掐；一小撮 v：捏；掐；偷"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "precaution": {
+        "attr": "n", 
+        "sentence": "safety () -- 安全预防措施", 
+        "translation": "n：预防；预防措施"
+    }, 
+    "restore": {
+        "attr": "v", 
+        "sentence": "The police must try to () the order -- 警方必须努力恢复秩序", 
+        "translation": "v：恢复"
+    }, 
+    "retort": {
+        "attr": "n, v", 
+        "sentence": "sharp () -- 尖刻的反驳", 
+        "translation": "v: 反驳；回嘴 n: 反驳"
+    }, 
+    "sane": {
+        "attr": "adj", 
+        "sentence": "A () person would not drive as dangerously as he did -- 一个神志清醒的人是不会像他这样危险的开车的", 
+        "translation": "adj：明智的"
+    }, 
+    "satire": {
+        "attr": "n", 
+        "sentence": "a sharp () on wars -- 一部尖刻讽刺战争的作品", 
+        "translation": "n：讽刺；讽刺作品"
+    }, 
+    "scatter": {
+        "attr": "v", 
+        "sentence": "Don't () your energy -- 不要分散精力", 
+        "translation": "v：分散；散开；散布"
+    }, 
+    "shrink": {
+        "attr": "v，n", 
+        "sentence": "() from dangers -- 遇危险退缩", 
+        "translation": "v：收缩；退缩 n：收缩；萎缩"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "wonder": {
+        "attr": "n，v", 
+        "sentence": "the () of world -- 世界奇观", 
+        "translation": "n：惊奇；奇迹 v：惊讶；想知道"
+    }
+}

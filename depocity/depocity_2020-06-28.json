@@ -1,0 +1,142 @@
+{
+	"perpetual": {
+            "sentence": "They suffer from () hunger -- 他们一直都忍饥挨饿",
+            "translation": "adj: 持久的；长久的",
+            "attr": "adj"
+        },
+	"laboratory": {
+            "sentence": "They are raising fund for a new () -- 他们在募集建一个新的实验室",
+            "translation": "n：实验室",
+            "attr": "n"
+        },
+	"commonplace": {
+            "sentence": "a () novel -- 一本平庸的小说",
+            "translation": "adj：平庸的；普通的 n：平凡的事",
+            "attr": "adj，n"
+        },
+	"strained": {
+            "sentence": "His laughter seemed a little () -- 他的笑好像有点不自然",
+            "translation": "adj：紧张的；不自然的 v：扭伤；拉紧",
+            "attr": "adj，v"
+        },
+	"cope": {
+            "sentence": "I cannot () with so much work -- 我无法处理这么多工作",
+            "translation": "v：应付处理",
+            "attr": "v"
+        },
+	"inhibit": {
+            "sentence": "You should () wrong desires -- 你应当一直不正当的欲望",
+            "translation": "v：抑制；阻止；约束",
+            "attr": "v"
+        },
+	"metaphysical": {
+            "sentence": "a () theory -- 形而上学的理论",
+            "translation": "adj：形而上学的",
+            "attr": "adj"
+        },
+	"progression": {
+            "sentence": "opportunities for career () -- 事业发展的机遇",
+            "translation": "n：进步；进展",
+            "attr": "n"
+        },
+	"denote": {
+            "sentence": "We often () anger by red letters -- 我们常常用红色字母表示愤怒",
+            "translation": "v：表示；代表",
+            "attr": "v"
+        },
+	"procedure": {
+            "sentence": "() in production -- 生产程序",
+            "translation": "n：程序；手续；步骤",
+            "attr": "n"
+        },
+	"vanity": {
+            "sentence": "He has many faults, but () is not one of them -- 他有很多缺点，但是虚荣心不是其中之一",
+            "translation": "n：虚荣；自负",
+            "attr": "n"
+        },
+	"foul": {
+            "sentence": "He was warned for his () in the game -- 他因为在比赛中犯规而被警告",
+            "translation": "v：对...犯规 n：犯规 adj：令人不愉快的；很坏的",
+            "attr": "v，adj，n"
+        },
+	"institutional": {
+            "sentence": "() framwork -- 体制",
+            "translation": "adj：机构的；制度的",
+            "attr": "adj"
+        },
+	"thorn": {
+            "sentence": "He is a () in my side -- 他是我的眼中钉",
+            "translation": "n：刺；荆棘",
+            "attr": "n"
+        },
+	"mortal": {
+            "sentence": "() danger -- 致命危险",
+            "translation": "adj：致命的 n：凡人",
+            "attr": "adj，n"
+        },
+	"dialect": {
+            "sentence": "The () is spoken principally in the rural -- 这种方言主要在农村地区使用",
+            "translation": "n：方言",
+            "attr": "n"
+        },
+	"glide": {
+            "sentence": "I () away from classroom -- 我溜出教室",
+            "translation": "v：滑动；滑行；滑翔 n：滑行；滑动；滑翔",
+            "attr": "v，n"
+        },
+	"gender": {
+            "sentence": "() discrimination is wreadspread -- 性别歧视随处可见",
+            "translation": "n：性别；性",
+            "attr": "n"
+        },
+	"sneak": {
+            "sentence": "I () a look at his book -- 我偷偷看一眼他的书",
+            "translation": "v：溜；偷偷地做 adj：突然的；出其不意的 n：偷偷摸摸；鬼鬼祟祟的人",
+            "attr": "adj，n，v"
+        },
+	"crack": {
+            "sentence": "() into half -- 裂成两半",
+            "translation": "v：断裂；破裂 n：裂缝；裂纹",
+            "attr": "v，n"
+        },
+	"controversy": {
+            "sentence": "That is a fact beyond () -- 那是一个不争的事实",
+            "translation": "n：争论；论战",
+            "attr": "n"
+        },
+	"daunt": {
+            "sentence": "Danger did't () the hero -- 危险并没有吓住哪位英雄",
+            "translation": "v：使气馁；使胆怯",
+            "attr": "v"
+        },
+	"hatch": {
+            "sentence": "to () a plan -- 秘密策划一个计划",
+            "translation": "v：孵出；秘密策划 n：舱口；小窗口",
+            "attr": "v，n"
+        },
+	"monopoly": {
+            "sentence": "() enterprise -- 垄断企业",
+            "translation": "n：垄断",
+            "attr": "n"
+        },
+	"exception": {
+            "sentence": "There is always an () to any rule -- 任何规则总有例外",
+            "translation": "n：例外；除外",
+            "attr": "n"
+        },
+	"literally": {
+            "sentence": "to translate () -- 逐字的翻译",
+            "translation": "adv：逐字地",
+            "attr": "adv"
+        },
+	"levy": {
+            "sentence": "to () men for a war -- 征召男人参战",
+            "translation": "v：征收；征募 n：征兵；征税",
+            "attr": "v，n"
+        },
+	"sprout": {
+            "sentence": "New business began to () up across the country -- 新公司开始在全国各地涌现",
+            "translation": "v：发芽；长出；迅速成长 n：苗芽；新芽",
+            "attr": "v，n"
+        }
+}

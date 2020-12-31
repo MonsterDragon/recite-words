@@ -1,0 +1,122 @@
+{
+    "compliment": {
+        "attr": "v，n", 
+        "sentence": "sincere () -- 由衷地称赞", 
+        "translation": "v：称赞；恭维 n：称赞；恭维"
+    }, 
+    "defect": {
+        "attr": "n，v", 
+        "sentence": "() in character -- 性格上的缺陷", 
+        "translation": "n：瑕疵；缺陷 v：叛逃；背叛"
+    }, 
+    "descend": {
+        "attr": "v", 
+        "sentence": "I'm surprised that he should () to cheating -- 他竟沦落到行骗的地步；我十分惊讶", 
+        "translation": "v：下来；下降；突然造访；突袭；沦落；起源"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "dial": {
+        "attr": "n，v", 
+        "sentence": "I started to () but then hung up -- 我开始拨号，但后来挂断了电话", 
+        "translation": "n：拨号；刻度盘 v：拨"
+    }, 
+    "discriminate": {
+        "attr": "v", 
+        "sentence": "Laws don't () against anyone -- 法律不歧视任何人", 
+        "translation": "v：歧视；区别；区分"
+    }, 
+    "diversity": {
+        "attr": "n", 
+        "sentence": "cultrual () -- 文化多样性", 
+        "translation": "n：多样性；多样化"
+    }, 
+    "domestic": {
+        "attr": "adj，n", 
+        "sentence": "() violence -- 家庭暴力", 
+        "translation": "adj：家庭的；国内的；驯养的 n：用人"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "entrepreneur": {
+        "attr": "n", 
+        "sentence": "This () is rich -- 这位企业家很富有", 
+        "translation": "n：企业家；创业者"
+    }, 
+    "expedition": {
+        "attr": "n", 
+        "sentence": "a scientific () to Sourth Pole -- 对南极的科学考察", 
+        "translation": "n：探险；远征；探险队"
+    }, 
+    "gear": {
+        "attr": "n，v", 
+        "sentence": "You have to gear down, when you drive uphill -- 当你上山时，必须换抵挡", 
+        "translation": "n：用具；齿轮 v：换挡；调整"
+    }, 
+    "precision": {
+        "attr": "n", 
+        "sentence": "() bombing -- 精确的轰炸", 
+        "translation": "n：精确；精密度"
+    }, 
+    "pretext": {
+        "attr": "n", 
+        "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们", 
+        "translation": "n：借口；托词"
+    }, 
+    "prey": {
+        "attr": "n，v", 
+        "sentence": "They prey on weak people -- 他们坑害弱势的人", 
+        "translation": "n：猎物；受害者；受骗者 v：捕食；坑害；折磨"
+    }, 
+    "repression": {
+        "attr": "n", 
+        "sentence": "() made him behave worse -- 受抑制使他表现更糟", 
+        "translation": "n：抑制；压抑"
+    }, 
+    "reservation": {
+        "attr": "n", 
+        "sentence": "They accepted the proposal without () -- 他们无保留地接受这个建议", 
+        "translation": "n: 预定；保留"
+    }, 
+    "saturated": {
+        "attr": "adj，v", 
+        "sentence": "His clothes was () with rain -- 他的衣服被雨水浸透", 
+        "translation": "adj：渗透的；饱和的；充满的 v：浸透；使湿透"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "startling": {
+        "attr": "adj，v", 
+        "sentence": "a () change -- 惊人的变化", 
+        "translation": "adj：令人吃惊地 v：使惊动；使惊愕"
+    }, 
+    "stroll": {
+        "attr": "v，n", 
+        "sentence": "I () along the beach -- 我在海边散步", 
+        "translation": "v：闲逛；散步；漫步 n：闲逛；散步；漫步"
+    }, 
+    "tribute": {
+        "attr": "n", 
+        "sentence": "The song is a () to the hero -- 那首歌是对那位英雄的颂扬", 
+        "translation": "n：贡品；颂词；称赞"
+    }, 
+    "via": {
+        "attr": "prep", 
+        "sentence": "I sent message to Mary () her friend -- 我通过Mary的朋友带信给他", 
+        "translation": "prep：通过；经由"
+    }, 
+    "wink": {
+        "attr": "v，n", 
+        "sentence": "I gave her a () -- 我朝她使了个眼色", 
+        "translation": "v：眨眼；使眼色；闪烁 n：眨眼；眼色；瞬间"
+    }
+}

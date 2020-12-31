@@ -1,0 +1,132 @@
+{
+    "abide": {
+        "attr": "v", 
+        "sentence": "I can not () such a loud noise -- 我无法忍受这么大的噪音", 
+        "translation": "v：遵守；服从；容忍；忍受"
+    }, 
+    "blunt": {
+        "attr": "adj，v", 
+        "sentence": "a few  () words -- 几句直言不讳的话", 
+        "translation": "adj：直率的；不锋利的 v：使变钝"
+    }, 
+    "catchword": {
+        "attr": "n", 
+        "sentence": "to pubicize the () -- 宣传口号", 
+        "translation": "口号"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "concede": {
+        "attr": "v", 
+        "sentence": "I () that I made a mistake -- 我承认我犯了一个错误", 
+        "translation": "v：承认；让步"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "dedicate": {
+        "attr": "v", 
+        "sentence": "He would () his life to the country -- 他将为国家奉献一生", 
+        "translation": "v：奉献；献身；致力"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "discord": {
+        "attr": "n", 
+        "sentence": "The () of his music was hard to the ear -- 他演奏的不和谐并且很刺耳", 
+        "translation": "n：闭一只；不合；纷争"
+    }, 
+    "district": {
+        "attr": "n", 
+        "sentence": "The () has a mild climate -- 这片地区气候温和", 
+        "translation": "n：地区；取余；行政区"
+    }, 
+    "elitisim": {
+        "attr": "n", 
+        "sentence": "We must avoid cultural () -- 我们必须避免文化精英主义", 
+        "translation": "n：精英统治；精英主义"
+    }, 
+    "goose": {
+        "attr": "n", 
+        "sentence": "There is some () in the bowl -- 碗里面有点鹅肉", 
+        "translation": "n：鹅；鹅肉"
+    }, 
+    "hut": {
+        "attr": "n", 
+        "sentence": "live in a () -- 住在小屋里", 
+        "translation": "n：小屋；棚屋；茅屋"
+    }, 
+    "indispensable": {
+        "attr": "adj", 
+        "sentence": "Health is () to everyone -- 健康是人人所不可缺少的", 
+        "translation": "adj：必不可少的"
+    }, 
+    "irrigate": {
+        "attr": "v", 
+        "sentence": "How do you () your field -- 你是怎么灌溉田地的", 
+        "translation": "v：灌溉；冲洗"
+    }, 
+    "jargon": {
+        "attr": "n", 
+        "sentence": "legal () -- 法律术语", 
+        "translation": "n：行话；行业术语"
+    }, 
+    "lottery": {
+        "attr": "n", 
+        "sentence": "She won a fortune in a () -- 她在抽奖中赢得了一大笔钱", 
+        "translation": "n：抽奖；彩票"
+    }, 
+    "mingle": {
+        "attr": "v", 
+        "sentence": "The two rivers () their waters here -- 这两条河流在这里汇聚", 
+        "translation": "v：使想混；使联结；交际"
+    }, 
+    "primitive": {
+        "attr": "adj", 
+        "sentence": "() society -- 原始社会", 
+        "translation": "adj：原始的；简陋的"
+    }, 
+    "psychiatry": {
+        "attr": "n", 
+        "sentence": "clinical () -- 临床精神病学", 
+        "translation": "n：精神病学"
+    }, 
+    "reciprocity": {
+        "attr": "n", 
+        "sentence": "equality () -- 平等互惠", 
+        "translation": "相互性；互惠"
+    }, 
+    "reckon": {
+        "attr": "v", 
+        "sentence": "I () so -- 我这么认为", 
+        "translation": "v：计算；估计；认为；考虑到"
+    }, 
+    "sophistic": {
+        "attr": "adj", 
+        "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩", 
+        "translation": "adj: 诡辩的"
+    }, 
+    "stir": {
+        "attr": "v", 
+        "sentence": "() up hatred -- 激起仇恨", 
+        "translation": "v：搅拌；搅动；激起"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "tease": {
+        "attr": "v，n", 
+        "sentence": "You should not () your sister -- 你不应该取消你的妹妹", 
+        "translation": "v：取消；戏弄；梳理 n：戏弄"
+    }
+}

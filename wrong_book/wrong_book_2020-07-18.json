@@ -1,0 +1,27 @@
+{
+    "concise": {
+        "attr": "adj", 
+        "sentence": "() description -- 简要地描述", 
+        "translation": "adj：简要的；简明的"
+    }, 
+    "dimension": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：维度；尺寸"
+    }, 
+    "excerpt": {
+        "attr": "n，v", 
+        "sentence": "This is an () from a novel -- 这是一部小说的摘录", 
+        "translation": "n：摘录；摘要 v：摘录；引用"
+    }, 
+    "manipulate": {
+        "attr": "v", 
+        "sentence": "to () tools -- 使用工具", 
+        "translation": "v：操纵；使用"
+    }, 
+    "nuisance": {
+        "attr": "n", 
+        "sentence": "It is a () to take classes every day -- 每天上课很讨厌", 
+        "translation": "n：讨厌的人；讨厌的事"
+    }
+}

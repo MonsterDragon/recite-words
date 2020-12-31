@@ -1,0 +1,152 @@
+{
+    "appraisal": {
+        "attr": "n", 
+        "sentence": "n：鉴定；评价", 
+        "translation": "n：鉴定；评价"
+    }, 
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "bend": {
+        "attr": "v，n", 
+        "sentence": "There is a sharp () in the road -- 路上有一处急转弯", 
+        "translation": "v：弯曲；弯腰 n：弯曲处"
+    }, 
+    "choke": {
+        "attr": "n，v", 
+        "sentence": "Leaves () the drain -- 树叶把排水管塞住了", 
+        "translation": "n：窒息；阻塞 v：窒息；阻塞"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "crab": {
+        "attr": "n；v", 
+        "sentence": "The () crab is great delicacy -- 这螃蟹是珍馐美味", 
+        "translation": "n：螃蟹 v：抱怨"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "curl": {
+        "attr": "v，n", 
+        "sentence": "The dying leaves () up -- 快落下的叶子卷曲着", 
+        "translation": "v：卷；蜷缩 n：卷曲"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "depredation": {
+        "attr": "n", 
+        "sentence": "environmental () -- 对环境的破坏", 
+        "translation": "n: 劫掠；摧毁；破坏"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "eccentric": {
+        "attr": "adj, n", 
+        "sentence": "() behavior -- 古怪的行为", 
+        "translation": "adj: 古怪的；偏离轨道的 n: 怪人；偏离轨道运行"
+    }, 
+    "exemplify": {
+        "attr": "v", 
+        "sentence": "I will () my point with a story -- 我会用一个故事举例说明我的观点", 
+        "translation": "v：举例说明；例证；例示"
+    }, 
+    "fossil": {
+        "attr": "n", 
+        "sentence": "The man is a () -- 那人是个老顽固", 
+        "translation": "n：化石；守旧的事物"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "() should not be rushed -- 实施不宜操之过急", 
+        "translation": "n：履行；实施"
+    }, 
+    "interim": {
+        "attr": "adj，n", 
+        "sentence": "an () agreement -- 一项临时协议", 
+        "translation": "adj：暂时的；临时的 n：过渡时期；中间时期"
+    }, 
+    "liable": {
+        "attr": "adj", 
+        "sentence": "It is () to rain -- 很可能要下雨", 
+        "translation": "adj：有义务的；有责任的"
+    }, 
+    "metropolitan": {
+        "attr": "adj", 
+        "sentence": "() center -- 大都市中心", 
+        "translation": "adj：大都市的；大城市的"
+    }, 
+    "nominate": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 提名一名候选人", 
+        "translation": "v：提名；推荐；指派"
+    }, 
+    "outfit": {
+        "attr": "n，v", 
+        "sentence": "cooking () -- 全套烹饪设备", 
+        "translation": "n：全套装备；整套服装；配备 v：装备；配置设备"
+    }, 
+    "parachute": {
+        "attr": "v，n", 
+        "sentence": "to () supplies -- 用降落伞空投补给品", 
+        "translation": "v：跳伞；用降落伞空投补给品 n：降落伞"
+    }, 
+    "plain": {
+        "attr": "n，adj", 
+        "sentence": "() clothes -- 朴素的衣服", 
+        "translation": "n：平原 adj：清楚地；明显的；浅白的"
+    }, 
+    "prone": {
+        "attr": "adj", 
+        "sentence": "He was () to anger -- 他易发怒", 
+        "translation": "adj：俯卧的；易于 ... 的；有倾向 ... 的"
+    }, 
+    "rival": {
+        "attr": "n，v", 
+        "sentence": "a () in love -- 情敌", 
+        "translation": "n：竞争者；敌手 v：竞争；相匹敌"
+    }, 
+    "statute": {
+        "attr": "n", 
+        "sentence": "Working hours are limited by () -- 工作时间有法令限制", 
+        "translation": "n：法令；法规；条例"
+    }, 
+    "strip": {
+        "attr": "v,n", 
+        "sentence": "I () myself to a shower -- 我脱了衣服冲澡", 
+        "translation": "v：剥去；脱衣 n：长条；条状"
+    }, 
+    "superstition": {
+        "attr": "n", 
+        "sentence": "Ignorance leads to () -- 无知会导致迷信", 
+        "translation": "n：迷信；迷信观念"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }
+}

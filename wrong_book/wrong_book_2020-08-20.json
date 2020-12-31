@@ -1,0 +1,32 @@
+{
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj：传染性的，有感染力的"
+    }, 
+    "diffuse": {
+        "attr": "adj，v", 
+        "sentence": "to () new ideas -- 传播思想", 
+        "translation": "adj：弥漫的；扩散的v：弥漫；传播"
+    }, 
+    "disperse": {
+        "attr": "v", 
+        "sentence": "The clouds () themselves -- 云散了", 
+        "translation": "v：散开；驱散"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "vigorously": {
+        "attr": "adv", 
+        "sentence": "to grow () -- 茁壮地成长", 
+        "translation": "adv：有力的；剧烈地"
+    }
+}

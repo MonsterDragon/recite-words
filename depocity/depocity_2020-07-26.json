@@ -1,0 +1,127 @@
+{
+    "auditor": {
+        "attr": "n", 
+        "sentence": "I am a broadcasting () -- 我是一名广播电台的听众", 
+        "translation": "n：审计员；旁听生；听众"
+    }, 
+    "barren": {
+        "attr": "adj", 
+        "sentence": "() efforts -- 无效的努力", 
+        "translation": "adj：贫瘠的；无价值的；不孕的"
+    }, 
+    "calendar": {
+        "attr": "n", 
+        "sentence": "() year -- 日历年", 
+        "translation": "n：日历"
+    }, 
+    "cloak": {
+        "attr": "n，v", 
+        "sentence": "You can () yourself in shadows -- 你能在阴影中隐匿自己", 
+        "translation": "n：斗篷；掩护物 v：隐藏；掩饰"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "cosmic": {
+        "attr": "adj", 
+        "sentence": "the () space -- 宇宙空间", 
+        "translation": "adj：宇宙的；广阔的"
+    }, 
+    "diabetes": {
+        "attr": "n", 
+        "sentence": "Insulin is used in the treatment of () -- 胰岛素用于治疗糖尿病", 
+        "translation": "n：糖尿病；多尿症"
+    }, 
+    "evaporate": {
+        "attr": "v", 
+        "sentence": "If you heat the water, it will () -- 如果你加热水，它会蒸发", 
+        "translation": "蒸发；消失"
+    }, 
+    "excursion": {
+        "attr": "n", 
+        "sentence": "take an () by train -- 乘火车做个短途旅行", 
+        "translation": "n：远足；短途旅行"
+    }, 
+    "express": {
+        "attr": "v，n，adj", 
+        "sentence": "Try to () your idea clearly -- 尽量把你的想法表达清楚", 
+        "translation": "v：表达；表示 n：快件服务 adj：明确的"
+    }, 
+    "faculty": {
+        "attr": "n", 
+        "sentence": "the () of law -- 法学院", 
+        "translation": "n：才能；能力；院系；全体教员"
+    }, 
+    "fierce": {
+        "attr": "adj", 
+        "sentence": "He was frightened of the () dog -- 他让这只凶猛的狗吓怕了", 
+        "translation": "adj：凶猛的；凶狠额"
+    }, 
+    "flour": {
+        "attr": "n", 
+        "sentence": "Grain is used for making () -- 谷物用来做面粉", 
+        "translation": "n：面粉"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "fringe": {
+        "attr": "n，v", 
+        "sentence": "on the () of city -- 在城市的边缘", 
+        "translation": "n：边缘；刘海 v：作为...的边缘"
+    }, 
+    "junction": {
+        "attr": "n", 
+        "sentence": "The () was not connected properly -- 接口处没有正确连接", 
+        "translation": "n：连接处；汇合处；交叉路口"
+    }, 
+    "kit": {
+        "attr": "n", 
+        "sentence": "a toy aircraft () -- 玩具飞机全套元件", 
+        "translation": "n：成套工具；配套元件"
+    }, 
+    "layoff": {
+        "attr": "n", 
+        "sentence": "n：临时解雇；活动停止期间", 
+        "translation": "injury () -- 受伤的休养期间"
+    }, 
+    "lecture": {
+        "attr": "n，v", 
+        "sentence": "attend a () -- 听讲课", 
+        "translation": "n：讲课；演讲；训话 v：讲课；训斥"
+    }, 
+    "notify": {
+        "attr": "v", 
+        "sentence": "They wil () her when to appear in court -- 他们将通知她何时出庭", 
+        "translation": "v：通知"
+    }, 
+    "readily": {
+        "attr": "adv", 
+        "sentence": "He () agreed to help us -- 他欣然同意帮助我们", 
+        "translation": "adv：欣然地；爽快地；容易地"
+    }, 
+    "tub": {
+        "attr": "n", 
+        "sentence": "bath () -- 浴盆", 
+        "translation": "n：桶；盆；浴盆"
+    }, 
+    "tug": {
+        "attr": "n，v", 
+        "sentence": "I () thee door -- 我用力拉门", 
+        "translation": "n：用力拉；拖曳；拖船 v：用力拉；使劲拽"
+    }, 
+    "veteran": {
+        "attr": "n，adj", 
+        "sentence": "a () actor -- 资深演员", 
+        "translation": "n：老兵；老手 adj；老练的"
+    }, 
+    "yield": {
+        "attr": "v，n", 
+        "sentence": "I would rather die than () -- 我宁死不屈", 
+        "translation": "v：生产；获利；屈服；让步 n：产量；利润"
+    }
+}

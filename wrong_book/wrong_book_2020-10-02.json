@@ -1,0 +1,27 @@
+{
+    "avalanche": {
+        "attr": "n", 
+        "sentence": "receive an () of mails -- 收到大量的信件", 
+        "translation": "n：雪崩；纷至沓来"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "fragrant": {
+        "attr": "adj", 
+        "sentence": "() perfume -- 芳香的香水", 
+        "translation": "adj：芬芳的"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "It is () that we make a decision -- 我们继续做出决定", 
+        "translation": "adj：继续的；势在必行的 n：必要的事；命令"
+    }, 
+    "ornament": {
+        "attr": "n", 
+        "sentence": "The palace was rich in () -- 宫廷装饰琳琅满目", 
+        "translation": "n：装饰；装饰品"
+    }
+}

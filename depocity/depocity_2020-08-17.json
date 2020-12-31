@@ -1,0 +1,127 @@
+{
+    "absurd": {
+        "attr": "adj，n", 
+        "sentence": "No doubt it is very () -- 这无疑是非常荒谬的", 
+        "translation": "adj：荒唐的 n：荒诞的事物"
+    }, 
+    "auxiliary": {
+        "attr": "n，adj", 
+        "sentence": "This organization is an () -- 这所机构是附属机构", 
+        "translation": "n：辅助的；附属的 n：辅助物；附属物"
+    }, 
+    "barely": {
+        "attr": "adv", 
+        "sentence": "I was () able to stay awake -- 仅仅；几乎不", 
+        "translation": "adv：仅仅；几乎不"
+    }, 
+    "budget": {
+        "attr": "n，v，adj", 
+        "sentence": "expense () -- 开支预算", 
+        "translation": "n：预算；预算金额 v：节省开支 adj：廉价的；花钱少的"
+    }, 
+    "cabe": {
+        "attr": "n", 
+        "sentence": "power () -- 电缆", 
+        "translation": "n：电缆；钢索"
+    }, 
+    "curse": {
+        "attr": "n，v", 
+        "sentence": "The witch put a () on her -- 女巫对她下了诅咒", 
+        "translation": "n：诅咒；咒骂 v：诅咒；咒骂"
+    }, 
+    "despatch": {
+        "attr": "v，n", 
+        "sentence": "to () a passenger -- 派遣使者", 
+        "translation": "v：派遣；调遣；发送 n：快信；发送；派遣"
+    }, 
+    "dew": {
+        "attr": "n", 
+        "sentence": "The grass is wet with () -- 草被露水打湿", 
+        "translation": "n：露水；露"
+    }, 
+    "duplicate": {
+        "attr": "v，n，adj", 
+        "sentence": "Please fill in the receipt in () -- 请一式两份填写这份收据", 
+        "translation": "v：复制；复印；再做一次 n：副本；复制品 adj：复制的；副本的"
+    }, 
+    "fuss": {
+        "attr": "n，v", 
+        "sentence": "What a () about nothing -- 真是无事生非", 
+        "translation": "n：大惊小怪；忙乱 v：瞎忙活；大惊小怪"
+    }, 
+    "indispensable": {
+        "attr": "adj", 
+        "sentence": "Health is () to everyone -- 健康是人人所不可缺少的", 
+        "translation": "adj：必不可少的"
+    }, 
+    "insulate": {
+        "attr": "v", 
+        "sentence": "How can we () our home from the noise -- 有什么办法可以使我们的住宅隔音吗", 
+        "translation": "隔离；隔热；绝缘"
+    }, 
+    "liberalize": {
+        "attr": "v", 
+        "sentence": "the decision to () travel restrictions -- 放宽旅游限制的决定", 
+        "translation": "v：自由化；放宽限制"
+    }, 
+    "manipulate": {
+        "attr": "v", 
+        "sentence": "to () tools -- 使用工具", 
+        "translation": "v：操纵；使用"
+    }, 
+    "pedal": {
+        "attr": "n，v", 
+        "sentence": "a bicycle () -- 自行车的脚蹬子", 
+        "translation": "n：踏板；踏镫 v：踩踏板"
+    }, 
+    "pendulum": {
+        "attr": "n", 
+        "sentence": "the stroke of an () -- 钟摆的摆动", 
+        "translation": "n：钟摆；摆锤"
+    }, 
+    "reclaim": {
+        "attr": "v", 
+        "sentence": "I am here to () my property -- 我来要求归还我的财产", 
+        "translation": "v：要求归还；收回；开垦；感化"
+    }, 
+    "reduction": {
+        "attr": "n", 
+        "sentence": "A () in price boosts consumption -- 减价促进了消费", 
+        "translation": "n：减少；缩小"
+    }, 
+    "rest on": {
+        "attr": "", 
+        "sentence": "His argument does not () reasoning -- 他的论点并非基于真理", 
+        "translation": "搁置；停留在；基于"
+    }, 
+    "rib": {
+        "attr": "n", 
+        "sentence": "The butcher chopped off a () of pork -- 屠夫砍下一根猪的肋骨", 
+        "translation": "n：肋骨"
+    }, 
+    "salvation": {
+        "attr": "n", 
+        "sentence": "() lies in political reform -- 解救办法在于政治改革", 
+        "translation": "n：拯救；救世；救助"
+    }, 
+    "saw": {
+        "attr": "v，n", 
+        "sentence": "() the wood -- 锯开木材", 
+        "translation": "v：锯；n：锯子"
+    }, 
+    "stagnation": {
+        "attr": "n", 
+        "sentence": "The depressed market results in the () of trade -- 市场萧条导致贸易停滞", 
+        "translation": "n：停滞；萧条；迟钝"
+    }, 
+    "stretch": {
+        "attr": "v，n", 
+        "sentence": "There is a () of woolland beside the sea -- 海边又一片森林", 
+        "translation": "v：伸展；延伸 n：伸展；弹性；一般"
+    }, 
+    "tumble": {
+        "attr": "v，n", 
+        "sentence": "Housing prices () -- 房价暴跌", 
+        "translation": "v：跌倒；摔倒；暴跌 n：跌倒；摔倒；暴跌"
+    }
+}

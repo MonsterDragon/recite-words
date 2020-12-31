@@ -1,0 +1,47 @@
+{
+    "absurb": {
+        "attr": "adj，n", 
+        "sentence": "What an () idea -- 多么荒唐的念头", 
+        "translation": "adj：荒唐的 n：荒诞的事物"
+    }, 
+    "adequately": {
+        "attr": "adv", 
+        "sentence": "to prove () -- 充分地证明", 
+        "translation": "adv：充分地；足够的"
+    }, 
+    "demolition": {
+        "attr": "n", 
+        "sentence": "We will give that team a () -- 我们要打败那个队伍", 
+        "translation": "n：摧毁；拆毁"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "hamper": {
+        "attr": "v，n", 
+        "sentence": "Prejudice will () a person from doing the right thing -- 偏见会妨碍人做正确的事情", 
+        "translation": "v：阻碍；妨碍 n：篮子"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared from () -- 那条路已被清楚了障碍", 
+        "translation": "n：障碍；妨碍；闭塞"
+    }, 
+    "reconcile": {
+        "attr": "v", 
+        "sentence": "() disputes -- 调解纠纷", 
+        "translation": "v：使和解；调和"
+    }, 
+    "resume": {
+        "attr": "v", 
+        "sentence": "The work will () tomorrow -- 工作明天会继续下去", 
+        "translation": "v：继续；重新开始；重返"
+    }, 
+    "slender": {
+        "attr": "adj", 
+        "sentence": "() figure -- 苗条的身材", 
+        "translation": "adj：苗条的"
+    }
+}

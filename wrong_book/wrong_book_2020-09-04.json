@@ -1,0 +1,22 @@
+{
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "utterance": {
+        "attr": "n", 
+        "sentence": "He gave () to his thoughts -- 他发表了自己的观点", 
+        "translation": "n：言辞；言语；言论"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }
+}

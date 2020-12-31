@@ -1,0 +1,17 @@
+{
+    "feat": {
+        "attr": "n", 
+        "sentence": "an acrobatic () -- 杂技表演", 
+        "translation": "n：功绩，技艺"
+    }, 
+    "pail": {
+        "attr": "n", 
+        "sentence": "He lifted a () of water -- 他把一桶水提起来了", 
+        "translation": "n：桶"
+    }, 
+    "satellite": {
+        "attr": "n", 
+        "sentence": "launch a () -- 发射一颗人造卫星", 
+        "translation": "n：卫星；人造卫星"
+    }
+}

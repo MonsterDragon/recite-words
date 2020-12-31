@@ -1,0 +1,32 @@
+{
+    "approach": {
+        "attr": "v，n", 
+        "sentence": "the () of spring -- 春天的到来", 
+        "translation": "v：接近；靠近 n：方法；接近；靠近"
+    }, 
+    "concrete": {
+        "attr": "adj，n，v", 
+        "sentence": "() evidence -- 确凿的证据", 
+        "translation": "adj：有形的；混凝土的；确实具体的 n：混凝土；具体物 v：用混凝土覆盖"
+    }, 
+    "contemptuous": {
+        "attr": "adj", 
+        "sentence": "a () look -- 表示轻蔑的脸色", 
+        "translation": "adj：轻蔑的；瞧不起的"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "gesture": {
+        "attr": "n", 
+        "sentence": "silence th crowd with a () -- 做一个手势使人群安静下来", 
+        "translation": "n：手势；姿态；姿势"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }
+}

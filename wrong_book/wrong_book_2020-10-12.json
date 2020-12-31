@@ -1,0 +1,17 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "regin": {
+        "attr": "v，n", 
+        "sentence": "to () over a country -- 统治国家", 
+        "translation": "v：统治；支配；盛行 n：君主统治；在位期"
+    }
+}

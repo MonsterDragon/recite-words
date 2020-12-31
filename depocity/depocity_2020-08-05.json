@@ -1,0 +1,172 @@
+{
+    "abnormality": {
+        "attr": "n", 
+        "sentence": "The poor child was born with some () -- 这可怜的孩子生下来就畸形", 
+        "translation": "n：变态；畸形"
+    }, 
+    "absorbed": {
+        "attr": "adj，v", 
+        "sentence": "The old man was () in the book -- 老人全神贯注地读这本书", 
+        "translation": "adj：全神贯注的；一心一意的 v：吸收；吸引"
+    }, 
+    "adolescent": {
+        "attr": "n，adj", 
+        "sentence": "() rebellion -- 青春期的叛逆", 
+        "translation": "n：青少年 adj：清除器的"
+    }, 
+    "apt": {
+        "attr": "adj", 
+        "sentence": "an () description -- 恰如其分的描述", 
+        "translation": "adj：恰当的；聪明的"
+    }, 
+    "banner": {
+        "attr": "n", 
+        "sentence": "hold up a () -- 举起旗帜", 
+        "translation": "n：旗帜；横幅"
+    }, 
+    "canoe": {
+        "attr": "n", 
+        "sentence": "His () was in the rapids -- 他的独木舟在急流当中", 
+        "translation": "n：独木舟"
+    }, 
+    "claw": {
+        "attr": "n，v", 
+        "sentence": "sharp () -- 锋利的爪子", 
+        "translation": "n：爪；钳 v：抓"
+    }, 
+    "cohesive": {
+        "attr": "adj", 
+        "sentence": "() force -- 内聚力；粘合力", 
+        "translation": "adj：粘性的；统一的"
+    }, 
+    "diplomatic": {
+        "attr": "adj", 
+        "sentence": "establish () relations -- 建立外交关系", 
+        "translation": "adj：外交的"
+    }, 
+    "electoral": {
+        "attr": "adj", 
+        "sentence": "() reform -- 选举改革", 
+        "translation": "adj：选举的；与选举有关的"
+    }, 
+    "eligible": {
+        "attr": "adj", 
+        "sentence": "She can't find an () man --她找不到和她意的男人", 
+        "translation": "adj：有资格的；合格的；合意的"
+    }, 
+    "emgender": {
+        "attr": "v", 
+        "sentence": "Great powers () fears -- 强大的权力会造成恐惧", 
+        "translation": "v：使发生；引起"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "fascinate": {
+        "attr": "v", 
+        "sentence": "The exotic atmosphere will () you -- 这里的异国情调风格将会把您深深地迷住", 
+        "translation": "v：使着迷；强烈的吸引"
+    }, 
+    "freight": {
+        "attr": "n，v", 
+        "sentence": "() must be prepared before we send the delivery -- 运费必须在运输之前支付", 
+        "translation": "n：货物；货运；运费 v：运送"
+    }, 
+    "grease": {
+        "attr": "n，v", 
+        "sentence": "to () the gear -- 给齿轮上润滑油", 
+        "translation": "n：油脂；润滑油；贿赂 v：给 ... 加润滑油；贿赂"
+    }, 
+    "homonymous": {
+        "attr": "adj", 
+        "sentence": "He won a () ward -- 他赢得了一个同名奖项", 
+        "translation": "adj：同名的；同音异义的"
+    }, 
+    "incline": {
+        "attr": "n", 
+        "sentence": "He rolled the balls down the() -- 他把球滚下斜坡", 
+        "translation": "n：倾斜；倾向"
+    }, 
+    "instruct": {
+        "attr": "v", 
+        "sentence": "My job is to () her in English -- 我的工作是教授她英语", 
+        "translation": "v：教授；交到；指示"
+    }, 
+    "interval": {
+        "attr": "n", 
+        "sentence": "maintain () -- 保持间距", 
+        "translation": "n：间隔，中场休息"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "menace": {
+        "attr": "n", 
+        "sentence": "a () to world peace -- 对世界和平的威胁", 
+        "translation": "n：威胁"
+    }, 
+    "mutual": {
+        "attr": "adj", 
+        "sentence": "() respect -- 相互的尊重", 
+        "translation": "adj：相互的；共同的"
+    }, 
+    "oval": {
+        "attr": "n，adj", 
+        "sentence": "The () office -- 总统办公室", 
+        "translation": "n：椭圆 adj：椭圆的"
+    }, 
+    "paralysis": {
+        "attr": "n", 
+        "sentence": "() of the leg -- 腿部麻痹", 
+        "translation": "n：瘫痪；麻痹"
+    }, 
+    "refine": {
+        "attr": "v", 
+        "sentence": "They () the gold out of th ore -- 他们从矿石中提炼出黄金", 
+        "translation": "v：精炼；改进"
+    }, 
+    "satellite": {
+        "attr": "n", 
+        "sentence": "launch a () -- 发射一颗人造卫星", 
+        "translation": "n：卫星；人造卫星"
+    }, 
+    "skeleton": {
+        "attr": "n，adj", 
+        "sentence": "() structure -- 骨架结构", 
+        "translation": "n：骨架；纲要；梗概 adj：骨干的；骨骼的"
+    }, 
+    "solidarity": {
+        "attr": "n", 
+        "sentence": "We should keep good () and overcome the difficulties -- 我们应该团结一致，克服困难", 
+        "translation": "n：团结；一致；休戚相关"
+    }, 
+    "surgeon": {
+        "attr": "n", 
+        "sentence": "The () performed the operation -- 外科医生做了手术", 
+        "translation": "n：外科医生"
+    }, 
+    "suspend": {
+        "attr": "v", 
+        "sentence": "to () execution -- 暂停执行", 
+        "translation": "v：吊；悬；暂停"
+    }, 
+    "ultraviolet": {
+        "attr": "adj，n", 
+        "sentence": "() radiation -- 紫外线辐射", 
+        "translation": "adj：紫外的；紫外线的 n：紫外光"
+    }, 
+    "unfeasible": {
+        "attr": "adj", 
+        "sentence": "The board said the idea was () -- 董事会认为提议难以实施", 
+        "translation": "adj：不可行的；难以实施的"
+    }, 
+    "wrist": {
+        "attr": "n", 
+        "sentence": "The doctor felt her pulse on her () -- 这位医生在她的手腕上号脉", 
+        "translation": "n：手腕；腕关节"
+    }
+}

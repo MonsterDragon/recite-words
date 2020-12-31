@@ -1,0 +1,57 @@
+{
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj: 感染力的；传染性的"
+    }, 
+    "contemptible": {
+        "attr": "adj", 
+        "sentence": "a () trick -- 卑劣的诡计", 
+        "translation": "adj: 鄙视的；瞧不起"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "homogeneous": {
+        "attr": "adj", 
+        "sentence": "() material -- 均质材料", 
+        "translation": "adj: 均一的；相似的"
+    }, 
+    "infer": {
+        "attr": "v", 
+        "sentence": "From your smile I () that you're pleased -- 从你的笑容，我断定你很高兴", 
+        "translation": "v: 推断；推知"
+    }, 
+    "integral": {
+        "attr": "adj, n", 
+        "sentence": "Is this differential calculus or () calculus -- 微分和积分有什么区别", 
+        "translation": "adj: 完成的；积分的 n: 积分；整体"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared fron () -- 这条路已被清除了障碍", 
+        "translation": "n: 障碍；闭塞"
+    }, 
+    "plateau": {
+        "attr": "n", 
+        "sentence": "Price has now reached a () -- 物价现在已趋于平稳", 
+        "translation": "n: 高原；平稳期"
+    }, 
+    "presumably": {
+        "attr": "adv", 
+        "sentence": "() the bad weather has delayed the flight -- 大概恶劣天气使飞机误点了", 
+        "translation": "adv: 大概"
+    }, 
+    "prophet": {
+        "attr": "n", 
+        "sentence": "The () foresaw a famine -- 预言者预测到了饥荒", 
+        "translation": "n: 预言者"
+    }, 
+    "upright": {
+        "attr": "adj", 
+        "sentence": "I'm an honest, (), decent man -- 我是一个城市、政治、正排的人", 
+        "translation": "adj: 正直的；诚实的"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "diffusion": {
+        "attr": "n", 
+        "sentence": "free () -- 自由扩散", 
+        "translation": "n：扩散；传播"
+    }, 
+    "equate": {
+        "attr": "v", 
+        "sentence": "It's impossible to () wealth and happiness -- 财富与幸福无法等同", 
+        "translation": "v：等同看待"
+    }, 
+    "hesitant": {
+        "attr": "adj", 
+        "sentence": "She was () about accepting the invitation -- 她对是否接受邀请很犹豫", 
+        "translation": "adj：犹豫的"
+    }, 
+    "scrutinize": {
+        "attr": "v", 
+        "sentence": "We must () ahd evaluate -- 我们必须仔细查看并作出评价", 
+        "translation": "v：仔细检查"
+    }, 
+    "utilize": {
+        "attr": "v", 
+        "sentence": "No people () the empty house -- 没人使用这空房子", 
+        "translation": "v：利用"
+    }
+}

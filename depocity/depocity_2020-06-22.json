@@ -1,0 +1,102 @@
+{
+	"sightseeing": {
+            "sentence": "() tours are arranged for visitors -- 已为来访者安排了观光活动",
+            "translation": "n: 观光；游览",
+            "attr": "n"
+        },
+	"hamper": {
+            "sentence": "Prejudice will () a person from doing the right thing -- 偏见会阻碍人们做正确的事",
+            "translation": "n: 篮子 v: 阻碍",
+            "attr": "v, n"
+        },
+	"draft": {
+            "sentence": "() a speech -- 起草一份演讲稿",
+            "translation": "n: 草稿；汇票；小气流 v: 起草；选派",
+            "attr": "n, v"
+        },
+	"troublesome": {
+            "sentence": "Rid yourself of such () thoughts -- 使自己摆脱如此令人烦恼的想法",
+            "translation": "adj: 令人烦恼的；麻烦的；苦难的",
+            "attr": "adj"
+        },
+	"fling": {
+            "sentence": "Don't () your clothes around -- 别乱扔衣服",
+            "translation": "v: 投；猛掷",
+            "attr": "v"
+        },
+	"refund": {
+            "sentence": "The hotel will () him 100 -- 旅馆将退给他100",
+            "translation": "v: 退还；偿还 n: 退款；返还款",
+            "attr": "v, n"
+        },
+	"excess": {
+            "sentence": "An () of fat can lead to heart disease -- 脂肪过多会导致心脏病",
+            "translation": "n: 过度；超过 adj: 过度的；额外的",
+            "attr": "n, adj"
+        },
+	"fuse": {
+            "sentence": "Rainwater will () the bulds -- 雨水会引发保险丝烧熔",
+            "translation": "n: 保险丝；导火线 v: 熔接",
+            "attr": "n, v"
+        },
+	"advent": {
+            "sentence": "the () of the computer -- 计算的出现",
+            "translation": "n: 到来；来临",
+            "attr": "n"
+        },
+	"commonwealth": {
+            "sentence": "The () lost a great leader -- 共和国失去了一位伟大的领袖",
+            "translation": "n: 联邦；共和国",
+            "attr": "n"
+        },
+	"digest": {
+            "sentence": "() of news -- 新闻摘要",
+            "translation": "n: 摘要 v: 领会",
+            "attr": "n, v"
+        },
+	"hurl": {
+            "sentence": "I () the baseball back -- 我把棒球大力掷回去",
+            "translation": "v: 猛掷",
+            "attr": "v"
+        },
+	"linguistic": {
+            "sentence": "A dictionary contains lots of () knowledge -- 一步字典包含了大量语言学知识",
+            "translation": "adj: 语言的",
+            "attr": "adj"
+        },
+	"immense": {
+            "sentence": "The expence of living is () -- 生活费用很大",
+            "translation": "adj: 巨大的",
+            "attr": "adj"
+        },
+	"charateristic": {
+            "sentence": "Sympathy is the () feeling of mankind -- 同情心是人类特有的感情",
+            "translation": "adj: 典型的；特有的 n: 特点；特性",
+            "attr": "adj, n"
+        },
+	"obstruction": {
+            "sentence": "The road was cleared fron () -- 这条路已被清除了障碍",
+            "translation": "n: 障碍；闭塞",
+            "attr": "n"
+        },
+	"certificate": {
+            "sentence": "The () is invalid -- 这张证书无效",
+            "translation": "n: 证书；凭证；执照 v: 发给证书",
+            "attr": "v, n"
+        },
+	"lawn": {
+            "sentence": "My mom ask me to mow the () -- 妈妈让我去剪草坪",
+            "translation": "n: 草坪；草地",
+            "attr": "n"
+        },
+	"sophistic": {
+            "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩",
+            "translation": "adj: 诡辩的",
+            "attr": "adj"
+        },
+	"tribe": {
+            "sentence": "a rude () -- 野蛮部落",
+            "translation": "n: 部落",
+            "attr": "n"
+        }
+}

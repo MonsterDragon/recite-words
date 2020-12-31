@@ -1,0 +1,32 @@
+{
+    "consult": {
+        "attr": "v", 
+        "sentence": " () a lawyer  -- 咨询律师", 
+        "translation": "v: 咨询；查询；请教"
+    }, 
+    "counterpart": {
+        "attr": "n", 
+        "sentence": "Each twin was the () of the other -- 孪生子彼此酷似", 
+        "translation": "n：对应物；副本"
+    }, 
+    "instruct": {
+        "attr": "v", 
+        "sentence": "My job is to () her in English -- 我的工作是教授她英语", 
+        "translation": "v：教授；交到；指示"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "pin down": {
+        "attr": "", 
+        "sentence": "to () the location -- 确定位置", 
+        "translation": "把 ... 固定住；确定"
+    }, 
+    "wicked": {
+        "attr": "adj", 
+        "sentence": "a () boy -- 淘气的男孩", 
+        "translation": "adj：邪恶的；淘气的"
+    }
+}

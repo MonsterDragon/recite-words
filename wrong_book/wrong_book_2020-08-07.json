@@ -1,0 +1,32 @@
+{
+    "brittle": {
+        "attr": "adj", 
+        "sentence": "() friendship -- 不牢固的友谊", 
+        "translation": "adj：脆弱的；尖利的"
+    }, 
+    "denote": {
+        "attr": "v", 
+        "sentence": "We often () anger by red letters -- 我们常常用红色字母表示愤怒", 
+        "translation": "v：表示；代表"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "He put a () on a house -- 他给一所房子付了押金", 
+        "translation": "n：存款；押金；沉淀 v：存储；堆积"
+    }, 
+    "furious": {
+        "attr": "adj", 
+        "sentence": "a () temper -- 性格暴躁", 
+        "translation": "adj：狂怒的；暴怒的；激怒的"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "thermometer": {
+        "attr": "n", 
+        "sentence": "She put the () in his mouth -- 她把体温表放入他口中", 
+        "translation": "n：温度计；体温表"
+    }
+}

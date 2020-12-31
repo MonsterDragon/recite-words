@@ -1,0 +1,217 @@
+{
+    "abolish": {
+        "attr": "v", 
+        "sentence": "to () slavery -- 废除奴隶制", 
+        "translation": "v：取消；废除；废止"
+    }, 
+    "attuned": {
+        "attr": "adj", 
+        "sentence": "He is more () to the political climate of the region -- 他更适应这一地区的政治气候", 
+        "translation": "adj：熟悉的 "
+    }, 
+    "auction": {
+        "attr": "n，v", 
+        "sentence": "They sold the furniture by () -- 他们拍卖了这套家具", 
+        "translation": "n：拍卖 v：拍卖"
+    }, 
+    "badminton": {
+        "attr": "n", 
+        "sentence": "() racket -- 羽毛球拍", 
+        "translation": "n：羽毛球"
+    }, 
+    "barn": {
+        "attr": "n", 
+        "sentence": "They piled the () with grain -- 他们在谷仓里堆满了粮食", 
+        "translation": "n：谷仓；牲口棚"
+    }, 
+    "benign": {
+        "attr": "adj", 
+        "sentence": "() climate -- 温和的气候", 
+        "translation": "adj：仁慈的；温和的；良性的"
+    }, 
+    "blunt": {
+        "attr": "adj，v", 
+        "sentence": "a few  () words -- 几句直言不讳的话", 
+        "translation": "adj：直率的；不锋利的 v：使变钝"
+    }, 
+    "broom": {
+        "attr": "n", 
+        "sentence": "A new () sweeps clean -- 新官上任三把火", 
+        "translation": "n：扫帚"
+    }, 
+    "bundle": {
+        "attr": "n", 
+        "sentence": "tie up a () -- 捆成一束", 
+        "translation": "n：捆；束；包"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "contraction": {
+        "attr": "n", 
+        "sentence": "muscular () -- 肌肉的收缩", 
+        "translation": "n：收缩；缩小"
+    }, 
+    "controversial": {
+        "attr": "adj", 
+        "sentence": "we tried to stay away from () topics -- 我们尽量避免一些争议的话题", 
+        "translation": "adj：有争议的"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "deem": {
+        "attr": "v", 
+        "sentence": "Do you () this plan sensible -- 你认为这项计划明智吗", 
+        "translation": "v：认为；判断；以为"
+    }, 
+    "degenerate": {
+        "attr": "adj，n，v", 
+        "sentence": "The thief was a () member of a fine family -- 那个小偷是优秀家族的堕落成员", 
+        "translation": "adj：退步的；堕落的 v：退化；堕落 n：堕落的人"
+    }, 
+    "disguise": {
+        "attr": "v，n", 
+        "sentence": "This false beard is his () -- 这假胡子是他的伪装用品", 
+        "translation": "v：伪装；掩饰 n：伪装；伪装物"
+    }, 
+    "exotic": {
+        "attr": "adj", 
+        "sentence": "() animals -- 外来动物", 
+        "translation": "adj：外来的；外国的；奇异的"
+    }, 
+    "fierce": {
+        "attr": "adj", 
+        "sentence": "He was frightened of the () dog -- 他让这只凶猛的狗吓怕了", 
+        "translation": "adj：凶猛的；凶狠额"
+    }, 
+    "frost": {
+        "attr": "n，v", 
+        "sentence": "() over the trees -- 使树木结了一层霜", 
+        "translation": "n：霜；霜冻；严寒 v：结霜"
+    }, 
+    "hail": {
+        "attr": "n，v", 
+        "sentence": "a () of criticism -- 一通批评", 
+        "translation": "n：冰雹 v：下冰雹；呼喊"
+    }, 
+    "mingle": {
+        "attr": "v", 
+        "sentence": "The two rivers () their waters here -- 这两条河流在这里汇聚", 
+        "translation": "v：使想混；使联结；交际"
+    }, 
+    "panorama": {
+        "attr": "n", 
+        "sentence": "A vast () of the valley lay before us -- 山谷的广阔全景展现在我们面前", 
+        "translation": "n：全景；概论"
+    }, 
+    "passive": {
+        "attr": "adj", 
+        "sentence": "in a () position -- 陷入被动的地位", 
+        "translation": "adj：消极的；被动的"
+    }, 
+    "pension": {
+        "attr": "n", 
+        "sentence": "() fund -- 退休基金", 
+        "translation": "n：养老金；退休金；抚恤金"
+    }, 
+    "perspective": {
+        "attr": "n，adj", 
+        "sentence": "A fine () opened out before us -- 一个美好的前景展现在我们面前", 
+        "translation": "n：透视；观点；看法；远景 adj：透视的"
+    }, 
+    "phenomenon": {
+        "attr": "n", 
+        "sentence": "() in history -- 历史上的现象", 
+        "translation": "n：现象"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "portray": {
+        "attr": "v", 
+        "sentence": "It is difficult to () feeling in words -- 感情很难用言语来描写", 
+        "translation": "v：描写；描绘；饰演"
+    }, 
+    "predominant": {
+        "attr": "adj", 
+        "sentence": "Green was the () color in the forest -- 绿色是森林的主色调", 
+        "translation": "adj：主导的；支配的；显著的；主要的"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "pub": {
+        "attr": "n", 
+        "sentence": "They went to the () for a drink -- 他们到酒馆喝酒去了", 
+        "translation": "n：酒吧；酒馆"
+    }, 
+    "recipe": {
+        "attr": "n", 
+        "sentence": "a () for fever -- 发烧的处方", 
+        "translation": "n：食谱；烹饪方法；处方"
+    }, 
+    "sack": {
+        "attr": "n，v", 
+        "sentence": "The invaders () the city -- 侵略者把这座城市洗劫一空", 
+        "translation": "n：袋子；解雇 v：解雇；装入袋子"
+    }, 
+    "screw": {
+        "attr": "n，v", 
+        "sentence": "() down the lid -- 拧紧盖子", 
+        "translation": "n：螺丝钉 v：拧紧"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "sober": {
+        "attr": "adj，v", 
+        "sentence": "The bad news did () all of us -- 那坏消息的确使我们严肃认真起来了", 
+        "translation": "adj：清醒的；严肃的；素淡的 v：使清醒"
+    }, 
+    "tackle": {
+        "attr": "n, v", 
+        "sentence": "fishing () -- 钓鱼用具", 
+        "translation": "n: 用具；阻截 v: 处理；阻截"
+    }, 
+    "torrent": {
+        "attr": "n", 
+        "sentence": "a () of criticism -- 一连串的指责", 
+        "translation": "n：急流；湍流"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }, 
+    "weary": {
+        "attr": "adj，v", 
+        "sentence": "I am () of teaching -- 我厌烦了教书", 
+        "translation": "adj：厌倦的；厌烦的 v：厌倦；厌烦"
+    }, 
+    "wreath": {
+        "attr": "n", 
+        "sentence": "a () of smoke -- 烟圈", 
+        "translation": "n：花环；花圈"
+    }, 
+    "wretched": {
+        "attr": "adj", 
+        "sentence": "() weather -- 恶劣的天气", 
+        "translation": "adj：悲惨的；不行的；难过的"
+    }
+}

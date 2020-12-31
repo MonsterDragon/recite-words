@@ -1,0 +1,167 @@
+{
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "audit": {
+        "attr": "v,n", 
+        "sentence": "I () the account myself -- 我自己审查账目", 
+        "translation": "v：审查；查账 n：审查；查账"
+    }, 
+    "banner": {
+        "attr": "n", 
+        "sentence": "hold up a () -- 举起旗帜", 
+        "translation": "n：旗帜；横幅"
+    }, 
+    "bracket": {
+        "attr": "n，v", 
+        "sentence": "Write your name in the () -- 把你的名字写在括号内", 
+        "translation": "n：托架；括号；等级 v：用括号括上；把 ... 分类"
+    }, 
+    "breach": {
+        "attr": "n，v", 
+        "sentence": "to () a barrier -- 突破屏障", 
+        "translation": "n：缺口；破裂；违背 v：违反；突破"
+    }, 
+    "cease": {
+        "attr": "v", 
+        "sentence": "() fire -- 停火", 
+        "translation": "v：停；息；停止"
+    }, 
+    "circus": {
+        "attr": "n", 
+        "sentence": "() performers -- 马戏团演员", 
+        "translation": "n：马戏团"
+    }, 
+    "claw": {
+        "attr": "n，v", 
+        "sentence": "sharp () -- 锋利的爪子", 
+        "translation": "n：爪；钳 v：抓"
+    }, 
+    "clumsy": {
+        "attr": "adj", 
+        "sentence": "The new waiter is () -- 新来的服务生很笨拙", 
+        "translation": "adj：笨拙的"
+    }, 
+    "clutch": {
+        "attr": "v,n", 
+        "sentence": "Clutch at the throat of fate -- 抓住命运的咽喉", 
+        "translation": "v：抓住；攫住 n：紧抓；离合器"
+    }, 
+    "defy": {
+        "attr": "v", 
+        "sentence": "The pine trees () severe cold -- 松树不畏严寒", 
+        "translation": "v：不服从；藐视；挑衅"
+    }, 
+    "diplomatic": {
+        "attr": "adj", 
+        "sentence": "establish () relations -- 建立外交关系", 
+        "translation": "adj：外交的"
+    }, 
+    "dormitory": {
+        "attr": "n", 
+        "sentence": "Every () can contain 200 students -- 每一栋宿舍能容纳200个学生", 
+        "translation": "n：宿舍"
+    }, 
+    "engender": {
+        "attr": "v", 
+        "sentence": "The teacher could () delight in students -- 这个老师能够让学生感到快乐", 
+        "translation": "v：使发生；引起"
+    }, 
+    "extravagent": {
+        "attr": "adj", 
+        "sentence": "The rich man lives an () life -- 这个富人过着奢侈的生活", 
+        "translation": "adj：奢侈的；过度的"
+    }, 
+    "feat": {
+        "attr": "n", 
+        "sentence": "an acrobatic () -- 杂技表演", 
+        "translation": "n：功绩，技艺"
+    }, 
+    "gauge": {
+        "attr": "n，v", 
+        "sentence": "the temperature () -- 温度计", 
+        "translation": "n：测量仪器；规格；评估 v：测量；评估"
+    }, 
+    "grieve": {
+        "attr": "v", 
+        "sentence": "I () for the loss of my husband -- 我为失去丈夫感到悲痛", 
+        "translation": "v：伤心；悲痛；使悲痛"
+    }, 
+    "hinder": {
+        "attr": "v", 
+        "sentence": "Heavy snow will () the construction project -- 大雪会妨碍这项建筑工程", 
+        "translation": "v：阻碍，打扰"
+    }, 
+    "intimate": {
+        "attr": "n，adj，v", 
+        "sentence": "He is my () -- 他是我的密友", 
+        "translation": "n：密友 adj：亲密的；熟悉的 v：暗示"
+    }, 
+    "lodge": {
+        "attr": "n, v", 
+        "sentence": "I () at a friend's house -- 我借宿在一个朋友家里", 
+        "translation": "n: 小舍，传达室 v: 存放；借宿"
+    }, 
+    "menace": {
+        "attr": "n", 
+        "sentence": "a () to world peace -- 对世界和平的威胁", 
+        "translation": "n：威胁"
+    }, 
+    "merchandise": {
+        "attr": "n，v", 
+        "sentence": "The () is not up to standard -- 货物品质未达标准", 
+        "translation": "n：商品；货物 v：推销；销售"
+    }, 
+    "merit": {
+        "attr": "n，v", 
+        "sentence": "The picture shows much artistic () -- 这幅画有很高的艺术价值", 
+        "translation": "n：优点；功绩；价值 v：值得；应得"
+    }, 
+    "overturn": {
+        "attr": "v，n", 
+        "sentence": "to () the goverment -- 推翻政府", 
+        "translation": "v：推翻；颠覆；打倒 n：推翻；颠覆；打倒"
+    }, 
+    "pail": {
+        "attr": "n", 
+        "sentence": "He lifted a () of water -- 他把一桶水提起来了", 
+        "translation": "n：桶"
+    }, 
+    "polar": {
+        "attr": "adj", 
+        "sentence": "They are of () opinions -- 他们的意见截然相反", 
+        "translation": "adj：极地的；两级的；对立的"
+    }, 
+    "realm": {
+        "attr": "n", 
+        "sentence": "the () of science -- 科学领域", 
+        "translation": "n：王国；领域"
+    }, 
+    "satellite": {
+        "attr": "n", 
+        "sentence": "launch a () -- 发射一颗人造卫星", 
+        "translation": "n：卫星；人造卫星"
+    }, 
+    "shallow": {
+        "attr": "adj", 
+        "sentence": "Only () people judge people by their appearance -- 只有浅薄的人才会以貌取人", 
+        "translation": "adj：浅的；浅薄的"
+    }, 
+    "thrive": {
+        "attr": "v", 
+        "sentence": "May our country prosper and () forever -- 希望我们的国家繁荣兴旺", 
+        "translation": "v：兴旺；繁荣；茁壮成长"
+    }, 
+    "turnover": {
+        "attr": "n", 
+        "sentence": "The firm has an annual () of 75 million -- 这家公司的营业额为7500万", 
+        "translation": "n：营业额；流动；成交量；人员调整"
+    }, 
+    "wipe": {
+        "attr": "v，n", 
+        "sentence": " to () off dirt -- 擦去灰尘", 
+        "translation": "v：擦；抹；消除 n：擦拭；抹布"
+    }
+}

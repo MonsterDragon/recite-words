@@ -1,0 +1,177 @@
+{
+    "breeze": {
+        "attr": "n", 
+        "sentence": "Leaves tremble in the () -- 叶子在微风中颤动", 
+        "translation": "n：微风；和风"
+    }, 
+    "bump": {
+        "attr": "v，n", 
+        "sentence": "Cars () along the mountain road -- 车辆在山路上颠簸前行", 
+        "translation": "v：撞；碰上 n：碰撞；猛击"
+    }, 
+    "cellar": {
+        "attr": "n", 
+        "sentence": "wine () -- 酒窖", 
+        "translation": "n：地窖；地下室"
+    }, 
+    "census": {
+        "attr": "n", 
+        "sentence": "() chart -- 人口调查表", 
+        "translation": "n：人口普查"
+    }, 
+    "cherish": {
+        "attr": "v", 
+        "sentence": "I () and respect every living day -- 我珍惜并敬重生命中的每一天", 
+        "translation": "v：珍爱；爱情；怀念"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "cosmic": {
+        "attr": "adj", 
+        "sentence": "the () space -- 宇宙空间", 
+        "translation": "adj：宇宙的；广阔的"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就鄙视他", 
+        "translation": "v：鄙视，蔑视；看不起"
+    }, 
+    "discrepancy": {
+        "attr": "n", 
+        "sentence": "There is a () in two reports of the accident -- 关于那起事故的两份报道有矛盾的地方", 
+        "translation": "n：差异；矛盾"
+    }, 
+    "endeavour": {
+        "attr": "v，n", 
+        "sentence": "You must () toimprove your work -- 你必须努力改进自己的工作", 
+        "translation": "v：努力 n：尝试；努力"
+    }, 
+    "evacuate": {
+        "attr": "v", 
+        "sentence": "Please () the building immediately -- 请立刻撤出大楼", 
+        "translation": "v：撤离；疏散；撤出"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair-- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "fatigue": {
+        "attr": "n", 
+        "sentence": "I have gotten over my () -- 我已从疲劳中恢复过来了", 
+        "translation": "n：疲乏；劳累"
+    }, 
+    "flock": {
+        "attr": "n，v", 
+        "sentence": "Birds () by the lake -- 鸟聚集在湖畔", 
+        "translation": "n：群 v：聚集；群集"
+    }, 
+    "forge": {
+        "attr": "v", 
+        "sentence": "() a signature -- 伪造签名", 
+        "translation": "v：伪造；制造；建立"
+    }, 
+    "glitter": {
+        "attr": "n，v", 
+        "sentence": "Stars () in a clear sky -- 星星在晴空中闪耀", 
+        "translation": "n：闪耀；闪烁 v：闪耀；闪烁"
+    }, 
+    "imperial": {
+        "attr": "adj", 
+        "sentence": "the () palace -- 皇宫", 
+        "translation": "adj：帝国的；皇帝的；英制的"
+    }, 
+    "kit": {
+        "attr": "n", 
+        "sentence": "a toy aircraft () -- 玩具飞机全套元件", 
+        "translation": "n：成套工具；配套元件"
+    }, 
+    "likewise": {
+        "attr": "adv", 
+        "sentence": "Her second marriage was () unhappy -- 她的第二次婚姻同样也不幸福", 
+        "translation": "adv：同样地；照样地"
+    }, 
+    "persevere": {
+        "attr": "v", 
+        "sentence": "You must () with your English studies -- 英语学习要持之以恒", 
+        "translation": "v：坚持不懈；不屈不挠"
+    }, 
+    "polish": {
+        "attr": "v,n", 
+        "sentence": "They () the floor smooth -- 他们把地板擦得光滑", 
+        "translation": "v：擦亮；润色 n：光泽"
+    }, 
+    "prose": {
+        "attr": "n", 
+        "sentence": "His () is written in elegant language -- 他的散文写的十分优雅", 
+        "translation": "n：散文"
+    }, 
+    "rag": {
+        "attr": "n", 
+        "sentence": "She washed the floor with a () -- 她用一块旧布洗地板", 
+        "translation": "n：旧布；破布"
+    }, 
+    "reptile": {
+        "attr": "n，adj", 
+        "sentence": "Snake is a kind of () -- 蛇是一种爬行动物", 
+        "translation": "n：爬行动物 adj：爬行类的"
+    }, 
+    "retain": {
+        "attr": "v", 
+        "sentence": "() one's balance -- 保持平衡", 
+        "translation": "v：保留；保持"
+    }, 
+    "sacred": {
+        "attr": "adj", 
+        "sentence": "() music -- 圣乐", 
+        "translation": "adj：宗教的；神圣的；庄严的"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将尽头我们的衣服", 
+        "translation": "v：使浸透；使湿透"
+    }, 
+    "sigh": {
+        "attr": "v，n", 
+        "sentence": "() in relief -- 如释重负地叹了一口气", 
+        "translation": "v：叹气；叹息 n：叹息；叹气"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "It is too soon to () yet -- 现在播种还为时尚早", 
+        "translation": "v：播种；散步"
+    }, 
+    "spray": {
+        "attr": "n，v", 
+        "sentence": "a () of water -- 水花飞溅", 
+        "translation": "n；喷雾 v：喷洒"
+    }, 
+    "stagger": {
+        "attr": "v，n", 
+        "sentence": "I () at the price -- 这价钱使我犹豫不决", 
+        "translation": "v：蹒跚；犹豫；动摇 n：蹒跚；踌躇"
+    }, 
+    "steer": {
+        "attr": "n，v", 
+        "sentence": "() into a port -- 驶入海湾", 
+        "translation": "n：犍牛 v：驾驶；驶入；掌舵；操纵"
+    }, 
+    "sustained": {
+        "attr": "adj，v", 
+        "sentence": "a period of () economic growth -- 持续的经济增长", 
+        "translation": "adj：持久的；持久不变的 v：支撑；承受；维持"
+    }, 
+    "tuck": {
+        "attr": "v，n", 
+        "sentence": "the () of a skirt -- 裙子的褶皱", 
+        "translation": "v：把 ... 塞进狭窄的空间；把 ... 藏入 n：褶皱；零食"
+    }
+}

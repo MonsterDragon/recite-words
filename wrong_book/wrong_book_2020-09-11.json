@@ -1,0 +1,12 @@
+{
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }
+}

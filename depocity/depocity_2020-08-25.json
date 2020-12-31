@@ -1,0 +1,132 @@
+{
+    "cart": {
+        "attr": "n", 
+        "sentence": "shopping () -- 购物车", 
+        "translation": "n：大车；手推车"
+    }, 
+    "conform": {
+        "attr": "v", 
+        "sentence": "Students are required to () to the rules -- 学生被要求遵从规则", 
+        "translation": "v：符合；顺应；遵从"
+    }, 
+    "counterpart": {
+        "attr": "n", 
+        "sentence": "Each twin was the () of the other -- 孪生子彼此酷似", 
+        "translation": "n：对应物；副本"
+    }, 
+    "detach": {
+        "attr": "v", 
+        "sentence": "How to () from the pressure -- ruhe", 
+        "translation": "How to () from the pressure -- ru"
+    }, 
+    "engender": {
+        "attr": "v", 
+        "sentence": "The teacher could () delight in students -- 这个老师能够让学生感到快乐", 
+        "translation": "v：使发生；引起"
+    }, 
+    "ethnicity": {
+        "attr": "n", 
+        "sentence": "an immigrant's () -- 移民的种族特性", 
+        "translation": "n：种族渊源种族特点；族群性"
+    }, 
+    "extravagant": {
+        "attr": "adj", 
+        "sentence": "() act -- 行为放肆", 
+        "translation": "adj：生吃的；过度的"
+    }, 
+    "fiction": {
+        "attr": "n", 
+        "sentence": "science () -- 科幻小说", 
+        "translation": "n：小说；虚构"
+    }, 
+    "garment": {
+        "attr": "n，v", 
+        "sentence": "to () the model -- 给模特穿衣服", 
+        "translation": "n：衣服；外衣 v：给...穿衣服"
+    }, 
+    "hazard": {
+        "attr": "v", 
+        "sentence": "He had put his own life in () -- 他是在拿自己的生命来冒险", 
+        "translation": "n: 危害；危险 v: 冒险；使遭受危险"
+    }, 
+    "humidity": {
+        "attr": "n", 
+        "sentence": "THe () is relatively low -- 湿度相对较低", 
+        "translation": "n：湿度；湿气"
+    }, 
+    "impartial": {
+        "attr": "adj", 
+        "sentence": "He is an () judge -- 他是一位公正的法官", 
+        "translation": "adj：公正的"
+    }, 
+    "jaw": {
+        "attr": "n", 
+        "sentence": "The lower () is movable -- 下巴是可以活动的", 
+        "translation": "n：下吧"
+    }, 
+    "lest": {
+        "attr": "conj", 
+        "sentence": "I got up early () I should miss the train -- 我早起以免错过了火车", 
+        "translation": "连：唯恐；免得；以免"
+    }, 
+    "panorama": {
+        "attr": "n", 
+        "sentence": "A vast () of the valley lay before us -- 山谷的广阔全景展现在我们面前", 
+        "translation": "n：全景；概论"
+    }, 
+    "porch": {
+        "attr": "n", 
+        "sentence": "The () was narrow -- 门廊狭窄", 
+        "translation": "n：门廊"
+    }, 
+    "recruit": {
+        "attr": "v，n", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v：征募；招收；招聘 n：新兵"
+    }, 
+    "resent": {
+        "attr": "v", 
+        "sentence": "I () those unfair comments -- 我对那些不公平的评语感到愤慨", 
+        "translation": "v：愤恨；憎恶；怨恨"
+    }, 
+    "revolve": {
+        "attr": "v", 
+        "sentence": "Ideas () in her mind -- 思绪在她脑海中反复盘旋", 
+        "translation": "v：旋转；考虑；围绕"
+    }, 
+    "rust": {
+        "attr": "v，n", 
+        "sentence": "Iron is easy to () -- 铁易生锈", 
+        "translation": "v：生锈 n：铁锈"
+    }, 
+    "scout": {
+        "attr": "v，n", 
+        "sentence": "The () was searching through the woods -- 侦查员正在树林中搜索", 
+        "translation": "v：侦查；巡视；搜寻 n：侦查；侦察兵"
+    }, 
+    "soar": {
+        "attr": "v", 
+        "sentence": "() high in the sky -- 在天空中高飞", 
+        "translation": "v：翱翔；骤升"
+    }, 
+    "stretch": {
+        "attr": "v，n", 
+        "sentence": "There is a () of woolland beside the sea -- 海边又一片森林", 
+        "translation": "v：伸展；延伸 n：伸展；弹性；一般"
+    }, 
+    "subtract": {
+        "attr": "v", 
+        "sentence": "If you () 3 from 5, you get 2 -- 5减3得2", 
+        "translation": "v: 减去；扣除"
+    }, 
+    "symposium": {
+        "attr": "n", 
+        "sentence": "scientific ()  -- 科学研讨会", 
+        "translation": "n：研讨会"
+    }, 
+    "wipe": {
+        "attr": "v，n", 
+        "sentence": " to () off dirt -- 擦去灰尘", 
+        "translation": "v：擦；抹；消除 n：擦拭；抹布"
+    }
+}

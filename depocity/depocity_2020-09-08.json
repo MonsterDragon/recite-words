@@ -1,0 +1,142 @@
+{
+    "compensation": {
+        "attr": "n", 
+        "sentence": "She claimed for () -- 她要求赔偿", 
+        "translation": "n：赔偿；补偿"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "disclose": {
+        "attr": "v", 
+        "sentence": "He declined to () his income -- 他拒绝透露收入有多少", 
+        "translation": "v：揭露；透露；泄露"
+    }, 
+    "discord": {
+        "attr": "n", 
+        "sentence": "The () of his music was hard to the ear -- 他演奏的不和谐并且很刺耳", 
+        "translation": "n：闭一只；不合；纷争"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "eternal": {
+        "attr": "adj", 
+        "sentence": "the () love -- 永恒的爱", 
+        "translation": "adj：不朽的；永久的"
+    }, 
+    "extinguish": {
+        "attr": "v", 
+        "sentence": "Please () your cigarettes -- 请你把烟熄掉", 
+        "translation": "v：熄灭；扑灭"
+    }, 
+    "hamper": {
+        "attr": "v，n", 
+        "sentence": "Prejudice will () a person from doing the right thing -- 偏见会妨碍人做正确的事情", 
+        "translation": "v：阻碍；妨碍 n：篮子"
+    }, 
+    "humid": {
+        "attr": "adj", 
+        "sentence": "the () climate -- 潮湿的气候", 
+        "translation": "adj：潮湿的；湿润的"
+    }, 
+    "imitation": {
+        "attr": "n", 
+        "sentence": "The watch is an () -- 这个手表是仿制品", 
+        "translation": "n：模仿；仿制品"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "() should not be rushed -- 实施不宜操之过急", 
+        "translation": "n：履行；实施"
+    }, 
+    "liable": {
+        "attr": "adj", 
+        "sentence": "It is () to rain -- 很可能要下雨", 
+        "translation": "adj：有义务的；有责任的"
+    }, 
+    "lid": {
+        "attr": "n", 
+        "sentence": "I can't get thelid off the jar -- 我打不开这个管子的盖子", 
+        "translation": "n：盖子"
+    }, 
+    "manufacturing": {
+        "attr": "n，v", 
+        "sentence": "a () process -- 生产过程", 
+        "translation": "n：制造业 adj：制造的 v：制造"
+    }, 
+    "pit": {
+        "attr": "n，v", 
+        "sentence": "work in the () -- 在矿井作业", 
+        "translation": "n：坑；凹洞；矿井 v：使凹陷"
+    }, 
+    "preposition": {
+        "attr": "n", 
+        "sentence": "A () is used before nouns and pronouns -- 介词用于名词和代词之前", 
+        "translation": "n：介词"
+    }, 
+    "primitive": {
+        "attr": "adj", 
+        "sentence": "() society -- 原始社会", 
+        "translation": "adj：原始的；简陋的"
+    }, 
+    "quota": {
+        "attr": "n", 
+        "sentence": "We fulfilled the () in half the time -- 我们只用一半的时间就完成了限额", 
+        "translation": "n：配额；限额"
+    }, 
+    "scanty": {
+        "attr": "adj", 
+        "sentence": "There is () evidence -- 证据不足", 
+        "translation": "adj：欠缺的；过小的；少量的"
+    }, 
+    "scatter": {
+        "attr": "v", 
+        "sentence": "Don't () your energy -- 不要分散精力", 
+        "translation": "v：分散；散开；散布"
+    }, 
+    "slacken": {
+        "attr": "v", 
+        "sentence": "() your muscle -- 放松你的肌肉", 
+        "translation": "v：减缓；松弛"
+    }, 
+    "slot": {
+        "attr": "n，v", 
+        "sentence": "a mail () -- 投信口", 
+        "translation": "n：投币口 v：把 ... 放入狭缝"
+    }, 
+    "solar": {
+        "attr": "adj", 
+        "sentence": "solar system -- 太阳系", 
+        "translation": "adj：太阳的；太阳能的"
+    }, 
+    "stir": {
+        "attr": "v", 
+        "sentence": "() up hatred -- 激起仇恨", 
+        "translation": "v：搅拌；搅动；激起"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "tug": {
+        "attr": "n，v", 
+        "sentence": "I () thee door -- 我用力拉门", 
+        "translation": "n：用力拉；拖曳；拖船 v：用力拉；使劲拽"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "depredation": {
+        "attr": "n", 
+        "sentence": "environmental () -- 对环境的破坏", 
+        "translation": "n: 劫掠；摧毁；破坏"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "() should not be rushed -- 实施不宜操之过急", 
+        "translation": "n：履行；实施"
+    }, 
+    "nominate": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 提名一名候选人", 
+        "translation": "v：提名；推荐；指派"
+    }, 
+    "statute": {
+        "attr": "n", 
+        "sentence": "Working hours are limited by () -- 工作时间有法令限制", 
+        "translation": "n：法令；法规；条例"
+    }
+}

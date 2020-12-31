@@ -1,0 +1,182 @@
+{
+    "absurd": {
+        "attr": "adj，n", 
+        "sentence": "No doubt it is very () -- 这无疑是非常荒谬的", 
+        "translation": "adj：荒唐的 n：荒诞的事物"
+    }, 
+    "auditor": {
+        "attr": "n", 
+        "sentence": "I am a broadcasting () -- 我是一名广播电台的听众", 
+        "translation": "n：审计员；旁听生；听众"
+    }, 
+    "cereal": {
+        "attr": "n", 
+        "sentence": "a bowl of () -- 一碗麦片粥", 
+        "translation": "n：谷物；谷类食品"
+    }, 
+    "chap": {
+        "attr": "n，v", 
+        "sentence": "How quickly the () runs -- 那个男孩跑得多快啊", 
+        "translation": "n：小伙子；家伙 v：皲裂"
+    }, 
+    "classification": {
+        "attr": "n", 
+        "sentence": "Which () does this plant belong to -- 这植物属于哪一类？", 
+        "translation": "n：分类，分级"
+    }, 
+    "collaborate": {
+        "attr": "v", 
+        "sentence": "Teams have to () closely -- 团队要紧密合作", 
+        "translation": "v：合作；协作；通敌"
+    }, 
+    "contemptible": {
+        "attr": "adj", 
+        "sentence": "a () act of violence -- 卑劣的暴力行径", 
+        "translation": "adj：可鄙的；可轻视的"
+    }, 
+    "cordial": {
+        "attr": "adj，n", 
+        "sentence": "a () with a sweet taste -- 有甜味的甘露酒", 
+        "translation": "adj：热诚的；衷心的 n：兴奋剂；甜酒"
+    }, 
+    "diameter": {
+        "attr": "n", 
+        "sentence": "inside () -- 内径", 
+        "translation": "n：直径"
+    }, 
+    "discrimination": {
+        "attr": "n", 
+        "sentence": "sexual () -- 性别歧视", 
+        "translation": "n：区别；辨别；歧视"
+    }, 
+    "displace": {
+        "attr": "v", 
+        "sentence": "The war will () people from their own country -- 战争将使人们背井离乡", 
+        "translation": "v：取代；免职；迫使...离开家乡"
+    }, 
+    "evaporate": {
+        "attr": "v", 
+        "sentence": "If you heat the water, it will () -- 如果你加热水，它会蒸发", 
+        "translation": "蒸发；消失"
+    }, 
+    "excerpt": {
+        "attr": "n，v", 
+        "sentence": "This is an () from a novel -- 这是一部小说的摘录", 
+        "translation": "n：摘录；摘要 v：摘录；引用"
+    }, 
+    "facility": {
+        "attr": "n", 
+        "sentence": "He has great () in learning languages -- 他学语言很有天赋", 
+        "translation": "n：设施；设备；功能；遍历；熟练"
+    }, 
+    "feeble": {
+        "attr": "adj", 
+        "sentence": "the () light -- 微弱的灯光", 
+        "translation": "adj：虚弱的；衰弱的；无力的"
+    }, 
+    "fierce": {
+        "attr": "adj", 
+        "sentence": "He was frightened of the () dog -- 他让这只凶猛的狗吓怕了", 
+        "translation": "adj：凶猛的；凶狠额"
+    }, 
+    "flock": {
+        "attr": "n，v", 
+        "sentence": "Birds () by the lake -- 鸟聚集在湖畔", 
+        "translation": "n：群 v：聚集；群集"
+    }, 
+    "garment": {
+        "attr": "n，v", 
+        "sentence": "to () the model -- 给模特穿衣服", 
+        "translation": "n：衣服；外衣 v：给...穿衣服"
+    }, 
+    "indispensable": {
+        "attr": "adj", 
+        "sentence": "Health is () to everyone -- 健康是人人所不可缺少的", 
+        "translation": "adj：必不可少的"
+    }, 
+    "interference": {
+        "attr": "v", 
+        "sentence": "He hates () with his work -- 他厌恶别人妨碍他的工作", 
+        "translation": "干扰；干涉；妨碍"
+    }, 
+    "kit": {
+        "attr": "n", 
+        "sentence": "a toy aircraft () -- 玩具飞机全套元件", 
+        "translation": "n：成套工具；配套元件"
+    }, 
+    "manipulate": {
+        "attr": "v", 
+        "sentence": "to () tools -- 使用工具", 
+        "translation": "v：操纵；使用"
+    }, 
+    "nuisance": {
+        "attr": "n", 
+        "sentence": "It is a () to take classes every day -- 每天上课很讨厌", 
+        "translation": "n：讨厌的人；讨厌的事"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared from () -- 那条路已被清楚了障碍", 
+        "translation": "n：障碍；妨碍；闭塞"
+    }, 
+    "pope": {
+        "attr": "n", 
+        "sentence": "The new () will give a speech tomorrow -- 新教皇明天将发表演讲", 
+        "translation": "n：教皇"
+    }, 
+    "precision": {
+        "attr": "n", 
+        "sentence": "() bombing -- 精确的轰炸", 
+        "translation": "n：精确；精密度"
+    }, 
+    "recite": {
+        "attr": "v", 
+        "sentence": "to () a poem -- 背诵一首诗", 
+        "translation": "v：背诵；吟诵"
+    }, 
+    "reduction": {
+        "attr": "n", 
+        "sentence": "A () in price boosts consumption -- 减价促进了消费", 
+        "translation": "n：减少；缩小"
+    }, 
+    "resign": {
+        "attr": "v", 
+        "sentence": "() the position as a teacher -- 辞去教师职务", 
+        "translation": "辞职；顺从；甘心于"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "snatch": {
+        "attr": "v，n", 
+        "sentence": "Let us () an hour of sleep -- 咱们抓紧时间睡1个小时", 
+        "translation": "v：攫取；夺取；抓住 n：攫取；夺取；抓住"
+    }, 
+    "squeeze": {
+        "attr": "n, v", 
+        "sentence": "() into a tight soace -- 挤进一个拥挤的地方", 
+        "translation": "v: 捏；挤；榨 n: 捏；挤；榨"
+    }, 
+    "stagnation": {
+        "attr": "n", 
+        "sentence": "The depressed market results in the () of trade -- 市场萧条导致贸易停滞", 
+        "translation": "n：停滞；萧条；迟钝"
+    }, 
+    "stride": {
+        "attr": "v，n", 
+        "sentence": "to () across an obstacle -- 大步跨过障碍", 
+        "translation": "v：大步行走；跨一大步 n：大步；步伐"
+    }, 
+    "validity": {
+        "attr": "n", 
+        "sentence": "They challenge the () of the vote -- 他们对选举的有效性提出质疑", 
+        "translation": "n：合法性；有效性；正确性"
+    }, 
+    "wink": {
+        "attr": "v，n", 
+        "sentence": "I gave her a () -- 我朝她使了个眼色", 
+        "translation": "v：眨眼；使眼色；闪烁 n：眨眼；眼色；瞬间"
+    }
+}

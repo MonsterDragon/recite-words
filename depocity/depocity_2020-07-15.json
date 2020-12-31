@@ -1,0 +1,167 @@
+{
+    "advocate": {
+        "attr": "v，n", 
+        "sentence": "We () a healthy lifestyle -- 我们提倡健康的生活", 
+        "translation": "v：提倡；主张 n：提倡者；拥护者"
+    }, 
+    "anticipate": {
+        "attr": "v", 
+        "sentence": "We () hearing from you again -- 我们期待再接到您的来信", 
+        "translation": "v：预料；预期；期望"
+    }, 
+    "assert": {
+        "attr": "v", 
+        "sentence": "They () this thing to be true -- 他们宣传这件事是真是的", 
+        "translation": "v：断言；声称；坚持；维护"
+    }, 
+    "avert": {
+        "attr": "v", 
+        "sentence": "to () one's eyes -- 转移目光", 
+        "translation": "v：转开；避免；防止"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "commence": {
+        "attr": "adjc", 
+        "sentence": "() a career -- 开始一个职业生涯", 
+        "translation": "adj：开始发生；着手"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "enquiry": {
+        "attr": "n", 
+        "sentence": "He makes an () for the product -- 他对产品进行了询问", 
+        "translation": "n：提问；询问"
+    }, 
+    "ferry": {
+        "attr": "n，v", 
+        "sentence": "A () crosses the river every hour -- 渡船每小时过河一次", 
+        "translation": "n：渡船；渡口 v：摆渡；运送"
+    }, 
+    "fleeting": {
+        "attr": "adj，v", 
+        "sentence": "A () thought went through her mind -- 她脑海掠过一个稍纵即逝的念头", 
+        "translation": "adj：飞逝的；短暂的 v：掠过；"
+    }, 
+    "glide": {
+        "attr": "v，n", 
+        "sentence": "I () away from classroom -- 我溜出教室", 
+        "translation": "v：滑动；滑行；滑翔 n：滑行；滑动；滑翔"
+    }, 
+    "handicap": {
+        "attr": "n", 
+        "sentence": "Blindness is a great () -- 失明是巨大的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "hatch": {
+        "attr": "v，n", 
+        "sentence": "to () a plan -- 秘密策划一个计划", 
+        "translation": "v：孵出；秘密策划 n：舱口；小窗口"
+    }, 
+    "mild": {
+        "attr": "adj", 
+        "sentence": "The patient has a () fever -- 那个病人有些轻微的发烧", 
+        "translation": "adj：温和的；轻微的"
+    }, 
+    "obscure": {
+        "attr": "v, adj", 
+        "sentence": "The point of his speech is () -- 他发言的观点不明确", 
+        "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解"
+    }, 
+    "orchestral": {
+        "attr": "adj", 
+        "sentence": "an () instrument -- 管弦乐器", 
+        "translation": "adj：管弦乐队的；管弦乐的"
+    }, 
+    "pile": {
+        "attr": "n，v", 
+        "sentence": "a () of wood -- 一堆木头", 
+        "translation": "n：桩；堆；摞 v：堆放"
+    }, 
+    "proclaim": {
+        "attr": "v", 
+        "sentence": "() the good news -- 宣布好消息", 
+        "translation": "v：宣告；公布；表名"
+    }, 
+    "punch": {
+        "attr": "n，v", 
+        "sentence": "a heavy () -- 重重一击", 
+        "translation": "n：重拳 v：拳打；打孔"
+    }, 
+    "rectangle": {
+        "attr": "n", 
+        "sentence": "the four corners of a () -- 矩形的四个角", 
+        "translation": "n：矩形"
+    }, 
+    "repertoire": {
+        "attr": "n", 
+        "sentence": "The () will surprise the audience -- 全部节目将使观众们感到惊讶", 
+        "translation": "n：全部节目；全部才能"
+    }, 
+    "semiconductor": {
+        "attr": "n", 
+        "sentence": "() chips are small in size and light in weight -- 半导体芯片体积小而且重量轻", 
+        "translation": "n：半导体"
+    }, 
+    "spectrum": {
+        "attr": "n", 
+        "sentence": "light () -- 光谱", 
+        "translation": "n：光谱；波普"
+    }, 
+    "stake": {
+        "attr": "n，v", 
+        "sentence": "The boy fastened the goat to a () -- 男孩把羊拴在木桩上", 
+        "translation": "n：股份；赌注 v：投下...赌注"
+    }, 
+    "stale": {
+        "attr": "adj", 
+        "sentence": "() air -- 不新鲜的空气", 
+        "translation": "adj：陈腐的；不新鲜的"
+    }, 
+    "stiff": {
+        "attr": "adj", 
+        "sentence": "() with cold -- 冻僵", 
+        "translation": "adj：硬的；僵硬的"
+    }, 
+    "stress": {
+        "attr": "n，v", 
+        "sentence": "the () from workplace -- 来自工作环境的压力", 
+        "translation": "n：压力；紧张；强调；重音 v：着重；强调"
+    }, 
+    "sweep": {
+        "attr": "v，n", 
+        "sentence": "He helps me () the floor -- 他帮我扫地", 
+        "translation": "v：扫；打扫；扫荡 n：扫；打扫；扫荡"
+    }, 
+    "trait": {
+        "attr": "n", 
+        "sentence": "character () -- 性格特征", 
+        "translation": "n：特征；特点"
+    }, 
+    "vanity": {
+        "attr": "n", 
+        "sentence": "He has many faults, but () is not one of them -- 他有很多缺点，但是虚荣心不是其中之一", 
+        "translation": "n：虚荣；自负"
+    }, 
+    "vast": {
+        "attr": "adj", 
+        "sentence": "China is () in territory -- 中国版图辽阔", 
+        "translation": "adj：巨大的；辽阔的"
+    }, 
+    "wipe": {
+        "attr": "v，n", 
+        "sentence": " to () off dirt -- 擦去灰尘", 
+        "translation": "v：擦；抹；消除 n：擦拭；抹布"
+    }, 
+    "withstand": {
+        "attr": "v", 
+        "sentence": "() an attck -- 抵挡进攻", 
+        "translation": "v：抵挡；经受住"
+    }
+}

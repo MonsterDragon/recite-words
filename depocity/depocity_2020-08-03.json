@@ -1,0 +1,222 @@
+{
+    "canteen": {
+        "attr": "n", 
+        "sentence": "The () was closed -- 食堂关门了", 
+        "translation": "n：食堂"
+    }, 
+    "captive": {
+        "attr": "n，adj", 
+        "sentence": "free a () -- 释放一名俘虏", 
+        "translation": "n：俘虏 adj：被俘的；被监禁的；受控的"
+    }, 
+    "cellar": {
+        "attr": "n", 
+        "sentence": "wine () -- 酒窖", 
+        "translation": "n：地窖；地下室"
+    }, 
+    "cement": {
+        "attr": "n，v", 
+        "sentence": "n：水泥；胶合剂 v：粘牢；巩固", 
+        "translation": "n，v"
+    }, 
+    "chip": {
+        "attr": "n，v", 
+        "sentence": "a silicon () -- 一块硅芯片", 
+        "translation": "n：芯片；碎片 v：削成碎片；破裂"
+    }, 
+    "complement": {
+        "attr": "n，v", 
+        "sentence": "Music is a () to a party -- 音乐是舞会的补足物", 
+        "translation": "n：补足物；补语；余角 v：补足；补充；与...相辅相成"
+    }, 
+    "congress": {
+        "attr": "n", 
+        "sentence": "medical () -- 医药大学", 
+        "translation": "n：议会；国会"
+    }, 
+    "conjunction": {
+        "attr": "n", 
+        "sentence": "They are working in () with the police -- 他们与警方联合进行工作", 
+        "translation": "n：联合；连接词"
+    }, 
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj：传染性的，有感染力的"
+    }, 
+    "cottage": {
+        "attr": "n", 
+        "sentence": "country () -- 乡间小屋", 
+        "translation": "n：村舍；小屋；小别墅"
+    }, 
+    "debate": {
+        "attr": "v，n", 
+        "sentence": "I () the issue in my mind -- 我仔细考虑该问题", 
+        "translation": "v：辩论；争论；考虑；盘算 n：辩论；争论"
+    }, 
+    "desolate": {
+        "attr": "n", 
+        "sentence": "a () desert -- 荒凉的沙漠", 
+        "translation": "荒凉的"
+    }, 
+    "despatch": {
+        "attr": "v，n", 
+        "sentence": "to () a passenger -- 派遣使者", 
+        "translation": "v：派遣；调遣；发送 n：快信；发送；派遣"
+    }, 
+    "dial": {
+        "attr": "n，v", 
+        "sentence": "I started to () but then hung up -- 我开始拨号，但后来挂断了电话", 
+        "translation": "n：拨号；刻度盘 v：拨"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "excursion": {
+        "attr": "n", 
+        "sentence": "take an () by train -- 乘火车做个短途旅行", 
+        "translation": "n：远足；短途旅行"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "implication": {
+        "attr": "n", 
+        "sentence": "His () in the crime was obvious to all -- 大家都清楚他和这一罪行有牵连", 
+        "translation": "n：暗示；含义；牵连"
+    }, 
+    "inconclusive": {
+        "attr": "adj", 
+        "sentence": "Research has no so far proved () -- 目前研究尚无定论", 
+        "translation": "adj：无结论的；非决定性的"
+    }, 
+    "inform": {
+        "attr": "v", 
+        "sentence": "Can you () me what I am to do -- 你能告知我应该做何事吗？", 
+        "translation": "v：通知；告知"
+    }, 
+    "maiden": {
+        "attr": "n；adj", 
+        "sentence": "This () lives with her parents -- 这个未婚女子和她的父母住在一起", 
+        "translation": "n：少女；处女；未婚女子 adj：初次的"
+    }, 
+    "notorious": {
+        "attr": "adj", 
+        "sentence": "a () gambler -- 声名狼藉的赌徒", 
+        "translation": "adj：声名狼藉的；臭名昭著的"
+    }, 
+    "obsolete": {
+        "attr": "adj", 
+        "sentence": "Digital cameras made film () -- 数码相机淘汰了胶片", 
+        "translation": "adj：过时的；废弃的；淘汰的"
+    }, 
+    "omit": {
+        "attr": "v", 
+        "sentence": "Don't () locking the door -- 别忘了锁门", 
+        "translation": "v：省略；遗漏"
+    }, 
+    "pant": {
+        "attr": "v，n", 
+        "sentence": "I open my mouth and () -- 我张口喘气", 
+        "translation": "v：喘气；喘息 n：气喘；喘息"
+    }, 
+    "perplexing": {
+        "attr": "adj", 
+        "sentence": "This is indeed a () problem -- 这确实是一个费解的难题", 
+        "translation": "adj：使人困惑的；使人为难的"
+    }, 
+    "ponder": {
+        "attr": "v", 
+        "sentence": "We should () what to do next -- 我们应该考虑下一步怎么办", 
+        "translation": "v：深思；仔细考虑"
+    }, 
+    "rally": {
+        "attr": "v，n", 
+        "sentence": "a political () -- 一次政治集会\tBefore long the dying plants began to () -- 快要死亡的植物不久就开始复苏了", 
+        "translation": "v：集合起来；振作；复苏 n：集会"
+    }, 
+    "reluctant": {
+        "attr": "n", 
+        "sentence": "He is () to be photographed -- 他不情愿被人拍照", 
+        "translation": "不情愿的；勉强的"
+    }, 
+    "resolution": {
+        "attr": "n", 
+        "sentence": "a () to the crisis -- 解决此次危机", 
+        "translation": "n：决心；坚决；决议；解决；分辨率"
+    }, 
+    "semester": {
+        "attr": "n", 
+        "sentence": "This () will be my last one in this university -- 这学期将是我在这所大学的最后一学期了", 
+        "translation": "一学期；半年"
+    }, 
+    "significantly": {
+        "attr": "adv", 
+        "sentence": "Profits have risen () -- 利润已大大提高", 
+        "translation": "adv：值得瞩目的；极大地"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "slit": {
+        "attr": "n，v", 
+        "sentence": "Drop the corn into the () -- 把硬币投进哪个狭长的口子里", 
+        "translation": "n：裂缝；狭长的切口 v：撕裂；切长口子"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "It is too soon to () yet -- 现在播种还为时尚早", 
+        "translation": "v：播种；散步"
+    }, 
+    "spell out": {
+        "attr": "", 
+        "sentence": "regulatory standards were () -- 监管标准被制定", 
+        "translation": "清楚的说明"
+    }, 
+    "stimulate": {
+        "attr": "v", 
+        "sentence": "() people's enthusiasm -- 激发人们的积极性", 
+        "translation": "v：刺激；激励"
+    }, 
+    "sweat": {
+        "attr": "v，n", 
+        "sentence": "The heat makes me sweat -- 热得我满头大汗", 
+        "translation": "n：汗 v：出汗"
+    }, 
+    "swing": {
+        "attr": "n，v", 
+        "sentence": "The () of the ship made many people seasick -- 船的摇摆使多人晕船", 
+        "translation": "n：摇摆；秋千 v：摇摆"
+    }, 
+    "tense": {
+        "attr": "adj，n", 
+        "sentence": "the future () -- 将来时态", 
+        "translation": "adj：紧张的；拉紧的 n：时态"
+    }, 
+    "utterance": {
+        "attr": "n", 
+        "sentence": "He gave () to his thoughts -- 他发表了自己的观点", 
+        "translation": "n：言论；言辞；言语"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }, 
+    "vibrate": {
+        "attr": "v", 
+        "sentence": "The buildings seemed to () -- 楼房好像在颤动", 
+        "translation": "v：震动；颤动"
+    }, 
+    "whistle": {
+        "attr": "v，n", 
+        "sentence": "sharp () -- 刺耳的口哨声", 
+        "translation": "v：吹口哨；鸣汽笛 n：口哨声；汽笛声"
+    }
+}

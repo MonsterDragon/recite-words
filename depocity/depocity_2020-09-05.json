@@ -1,0 +1,217 @@
+{
+    "archaeologist": {
+        "attr": "n", 
+        "sentence": "The () found gold coins -- 考古学家找到了金币", 
+        "translation": "n：考古学家"
+    }, 
+    "averse": {
+        "attr": "adj", 
+        "sentence": "She was () to men with long hair -- 她极端讨厌留长发的男人", 
+        "translation": "adj：不愿意的；反对的"
+    }, 
+    "axis": {
+        "attr": "n", 
+        "sentence": "time () -- 时间轴", 
+        "translation": "n：轴线；轴"
+    }, 
+    "chill": {
+        "attr": "n，v，adj", 
+        "sentence": "() winds -- 冷风", 
+        "translation": "n：寒冷；寒意 v：变冷 adj：寒冷的"
+    }, 
+    "demotivate": {
+        "attr": "v", 
+        "sentence": "Failure can () students -- 失败会挫伤学生的积极性", 
+        "translation": "v：使消极"
+    }, 
+    "dwell": {
+        "attr": "v", 
+        "sentence": "Some bats () in caves -- 有些蝙蝠居住在洞穴里", 
+        "translation": "v：居住；栖息"
+    }, 
+    "edible": {
+        "attr": "adj", 
+        "sentence": "an () mushroom -- 可食用的蘑菇", 
+        "translation": "adj：可食用的"
+    }, 
+    "embark": {
+        "attr": "v", 
+        "sentence": "Many people () for Europe at New York harbor -- 许多人在纽约港乘船去欧洲", 
+        "translation": "v：从事；上船或飞机"
+    }, 
+    "empirical": {
+        "attr": "adj", 
+        "sentence": "Many () results supported the hypothesis -- 很多经验性结论都证明假设成立", 
+        "translation": "adj：经验主义的；以经验为根据的"
+    }, 
+    "enrol": {
+        "attr": "v", 
+        "sentence": "to () the name -- 登记名字", 
+        "translation": "v：登机；注册"
+    }, 
+    "evacuate": {
+        "attr": "v", 
+        "sentence": "They will () tomorrow night -- 他们将在明晚撤退", 
+        "translation": "v：撤离；疏散；撤出"
+    }, 
+    "excessively": {
+        "attr": "adv", 
+        "sentence": "He drank () -- 他酗酒", 
+        "translation": "adv：过分的；过度地"
+    }, 
+    "foam": {
+        "attr": "n，v", 
+        "sentence": "The surface of the water is full of () -- 水面都是泡沫", 
+        "translation": "n：泡沫；泡沫塑料 v：起泡沫"
+    }, 
+    "fur": {
+        "attr": "n", 
+        "sentence": "() coats -- 毛皮大衣", 
+        "translation": "n：毛皮；皮草；软毛"
+    }, 
+    "gigantic": {
+        "attr": "adj", 
+        "sentence": "The airplane loooked like a () bird -- 那架飞机看起来像一只巨大的鸟", 
+        "translation": "adj：巨大的；庞大的"
+    }, 
+    "glow": {
+        "attr": "v，n", 
+        "sentence": "to () with shame -- 因羞愧而脸红", 
+        "translation": "v：发光；发热；脸红 n：红光；炽热；脸红"
+    }, 
+    "harassment": {
+        "attr": "n", 
+        "sentence": "racial () -- 种族侵扰", 
+        "translation": "n：骚扰；侵扰"
+    }, 
+    "impetus": {
+        "attr": "n", 
+        "sentence": "Her speech gave an () to my ideas -- 她的讲话激发了我的灵感", 
+        "translation": "n：冲力；推动力；刺激"
+    }, 
+    "incline": {
+        "attr": "n", 
+        "sentence": "He rolled the balls down the() -- 他把球滚下斜坡", 
+        "translation": "n：倾斜；倾向"
+    }, 
+    "interval": {
+        "attr": "n", 
+        "sentence": "maintain () -- 保持间距", 
+        "translation": "n：间隔，中场休息"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "jug": {
+        "attr": "n", 
+        "sentence": "a () of mild -- 一大罐牛奶", 
+        "translation": "n：水壶；大罐"
+    }, 
+    "litter": {
+        "attr": "n，v", 
+        "sentence": "The () is gently deposited on the floor -- 担架轻放在地上", 
+        "translation": "n：垃圾；杂物；担架 v：乱扔；乱丢杂物"
+    }, 
+    "manoeuvre": {
+        "attr": "v，n", 
+        "sentence": "They can use money to () with the situation -- 他们能用钱操控这个局面", 
+        "translation": "v：控制；操控 n：移动；巧记"
+    }, 
+    "massive": {
+        "attr": "adj", 
+        "sentence": "() clear-up -- 大规模的整理清扫", 
+        "translation": "adj：大规模的"
+    }, 
+    "metaphysical": {
+        "attr": "adj", 
+        "sentence": "a () theory -- 形而上学的理论", 
+        "translation": "adj：形而上学的"
+    }, 
+    "moss": {
+        "attr": "n", 
+        "sentence": "A rolling stone gathers no () -- 滚石上不上苔藓", 
+        "translation": "n：苔藓"
+    }, 
+    "outskirts": {
+        "attr": "n", 
+        "sentence": "We lived on the () of the city -- 我们住在这个城市的郊区", 
+        "translation": "n: 郊区"
+    }, 
+    "penetrate": {
+        "attr": "v", 
+        "sentence": "I finally () ger disguise -- 我最终看穿了她的伪装", 
+        "translation": "v：渗透；看穿；洞察"
+    }, 
+    "plumber": {
+        "attr": "n", 
+        "sentence": "He is an apprentice () -- 它是一个见习水管工人", 
+        "translation": "n：管道工"
+    }, 
+    "porcelain": {
+        "attr": "n", 
+        "sentence": "There is a () figure on the table -- 桌子上有一个瓷器", 
+        "translation": "n：瓷器"
+    }, 
+    "rear": {
+        "attr": "v，n，adj", 
+        "sentence": "The main entrance is at the () -- 主要入口在后面", 
+        "translation": "v：抚养；饲养 n：后部 adj：后面的"
+    }, 
+    "refine": {
+        "attr": "v", 
+        "sentence": "They () the gold out of th ore -- 他们从矿石中提炼出黄金", 
+        "translation": "v：精炼；改进"
+    }, 
+    "retrospect": {
+        "attr": "v，n", 
+        "sentence": "It was very strange feeling in () -- 回想起来那是一种非常奇怪的感觉", 
+        "translation": "v：回想 n：回想"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "segregate": {
+        "attr": "v", 
+        "sentence": "They () you from the rest of the community -- tam", 
+        "translation": "v：分开；分离；隔离"
+    }, 
+    "sorrow": {
+        "attr": "n", 
+        "sentence": "A man in () is anxious for sympathy -- 悲痛中的人渴望得到同情", 
+        "translation": "n: 悲痛；伤心"
+    }, 
+    "sovereign": {
+        "attr": "n，adj", 
+        "sentence": "the () of England -- 英国的君主", 
+        "translation": "n：最高统治者；君主；元首 adj：独立自主的"
+    }, 
+    "stalk": {
+        "attr": "n，adj", 
+        "sentence": "He cutof the flowers at the () -- 他把茎上的花都剪掉了", 
+        "translation": "n：茎；柄 v：跟踪；昂首阔步的走"
+    }, 
+    "stumble": {
+        "attr": "v，n", 
+        "sentence": "to () into crime -- 失足犯错", 
+        "translation": "v：绊倒；蹒跚 n：绊倒"
+    }, 
+    "sturdy": {
+        "attr": "adj", 
+        "sentence": "to offer a () resistance -- 给以坚决的抵抗", 
+        "translation": "adj：强健的；坚固的"
+    }, 
+    "suspend": {
+        "attr": "v", 
+        "sentence": "to () execution -- 暂停执行", 
+        "translation": "v：吊；悬；暂停"
+    }, 
+    "thesis": {
+        "attr": "n", 
+        "sentence": "This () does not stand up to close inspection -- 这个论点经不起推敲", 
+        "translation": "n：论点；论文"
+    }
+}

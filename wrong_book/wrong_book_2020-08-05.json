@@ -1,0 +1,17 @@
+{
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "hierarchy": {
+        "attr": "n", 
+        "sentence": "() of power --权利等级 ", 
+        "translation": "n：层次等级；等级制度"
+    }, 
+    "skepticism": {
+        "attr": "n", 
+        "sentence": "the () of philosphers -- 哲学家的怀疑论", 
+        "translation": "n：怀疑论；怀疑主义；怀疑态度"
+    }
+}

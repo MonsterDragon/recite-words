@@ -1,0 +1,32 @@
+{
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "deceptiveness": {
+        "attr": "n", 
+        "sentence": "distinguish between () and true -- 分辨是非", 
+        "translation": "n：欺骗性；虚伪"
+    }, 
+    "delicately": {
+        "attr": "adv", 
+        "sentence": "We received a () worded refusal of our invitation -- 我们收到一封婉言谢绝我们邀请的回复函", 
+        "translation": "adv：优美地；微妙地；精致地"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "subordinate": {
+        "attr": "adj，n，v", 
+        "sentence": "delegate a task to a () -- 把任务委派给下属", 
+        "translation": "adj：次要的；附属的 n：下属；从属物 v：居于次要"
+    }
+}

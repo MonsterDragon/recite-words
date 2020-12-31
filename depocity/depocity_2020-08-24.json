@@ -1,0 +1,152 @@
+{
+    "aspect": {
+        "attr": "n", 
+        "sentence": "in this () -- 在这方面", 
+        "translation": "n：模样；样貌；方面；朝向"
+    }, 
+    "bizarre": {
+        "attr": "adj", 
+        "sentence": "the () dress -- 奇装异服", 
+        "translation": "adj：离奇的；奇特的；奇怪的"
+    }, 
+    "brick": {
+        "attr": "n", 
+        "sentence": "The house are built of () -- 这座房子是砖砌成的", 
+        "translation": "n：砖"
+    }, 
+    "compound": {
+        "attr": "n；adj；v", 
+        "sentence": "chemical () -- 化合物", 
+        "translation": "n：混合物；化合物 adj：复合的；混合的 v：使复杂化；加重"
+    }, 
+    "consecutive": {
+        "attr": "adj", 
+        "sentence": "four () weeks -- 连续四周", 
+        "translation": "adj：连续的；连贯的"
+    }, 
+    "courtesy": {
+        "attr": "n", 
+        "sentence": "() must be educated in childhood -- 必须在孩提时代就教好礼仪", 
+        "translation": "n：礼貌；谦虚"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "damp": {
+        "attr": "adj，n，v", 
+        "sentence": "() winter -- 潮湿的冬天", 
+        "translation": "adj：潮湿的 n：潮湿 v：使潮湿"
+    }, 
+    "depredation": {
+        "attr": "n", 
+        "sentence": "environmental () -- 对环境的破坏", 
+        "translation": "n: 劫掠；摧毁；破坏"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就轻视他", 
+        "translation": "v：鄙视；蔑视；看不起"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "embryo": {
+        "attr": "n", 
+        "sentence": "The () develops into a fetus -- 胚胎发育层婴儿", 
+        "translation": "n：胚胎"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair -- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "fertilizer": {
+        "attr": "n", 
+        "sentence": "natural () -- 天然肥料", 
+        "translation": "n：肥料"
+    }, 
+    "fossile": {
+        "attr": "n", 
+        "sentence": "The man is a () -- 那是个老顽固", 
+        "translation": "n：化石；守旧的事物"
+    }, 
+    "fragile": {
+        "attr": "adj", 
+        "sentence": "() health -- 虚弱的体质", 
+        "translation": "adj：一岁的；脆弱的"
+    }, 
+    "hoist": {
+        "attr": "n，v", 
+        "sentence": "Use a () to lift heavy things -- 用起重机提升重物", 
+        "translation": "n：起重机； v：提升；吊起；举高"
+    }, 
+    "materialistic": {
+        "attr": "adj", 
+        "sentence": "the value of () -- 唯物主义价值观", 
+        "translation": "adj：唯物论的；物质至上主义的"
+    }, 
+    "obligation": {
+        "attr": "n", 
+        "sentence": "undertake an () -- 承担义务", 
+        "translation": "n：义务；责任"
+    }, 
+    "ritual": {
+        "attr": "n, adj", 
+        "sentence": "a holy () -- 神圣仪式", 
+        "translation": "n: 仪式；典礼 adj: 仪式的；惯常的；例行公事"
+    }, 
+    "robust": {
+        "attr": "adj", 
+        "sentence": "THe chair is not very () -- 那把椅子不太结实", 
+        "translation": "adj：强奸的；强壮的；结实的"
+    }, 
+    "sanction": {
+        "attr": "n，v", 
+        "sentence": "Our proposal is given official () -- 我们的提案得到证实批准", 
+        "translation": "n：批准；允许；认可；处罚 v：批准；认可；制裁；处罚"
+    }, 
+    "shutter": {
+        "attr": "n", 
+        "sentence": "The () was broken -- 百叶窗坏了", 
+        "translation": "n：百叶窗；快门"
+    }, 
+    "siege": {
+        "attr": "n", 
+        "sentence": "state of () -- 包围状态", 
+        "translation": "n：围攻；封锁"
+    }, 
+    "stain": {
+        "attr": "v,n", 
+        "sentence": "He will () the family honor -- 他将会玷污家族的荣誉", 
+        "translation": "v：玷污 n：玷污"
+    }, 
+    "statute": {
+        "attr": "n", 
+        "sentence": "Working hours are limited by () -- 工作时间有法令限制", 
+        "translation": "n：法令；法规；条例"
+    }, 
+    "stitch": {
+        "attr": "v，n", 
+        "sentence": "() the two layers together -- 将两层缝合起来", 
+        "translation": "v：缝；缝合 n：针脚；缝线"
+    }, 
+    "strife": {
+        "attr": "n", 
+        "sentence": "The country was forn by () -- 国家因为冲突而分裂", 
+        "translation": "n：争吵；争斗；冲突"
+    }, 
+    "strip": {
+        "attr": "v,n", 
+        "sentence": "I () myself to a shower -- 我脱了衣服冲澡", 
+        "translation": "v：剥去；脱衣 n：长条；条状"
+    }, 
+    "trench": {
+        "attr": "n, v", 
+        "sentence": "They () to strengthen the defense -- 他们挖战壕以增强防卫", 
+        "translation": "n: 沟；渠；战壕 v: 挖战壕；亲好"
+    }
+}

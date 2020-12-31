@@ -1,0 +1,17 @@
+{
+    "damp": {
+        "attr": "adj，n，v", 
+        "sentence": "() winter -- 潮湿的冬天", 
+        "translation": "adj：潮湿的 n：潮湿 v：使潮湿"
+    }, 
+    "sanction": {
+        "attr": "n，v", 
+        "sentence": "Our proposal is given official () -- 我们的提案得到证实批准", 
+        "translation": "n：批准；允许；认可；处罚 v：批准；认可；制裁；处罚"
+    }, 
+    "siege": {
+        "attr": "n", 
+        "sentence": "state of () -- 包围状态", 
+        "translation": "n：围攻；封锁"
+    }
+}

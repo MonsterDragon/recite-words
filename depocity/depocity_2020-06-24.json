@@ -1,0 +1,122 @@
+{
+	"pharmacy": {
+            "sentence": "She work at the () -- 她在药房工作",
+            "translation": "n: 药房；药剂学",
+            "attr": "n"
+        },
+	"subtract": {
+            "sentence": "If you () 3 from 5, you get 2 -- 5减3得2",
+            "translation": "v: 减去；扣除",
+            "attr": "v"
+        },
+	"ritual": {
+            "sentence": "a holy () -- 神圣仪式",
+            "translation": "n: 仪式；典礼 adj: 仪式的；惯常的；例行公事",
+            "attr": "n, adj"
+        },
+	"temptation": {
+            "sentence": "He overcome a strong () to run away -- 他克服了强烈的逃跑诱惑",
+            "translation": "n: 诱惑",
+            "attr": "n"
+        },
+	"parasite": {
+            "sentence": "THe kind of people live as a () on society -- 这种人像寄生虫一样生活在社会上",
+            "translation": "n: 寄生虫；寄生生物",
+            "attr": "n"
+        },
+	"faint": {
+            "sentence": "He feel () from lack of food -- 他因缺乏食物而感到虚弱",
+            "translation": "adj: 虚弱的；微弱的",
+            "attr": "adj"
+        },
+	"monopoly": {
+            "sentence": "() enterprise -- 垄断企业",
+            "translation": "n: 垄断",
+            "attr": "n"
+        },
+	"ignorant": {
+            "sentence": "He is () of even the most elementary facts -- 他连最基本的事实都不知道",
+            "translation": "adj: 无知的；缺乏知识的",
+            "attr": "adj"
+        },
+	"swell": {
+            "sentence": "Hills () gradually from the plain -- 山丘从平原隆起",
+            "translation": "v: 膨胀；肿胀",
+            "attr": "v"
+        },
+	"haste": {
+            "sentence": "In my () I forgot to lock the door -- 我匆忙中忘记锁门",
+            "translation": "n: 匆忙；急速；仓促",
+            "attr": "n"
+        },
+	"monarchy": {
+            "sentence": "constitutional () -- 君主立宪制",
+            "translation": "n: 君主制；君主政体",
+            "attr": "n"
+        },
+	"tackle": {
+            "sentence": "fishing () -- 钓鱼用具",
+            "translation": "n: 用具；阻截 v: 处理；阻截",
+            "attr": "n, v"
+        },
+	"plot": {
+            "sentence": "How do you uncover their () -- 你怎么揭露出他们的阴谋",
+            "translation": "n: 阴谋；情节；秘密计划 v: 划分；绘图；密谋",
+            "attr": "n, v"
+        },
+	"eccentric": {
+            "sentence": "() behavior -- 古怪的行为",
+            "translation": "adj: 古怪的；偏离轨道的 n: 怪人；偏离轨道运行",
+            "attr": "adj, n"
+        },
+	"profound": {
+            "sentence": "a () insight -- 深邃的洞察力",
+            "translation": "adj: 深邃的；深刻的；深奥的；深远的",
+            "attr": "adj"
+        },
+	"paste": {
+            "sentence": "() down the map on the broad -- 把地图粘到布告板上",
+            "translation": "n: 面团；浆糊 v: 粘贴",
+            "attr": "n, v"
+        },
+	"depredation": {
+            "sentence": "environmental () -- 对环境的破坏",
+            "translation": "n: 劫掠；摧毁；破坏",
+            "attr": "n"
+        },
+	"deplore": {
+            "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾",
+            "translation": "v: 谴责；强烈反对；悲叹",
+            "attr": "v, n"
+        },
+	"presumably": {
+            "sentence": "() the bad weather has delayed the flight -- 大概恶劣天气使飞机误点了",
+            "translation": "adv: 大概",
+            "attr": "adv"
+        },
+	"aboard": {
+            "sentence": "get () -- 登机",
+            "translation": "adv: 在车上；在火车上",
+            "attr": "adv"
+        },
+	"escalate": {
+            "sentence": "We do not want to () the war -- 我们不想升级战争",
+            "translation": "v: 逐步升级；逐步升高",
+            "attr": "v"
+        },
+	"transcend": {
+            "sentence": "Human should always () their limits -- 人类应该不断地超越自己",
+            "translation": "v: 超越",
+            "attr": "v"
+        },
+	"duration": {
+            "sentence": "The () of the moive is 110 minutes -- 这部电影的持续时间是110分钟",
+            "translation": "n: 持续时间；期间",
+            "attr": "n"
+        },
+	"latent": {
+            "sentence": "() period -- 潜伏期",
+            "translation": "adj: 潜伏的；潜在的",
+            "attr": "adj"
+        }
+}

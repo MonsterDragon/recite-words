@@ -1,0 +1,17 @@
+{
+    "canoe": {
+        "attr": "n", 
+        "sentence": "His () was in the rapids -- 他的独木舟在急流当中", 
+        "translation": "n：独木舟"
+    }, 
+    "cohesive": {
+        "attr": "adj", 
+        "sentence": "() force -- 内聚力；粘合力", 
+        "translation": "adj：粘性的；统一的"
+    }, 
+    "electoral": {
+        "attr": "adj", 
+        "sentence": "() reform -- 选举改革", 
+        "translation": "adj：选举的；与选举有关的"
+    }
+}

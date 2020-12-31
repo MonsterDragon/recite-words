@@ -1,0 +1,12 @@
+{
+    "ferry": {
+        "attr": "n，v", 
+        "sentence": "A () crosses the river every hour -- 渡船每小时过河一次", 
+        "translation": "n：渡船；渡口 v：摆渡；运送"
+    }, 
+    "proclaim": {
+        "attr": "v", 
+        "sentence": "() the good news -- 宣布好消息", 
+        "translation": "v：宣告；公布；表名"
+    }
+}

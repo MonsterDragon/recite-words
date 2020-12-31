@@ -1,0 +1,167 @@
+{
+    "allowance": {
+        "attr": "n", 
+        "sentence": "I have to work to earn my () -- 我不得不工作来挣零用钱", 
+        "translation": "n：零用钱"
+    }, 
+    "bump": {
+        "attr": "v，n", 
+        "sentence": "Cars () along the mountain road -- 车辆在山路上颠簸前行", 
+        "translation": "v：撞；碰上 n：碰撞；猛击"
+    }, 
+    "cheek": {
+        "attr": "n", 
+        "sentence": "A tear rolls down my () -- 一滴泪划过我的脸颊", 
+        "translation": "n：脸颊"
+    }, 
+    "counteract": {
+        "attr": "v", 
+        "sentence": "This drug will () the effects of poison -- 这药能抵消毒性", 
+        "translation": "v：抵抗；对抗；中和"
+    }, 
+    "enclosure": {
+        "attr": "n", 
+        "sentence": "She keeps a horse in that () -- 她在那个围场养了一匹马", 
+        "translation": "n：围场；围地"
+    }, 
+    "fatigue": {
+        "attr": "n", 
+        "sentence": "I have gotten over my () -- 我已从疲劳中恢复过来了", 
+        "translation": "n：疲乏；劳累"
+    }, 
+    "ferry": {
+        "attr": "n，v", 
+        "sentence": "A () crosses the river every hour -- 渡船每小时过河一次", 
+        "translation": "n：渡船；渡口 v：摆渡；运送"
+    }, 
+    "grim": {
+        "attr": "adj", 
+        "sentence": "Her face wore a () look -- 她脸上显出严厉的神情", 
+        "translation": "adj: 严厉的；严峻的"
+    }, 
+    "imprison": {
+        "attr": "v", 
+        "sentence": "to () prisoners -- 监禁囚犯", 
+        "translation": "v：监禁；束缚"
+    }, 
+    "inhabit": {
+        "attr": "v", 
+        "sentence": "They () the island -- 他们栖息在岛上", 
+        "translation": "v：居住于；栖息于"
+    }, 
+    "levy": {
+        "attr": "v，n", 
+        "sentence": "to () men for a war -- 征召男人参战", 
+        "translation": "v：征收；征募 n：征兵；征税"
+    }, 
+    "lobbying": {
+        "attr": "n，v", 
+        "sentence": "They are () for their own proposals -- 他们在为自己的提议进行游说", 
+        "translation": "n：游说 v：游说"
+    }, 
+    "patchwork": {
+        "attr": "n", 
+        "sentence": "This is only a work of () -- 这只是拼凑出来的作品", 
+        "translation": "n：拼凑物"
+    }, 
+    "pole": {
+        "attr": "n", 
+        "sentence": "a flag () -- 一只旗杆", 
+        "translation": "n：两级的一端 杆子"
+    }, 
+    "polish": {
+        "attr": "v,n", 
+        "sentence": "They () the floor smooth -- 他们把地板擦得光滑", 
+        "translation": "v：擦亮；润色 n：光泽"
+    }, 
+    "prospect": {
+        "attr": "n，v", 
+        "sentence": "A rich harvest in () -- 丰收在望", 
+        "translation": "n：展望；前景；希望 v：寻找；勘探"
+    }, 
+    "receive": {
+        "attr": "v", 
+        "sentence": "She failed to () my letters -- 她没有接收到我的信", 
+        "translation": "v：接收；收到"
+    }, 
+    "rectangle": {
+        "attr": "n", 
+        "sentence": "the four corners of a () -- 矩形的四个角", 
+        "translation": "n：矩形"
+    }, 
+    "repel": {
+        "attr": "v", 
+        "sentence": "to () an attack -- 击退进攻", 
+        "translation": "v：排斥；击退；驱逐"
+    }, 
+    "repertoire": {
+        "attr": "n", 
+        "sentence": "The () will surprise the audience -- 全部节目将使观众们感到惊讶", 
+        "translation": "n：全部节目；全部才能"
+    }, 
+    "rigorous": {
+        "attr": "adj", 
+        "sentence": "He makes a () study of the planet in the area -- 他对该地的植物进行了严密的研究", 
+        "translation": "adj：严密的；严格的"
+    }, 
+    "sacred": {
+        "attr": "adj", 
+        "sentence": "() music -- 圣乐", 
+        "translation": "adj：宗教的；神圣的；庄严的"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将尽头我们的衣服", 
+        "translation": "v：使浸透；使湿透"
+    }, 
+    "savage": {
+        "attr": "adj，n，v", 
+        "sentence": "a () temper -- 凶暴的脾气", 
+        "translation": "adj：狂暴的；凶狠的；野蛮的 n：野蛮人 v：凶狠的攻击"
+    }, 
+    "scarcely": {
+        "attr": "adv", 
+        "sentence": "He can () have said so -- 他一定不会这么说", 
+        "translation": "adv：几乎不；刚刚"
+    }, 
+    "sneeze": {
+        "attr": "n，v", 
+        "sentence": "A baby's () is not very loud -- 婴儿的喷嚏不太响", 
+        "translation": "n：喷嚏；喷嚏声 v：打喷嚏"
+    }, 
+    "sophisticated": {
+        "attr": "adj", 
+        "sentence": "She is a () journalist -- 她是一位富有经验的记者", 
+        "translation": "adj：老练的；精密复杂的"
+    }, 
+    "stake": {
+        "attr": "n，v", 
+        "sentence": "The boy fastened the goat to a () -- 男孩把羊拴在木桩上", 
+        "translation": "n：股份；赌注 v：投下...赌注"
+    }, 
+    "subsequent": {
+        "attr": "adj", 
+        "sentence": "() events confirmed our doubts -- 后来发生的事证实了我的怀疑", 
+        "translation": "adj：随后的；后来的"
+    }, 
+    "sweep": {
+        "attr": "v，n", 
+        "sentence": "He helps me () the floor -- 他帮我扫地", 
+        "translation": "v：扫；打扫；扫荡 n：扫；打扫；扫荡"
+    }, 
+    "tan": {
+        "attr": "n，adj，v", 
+        "sentence": "I want to () my back a bit more -- 我想把后背晒得再黑点", 
+        "translation": "n：晒成棕色的肤色 adj：棕褐色的 v：晒成棕色的皮肤"
+    }, 
+    "trait": {
+        "attr": "n", 
+        "sentence": "character () -- 性格特征", 
+        "translation": "n：特征；特点"
+    }, 
+    "worshipper": {
+        "attr": "n", 
+        "sentence": "a power () -- 一个崇尚权力的人", 
+        "translation": "n：崇拜者；信徒"
+    }
+}

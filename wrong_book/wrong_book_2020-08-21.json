@@ -1,0 +1,27 @@
+{
+    "cape": {
+        "attr": "n", 
+        "sentence": "a woollen () -- 羊毛披肩", 
+        "translation": "n：披风；披肩"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "robust": {
+        "attr": "adj", 
+        "sentence": "THe chair is not very () -- 那把椅子不太结实", 
+        "translation": "adj：强奸的；强壮的；结实的"
+    }, 
+    "underlie": {
+        "attr": "v", 
+        "sentence": "Intellect () power -- 才智是权力的基础", 
+        "translation": "v：构成 ... 的基础"
+    }, 
+    "verge": {
+        "attr": "n，v", 
+        "sentence": "The economy is on the () of collapse -- 经济已经到了崩溃的边缘", 
+        "translation": "n：边缘；边界 v：濒临；接近"
+    }
+}

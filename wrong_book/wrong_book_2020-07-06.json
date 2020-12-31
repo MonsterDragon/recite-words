@@ -1,0 +1,17 @@
+{
+    "demolition": {
+        "attr": "n", 
+        "sentence": "We will give that team a () -- 我们要打败那个队伍", 
+        "translation": "n：摧毁；拆毁"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "superficial": {
+        "attr": "adj", 
+        "sentence": "He is too () to appreciate great literature like this -- 他太肤浅，无法欣赏这类文学巨著", 
+        "translation": "adj：表面的；肤浅的"
+    }
+}

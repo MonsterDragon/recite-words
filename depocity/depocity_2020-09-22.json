@@ -1,0 +1,132 @@
+{
+    "advent": {
+        "attr": "n", 
+        "sentence": "the () of the computer -- 计算的出现", 
+        "translation": "n: 到来；来临"
+    }, 
+    "allegiance": {
+        "attr": "n", 
+        "sentence": "His () has never been questioned -- 他的忠心毫无疑问", 
+        "translation": "n：忠诚；效忠；忠贞"
+    }, 
+    "anonymous": {
+        "attr": "adj", 
+        "sentence": "an () vote -- 不记名投票", 
+        "translation": "adj：匿名的；无名的；不知名的"
+    }, 
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命的错误", 
+        "translation": " n：失误 v：犯错误；失误"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "collision": {
+        "attr": "n", 
+        "sentence": "a () between two opposing opinions -- 两个对立观点的冲突", 
+        "translation": "n：碰撞；冲突"
+    }, 
+    "commonwealth": {
+        "attr": "n", 
+        "sentence": "The () lost a great leader -- 共和国失去了一位伟大的领袖", 
+        "translation": "n: 联邦；共和国"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "corrode": {
+        "attr": "v", 
+        "sentence": "Acid rain () buildings -- 酸雨腐蚀建筑物", 
+        "translation": "v：腐蚀；侵蚀"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "foster": {
+        "attr": "v", 
+        "sentence": "to () children -- 养育孩子", 
+        "translation": "v：培养；助长；抚养"
+    }, 
+    "hospitality": {
+        "attr": "n", 
+        "sentence": "Thank you for your warm () -- 感谢你们的亲切款待", 
+        "translation": "n：款待；好客；殷勤"
+    }, 
+    "immense": {
+        "attr": "adj", 
+        "sentence": "The expence of living is () -- 生活费用很大", 
+        "translation": "adj: 巨大的"
+    }, 
+    "multiply": {
+        "attr": "v", 
+        "sentence": "() 4 by 6 to get 24 -- 4乘6得24", 
+        "translation": "v：乘；增加；繁殖"
+    }, 
+    "pension": {
+        "attr": "n", 
+        "sentence": "() fund -- 退休基金", 
+        "translation": "n：养老金；退休金；抚恤金"
+    }, 
+    "pioneer": {
+        "attr": "n，v", 
+        "sentence": "the () spirit -- 开拓精神", 
+        "translation": "n：拓荒者；先驱者；创始者 v：开拓；做先锋；倡导"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "plough": {
+        "attr": "n，v", 
+        "sentence": "Hard earth doesn't () well -- 硬地不好翻", 
+        "translation": "n：犁；耕地 v：犁；耕；翻"
+    }, 
+    "sequence": {
+        "attr": "n", 
+        "sentence": "Number the pages in () -- 按顺序给各页编号", 
+        "translation": "n：顺序；次序；系列"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }, 
+    "threshold": {
+        "attr": "n", 
+        "sentence": "The treaty will be the () of lasting peace -- 这个条约将成为持久和平的开端", 
+        "translation": "n：门槛；门口；起始点"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "vocational": {
+        "attr": "adj", 
+        "sentence": "() training -- 专业训练", 
+        "translation": "adj：职业的"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }
+}

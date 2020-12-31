@@ -1,0 +1,17 @@
+{
+    "hypocritical": {
+        "attr": "adj", 
+        "sentence": "() praise -- 虚伪的夸奖", 
+        "translation": "adj：伪善的；虚伪的"
+    }, 
+    "linguistic": {
+        "attr": "adj", 
+        "sentence": "A dictionary contains lots of () knowledge -- 一步字典包含了大量语言学知识", 
+        "translation": "adj: 语言的"
+    }, 
+    "resemblance": {
+        "attr": "n", 
+        "sentence": "Your story shows little () to the facts -- 你说的与事实相去甚远", 
+        "translation": "n：相似；相像"
+    }
+}

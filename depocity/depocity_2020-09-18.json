@@ -1,0 +1,137 @@
+{
+    "anguish": {
+        "attr": "n", 
+        "sentence": "The quarrel caused her great () -- 争吵给她造成了极大的痛苦", 
+        "translation": "n：苦闷；痛苦"
+    }, 
+    "anonymous": {
+        "attr": "adj", 
+        "sentence": "an () vote -- 不记名投票", 
+        "translation": "adj：匿名的；无名的；不知名的"
+    }, 
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "assembly": {
+        "attr": "n", 
+        "sentence": "A legislative () is being held -- 一个有关立法的会议正在召开", 
+        "translation": "n：装配；集会；会议"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "conviction": {
+        "attr": "n", 
+        "sentence": "He will appeal against his () -- 他将对判决进行上诉", 
+        "translation": "n：坚信；判罪；信服"
+    }, 
+    "demotivate": {
+        "attr": "v", 
+        "sentence": "Failure can () students -- 失败会挫伤学生的积极性", 
+        "translation": "v：使消极"
+    }, 
+    "dictation": {
+        "attr": "n", 
+        "sentence": "The teacher gave us a French () -- 老师给我们做了一次法语听写", 
+        "translation": "n:听写"
+    }, 
+    "equity": {
+        "attr": "n", 
+        "sentence": "() capital -- 产权资本", 
+        "translation": "n：公正；资产净值"
+    }, 
+    "juvenile": {
+        "attr": "adj，n", 
+        "sentence": "() books -- 少年读物", 
+        "translation": "adj：青少年的；幼稚的 n：少年"
+    }, 
+    "knit": {
+        "attr": "v", 
+        "sentence": "() sweater -- 织毛衣", 
+        "translation": "v：编制；编结"
+    }, 
+    "magnify": {
+        "attr": "v", 
+        "sentence": "We () objects with a microscope -- 我们用显微镜放大物体", 
+        "translation": "v：放大；扩大；夸大"
+    }, 
+    "mortality": {
+        "attr": "n", 
+        "sentence": "The () went down -- 死亡率下降了", 
+        "translation": "n：死亡人数；死亡率；必死性"
+    }, 
+    "occasion": {
+        "attr": "n，v", 
+        "sentence": "to () an angry response -- 引起愤怒的反应", 
+        "translation": "n：特殊场合；时机；机会；理由 v：导致；使发生"
+    }, 
+    "plough": {
+        "attr": "n，v", 
+        "sentence": "Hard earth doesn't () well -- 硬地不好翻", 
+        "translation": "n：犁；耕地 v：犁；耕；翻"
+    }, 
+    "preclude": {
+        "attr": "v", 
+        "sentence": "to () all doubts -- 排除一切疑虑", 
+        "translation": "v：阻止；排除"
+    }, 
+    "shaft": {
+        "attr": "n", 
+        "sentence": "the () of an ax -- 斧头的把柄", 
+        "translation": "n：柄；矛；竖井；轴"
+    }, 
+    "slogan": {
+        "attr": "n", 
+        "sentence": "political () -- 政治口号", 
+        "translation": "n：口号；标语"
+    }, 
+    "sovereign": {
+        "attr": "n，adj", 
+        "sentence": "the () of England -- 英国的君主", 
+        "translation": "n：最高统治者；君主；元首 adj：独立自主的"
+    }, 
+    "threshold": {
+        "attr": "n", 
+        "sentence": "The treaty will be the () of lasting peace -- 这个条约将成为持久和平的开端", 
+        "translation": "n：门槛；门口；起始点"
+    }, 
+    "thrift": {
+        "attr": "n", 
+        "sentence": "His success was due to his industry and () -- 他的成功基于他的勤奋与节俭", 
+        "translation": "n：节俭；节约"
+    }, 
+    "tram": {
+        "attr": "n，v", 
+        "sentence": "() rail -- 电车轨道", 
+        "translation": "n：电车；缆车 v：乘电车；乘缆车"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "vocational": {
+        "attr": "adj", 
+        "sentence": "() training -- 专业训练", 
+        "translation": "adj：职业的"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }
+}

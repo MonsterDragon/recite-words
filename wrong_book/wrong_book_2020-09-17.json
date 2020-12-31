@@ -1,0 +1,17 @@
+{
+    "coherent": {
+        "attr": "adj", 
+        "sentence": "This is a () sentence -- 这是一个连贯的句子", 
+        "translation": "adj：连贯的；一致的；条理清晰地"
+    }, 
+    "sophisticated": {
+        "attr": "adj", 
+        "sentence": "She is a () journalist -- 她是一个富有经验的记者", 
+        "translation": "adj：老练的；世故的"
+    }, 
+    "vital": {
+        "attr": "adj", 
+        "sentence": "() point -- 极其重要的一点", 
+        "translation": "adj：至关重要的；所必需的；生死攸关的"
+    }
+}

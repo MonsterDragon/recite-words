@@ -1,0 +1,22 @@
+{
+    "barren": {
+        "attr": "adj", 
+        "sentence": "() efforts -- 无效的努力", 
+        "translation": "adj：贫瘠的；无价值的；不孕的"
+    }, 
+    "hypocritical": {
+        "attr": "adj", 
+        "sentence": "() praise -- 虚伪的夸奖", 
+        "translation": "adj：伪善的；虚伪的"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "The () of the policy is tricky -- 此政策实施起来困难重重", 
+        "translation": "n：履行；实施"
+    }, 
+    "systematically": {
+        "attr": "adv", 
+        "sentence": "True standouts () develop valuable skills -- 真正出类拔萃的人会系统地培养具有价值的技能", 
+        "translation": "adv：有系统地；有组织地"
+    }
+}

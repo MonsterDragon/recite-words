@@ -1,0 +1,12 @@
+{
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "preliminary": {
+        "attr": "adj", 
+        "sentence": "a () examination -- 一场测试", 
+        "translation": "adj：预备的；初步的"
+    }
+}

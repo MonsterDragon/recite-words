@@ -1,0 +1,177 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "cart": {
+        "attr": "n", 
+        "sentence": "shopping () -- 购物车", 
+        "translation": "n：大车；手推车"
+    }, 
+    "cemetery": {
+        "attr": "n", 
+        "sentence": "public () -- 公共坟场", 
+        "translation": "n：墓地；公墓"
+    }, 
+    "clay": {
+        "attr": "n", 
+        "sentence": "layer of () -- 黏土层", 
+        "translation": "n：黏土"
+    }, 
+    "condense": {
+        "attr": "v", 
+        "sentence": "() the mixture by boiling -- 通过煮沸使混合液浓缩", 
+        "translation": "v：冷凝；浓缩"
+    }, 
+    "contaminate": {
+        "attr": "v", 
+        "sentence": "() the environment -- 污染环境", 
+        "translation": "v：污染"
+    }, 
+    "contemporary": {
+        "attr": "adj，n", 
+        "sentence": "() authors -- 当代作家", 
+        "translation": "adj：现代的；当代的；同时代的 n：同代人；同辈人"
+    }, 
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "deceit": {
+        "attr": "n", 
+        "sentence": "His () is disgusting -- 他的欺诈手段令人憎恶", 
+        "translation": "n：欺骗；欺诈"
+    }, 
+    "deceptiveness": {
+        "attr": "n", 
+        "sentence": "distinguish between () and true -- 分辨是非", 
+        "translation": "n：欺骗性；虚伪"
+    }, 
+    "deem": {
+        "attr": "v", 
+        "sentence": "Do you () this plan sensible -- 你认为这项计划明智吗", 
+        "translation": "v：认为；判断；以为"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "fragrant": {
+        "attr": "adj", 
+        "sentence": "() perfume -- 芳香的香水", 
+        "translation": "adj：芬芳的"
+    }, 
+    "frost": {
+        "attr": "n，v", 
+        "sentence": "() over the trees -- 使树木结了一层霜", 
+        "translation": "n：霜；霜冻；严寒 v：结霜"
+    }, 
+    "germ": {
+        "attr": "n", 
+        "sentence": "the () of a project -- 计划的雏形", 
+        "translation": "n：病菌；萌芽"
+    }, 
+    "glide": {
+        "attr": "v，n", 
+        "sentence": "I () away from classroom -- 我溜出教室", 
+        "translation": "v：滑动；滑行；滑翔 n：滑行；滑动；滑翔"
+    }, 
+    "grind": {
+        "attr": "v", 
+        "sentence": "I have to () the blunt knife -- 我得磨刀因为它钝了", 
+        "translation": "v：碾碎；磨碎"
+    }, 
+    "howl": {
+        "attr": "v，n", 
+        "sentence": "I hear the wolves () -- 我听见狼嚎", 
+        "translation": "v：嚎叫；怒吼；嚎叫 n：嚎叫；怒吼；嚎叫"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "It is () that we make a decision -- 我们继续做出决定", 
+        "translation": "adj：继续的；势在必行的 n：必要的事；命令"
+    }, 
+    "intensive": {
+        "attr": "adj", 
+        "sentence": "() training -- 密集的训练", 
+        "translation": "adj：密集的；增强的"
+    }, 
+    "junk": {
+        "attr": "n", 
+        "sentence": "The () was piled up in the basement -- 垃圾被堆放在地下室", 
+        "translation": "n：无用的东西"
+    }, 
+    "leisure": {
+        "attr": "n", 
+        "sentence": "I have no () for playing cards -- 我没闲暇时间玩牌", 
+        "translation": "n：空闲；闲暇"
+    }, 
+    "loan": {
+        "attr": "n，v", 
+        "sentence": "short-term loan -- 短期贷款", 
+        "translation": "n：贷款；借 v：借"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "recipe": {
+        "attr": "n", 
+        "sentence": "a () for fever -- 发烧的处方", 
+        "translation": "n：食谱；烹饪方法；处方"
+    }, 
+    "render": {
+        "attr": "v", 
+        "sentence": "() help -- 给予帮助", 
+        "translation": "v：给予；使变得；翻译；提交"
+    }, 
+    "speculate": {
+        "attr": "v", 
+        "sentence": "Can you () how much damage might arise -- 你能推测出这会造成多大的伤害吗", 
+        "translation": "v：推测；思索；投机"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "texture": {
+        "attr": "n", 
+        "sentence": "the () of the rock -- 岩石的纹理", 
+        "translation": "n：质地；纹理；构造"
+    }, 
+    "vanity": {
+        "attr": "n", 
+        "sentence": "He has many faults, but () is not one of them -- 他有很多缺点，但是虚荣心不是其中之一", 
+        "translation": "n：虚荣；自负"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }, 
+    "virtue": {
+        "attr": "n", 
+        "sentence": "() will prevail against evil -- 美德定将战胜邪恶", 
+        "translation": "n：美德；优点"
+    }, 
+    "wreath": {
+        "attr": "n", 
+        "sentence": "a () of smoke -- 烟圈", 
+        "translation": "n：花环；花圈"
+    }
+}

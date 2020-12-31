@@ -1,0 +1,237 @@
+{
+    "absurd": {
+        "attr": "adj，n", 
+        "sentence": "No doubt it is very () -- 这无疑是非常荒谬的", 
+        "translation": "adj：荒唐的 n：荒诞的事物"
+    }, 
+    "benign": {
+        "attr": "adj", 
+        "sentence": "() climate -- 温和的气候", 
+        "translation": "adj：仁慈的；温和的；良性的"
+    }, 
+    "bully": {
+        "attr": "v，n", 
+        "sentence": "The terrorists () the citizens -- 恐怖分子恐吓市民们", 
+        "translation": "v：恐吓；威胁；欺负 n：仗势欺人者"
+    }, 
+    "coherent": {
+        "attr": "adj", 
+        "sentence": "This is a () sentence -- 这是一个连贯的句子", 
+        "translation": "adj：连贯的；一致的；条理清晰地"
+    }, 
+    "concord": {
+        "attr": "n", 
+        "sentence": "The two tribes lived in () -- 两个部落和睦相处", 
+        "translation": "n：和谐；谐调；一致"
+    }, 
+    "costume": {
+        "attr": "n，v", 
+        "sentence": "() play -- 角色扮演", 
+        "translation": "n：服装；衣服；戏服 v：给...提供服装"
+    }, 
+    "counseling": {
+        "attr": "n，v", 
+        "sentence": "the mental health () -- 心理健康咨询", 
+        "translation": "n：咨询服务 v：劝告；建议"
+    }, 
+    "culprit": {
+        "attr": "n", 
+        "sentence": "The hunt is on for the () -- 逐步罪犯的行动正在进行", 
+        "translation": "n：罪犯；犯错的人"
+    }, 
+    "descent": {
+        "attr": "n", 
+        "sentence": "one's () into a life of crime -- 堕落到靠犯罪过活", 
+        "translation": "n：下降；斜坡；堕落"
+    }, 
+    "despatch": {
+        "attr": "v，n", 
+        "sentence": "to () a passenger -- 派遣使者", 
+        "translation": "v：派遣；调遣；发送 n：快信；发送；派遣"
+    }, 
+    "dim": {
+        "attr": "adj，v", 
+        "sentence": "dim sound -- 模糊不清的声音", 
+        "translation": "adj：暗淡的；昏暗的 v：变暗淡；变模糊"
+    }, 
+    "discreet": {
+        "attr": "adj", 
+        "sentence": "She wore () jewellery -- 她戴着素净的首饰", 
+        "translation": "adj：谨慎的；不显眼的；朴素的"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "excerpt": {
+        "attr": "n，v", 
+        "sentence": "This is an () from a novel -- 这是一部小说的摘录", 
+        "translation": "n：摘录；摘要 v：摘录；引用"
+    }, 
+    "foster": {
+        "attr": "v", 
+        "sentence": "to () children -- 养育孩子", 
+        "translation": "v：培养；助长；抚养"
+    }, 
+    "gloomy": {
+        "attr": "adj", 
+        "sentence": "the () news -- 令人悲伤的消息", 
+        "translation": "adj：黑暗的；幽暗的；忧郁的；沮丧的"
+    }, 
+    "hatch": {
+        "attr": "v，n", 
+        "sentence": "to () a plan -- 秘密策划一个计划", 
+        "translation": "v：孵出；秘密策划 n：舱口；小窗口"
+    }, 
+    "henceforth": {
+        "attr": "adv", 
+        "sentence": "() I expect you to be punctual for meeting -- 我希望你今后准时到会", 
+        "translation": "adv：从此之后"
+    }, 
+    "ignite": {
+        "attr": "v", 
+        "sentence": "to () one's anger -- 激起某人的怒火", 
+        "translation": "v：点燃；激起"
+    }, 
+    "imperial": {
+        "attr": "adj", 
+        "sentence": "() rule -- 帝国统治", 
+        "translation": "adj：帝国的；皇帝的"
+    }, 
+    "lapse": {
+        "attr": "n，v", 
+        "sentence": "The () of time is irreversible -- 时光流逝不可逆转", 
+        "translation": "n：过失；流逝；间隔；堕落；失效 v：退步；堕入；失效；终止"
+    }, 
+    "lateral": {
+        "attr": "adj", 
+        "sentence": "() section -- 横截面", 
+        "translation": "adj：侧面的；横向的"
+    }, 
+    "literacy": {
+        "attr": "n", 
+        "sentence": "() is the ability to read and write -- 读写能力是指阅读与写作的能力", 
+        "translation": "n：识字；有文化；有读写能力"
+    }, 
+    "lobby": {
+        "attr": "v，n", 
+        "sentence": "a spacious () -- 一个宽敞的休息室", 
+        "translation": "v：游说 n：大厅；休息室"
+    }, 
+    "minority": {
+        "attr": "n", 
+        "sentence": "A () voted against the plan -- 少数；少数民族", 
+        "translation": "n：少数；少数民族"
+    }, 
+    "oblige": {
+        "attr": "v", 
+        "sentence": "The laws () parents to send their children to school -- 法律要求父母送子女上学", 
+        "translation": "v：迫使；效劳"
+    }, 
+    "obsolete": {
+        "attr": "adj", 
+        "sentence": "Digital cameras made film () -- 数码相机淘汰了胶片", 
+        "translation": "adj：过时的；废弃的；淘汰的"
+    }, 
+    "pendulum": {
+        "attr": "n", 
+        "sentence": "the stroke of an () -- 钟摆的摆动", 
+        "translation": "n：钟摆；摆锤"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "protest": {
+        "attr": "n，v", 
+        "sentence": "to () one's innocence -- 申明某人无罪", 
+        "translation": "n：抗议；抗议活动 v：抗议"
+    }, 
+    "regime": {
+        "attr": "n", 
+        "sentence": "a Fascist () -- 法西斯政体", 
+        "translation": "n：政权"
+    }, 
+    "resolute": {
+        "attr": "adj", 
+        "sentence": "a decisive and () leader -- 一位坚决果断的领导人", 
+        "translation": "adj：坚决的；毅然的；有决心的"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "ripe": {
+        "attr": "adj", 
+        "sentence": "Time is () for revolution -- 革命的时机成熟了", 
+        "translation": "adj：成熟的"
+    }, 
+    "salvation": {
+        "attr": "n", 
+        "sentence": "() lies in political reform -- 解救办法在于政治改革", 
+        "translation": "n：拯救；救世；救助"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将浸透我们的衣服", 
+        "translation": "v：使浸透；使湿透；使饱和"
+    }, 
+    "slope": {
+        "attr": "n， v", 
+        "sentence": "The () is too steep for us to climb -- 这斜坡太陡，我们爬不上去", 
+        "translation": "n：斜坡；坡度 v：倾斜；有坡度"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "staple": {
+        "attr": "n，v，adj", 
+        "sentence": "a () topic of conversation -- 谈论的主要话题", 
+        "translation": "n：订书钉；主要产品；主要部分 v：用订书钉装订 adj：主要的；重要的"
+    }, 
+    "strap": {
+        "attr": "n，v", 
+        "sentence": "be () for -- 急需；缺乏", 
+        "translation": "n：带子；皮带；皮条 v：包扎"
+    }, 
+    "susceptible": {
+        "attr": "adj", 
+        "sentence": "The plant is not () to disease -- 这种植物不容易受病害侵扰", 
+        "translation": "adj：易受影响的；易动感情的"
+    }, 
+    "syndrome": {
+        "attr": "n", 
+        "sentence": "The () has no effective treatments yet -- 这种综合征尚无有效的治疗方法", 
+        "translation": "n：综合征；综合症状"
+    }, 
+    "synthetic": {
+        "attr": "adj", 
+        "sentence": "() rubber -- 合成橡胶", 
+        "translation": "adj：合成的；综合的"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }, 
+    "wrap": {
+        "attr": "v，n", 
+        "sentence": "You should () up the gift in a paper -- 你应该把礼物用纸包好", 
+        "translation": "v：包；缠绕；覆盖 n：外套；围巾；包裹"
+    }
+}

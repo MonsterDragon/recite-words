@@ -1,0 +1,27 @@
+{
+    "bid": {
+        "attr": "v，n", 
+        "sentence": "I () her goodnight -- 我想她道晚安", 
+        "translation": "v：投标；出价；叫牌；恳求；致意 n：投标；出价；叫牌"
+    }, 
+    "inconceivable": {
+        "attr": "adj", 
+        "sentence": "It is () -- 难以置信的", 
+        "translation": "adj：难以想象的；难以相信的"
+    }, 
+    "manifest": {
+        "attr": "adj，v，n", 
+        "sentence": "The difficulty of the problem is () -- 这个问题的困难是显而易见的", 
+        "translation": "adj：明显的；显而易见的 v：表明；显现 n：载货单；旅客名单"
+    }, 
+    "qualitative": {
+        "attr": "adj", 
+        "sentence": "() methods are used in this study -- 本研究采用了定性的研究方法", 
+        "translation": "adj：性质的；定性的"
+    }, 
+    "superflous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 多余的财富", 
+        "translation": "adj：多余的；过剩的；不必要的"
+    }
+}

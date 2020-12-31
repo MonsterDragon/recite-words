@@ -1,0 +1,142 @@
+{
+    "antenna": {
+        "attr": "n", 
+        "sentence": "the TV () -- 电视天线", 
+        "translation": "n：触角；天线"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "contact lens": {
+        "attr": "n", 
+        "sentence": "() solution -- 隐形眼睛洗液", 
+        "translation": "n：隐形眼镜"
+    }, 
+    "cosy": {
+        "attr": "adj", 
+        "sentence": "to live a () life -- 过安逸的人生", 
+        "translation": "adj：舒适的；安逸的"
+    }, 
+    "cunning": {
+        "attr": "adj，n", 
+        "sentence": "a () trick -- 一个狡猾的诡计", 
+        "translation": "adj：狡猾的；诡诈的 n：狡猾；诡诈；狡黠"
+    }, 
+    "curtain": {
+        "attr": "n", 
+        "sentence": "pull down a () -- 把帷幕拉下来", 
+        "translation": "n：帷幕；窗帘"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "erosion": {
+        "attr": "n", 
+        "sentence": "the soil () -- 土壤侵蚀", 
+        "translation": "n：侵蚀；腐蚀"
+    }, 
+    "fiber": {
+        "attr": "n", 
+        "sentence": "seaweed () -- 海藻纤维", 
+        "translation": "n：纤维"
+    }, 
+    "indulge": {
+        "attr": "v", 
+        "sentence": "to () one's curiosity -- 满足好奇心", 
+        "translation": "v：放任；沉溺；使满足；听任"
+    }, 
+    "midst": {
+        "attr": "n", 
+        "sentence": "in the () of the war -- 在战争进行之中", 
+        "translation": "n：中间；中部"
+    }, 
+    "naturalization": {
+        "attr": "n", 
+        "sentence": "They rejected his petition for () -- 他们拒绝了他的入籍申请", 
+        "translation": "n：移入；移植；入籍"
+    }, 
+    "petty": {
+        "attr": "adj", 
+        "sentence": "() details -- 琐碎的细节", 
+        "translation": "adj：琐碎的；微不足道的；心胸狭窄的"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "polar": {
+        "attr": "adj", 
+        "sentence": "They are of () opinions -- 他们的意见截然相反", 
+        "translation": "adj：极地的；两级的；对立的"
+    }, 
+    "presume": {
+        "attr": "v", 
+        "sentence": "They () the man to be innocent -- 他们认为此人是无辜的", 
+        "translation": "v：假设；假定；设想；冒昧"
+    }, 
+    "primitive": {
+        "attr": "adj", 
+        "sentence": "() society -- 原始社会", 
+        "translation": "adj：原始的；简陋的"
+    }, 
+    "propel": {
+        "attr": "v", 
+        "sentence": "to () the process -- 推进进程", 
+        "translation": "v：推进；推动"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "rug": {
+        "attr": "n", 
+        "sentence": "weave a () -- 编制一块毛毯", 
+        "translation": "n：小地毯；垫子"
+    }, 
+    "scarf": {
+        "attr": "n，v", 
+        "sentence": "The () was made of silk -- 这围巾是用丝绸做成的", 
+        "translation": "n：围巾；头巾 v：围围巾；"
+    }, 
+    "superfluous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 多余的财富", 
+        "translation": "adj：多余的；过剩的"
+    }, 
+    "thick": {
+        "attr": "adj", 
+        "sentence": "() board -- 厚木板", 
+        "translation": "adj：厚的；出的；浓稠的"
+    }, 
+    "trial": {
+        "attr": "n", 
+        "sentence": "The court gave a fair () to the case -- 法院对这一案件做出了公正的审判", 
+        "translation": "n：审判；试验；考验"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }, 
+    "vessel": {
+        "attr": "n", 
+        "sentence": "The () hit on the rocks -- 船撞到岩石上", 
+        "translation": "n：器皿；容器；船；血管"
+    }
+}

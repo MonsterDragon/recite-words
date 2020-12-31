@@ -1,0 +1,207 @@
+{
+    "abide": {
+        "attr": "v", 
+        "sentence": "I can not () such a loud noise -- 我无法忍受这么大的噪音", 
+        "translation": "v：遵守；服从；容忍；忍受"
+    }, 
+    "adherence": {
+        "attr": "n", 
+        "sentence": "() the truth -- 坚守真理", 
+        "translation": "粘附；坚持；遵守"
+    }, 
+    "authropology": {
+        "attr": "n", 
+        "sentence": "() is one of the social sciences -- 人类学是社会科学中的一支", 
+        "translation": "n：人类学"
+    }, 
+    "blend": {
+        "attr": "v", 
+        "sentence": "() the sugar and flour -- 把糖和面粉混合", 
+        "translation": "混合；配合；融合"
+    }, 
+    "carve": {
+        "attr": "v", 
+        "sentence": "() a snowman -- 雕刻雪人", 
+        "translation": "v：雕刻；切开"
+    }, 
+    "chip": {
+        "attr": "n，v", 
+        "sentence": "a silicon () -- 一块硅芯片", 
+        "translation": "n：芯片；碎片 v：削成碎片；破裂"
+    }, 
+    "collide": {
+        "attr": "v", 
+        "sentence": "The interests of two countries () -- 两国的利益冲突", 
+        "translation": "v：碰撞；相撞；冲突"
+    }, 
+    "colonial": {
+        "attr": "adj，n", 
+        "sentence": "to fight against the () rule -- 反对殖民统治的战斗", 
+        "translation": "adj：殖民的 n：殖民地居民"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj：传染性的，有感染力的"
+    }, 
+    "cosmic": {
+        "attr": "adj", 
+        "sentence": "the () space -- 宇宙空间", 
+        "translation": "adj：宇宙的；广阔的"
+    }, 
+    "deaf": {
+        "attr": "adj", 
+        "sentence": "() people can not hear -- 聋人听不见声音", 
+        "translation": "adj：聋的；充耳不闻的"
+    }, 
+    "degenerate": {
+        "attr": "adj，n，v", 
+        "sentence": "The thief was a () member of a fine family -- 那个小偷是优秀家族的堕落成员", 
+        "translation": "adj：退步的；堕落的 v：退化；堕落 n：堕落的人"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "dial": {
+        "attr": "n，v", 
+        "sentence": "I started to () but then hung up -- 我开始拨号，但后来挂断了电话", 
+        "translation": "n：拨号；刻度盘 v：拨"
+    }, 
+    "drawback": {
+        "attr": "n", 
+        "sentence": "There is a () to his new car -- 他的新车有个缺点", 
+        "translation": "n：缺点；不利条件"
+    }, 
+    "eligible": {
+        "attr": "adj", 
+        "sentence": "She can't find an () man --她找不到和她意的男人", 
+        "translation": "adj：有资格的；合格的；合意的"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "fluctuate": {
+        "attr": "v", 
+        "sentence": "Stock prices () wildly -- 股票价格大幅波动", 
+        "translation": "波动；起伏不定"
+    }, 
+    "fore": {
+        "attr": "adj，adv，n", 
+        "sentence": "the () part of an aircraft -- 飞机的前部", 
+        "translation": "adj：在前的 adv：在前面 n：前头"
+    }, 
+    "gown": {
+        "attr": "n", 
+        "sentence": "I went downstairs in my () -- 我穿着睡袍下楼了", 
+        "translation": "n：长袍；礼服"
+    }, 
+    "hut": {
+        "attr": "n", 
+        "sentence": "live in a () -- 住在小屋里", 
+        "translation": "n：小屋；棚屋；茅屋"
+    }, 
+    "incline": {
+        "attr": "n", 
+        "sentence": "He rolled the balls down the() -- 他把球滚下斜坡", 
+        "translation": "n：倾斜；倾向"
+    }, 
+    "indignant": {
+        "attr": "n", 
+        "sentence": "I was () because it's unfair -- 我非常愤慨，因为这不公平", 
+        "translation": "愤慨"
+    }, 
+    "irrigate": {
+        "attr": "v", 
+        "sentence": "How do you () your field -- 你是怎么灌溉田地的", 
+        "translation": "v：灌溉；冲洗"
+    }, 
+    "judicial": {
+        "attr": "adj", 
+        "sentence": "the () system -- 司法系统", 
+        "translation": "adj：司法的，法庭的，审判的"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "nonverbal": {
+        "attr": "adj", 
+        "sentence": "Art is a form of () expression -- 艺术是一种非言辞表达形式", 
+        "translation": "adj：非言语的；不涉及言语的"
+    }, 
+    "notorious": {
+        "attr": "adj", 
+        "sentence": "a () gambler -- 声名狼藉的赌徒", 
+        "translation": "adj：声名狼藉的；臭名昭著的"
+    }, 
+    "plenty": {
+        "attr": "adj，n", 
+        "sentence": "They would have () to eat -- 他们将会有充足的食物", 
+        "translation": "adj：充足的 n：充裕；富裕"
+    }, 
+    "ponder": {
+        "attr": "v", 
+        "sentence": "We should () what to do next -- 我们应该考虑下一步怎么办", 
+        "translation": "v：深思；仔细考虑"
+    }, 
+    "portable": {
+        "attr": "adj，n", 
+        "sentence": "() computer -- 手提电脑", 
+        "translation": "adj：便携的；手提的 n：便携式打字机"
+    }, 
+    "reciprocity": {
+        "attr": "n", 
+        "sentence": "equality () -- 平等互惠", 
+        "translation": "相互性；互惠"
+    }, 
+    "reinforce": {
+        "attr": "v", 
+        "sentence": "() an army -- 增援军队", 
+        "translation": "v：增强；增援；加强；加固"
+    }, 
+    "semester": {
+        "attr": "n", 
+        "sentence": "This () will be my last one in this university -- 这学期将是我在这所大学的最后一学期了", 
+        "translation": "一学期；半年"
+    }, 
+    "sophistic": {
+        "attr": "adj", 
+        "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩", 
+        "translation": "adj: 诡辩的"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }, 
+    "verse": {
+        "attr": "n", 
+        "sentence": "He expressed his ideas in () -- 他用诗的形式来表达他的观点", 
+        "translation": "n：诗；诗节"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }, 
+    "vibrate": {
+        "attr": "v", 
+        "sentence": "The buildings seemed to () -- 楼房好像在颤动", 
+        "translation": "v：震动；颤动"
+    }
+}

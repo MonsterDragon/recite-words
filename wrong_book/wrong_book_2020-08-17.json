@@ -1,0 +1,12 @@
+{
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }
+}

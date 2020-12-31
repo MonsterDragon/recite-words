@@ -1,0 +1,157 @@
+{
+    "cater": {
+        "attr": "v", 
+        "sentence": "It is difficult to () to everyone's wish -- 满足每个人的愿望是很难的", 
+        "translation": "v：迎合；满足需要"
+    }, 
+    "advent": {
+        "attr": "n", 
+        "sentence": "the () of the computer -- 计算的出现", 
+        "translation": "n: 到来；来临"
+    }, 
+    "aide": {
+        "attr": "n", 
+        "sentence": "a nurse's () -- 护士的助手", 
+        "translation": "n：副官；助手"
+    }, 
+    "blanket": {
+        "attr": "n，adj，v", 
+        "sentence": "wrap a child in a () -- 用毯子裹着孩子", 
+        "translation": "n：毛毯 adj：包括所有的 ：覆盖"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命的错误", 
+        "translation": " n：失误 v：犯错误；失误"
+    }, 
+    "certificate": {
+        "attr": "v, n", 
+        "sentence": "The () is invalid -- 这张证书无效", 
+        "translation": "n: 证书；凭证；执照 v: 发给证书"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "commitment": {
+        "attr": "n", 
+        "sentence": "meet the () -- 履行承诺", 
+        "translation": "n：承诺；投入"
+    }, 
+    "compartment": {
+        "attr": "n", 
+        "sentence": "smoking () -- 吸烟隔间", 
+        "translation": "n：分隔间；车间"
+    }, 
+    "counsel": {
+        "attr": "v，n", 
+        "sentence": "I would () you not to many too young -- 我劝你不要过早结婚", 
+        "translation": "v：劝告；建议 n：律师；劝告"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "digest": {
+        "attr": "n, v", 
+        "sentence": "() of news -- 新闻摘要", 
+        "translation": "n: 摘要 v: 领会"
+    }, 
+    "dusk": {
+        "attr": "n", 
+        "sentence": "The lights go on at () -- 一到黄昏灯就亮了", 
+        "translation": "n：黄昏"
+    }, 
+    "editorial": {
+        "attr": "n，adj", 
+        "sentence": "The () lashed out at official corruption -- 那篇社论抨击官场腐败", 
+        "translation": "n：社论 adj：编辑的；社论的"
+    }, 
+    "expedition": {
+        "attr": "n", 
+        "sentence": "a scientific () to Sourth Pole -- 对南极的科学考察", 
+        "translation": "n：探险；远征；探险队"
+    }, 
+    "fuse": {
+        "attr": "n, v", 
+        "sentence": "Rainwater will () the bulds -- 雨水会引发保险丝烧熔", 
+        "translation": "n: 保险丝；导火线 v: 熔接"
+    }, 
+    "grope": {
+        "attr": "v", 
+        "sentence": "() for an answer -- 搜寻答案", 
+        "translation": "v：搜寻；搜索"
+    }, 
+    "hurl": {
+        "attr": "v", 
+        "sentence": "I () the baseball back -- 我把棒球大力掷回去", 
+        "translation": "v: 猛掷"
+    }, 
+    "leaflet": {
+        "attr": "n，v", 
+        "sentence": "We () along the street -- 我们沿街散发传单", 
+        "translation": "n：传单；v：散发传单"
+    }, 
+    "levy": {
+        "attr": "v，n", 
+        "sentence": "to () men for a war -- 征召男人参战", 
+        "translation": "v：征收；征募 n：征兵；征税"
+    }, 
+    "metaphor": {
+        "attr": "n", 
+        "sentence": "A () is an imaginative way of describing -- 隐喻是一种富有想象力的描述事物的方式", 
+        "translation": "n：隐喻；比喻；象征"
+    }, 
+    "plea": {
+        "attr": "n", 
+        "sentence": "The thief entered a () of not guilty -- 这个贼提出了无罪申诉", 
+        "translation": "n：恳求；申诉；抗辩；借口"
+    }, 
+    "refund": {
+        "attr": "v, n", 
+        "sentence": "The hotel will () him 100 -- 旅馆将退给他100", 
+        "translation": "v: 退还；偿还 n: 退款；返还款"
+    }, 
+    "relevant": {
+        "attr": "adj", 
+        "sentence": "Have you heard of the () report -- 你听说过相关的报道吗？", 
+        "translation": "adj：相关的"
+    }, 
+    "repression": {
+        "attr": "n", 
+        "sentence": "() made him behave worse -- 受抑制使他表现更糟", 
+        "translation": "n：抑制；压抑"
+    }, 
+    "rural": {
+        "attr": "adj", 
+        "sentence": "live a () life -- 过乡村生活", 
+        "translation": "adj：农村的；乡村的"
+    }, 
+    "setback": {
+        "attr": "n", 
+        "sentence": "He suffered a () in his business -- 他在生意上遭遇挫折", 
+        "translation": "n: 退步；挫折"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }, 
+    "thumb": {
+        "attr": "n", 
+        "sentence": "The baby sucked his () -- 婴儿吸吮他的大拇指", 
+        "translation": "n: 大拇指"
+    }, 
+    "triumph": {
+        "attr": "v，n", 
+        "sentence": "Justice will () over all -- 正义必将战胜邪恶", 
+        "translation": "v：战胜；成功 n：胜利；凯旋"
+    }, 
+    "tub": {
+        "attr": "n", 
+        "sentence": "bath () -- 浴盆", 
+        "translation": "n：桶；盆；浴盆"
+    }
+}

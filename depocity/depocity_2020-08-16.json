@@ -1,0 +1,102 @@
+{
+    "amateur": {
+        "attr": "n，adj", 
+        "sentence": "() performance -- 业余表演", 
+        "translation": "n：业余爱好者 adj：业余的"
+    }, 
+    "basin": {
+        "attr": "n", 
+        "sentence": "a () of hot water -- 一盆热水", 
+        "translation": "n：脸盆；水池；盆地；流域"
+    }, 
+    "cape": {
+        "attr": "n", 
+        "sentence": "a woollen () -- 羊毛披肩", 
+        "translation": "n：披风；披肩"
+    }, 
+    "conscientious": {
+        "attr": "adj", 
+        "sentence": "a () worker -- 一个勤勉的工作人员", 
+        "translation": "本着良心的， 勤勉认真的"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "density": {
+        "attr": "n", 
+        "sentence": "Mercury has a much greater () than water -- 水银的密度比水大得多", 
+        "translation": "n：浓度；密度"
+    }, 
+    "dynamics": {
+        "attr": "n", 
+        "sentence": "chemical () -- 化学动态学", 
+        "translation": "n：动态学；动力学"
+    }, 
+    "ebb": {
+        "attr": "v，n", 
+        "sentence": "My luck is on the () -- 我的运气不好", 
+        "translation": "n：退潮；衰退；减少 v：退潮；衰退；减少"
+    }, 
+    "fabric": {
+        "attr": "n", 
+        "sentence": "woolen () -- 毛织品", 
+        "translation": "n：织物；布料"
+    }, 
+    "furnace": {
+        "attr": "n", 
+        "sentence": "Keep children away from the () -- 不要让孩子靠近火炉", 
+        "translation": "n：熔炉；火炉"
+    }, 
+    "gallop": {
+        "attr": "v，n", 
+        "sentence": "The horses () away -- 群马飞奔而去", 
+        "translation": "v：奔跑；飞驰 n：奔驰；飞奔"
+    }, 
+    "humidity": {
+        "attr": "n", 
+        "sentence": "THe () is relatively low -- 湿度相对较低", 
+        "translation": "n：湿度；湿气"
+    }, 
+    "impartial": {
+        "attr": "adj", 
+        "sentence": "He is an () judge -- 他是一位公正的法官", 
+        "translation": "adj：公正的"
+    }, 
+    "indifference": {
+        "attr": "n", 
+        "sentence": "I feel let down by his () -- 他的漠不关心使我感到失望", 
+        "translation": "n：冷淡；不关心；不重视"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "scout": {
+        "attr": "v，n", 
+        "sentence": "The () was searching through the woods -- 侦查员正在树林中搜索", 
+        "translation": "v：侦查；巡视；搜寻 n：侦查；侦察兵"
+    }, 
+    "spectacle": {
+        "attr": "n", 
+        "sentence": "The sunrise was a splendid () -- 日出可是个壮观的景象", 
+        "translation": "n：景象，奇观；场面"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "ward off": {
+        "attr": "", 
+        "sentence": "to () an attack -- 避开攻击", 
+        "translation": "避开；挡住；抵挡"
+    }
+}

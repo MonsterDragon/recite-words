@@ -1,0 +1,127 @@
+{
+    "blunt": {
+        "attr": "adj，v", 
+        "sentence": "a few  () words -- 几句直言不讳的话", 
+        "translation": "adj：直率的；不锋利的 v：使变钝"
+    }, 
+    "comb": {
+        "attr": "n，v", 
+        "sentence": "wooden () -- 木质梳子", 
+        "translation": "n：梳子 v：梳理"
+    }, 
+    "complement": {
+        "attr": "n，v", 
+        "sentence": "We () one another perfectly -- 我们相互取长补短，堪称完美", 
+        "translation": "n：补足物’补语 v：补足；补充"
+    }, 
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj：传染性的，有感染力的"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "diffuse": {
+        "attr": "adj，v", 
+        "sentence": "to () new ideas -- 传播思想", 
+        "translation": "adj：弥漫的；扩散的v：弥漫；传播"
+    }, 
+    "discrepancy": {
+        "attr": "n", 
+        "sentence": "There is a () in the two reports of the accident -- 关于那起事故的两份报道有矛盾之处", 
+        "translation": "n：差异；矛盾"
+    }, 
+    "disperse": {
+        "attr": "v", 
+        "sentence": "The clouds () themselves -- 云散了", 
+        "translation": "v：散开；驱散"
+    }, 
+    "eliminate": {
+        "attr": "v", 
+        "sentence": "() poverty -- 消除贫困", 
+        "translation": "v：消除；淘汰"
+    }, 
+    "enlighten": {
+        "attr": "v", 
+        "sentence": "The past should () us in the furture -- 前事不忘后事之师", 
+        "translation": "v：启发开导"
+    }, 
+    "freeze": {
+        "attr": "v，n", 
+        "sentence": "The cold weather will () the lake -- 严寒的天气将使得湖面结冰", 
+        "translation": "v：结冰；冻结 n：冻结；严寒期"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "lottery": {
+        "attr": "n", 
+        "sentence": "She won a fortune in a () -- 她在抽奖中赢得了一大笔钱", 
+        "translation": "n：抽奖；彩票"
+    }, 
+    "meditate": {
+        "attr": "n", 
+        "sentence": "I () on the problem -- 我仔细考虑这个问题", 
+        "translation": "n：冥想；沉思；考虑"
+    }, 
+    "oral": {
+        "attr": "adj", 
+        "sentence": "() examination -- 口试", 
+        "translation": "adj：口头的；口述的"
+    }, 
+    "plague": {
+        "attr": "n，v", 
+        "sentence": "A great () was raging in the city -- 一场瘟疫正在该城肆虐", 
+        "translation": "n：瘟疫；疫病 v：困扰；折磨"
+    }, 
+    "rally": {
+        "attr": "v,n", 
+        "sentence": "a political () -- 政治集会", 
+        "translation": "v：集合起来；振作 n：集会"
+    }, 
+    "scandal": {
+        "attr": "n", 
+        "sentence": "political () -- 政治丑闻", 
+        "translation": "n：丑闻；丑行"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "stimulate": {
+        "attr": "v", 
+        "sentence": "() people's enthusiasm -- 激发人们的积极性", 
+        "translation": "v：刺激；激励"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "vigorously": {
+        "attr": "adv", 
+        "sentence": "to grow () -- 茁壮地成长", 
+        "translation": "adv：有力的；剧烈地"
+    }, 
+    "warrant": {
+        "attr": "n，v", 
+        "sentence": "The police obtained a search () for her house -- 警察拿到了她家的搜查令", 
+        "translation": "n：搜查令；逮捕令 v：使...有必要"
+    }, 
+    "weep": {
+        "attr": "n，v", 
+        "sentence": "Evil men should () for their evil deeds -- 作恶的人应该为他们的恶行而哭泣", 
+        "translation": "n：哭泣；流泪 v：流泪；流出"
+    }
+}

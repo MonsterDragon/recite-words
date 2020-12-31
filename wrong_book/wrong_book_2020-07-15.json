@@ -1,0 +1,17 @@
+{
+    "controversy": {
+        "attr": "n", 
+        "sentence": "That is a fact beyond () -- 那是一个不争的事实", 
+        "translation": "n：争论；论战"
+    }, 
+    "ponder": {
+        "attr": "v", 
+        "sentence": "We should () what to do next -- 我们应该考虑下一步怎么办", 
+        "translation": "v：深思；仔细考虑"
+    }, 
+    "predecessor": {
+        "attr": "n", 
+        "sentence": "The new building is more spacious than its （） -- 这一建筑比原先的更宽敞", 
+        "translation": "n：前辈；原有的事物"
+    }
+}

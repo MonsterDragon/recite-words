@@ -1,0 +1,22 @@
+{
+    "absorption": {
+        "attr": "n", 
+        "sentence": "() in one's work -- 专心于工作", 
+        "translation": "n：吸收；专注；合并"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想；怀孕"
+    }, 
+    "crucial": {
+        "attr": "adj", 
+        "sentence": "It's a () decision -- 这是一个至关重要的决定", 
+        "translation": "adj：至关重要的；决定性的"
+    }, 
+    "prosperous": {
+        "attr": "adj", 
+        "sentence": "() industry -- 繁荣的工业", 
+        "translation": "adj：繁荣的"
+    }
+}

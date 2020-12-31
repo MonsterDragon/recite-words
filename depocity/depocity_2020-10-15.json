@@ -1,0 +1,177 @@
+{
+    "accessory": {
+        "attr": "n，adj", 
+        "sentence": "an () of mobile phone -- 一个手机配件", 
+        "translation": "n：配件；附件；从犯 adj：附属的"
+    }, 
+    "blaze": {
+        "attr": "n，v", 
+        "sentence": "Dry wood makes a good () -- 干木燃起夺目的气焰", 
+        "translation": "n：火焰；火灾；烈火 v：闪耀；熊熊燃烧；发亮光"
+    }, 
+    "botany": {
+        "attr": "n", 
+        "sentence": "ecological () -- 植物生态学", 
+        "translation": "n：植物学"
+    }, 
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "charter": {
+        "attr": "n，v", 
+        "sentence": "Project () -- 项目章程", 
+        "translation": "n：宪章；许可证 v：租赁；特许"
+    }, 
+    "chimney": {
+        "attr": "n", 
+        "sentence": "sweep a () -- 清晰烟囱", 
+        "translation": "n：烟囱"
+    }, 
+    "consumption": {
+        "attr": "n", 
+        "sentence": "() of oil -- 油的消耗量", 
+        "translation": "n：消费；消耗"
+    }, 
+    "dam": {
+        "attr": "n", 
+        "sentence": "the Three Gorges () -- 三峡大坝", 
+        "translation": "n：水坝"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "fabulous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 巨额财富", 
+        "translation": "adj：难以置信的；寓言般的；极巨大的"
+    }, 
+    "facilitate": {
+        "attr": "v", 
+        "sentence": "The new airport will () tourism -- 新机场将促进旅游业", 
+        "translation": "v：使容易；使便利；促进；帮助"
+    }, 
+    "impart": {
+        "attr": "v", 
+        "sentence": "() skills -- 传授技能", 
+        "translation": "v：传授；给予；告知"
+    }, 
+    "inconceivable": {
+        "attr": "adj", 
+        "sentence": "It is () -- 难以置信的", 
+        "translation": "adj：难以想象的；难以相信的"
+    }, 
+    "intimidate": {
+        "attr": "v", 
+        "sentence": "The gang tried to () the merchant -- 犯罪团伙想威胁那位商人", 
+        "translation": "v：胁迫；威胁；恐吓"
+    }, 
+    "manifest": {
+        "attr": "adj，v，n", 
+        "sentence": "The difficulty of the problem is () -- 这个问题的困难是显而易见的", 
+        "translation": "adj：明显的；显而易见的 v：表明；显现 n：载货单；旅客名单"
+    }, 
+    "manipulation": {
+        "attr": "n", 
+        "sentence": "Some deals involve () and deception -- 一些交易涉及到操纵和欺骗", 
+        "translation": "n：操纵；操作；处理"
+    }, 
+    "oppressive": {
+        "attr": "adj", 
+        "sentence": "() sadness -- 难以忍受的悲伤", 
+        "translation": "adj：压迫的；沉重的；难以忍受的；闷热的"
+    }, 
+    "pasture": {
+        "attr": "n，v", 
+        "sentence": "The land was used for () -- 这土地用作牧场", 
+        "translation": "n：牧场；放牧；牧草 v：放牧；吃草"
+    }, 
+    "pharmaceutical": {
+        "attr": "n，adj", 
+        "sentence": "a () laboratory -- 一个药剂实验室", 
+        "translation": "n：药物 adj：制药的；配药的"
+    }, 
+    "portrait": {
+        "attr": "n", 
+        "sentence": "He is a () painter -- 他是一个肖像画家", 
+        "translation": "n：肖像；画像"
+    }, 
+    "qualitative": {
+        "attr": "adj", 
+        "sentence": "() methods are used in this study -- 本研究采用了定性的研究方法", 
+        "translation": "adj：性质的；定性的"
+    }, 
+    "relay": {
+        "attr": "n，v", 
+        "sentence": "() race -- 接力赛", 
+        "translation": "n：接力赛 v：接转；转播"
+    }, 
+    "sample": {
+        "attr": "n，v", 
+        "sentence": "His job is to () products for defects -- 他的工作是抽样检查产品的瑕疵", 
+        "translation": "n：样品；样本 v：尝试；体验；抽样"
+    }, 
+    "skeleton": {
+        "attr": "n，adj", 
+        "sentence": "() structure -- 骨架结构", 
+        "translation": "n：骨架；纲要；梗概 adj：骨干的；骨骼的"
+    }, 
+    "slipup": {
+        "attr": "n", 
+        "sentence": "Someone made a () in the printed program -- 有人在印出来的节目单上出了一个小错误", 
+        "translation": "n：错误"
+    }, 
+    "solely": {
+        "attr": "adv", 
+        "sentence": "You are () responsible for the job -- 这件工作由你单独负责", 
+        "translation": "adv：只；仅；唯；单独地"
+    }, 
+    "specimen": {
+        "attr": "n", 
+        "sentence": "collect a () -- 采集标本", 
+        "translation": "n：标本；样品"
+    }, 
+    "speculate": {
+        "attr": "v", 
+        "sentence": "Can you () how much damage might arise -- 你能推测出这会造成多大的伤害吗", 
+        "translation": "v：推测；思索；投机"
+    }, 
+    "substitute": {
+        "attr": "v，n", 
+        "sentence": "Water is not a proper () for wine -- 谁不是酒的适当替代品", 
+        "translation": "v：替代 n：代用品"
+    }, 
+    "superstition": {
+        "attr": "n", 
+        "sentence": "Ignorance leads to () -- 无知会导致迷信", 
+        "translation": "n：迷信；迷信观念"
+    }, 
+    "supplement": {
+        "attr": "v，n", 
+        "sentence": "This is a () to the report -- 这是对报告的补充", 
+        "translation": "v：补充 n：补充物；副刊；附录"
+    }, 
+    "testimony": {
+        "attr": "n", 
+        "sentence": "oral () -- 口头证明", 
+        "translation": "n：证明；证据；证词"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }, 
+    "wholesome": {
+        "attr": "adj", 
+        "sentence": "() food -- 健康的食物", 
+        "translation": "adj：健康的；有益身心的"
+    }
+}

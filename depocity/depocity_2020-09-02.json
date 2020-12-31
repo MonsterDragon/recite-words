@@ -1,0 +1,172 @@
+{
+    "artery": {
+        "attr": "n", 
+        "sentence": "to blocked () -- 栓塞的动脉", 
+        "translation": "n：动脉；干线；要道"
+    }, 
+    "bizarre": {
+        "attr": "adj", 
+        "sentence": "the () dress -- 奇装异服", 
+        "translation": "adj：离奇的；奇特的；奇怪的"
+    }, 
+    "clasp": {
+        "attr": "v，n", 
+        "sentence": "The button won't () -- 扣子扣不上", 
+        "translation": "v：抱紧；握紧；扣紧 n：钩；扣；紧握"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "conclude": {
+        "attr": "v", 
+        "sentence": "() from the report -- 从报告中得出结论", 
+        "translation": "v：推断出；得出结论；结束"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "cunning": {
+        "attr": "adj，n", 
+        "sentence": "a () trick -- 一个狡猾的诡计", 
+        "translation": "adj：狡猾的；诡诈的 n：狡猾；诡诈；狡黠"
+    }, 
+    "curtain": {
+        "attr": "n", 
+        "sentence": "pull down a () -- 把帷幕拉下来", 
+        "translation": "n：帷幕；窗帘"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就轻视他", 
+        "translation": "v：鄙视；蔑视；看不起"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "discourse": {
+        "attr": "n，v", 
+        "sentence": "political () -- 政治演讲", 
+        "translation": "n：演说；论述；交谈 v：谈论；交谈；讲演"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "erosion": {
+        "attr": "n", 
+        "sentence": "the soil () -- 土壤侵蚀", 
+        "translation": "n：侵蚀；腐蚀"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair -- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "fiber": {
+        "attr": "n", 
+        "sentence": "seaweed () -- 海藻纤维", 
+        "translation": "n：纤维"
+    }, 
+    "foster": {
+        "attr": "v", 
+        "sentence": "to () children -- 养育孩子", 
+        "translation": "v：培养；助长；抚养"
+    }, 
+    "fuss": {
+        "attr": "n，v", 
+        "sentence": "What a () about nothing -- 真是无事生非", 
+        "translation": "n：大惊小怪；忙乱 v：瞎忙活；大惊小怪"
+    }, 
+    "manipulate": {
+        "attr": "v", 
+        "sentence": "to () tools -- 使用工具", 
+        "translation": "v：操纵；使用"
+    }, 
+    "nasty": {
+        "attr": "adj", 
+        "sentence": "() weather -- 令人不愉快的天气", 
+        "translation": "adj：丑陋的；令人不愉快的；下流的"
+    }, 
+    "naturalization": {
+        "attr": "n", 
+        "sentence": "They rejected his petition for () -- 他们拒绝了他的入籍申请", 
+        "translation": "n：移入；移植；入籍"
+    }, 
+    "petty": {
+        "attr": "adj", 
+        "sentence": "() details -- 琐碎的细节", 
+        "translation": "adj：琐碎的；微不足道的；心胸狭窄的"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "pretext": {
+        "attr": "n", 
+        "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们", 
+        "translation": "n：借口；托词"
+    }, 
+    "quarrel": {
+        "attr": "v，n", 
+        "sentence": "Let's make an end of this follish () -- 让我们结束这种愚蠢的争吵吧", 
+        "translation": "v：争吵；吵架 n：争吵"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "rehearsal": {
+        "attr": "n", 
+        "sentence": "The play is in () now -- 这出戏在排演中", 
+        "translation": "n：排练；预演"
+    }, 
+    "relish": {
+        "attr": "v，n", 
+        "sentence": "() each moment in your life -- 好好享受生活中的每一刻", 
+        "translation": "v：喜欢；享受 n：享受；乐趣"
+    }, 
+    "reproach": {
+        "attr": "v，n", 
+        "sentence": "He looked at her with () -- 他用责备的目光看着他", 
+        "translation": "v：责备；指责 n：责备；指责"
+    }, 
+    "sanction": {
+        "attr": "n，v", 
+        "sentence": "Our proposal is given official () -- 我们的提案得到证实批准", 
+        "translation": "n：批准；允许；认可；处罚 v：批准；认可；制裁；处罚"
+    }, 
+    "shuttle": {
+        "attr": "n，v", 
+        "sentence": "the space () -- 太空梭", 
+        "translation": "n：梭子；穿梭；航天飞机 v：穿梭移动；往返运送"
+    }, 
+    "stain": {
+        "attr": "v,n", 
+        "sentence": "He will () the family honor -- 他将会玷污家族的荣誉", 
+        "translation": "v：玷污 n：玷污"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "trial": {
+        "attr": "n", 
+        "sentence": "The court gave a fair () to the case -- 法院对这一案件做出了公正的审判", 
+        "translation": "n：审判；试验；考验"
+    }, 
+    "utter": {
+        "attr": "v，adj", 
+        "sentence": "() a cry -- 大叫一声", 
+        "translation": "v：说出；出声 adj：完全地；十足的"
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "acclaim": {
+        "attr": "n, v", 
+        "sentence": "The novel received great () -- 这本小说备受赞扬", 
+        "translation": "n: 赞扬 v: 称赞"
+    }, 
+    "accurancy": {
+        "attr": "n", 
+        "sentence": "You should check the () of the data -- 你应该核对一下这些数据的准确性", 
+        "translation": "精确性；准确性"
+    }, 
+    "adherence": {
+        "attr": "n", 
+        "sentence": "() the truth -- 坚守真理", 
+        "translation": "粘附；坚持；遵守"
+    }, 
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "climate": {
+        "attr": "n", 
+        "sentence": "economic () -- 经济形势", 
+        "translation": "气候；风气"
+    }, 
+    "conscientious": {
+        "attr": "adj", 
+        "sentence": "a () worker -- 一个勤勉的工作人员", 
+        "translation": "本着良心的， 勤勉认真的"
+    }, 
+    "cricket": {
+        "attr": "n", 
+        "sentence": "() match -- 板球比赛", 
+        "translation": "板球；蟋蟀"
+    }, 
+    "cube": {
+        "attr": "n", 
+        "sentence": "sugar () -- 方糖", 
+        "translation": "立方体；立方"
+    }, 
+    "desolate": {
+        "attr": "n", 
+        "sentence": "a () desert -- 荒凉的沙漠", 
+        "translation": "荒凉的"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "fluctuate": {
+        "attr": "v", 
+        "sentence": "Stock prices () wildly -- 股票价格大幅波动", 
+        "translation": "波动；起伏不定"
+    }, 
+    "fracture": {
+        "attr": "n, v", 
+        "sentence": "Old people's bones are easy to () -- 老年人易骨折", 
+        "translation": "n: 破裂；骨折 v: 使断裂；使骨折"
+    }, 
+    "grip": {
+        "attr": "n, v", 
+        "sentence": "I try my best to () the present happiness -- 我努力抓住当下的幸福", 
+        "translation": "v: 紧握；紧抓 n: 紧握；紧抓"
+    }, 
+    "hemisphere": {
+        "attr": "n", 
+        "sentence": "the northern () -- 北半球", 
+        "translation": "半球体"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "indignant": {
+        "attr": "n", 
+        "sentence": "I was () because it's unfair -- 我非常愤慨，因为这不公平", 
+        "translation": "愤慨"
+    }, 
+    "insulate": {
+        "attr": "v", 
+        "sentence": "How can we () our home from the noise -- 有什么办法可以使我们的住宅隔音吗", 
+        "translation": "隔离；隔热；绝缘"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "obscure": {
+        "attr": "v, adj", 
+        "sentence": "The point of his speech is () -- 他发言的观点不明确", 
+        "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解"
+    }, 
+    "patch": {
+        "attr": "n, v", 
+        "sentence": "He had a () on the elbow of his jacket -- 他衣服的肘部有一块补丁", 
+        "translation": "n: 补丁 v: 打补丁"
+    }, 
+    "racket": {
+        "attr": "n", 
+        "sentence": "tennis () -- 网球拍", 
+        "translation": "球拍"
+    }, 
+    "reciprocity": {
+        "attr": "n", 
+        "sentence": "equality () -- 平等互惠", 
+        "translation": "相互性；互惠"
+    }, 
+    "redundant": {
+        "attr": "adj", 
+        "sentence": "() labours -- 过剩的劳动力", 
+        "translation": "多余的；过剩的；被裁减的"
+    }, 
+    "regulate": {
+        "attr": "v", 
+        "sentence": "() the economy -- 调控经济", 
+        "translation": "管理；调整"
+    }, 
+    "scorn": {
+        "attr": "n, v", 
+        "sentence": "an expression of () -- 轻视的表情", 
+        "translation": "蔑视"
+    }, 
+    "scramble": {
+        "attr": "n, v", 
+        "sentence": "They () for the best seats -- 他们抢夺最好的座位", 
+        "translation": "v: 攀爬；爬；争抢 n: 攀爬；爬；争夺"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "sniff": {
+        "attr": "n, v", 
+        "sentence": "Do you want a () of powder -- 你想问问火药吗", 
+        "translation": "v: 闻；擤鼻子 n: 闻；嗅"
+    }
+}

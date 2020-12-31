@@ -1,0 +1,112 @@
+{
+    "associate": {
+        "attr": "v，n，adj", 
+        "sentence": "I files charges against my () -- 我对我的同事提起诉讼", 
+        "translation": "v： 把 ... 联系在一起；与...交往 n：同事；伙伴 adj：副的"
+    }, 
+    "barely": {
+        "attr": "adv", 
+        "sentence": "I was () able to stay awake -- 仅仅；几乎不", 
+        "translation": "adv：仅仅；几乎不"
+    }, 
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "commitment": {
+        "attr": "n", 
+        "sentence": "meet the () -- 履行承诺", 
+        "translation": "n：承诺；投入"
+    }, 
+    "contrive": {
+        "attr": "v", 
+        "sentence": "to () an escape from the prison -- 图谋越狱", 
+        "translation": "v：图谋；发明；设计"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "divide": {
+        "attr": "v", 
+        "sentence": "Class differences can () a nation -- 阶级差异会造成国家的分裂", 
+        "translation": "v：分割；分裂；意见不合；除"
+    }, 
+    "drain": {
+        "attr": "v，n", 
+        "sentence": "() pipe -- 排水管", 
+        "translation": "v：排水；流掉；弄干；饮尽 n：排水；下水道"
+    }, 
+    "exquisitely": {
+        "attr": "adv", 
+        "sentence": "These gardens are not big but () laid out -- 这些园林规模不大，但布局灵巧", 
+        "translation": "adv：精巧地；剧烈地；敏锐地"
+    }, 
+    "favorable": {
+        "attr": "adj", 
+        "sentence": "He made a () impression on his boss -- 他给他的老板留下良好的印象", 
+        "translation": "adj：赞成的；有利的；嘉许的"
+    }, 
+    "flattering": {
+        "attr": "adj，v", 
+        "sentence": "He likes to make () remarks -- 他喜欢说奉承话", 
+        "translation": "adj：奉承的 v：奉承；讨好"
+    }, 
+    "furnish": {
+        "attr": "v", 
+        "sentence": "The school doesn't () students with lunch -- 学校不提供给学生午饭", 
+        "translation": "v：布置家居；配置；供给；提供"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "militant": {
+        "attr": "adj，n", 
+        "sentence": "A few () people attacked the speaker -- 几个好战的人攻击了演讲者", 
+        "translation": "adj：激进的；好战的 n：激进；好战"
+    }, 
+    "outset": {
+        "attr": "n", 
+        "sentence": "Problems arose at the very () -- 问题从一开始就出现了", 
+        "translation": "n：开端；起始"
+    }, 
+    "plaster": {
+        "attr": "n，v", 
+        "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏", 
+        "translation": "n：灰泥；膏药；熟石膏 v：涂膏药"
+    }, 
+    "shed": {
+        "attr": "n，v", 
+        "sentence": "The cattle are in the () -- 牛在牛棚里", 
+        "translation": "n：棚 v：除去；使脱落"
+    }, 
+    "sideways": {
+        "attr": "adv，adj", 
+        "sentence": "He looked () at her -- 他斜着眼看她", 
+        "translation": "adv：斜向一边地 adj：斜着的"
+    }, 
+    "smash": {
+        "attr": "v，n", 
+        "sentence": "() ciolently -- 猛烈地打击", 
+        "translation": "v：打碎；猛烈撞击 n：打碎；撞车事故"
+    }, 
+    "tale": {
+        "attr": "n", 
+        "sentence": "She told a () -- 她讲了一个故事", 
+        "translation": "n：故事"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "tilt": {
+        "attr": "n，v", 
+        "sentence": "I () my body -- 我倾斜我的身子", 
+        "translation": "v：倾斜；偏向 n：倾斜；企图"
+    }
+}

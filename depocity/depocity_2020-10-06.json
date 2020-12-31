@@ -1,0 +1,132 @@
+{
+    "auction": {
+        "attr": "n，v", 
+        "sentence": "They sold the furniture by () -- 他们拍卖了这套家具", 
+        "translation": "n：拍卖 v：拍卖"
+    }, 
+    "booth": {
+        "attr": "n", 
+        "sentence": "a ticket () -- 售票厅", 
+        "translation": "n：小厅；临时货摊；隔间"
+    }, 
+    "botany": {
+        "attr": "n", 
+        "sentence": "ecological () -- 植物生态学", 
+        "translation": "n：植物学"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "commend": {
+        "attr": "v", 
+        "sentence": "The critics () the new film -- 评论家推荐哪部新影片", 
+        "translation": "v：推荐；表扬"
+    }, 
+    "conspiracy": {
+        "attr": "n", 
+        "sentence": "vile () -- 邪恶的阴谋", 
+        "translation": "n：阴谋"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "degenerate": {
+        "attr": "adj，n，v", 
+        "sentence": "The thief was a () member of a fine family -- 那个小偷是优秀家族的堕落成员", 
+        "translation": "adj：退步的；堕落的 v：退化；堕落 n：堕落的人"
+    }, 
+    "fracture": {
+        "attr": "n, v", 
+        "sentence": "Old people's bones are easy to () -- 老年人易骨折", 
+        "translation": "n: 破裂；骨折 v: 使断裂；使骨折"
+    }, 
+    "grocer": {
+        "attr": "n", 
+        "sentence": "business a () -- 运营一家杂货店", 
+        "translation": "n：食品杂货店"
+    }, 
+    "mingle": {
+        "attr": "v", 
+        "sentence": "The two rivers () their waters here -- 这两条河流在这里汇聚", 
+        "translation": "v：使想混；使联结；交际"
+    }, 
+    "paralysis": {
+        "attr": "n", 
+        "sentence": "() of the leg -- 腿部麻痹", 
+        "translation": "n：瘫痪；麻痹"
+    }, 
+    "passive": {
+        "attr": "adj", 
+        "sentence": "in a () position -- 陷入被动的地位", 
+        "translation": "adj：消极的；被动的"
+    }, 
+    "pinch": {
+        "attr": "n，v", 
+        "sentence": "add a () of salt to the food -- 在食物里放一小撮盐", 
+        "translation": "n：捏；掐；一小撮 v：捏；掐；偷"
+    }, 
+    "precaution": {
+        "attr": "n", 
+        "sentence": "safety () -- 安全预防措施", 
+        "translation": "n：预防；预防措施"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "recreation": {
+        "attr": "n", 
+        "sentence": "facilities for () -- 娱乐设施", 
+        "translation": "n：消遣；娱乐"
+    }, 
+    "revolve": {
+        "attr": "v", 
+        "sentence": "Ideas () in her mind -- 思绪在她脑海中反复盘旋", 
+        "translation": "v：旋转；考虑；围绕"
+    }, 
+    "spade": {
+        "attr": "n", 
+        "sentence": "Turn the soil over with a spade -- 用铁锹把地翻一遍", 
+        "translation": "n：铁锹；黑桃"
+    }, 
+    "specimen": {
+        "attr": "n", 
+        "sentence": "collect a () -- 采集标本", 
+        "translation": "n：标本；样品"
+    }, 
+    "speculate": {
+        "attr": "v", 
+        "sentence": "Can you () how much damage might arise -- 你能推测出这会造成多大的伤害吗", 
+        "translation": "v：推测；思索；投机"
+    }, 
+    "substitute": {
+        "attr": "v，n", 
+        "sentence": "Water is not a proper () for wine -- 谁不是酒的适当替代品", 
+        "translation": "v：替代 n：代用品"
+    }, 
+    "supplement": {
+        "attr": "v，n", 
+        "sentence": "This is a () to the report -- 这是对报告的补充", 
+        "translation": "v：补充 n：补充物；副刊；附录"
+    }, 
+    "waist": {
+        "attr": "n", 
+        "sentence": "His arms encircled her () -- 他的双臂搂着她的腰", 
+        "translation": "n：腰"
+    }, 
+    "wholesome": {
+        "attr": "adj", 
+        "sentence": "() food -- 健康的食物", 
+        "translation": "adj：健康的；有益身心的"
+    }, 
+    "wretched": {
+        "attr": "adj", 
+        "sentence": "() weather -- 恶劣的天气", 
+        "translation": "adj：悲惨的；不行的；难过的"
+    }
+}

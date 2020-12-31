@@ -1,0 +1,117 @@
+{
+    "anticipate": {
+        "attr": "v", 
+        "sentence": "We () hearing from you again -- 我们期待再接到您的来信", 
+        "translation": "v：预料；预期；期望"
+    }, 
+    "buffet": {
+        "attr": "n，v", 
+        "sentence": "We had a () supper last evening -- 昨天晚上，我们吃了一次自助晚餐", 
+        "translation": "n：自助餐 v：反复敲打"
+    }, 
+    "carpenter": {
+        "attr": "n", 
+        "sentence": "The  () built a cupboard into a wall -- 木匠在墙上嵌上一个橱柜", 
+        "translation": "n：木匠"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "damp": {
+        "attr": "adj，n，v", 
+        "sentence": "() winter -- 潮湿的冬天", 
+        "translation": "adj：潮湿的 n：潮湿 v：使潮湿"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "discrepancy": {
+        "attr": "n", 
+        "sentence": "There is a () in the two reports of the accident -- 关于那起事故的两份报道有矛盾之处", 
+        "translation": "n：差异；矛盾"
+    }, 
+    "exemplify": {
+        "attr": "v", 
+        "sentence": "I will () my point with a story -- 我会用一个故事举例说明我的观点", 
+        "translation": "v：举例说明；例证；例示"
+    }, 
+    "fossile": {
+        "attr": "n", 
+        "sentence": "The man is a () -- 那是个老顽固", 
+        "translation": "n：化石；守旧的事物"
+    }, 
+    "fragile": {
+        "attr": "adj", 
+        "sentence": "() health -- 虚弱的体质", 
+        "translation": "adj：一岁的；脆弱的"
+    }, 
+    "grim": {
+        "attr": "adj", 
+        "sentence": "Her face wore a () look -- 她脸上显出严厉的神情", 
+        "translation": "adj: 严厉的；严峻的"
+    }, 
+    "layoff": {
+        "attr": "n", 
+        "sentence": "n：临时解雇；活动停止期间", 
+        "translation": "injury () -- 受伤的休养期间"
+    }, 
+    "liquor": {
+        "attr": "n", 
+        "sentence": "Stay off the hard () until your stomach fells better -- 等你的胃舒服了再喝烈酒", 
+        "translation": "n：酒；烈酒"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "mild": {
+        "attr": "adj", 
+        "sentence": "The patient has a () fever -- 那个病人有些轻微的发烧", 
+        "translation": "adj：温和的；轻微的"
+    }, 
+    "obscure": {
+        "attr": "v, adj", 
+        "sentence": "The point of his speech is () -- 他发言的观点不明确", 
+        "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解"
+    }, 
+    "overtake": {
+        "attr": "v", 
+        "sentence": "It is very dangerous to () at a corner -- 转弯时超车很危险", 
+        "translation": "v：赶上；超过"
+    }, 
+    "persevere": {
+        "attr": "v", 
+        "sentence": "We still () despite setbacks -- 尽管挫折，我们仍不屈不挠", 
+        "translation": "v：坚持不懈"
+    }, 
+    "quotation": {
+        "attr": "n", 
+        "sentence": "We accepted the lowest () -- 我们接受最低的报价", 
+        "translation": "n：引用；语录；行情；报价"
+    }, 
+    "sophisticated": {
+        "attr": "adj", 
+        "sentence": "She is a () journalist -- 她是一个富有经验的记者", 
+        "translation": "adj：老练的；世故的"
+    }, 
+    "stale": {
+        "attr": "adj", 
+        "sentence": "() air -- 不新鲜的空气", 
+        "translation": "adj：陈腐的；不新鲜的"
+    }, 
+    "steer": {
+        "attr": "v", 
+        "sentence": "() into a port -- 驶入海港", 
+        "translation": "v：驾驶；引导；掌舵"
+    }, 
+    "strip": {
+        "attr": "v,n", 
+        "sentence": "I () myself to a shower -- 我脱了衣服冲澡", 
+        "translation": "v：剥去；脱衣 n：长条；条状"
+    }
+}

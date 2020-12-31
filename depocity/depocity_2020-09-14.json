@@ -1,0 +1,192 @@
+{
+    "banner": {
+        "attr": "n", 
+        "sentence": "hold up a () -- 举起旗帜", 
+        "translation": "n：旗帜；横幅"
+    }, 
+    "canoe": {
+        "attr": "n", 
+        "sentence": "His () was in the rapids -- 他的独木舟在急流当中", 
+        "translation": "n：独木舟"
+    }, 
+    "cape": {
+        "attr": "n", 
+        "sentence": "a woollen () -- 羊毛披肩", 
+        "translation": "n：披风；披肩"
+    }, 
+    "cart": {
+        "attr": "n", 
+        "sentence": "shopping () -- 购物车", 
+        "translation": "n：大车；手推车"
+    }, 
+    "clay": {
+        "attr": "n", 
+        "sentence": "layer of () -- 黏土层", 
+        "translation": "n：黏土"
+    }, 
+    "commence": {
+        "attr": "adjc", 
+        "sentence": "() a career -- 开始一个职业生涯", 
+        "translation": "adj：开始发生；着手"
+    }, 
+    "commute": {
+        "attr": "v，n", 
+        "sentence": "() from death to life imprisonment -- 由死刑减为无期徒刑", 
+        "translation": "v：上下班往返；改变为；减轻刑罚 n：上下班往返"
+    }, 
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "enrol": {
+        "attr": "v", 
+        "sentence": "to () the name -- 登记名字", 
+        "translation": "v：登机；注册"
+    }, 
+    "explicit": {
+        "attr": "adj", 
+        "sentence": "() directions -- 明确指示", 
+        "translation": "adj：明确的；清楚地"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "handicap": {
+        "attr": "n", 
+        "sentence": "Blindness is a great () -- 失明是巨大的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "It is () that we make a decision -- 我们继续做出决定", 
+        "translation": "adj：继续的；势在必行的 n：必要的事；命令"
+    }, 
+    "infant": {
+        "attr": "n，adj", 
+        "sentence": "an () enterprise -- 新兴的企业", 
+        "translation": "n：婴儿；幼儿 adj：婴儿的；幼儿的"
+    }, 
+    "integral": {
+        "attr": "adj，n", 
+        "sentence": "Practice experience is () to the course -- 这门课不可缺少实践经验", 
+        "translation": "adj：完整的；积分的 n：积分；整体"
+    }, 
+    "integrity": {
+        "attr": "n", 
+        "sentence": "the () of brain function -- 脑功能健全", 
+        "translation": "n：完整；政治；诚实"
+    }, 
+    "interval": {
+        "attr": "n", 
+        "sentence": "maintain () -- 保持间距", 
+        "translation": "n：间隔，中场休息"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "invasion": {
+        "attr": "n", 
+        "sentence": "repel an () -- 抵抗侵略", 
+        "translation": "侵犯，侵略"
+    }, 
+    "lantern": {
+        "attr": "n", 
+        "sentence": "THe () swung in the wind -- 提灯在风中摇动", 
+        "translation": "n：提灯；灯笼"
+    }, 
+    "lopsided": {
+        "attr": "adj", 
+        "sentence": "a () view -- 倾向一方的看法", 
+        "translation": "adj：倾向一方的；不平衡的"
+    }, 
+    "proclaim": {
+        "attr": "v", 
+        "sentence": "() the good news -- 宣布好消息", 
+        "translation": "v：宣告；公布；表名"
+    }, 
+    "renaissance": {
+        "attr": "n", 
+        "sentence": "Florence is the shrine of the () -- 佛罗伦萨是文艺复兴的圣地", 
+        "translation": "n：复兴；文艺复兴"
+    }, 
+    "semiconductor": {
+        "attr": "n", 
+        "sentence": "() chips are small in size and light in weight -- 半导体芯片体积小而且重量轻", 
+        "translation": "n：半导体"
+    }, 
+    "slap": {
+        "attr": "v，n", 
+        "sentence": "I () him on the back -- 我在他的背上拍了一下", 
+        "translation": "v：拍；拍击 n：拍；拍击"
+    }, 
+    "sneeze": {
+        "attr": "v，n", 
+        "sentence": "What exactly happens when we () -- 我们打喷嚏究竟是怎么回事", 
+        "translation": "v：打喷嚏 n：喷嚏"
+    }, 
+    "sorrow": {
+        "attr": "n", 
+        "sentence": "A man in () is anxious for sympathy -- 悲痛中的人渴望得到同情", 
+        "translation": "n: 悲痛；伤心"
+    }, 
+    "spin": {
+        "attr": "v，n", 
+        "sentence": "to () at full speed -- 全速旋转", 
+        "translation": "v：旋转；疾驰 n：旋转"
+    }, 
+    "sponge": {
+        "attr": "n，v", 
+        "sentence": "() the mud off the car -- 用海绵擦去车上的污泥", 
+        "translation": "n：海绵动物；海绵块 v：用海绵擦"
+    }, 
+    "sprinkle": {
+        "attr": "v，n", 
+        "sentence": "It will () soon -- 很快就要下小雨了", 
+        "translation": "v：撒；洒；下小雨 n：洒；撒；小雨；少量"
+    }, 
+    "superflous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 多余的财富", 
+        "translation": "adj：多余的；过剩的；不必要的"
+    }, 
+    "symphony": {
+        "attr": "n", 
+        "sentence": "The () is beatiful -- 这不交响乐很优美", 
+        "translation": "n：交响乐"
+    }, 
+    "thick": {
+        "attr": "adj", 
+        "sentence": "() board -- 厚木板", 
+        "translation": "adj：厚的；出的；浓稠的"
+    }, 
+    "tram": {
+        "attr": "n，v", 
+        "sentence": "() rail -- 电车轨道", 
+        "translation": "n：电车；缆车 v：乘电车；乘缆车"
+    }, 
+    "transparent": {
+        "attr": "adj", 
+        "sentence": "() water -- 透明的水", 
+        "translation": "adj：透明的；显然的"
+    }, 
+    "vanity": {
+        "attr": "n", 
+        "sentence": "He has many faults, but () is not one of them -- 他有很多缺点，但是虚荣心不是其中之一", 
+        "translation": "n：虚荣；自负"
+    }, 
+    "vital": {
+        "attr": "adj", 
+        "sentence": "() point -- 极其重要的一点", 
+        "translation": "adj：至关重要的；所必需的；生死攸关的"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "agitated": {
+        "attr": "adj，v", 
+        "sentence": "be () by the alarming news -- 因惊人的消息而感到不安", 
+        "translation": "adj：焦虑不安的；激动的 v：搅动；鼓动"
+    }, 
+    "ambulance": {
+        "attr": "n", 
+        "sentence": "The crowd fell back to let the () through -- 人群后退，让救护车通过", 
+        "translation": "n：救护车"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "cereal": {
+        "attr": "n", 
+        "sentence": "a bowl of () -- 一碗麦片粥", 
+        "translation": "n：谷物；谷类食品"
+    }, 
+    "conservation": {
+        "attr": "n", 
+        "sentence": "the () of water -- 节约用水", 
+        "translation": "n：保护；保存；节约"
+    }, 
+    "cordial": {
+        "attr": "adj，n", 
+        "sentence": "a () with a sweet taste -- 有甜味的甘露酒", 
+        "translation": "adj：热诚的；衷心的 n：兴奋剂；甜酒"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "dense": {
+        "attr": "adj", 
+        "sentence": "() forest -- 茂密的森林", 
+        "translation": "adj：密集的；稠密的；愚钝的"
+    }, 
+    "enrol": {
+        "attr": "v", 
+        "sentence": "to () the name -- 登记名字", 
+        "translation": "v：登机；注册"
+    }, 
+    "feeble": {
+        "attr": "adj", 
+        "sentence": "the () light -- 微弱的灯光", 
+        "translation": "adj：虚弱的；衰弱的；无力的"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "indulge": {
+        "attr": "v", 
+        "sentence": "to () one's curiosity -- 满足好奇心", 
+        "translation": "v：放任；沉溺；使满足；听任"
+    }, 
+    "irritate": {
+        "attr": "v", 
+        "sentence": "The noise began to () me -- 噪音开始令我感到烦躁", 
+        "translation": "v：激怒；使急躁；使疼痛"
+    }, 
+    "lane": {
+        "attr": "n", 
+        "sentence": "bus lane -- 公共汽车专用车道", 
+        "translation": "n：小路；小巷；巷道；车道"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "melt": {
+        "attr": "v", 
+        "sentence": "The ships () into the darkness -- 轮船消失在黑暗中", 
+        "translation": "v：融化"
+    }, 
+    "objection": {
+        "attr": "n", 
+        "sentence": "I have no () to their plan -- 我不反对他们的计划", 
+        "translation": "n：反对；异议"
+    }, 
+    "obstacle": {
+        "attr": "n", 
+        "sentence": "Parents' opposition is an () to her marriage -- 父母反对是她婚姻的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "petrol": {
+        "attr": "n", 
+        "sentence": "a gallon of () -- 一加仑汽油", 
+        "translation": "n：汽油"
+    }, 
+    "plaster": {
+        "attr": "n，v", 
+        "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏", 
+        "translation": "n：灰泥；膏药；熟石膏 v：涂膏药"
+    }, 
+    "postal": {
+        "attr": "adj，n", 
+        "sentence": "a schedule of () charges -- 邮资价目表", 
+        "translation": "adj：邮政的；邮局的；邮寄的 n：明信片"
+    }, 
+    "preliminary": {
+        "attr": "adj", 
+        "sentence": "a () examination -- 一场测试", 
+        "translation": "adj：预备的；初步的"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "quench": {
+        "attr": "v", 
+        "sentence": "Water will () a fire -- 水会灭火", 
+        "translation": "v：熄灭；平息"
+    }, 
+    "quiver": {
+        "attr": "v", 
+        "sentence": "I () with anger -- 我气得全身发抖", 
+        "translation": "v：颤抖；颤动；发抖"
+    }, 
+    "ratio": {
+        "attr": "n", 
+        "sentence": "direct () -- 正比", 
+        "translation": "n：比率；比值"
+    }, 
+    "rope": {
+        "attr": "n，v", 
+        "sentence": "untie the () -- 解开绳子", 
+        "translation": "n：绳索；粗绳 v：捆绑"
+    }, 
+    "saddle": {
+        "attr": "n，v", 
+        "sentence": "mount the () -- 爬上马鞍", 
+        "translation": "n：马鞍；鞍座 v：装马鞍"
+    }, 
+    "scold": {
+        "attr": "v", 
+        "sentence": "Don't () the child without reason -- 不要无缘无故地责备小孩", 
+        "translation": "v：责骂；训斥"
+    }, 
+    "sewing": {
+        "attr": "n，v", 
+        "sentence": "operate a () machine -- 使用缝纫机", 
+        "translation": "n：缝纫；缝纫的物品 v：缝制；缝补"
+    }, 
+    "solemn": {
+        "attr": "adj", 
+        "sentence": "() ceremony -- 隆重的仪式", 
+        "translation": "adj：严肃的；庄严的；隆重的"
+    }, 
+    "sponge": {
+        "attr": "n，v", 
+        "sentence": "() the mud off the car -- 用海绵擦去车上的污泥", 
+        "translation": "n：海绵动物；海绵块 v：用海绵擦"
+    }, 
+    "stitch": {
+        "attr": "v，n", 
+        "sentence": "() the two layers together -- 将两层缝合起来", 
+        "translation": "v：缝；缝合 n：针脚；缝线"
+    }, 
+    "stool": {
+        "attr": "n", 
+        "sentence": "Please go and take a () test -- 请去化验一下粪便", 
+        "translation": "n：凳子；粪便"
+    }, 
+    "subordinate": {
+        "attr": "adj，n，v", 
+        "sentence": "delegate a task to a () -- 把任务委派给下属", 
+        "translation": "adj：次要的；附属的 n：下属；从属物 v：居于次要"
+    }, 
+    "swing": {
+        "attr": "n，v", 
+        "sentence": "The kid is playing on the () in the park -- 那个小孩在公园里荡秋千", 
+        "translation": "n：摇摆；秋千 v：摇摆"
+    }, 
+    "synthesis": {
+        "attr": "n", 
+        "sentence": "the picture () -- 图像合成", 
+        "translation": "n：综合；合成；综合体"
+    }, 
+    "wrench": {
+        "attr": "v，n", 
+        "sentence": "the () of leaving home -- 离家的悲痛", 
+        "translation": "v：猛扭；扭伤；挣脱 n：扳手；痛苦"
+    }
+}

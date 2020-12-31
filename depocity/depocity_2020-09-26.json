@@ -1,0 +1,67 @@
+{
+    "amid": {
+        "attr": "prep", 
+        "sentence": "I stood () a sea of corn -- 我站在茫茫一片庄稼种", 
+        "translation": "prep：在其中"
+    }, 
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "lateral": {
+        "attr": "adj", 
+        "sentence": "() section -- 横截面", 
+        "translation": "adj：侧面的；横向的"
+    }, 
+    "optical": {
+        "attr": "adj", 
+        "sentence": "() defect -- 视觉缺陷", 
+        "translation": "adj：是觉得；光学的"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "porch": {
+        "attr": "n", 
+        "sentence": "The () was narrow -- 门廊狭窄", 
+        "translation": "n：门廊"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "stretch": {
+        "attr": "v，n", 
+        "sentence": "There is a () of woolland beside the sea -- 海边又一片森林", 
+        "translation": "v：伸展；延伸 n：伸展；弹性；一般"
+    }, 
+    "tenant": {
+        "attr": "n，v", 
+        "sentence": "The desk was left by the previous () -- 这张桌子是前面房客留下的", 
+        "translation": "n：房客；租户；佃户 v：出租"
+    }, 
+    "thermal": {
+        "attr": "adj", 
+        "sentence": "() underwear -- 保暖内衣", 
+        "translation": "adj：热的；保热的"
+    }
+}

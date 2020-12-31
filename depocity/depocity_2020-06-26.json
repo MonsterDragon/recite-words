@@ -1,0 +1,52 @@
+{
+	"upright": {
+            "sentence": "I'm an honest, (), decent man -- 我是一个城市、政治、正排的人",
+            "translation": "adj: 正直的；诚实的",
+            "attr": "adj"
+        },
+	"proghet": {
+            "sentence": "The () foresaw a famine -- 预言者预测到了饥荒",
+            "translation": "n: 预言者",
+            "attr": "n"
+        },
+	"legacy": {
+            "sentence": "He is the legal heir to the () -- 他是遗产的合法继承人",
+            "translation": "n: 遗产",
+            "attr": "n"
+        },
+	"homogeneous": {
+            "sentence": "() material -- 均质材料",
+            "translation": "adj: 均一的；相似的",
+            "attr": "adj"
+        },
+	"contemptible": {
+            "sentence": "a () trick -- 卑劣的诡计",
+            "translation": "adj: 鄙视的；瞧不起",
+            "attr": "adj"
+        },
+	"broom": {
+            "sentence": "sweep the floor with a () -- 用扫帚扫地",
+            "translation": "n: 扫帚",
+            "attr": "n"
+        },
+	"infer": {
+            "sentence": "From your smile I () that you're pleased -- 从你的笑容，我断定你很高兴",
+            "translation": "v: 推断；推知",
+            "attr": "v"
+        },
+	"plateau": {
+            "sentence": "Price has now reached a () -- 物价现在已趋于平稳",
+            "translation": "n: 高原；平稳期",
+            "attr": "n"
+        },
+	"torrent": {
+            "sentence": "a () of criticism -- 一连串指责",
+            "translation": "n: 急流；激流",
+            "attr": "n"
+        },
+	"inlet": {
+            "sentence": "() tube -- 入口管",
+            "translation": "n: 入口；进口；小湾",
+            "attr": "n"
+        }
+}

@@ -1,0 +1,132 @@
+{
+    "affair": {
+        "attr": "n", 
+        "sentence": "foreign () -- 外交事务", 
+        "translation": "n：事务；事件"
+    }, 
+    "artificial": {
+        "attr": "adj", 
+        "sentence": "() flowers -- 假花", 
+        "translation": "adj：人造的；人工的"
+    }, 
+    "brittle": {
+        "attr": "adj", 
+        "sentence": "() friendship -- 不牢固的友谊", 
+        "translation": "adj：易碎的；脆弱的；尖利的"
+    }, 
+    "cart": {
+        "attr": "n", 
+        "sentence": "shopping () -- 购物车", 
+        "translation": "n：大车；手推车"
+    }, 
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "decay": {
+        "attr": "v，n", 
+        "sentence": "a civilization that had begun to () -- 已经开始衰落的文明", 
+        "translation": "v：腐烂；衰退 n：腐烂；衰落"
+    }, 
+    "depict": {
+        "attr": "v", 
+        "sentence": "() the detail -- 描述细节", 
+        "translation": "v：描述；描绘"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "engender": {
+        "attr": "v", 
+        "sentence": "The teacher could () delight in students -- 这个老师能够让学生感到快乐", 
+        "translation": "v：使发生；引起"
+    }, 
+    "feasible": {
+        "attr": "adj", 
+        "sentence": "That is a () plan -- 这是一个切实可行的计划", 
+        "translation": "adj：可行的；行得通的"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "humid": {
+        "attr": "adj", 
+        "sentence": "the () climate -- 潮湿的气候", 
+        "translation": "adj：潮湿的；湿润的"
+    }, 
+    "humidity": {
+        "attr": "n", 
+        "sentence": "THe () is relatively low -- 湿度相对较低", 
+        "translation": "n：湿度；湿气"
+    }, 
+    "integral": {
+        "attr": "adj，n", 
+        "sentence": "Practice experience is () to the course -- 这门课不可缺少实践经验", 
+        "translation": "adj：完整的；积分的 n：积分；整体"
+    }, 
+    "integrate": {
+        "attr": "v", 
+        "sentence": "We must () theory with practice -- 我们必须把理论与实际相结合", 
+        "translation": "v：合并；融入"
+    }, 
+    "oven": {
+        "attr": "n", 
+        "sentence": "Take the cake out of the () -- 把蛋糕从烤箱中取出来", 
+        "translation": "n：烤箱；烤炉"
+    }, 
+    "panorama": {
+        "attr": "n", 
+        "sentence": "A vast () of the valley lay before us -- 山谷的广阔全景展现在我们面前", 
+        "translation": "n：全景；概论"
+    }, 
+    "pessimistic": {
+        "attr": "adj", 
+        "sentence": "There is no reason to be () about the future -- 没有理由对未来悲观", 
+        "translation": "adj：悲观；厌世的"
+    }, 
+    "pole": {
+        "attr": "n", 
+        "sentence": "a flag () -- 一只旗杆", 
+        "translation": "n：杆子；两级的一端"
+    }, 
+    "poverty": {
+        "attr": "n", 
+        "sentence": "eliminate () -- 消除贫困", 
+        "translation": "n：贫困；短缺"
+    }, 
+    "prolong": {
+        "attr": "v", 
+        "sentence": "Good care may () a sick person's life -- 好的照顾可延长病人的生命", 
+        "translation": "v：延长；拉长"
+    }, 
+    "revolve": {
+        "attr": "v", 
+        "sentence": "Ideas () in her mind -- 思绪在她脑海中反复盘旋", 
+        "translation": "v：旋转；考虑；围绕"
+    }, 
+    "rotate": {
+        "attr": "v", 
+        "sentence": "() the crops -- 轮种庄稼", 
+        "translation": "v：转动；轮作；轮流"
+    }, 
+    "summon": {
+        "attr": "v", 
+        "sentence": "to () the courage to tell the truth -- 鼓起勇气说出真相", 
+        "translation": "v：传唤；召集"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }
+}

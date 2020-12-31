@@ -1,0 +1,137 @@
+{
+    "accessory": {
+        "attr": "n，adj", 
+        "sentence": "an () of mobile phone -- 一个手机配件", 
+        "translation": "n：配件；附件；从犯 adj：附属的"
+    }, 
+    "amiable": {
+        "attr": "adj", 
+        "sentence": "He is an () professor -- 他是一个和蔼可亲的教授", 
+        "translation": "adj：和蔼可亲的；亲切友好的"
+    }, 
+    "anonymous": {
+        "attr": "adj", 
+        "sentence": "an () vote -- 不记名投票", 
+        "translation": "adj：匿名的；无名的；不知名的"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命的错误", 
+        "translation": " n：失误 v：犯错误；失误"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "concrete": {
+        "attr": "adj，n，v", 
+        "sentence": "() evidence -- 确凿的证据", 
+        "translation": "adj：有形的；混凝土的；确实具体的 n：混凝土；具体物 v：用混凝土覆盖"
+    }, 
+    "constitute": {
+        "attr": "v：构成；被视为", 
+        "sentence": "They () a temporary committee -- 他们建立了一个临时委员会", 
+        "translation": "v：构成；被视为"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "dull": {
+        "attr": "adj", 
+        "sentence": "a () speech -- 一段单调乏味的讲话", 
+        "translation": "adj：愚蠢的；枯燥的；阴暗的"
+    }, 
+    "hollow": {
+        "attr": "adj", 
+        "sentence": "A water pipe is () -- 水管是空心的", 
+        "translation": "adj：中空的；空洞的"
+    }, 
+    "inconceivable": {
+        "attr": "adj", 
+        "sentence": "It is () -- 难以置信的", 
+        "translation": "adj：难以想象的；难以相信的"
+    }, 
+    "inherent": {
+        "attr": "adj", 
+        "sentence": "The desire for freedom is () in all of us -- 对自由的渴望是我们每个人与生俱来的", 
+        "translation": "adj：固有的；内在的；天生的"
+    }, 
+    "litter": {
+        "attr": "n，v", 
+        "sentence": "The () is gently deposited on the floor -- 担架轻放在地上", 
+        "translation": "n：垃圾；杂物；担架 v：乱扔；乱丢杂物"
+    }, 
+    "majesty": {
+        "attr": "n", 
+        "sentence": "the () of the law -- 法律的最高权威", 
+        "translation": "n：最高权威；王权；威严"
+    }, 
+    "nominal": {
+        "attr": "n", 
+        "sentence": "the () leader -- 挂名领导", 
+        "translation": "adj：名义上的；微不足道的；象征性的"
+    }, 
+    "notion": {
+        "attr": "n", 
+        "sentence": "absract () -- 抽象概念", 
+        "translation": "n：概念；观念；想法"
+    }, 
+    "obstacle": {
+        "attr": "n", 
+        "sentence": "Parents' opposition is an () to her marriage -- 父母反对是她婚姻的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "pension": {
+        "attr": "n", 
+        "sentence": "() fund -- 退休基金", 
+        "translation": "n：养老金；退休金；抚恤金"
+    }, 
+    "profound": {
+        "attr": "adj", 
+        "sentence": "a () insight -- 深邃的洞察力", 
+        "translation": "adj: 深邃的；深刻的；深奥的；深远的"
+    }, 
+    "regin": {
+        "attr": "v，n", 
+        "sentence": "to () over a country -- 统治国家", 
+        "translation": "v：统治；支配；盛行 n：君主统治；在位期"
+    }, 
+    "residence": {
+        "attr": "n", 
+        "sentence": "fixed () -- 固定住所", 
+        "translation": "n：居住；住所"
+    }, 
+    "robe": {
+        "attr": "n，v", 
+        "sentence": "a bath () -- 浴袍", 
+        "translation": "n：长袍 v：穿上长袍"
+    }, 
+    "strip": {
+        "attr": "v,n", 
+        "sentence": "I () myself to a shower -- 我脱了衣服冲澡", 
+        "translation": "v：剥去；脱衣 n：长条；条状"
+    }, 
+    "subsidise": {
+        "attr": "v", 
+        "sentence": "Government can use the rich people's tax money to () the less fortunate -- 政府可以用富人纳税的钱去补贴穷人", 
+        "translation": "v：以津贴补助"
+    }, 
+    "suburb": {
+        "attr": "n", 
+        "sentence": "a residential () -- 一个近郊住宅区", 
+        "translation": "n：市郊；郊区"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "veil": {
+        "attr": "n，v", 
+        "sentence": "() the face -- 用面纱把脸遮起来", 
+        "translation": "n：面纱；遮盖物 v：蒙上面纱；隐藏；掩饰"
+    }
+}

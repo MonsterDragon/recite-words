@@ -1,0 +1,37 @@
+{
+    "concord": {
+        "attr": "n", 
+        "sentence": "The two tribes lived in () -- 两个部落和睦相处", 
+        "translation": "n：和谐；谐调；一致"
+    }, 
+    "irritate": {
+        "attr": "v", 
+        "sentence": "The noise began to () me -- 噪音开始令我感到烦躁", 
+        "translation": "v：激怒；使急躁；使疼痛"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "primitive": {
+        "attr": "adj", 
+        "sentence": "() society -- 原始社会", 
+        "translation": "adj：原始的；简陋的"
+    }, 
+    "quiver": {
+        "attr": "v", 
+        "sentence": "I () with anger -- 我气得全身发抖", 
+        "translation": "v：颤抖；颤动；发抖"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "susceptible": {
+        "attr": "adj", 
+        "sentence": "The plant is not () to disease -- 这种植物不容易受病害侵扰", 
+        "translation": "adj：易受影响的；易动感情的"
+    }
+}

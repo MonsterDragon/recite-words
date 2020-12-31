@@ -1,0 +1,147 @@
+{
+	"civil": {
+            "sentence": "() aviation -- 民航",
+            "translation": "adj：公民的；国内的；民用的；文明的",
+            "attr": "adj"
+        },
+	"glide": {
+            "sentence": "I () away from classroom -- 我溜出教室",
+            "translation": "v：滑行；滑动；滑翔 n：滑行；滑动；滑翔",
+            "attr": "v，n"
+        },
+	"quench": {
+            "sentence": "Water will () a fire -- 水会灭火",
+            "translation": "v：熄灭；平息",
+            "attr": "v"
+        },
+	"bolt": {
+            "sentence": "Don't forget to () the door -- 别忘了闩门",
+            "translation": "n：插销；螺栓；闪电 v：用插销拴上",
+            "attr": "n, v"
+        },
+	"mass": {
+            "sentence": "This particle has a very small () -- 这种粒子的质量很小",
+            "translation": "n：质量；一群；大量",
+            "attr": "n"
+        },
+	"gown": {
+            "sentence": "I went downstairs in my () -- 我穿着睡袍下楼了",
+            "translation": "n：长袍；礼服",
+            "attr": "n"
+        },
+	"vanity": {
+            "sentence": "He has many faults，but () is not one of them -- 他有很多缺点，但是自负不是其中之一",
+            "translation": "n：自负；虚荣",
+            "attr": "n"
+        },
+	"impetus": {
+            "sentence": "Her speech gave an () to my ideas -- 她的讲话激发了我的灵感",
+            "translation": "n：冲力；推动力；刺激",
+            "attr": "n"
+        },
+	"radically": {
+            "sentence": "The landscape is () changed -- 地貌发生了根本的变化",
+            "translation": "adv：彻底地；根本地",
+            "attr": "adv"
+        },
+	"crop": {
+            "sentence": "Rice is the chief () in this area -- 水稻是这一地区的主要农作物",
+            "translation": "n：农作物；收成 v：修剪，种植，收割",
+            "attr": "n，v"
+        },
+	"compartment": {
+            "sentence": "smoking () -- 吸烟隔间",
+            "translation": "n：分隔间；车间",
+            "attr": "n"
+        },
+	"integal": {
+            "sentence": "Practical experience is () to the course -- 这门课程不可缺少实践经验",
+            "translation": "adj：完整的，积分的 n：积分，整体",
+            "attr": "adj，n"
+        },
+	"crude": {
+            "sentence": "China is a country rich in () oil -- 中国是一个原油丰富的国家",
+            "translation": "adj：未加工的的；粗鲁的；简陋的",
+            "attr": "adj"
+        },
+	"contagious": {
+            "sentence": "Her laughter is () -- 她的笑很有感染力",
+            "translation": "adj：传染性的，有感染力的",
+            "attr": "adj"
+        },
+	"irrigate": {
+            "sentence": "How do you () your field -- 你是怎么灌溉田地的",
+            "translation": "v：灌溉；冲洗",
+            "attr": "v"
+        },
+	"sham": {
+            "sentence": "() modest -- 伪装谦虚",
+            "translation": "v：伪装 adj：虚假的 n：假冒者",
+            "attr": "v，adj，n"
+        },
+	"hatch": {
+            "sentence": "to () a plan -- 策划一个计划",
+            "translation": "v：孵出；出壳 n：舱口",
+            "attr": "v，n"
+        },
+	"notorious": {
+            "sentence": "a () gambler -- 声名狼藉的赌徒",
+            "translation": "adj：声名狼藉的；臭名昭著的",
+            "attr": "adj"
+        },
+	"assumption": {
+            "sentence": "His actions were based on a false () -- 他的行为基于错误的假设",
+            "translation": "n：假设；假想",
+            "attr": "n"
+        },
+	"accountability": {
+            "sentence": "This is within his sphere of () -- 这在他的责任范围内",
+            "translation": "n：责任；有义务",
+            "attr": "n"
+        },
+	"thrift": {
+            "sentence": "His success was due to his industry and () -- 他的成功基于他的勤奋与节俭",
+            "translation": "n：节俭；节约",
+            "attr": "n"
+        },
+	"judicial": {
+            "sentence": "the () system -- 司法系统",
+            "translation": "adj：司法的，法庭的，审判的",
+            "attr": "adj"
+        },
+	"levy": {
+            "sentence": "to () men for a war -- 征集男子参战",
+            "translation": "v：征收；征税；征募 n：征兵；征税",
+            "attr": "v，n"
+        },
+	"elaborate": {
+            "sentence": "an () machine -- 一台精致的机器",
+            "translation": "adj：精心制作的；详尽阐述的 v精心制作",
+            "attr": "adj"
+        },
+	"pledge": {
+            "sentence": "They () never to tell the secret -- 他们发誓绝不泄密",
+            "translation": "v：发誓；保证 n：誓言；保证",
+            "attr": "v，n"
+        },
+	"perpetual": {
+            "sentence": "They suffer from () hunger -- 他们遭受了长时间的",
+            "translation": "adj：长久的",
+            "attr": "adj"
+        },
+	"denote": {
+            "sentence": "We often () anger by red letters -- 我们常常用红色字母表示愤怒",
+            "translation": "v：表示；代表",
+            "attr": "v"
+        },
+	"metaphysical": {
+            "sentence": "a () theory -- 形而上学的理论",
+            "translation": "adj：形而上学的",
+            "attr": "adj"
+        },
+	"progression": {
+            "sentence": "opportunities for career () -- 事业发展的机遇",
+            "translation": "n：进步；进展",
+            "attr": "n"
+        }
+}

@@ -1,0 +1,152 @@
+{
+    "accountability": {
+        "attr": "n", 
+        "sentence": "This is within his sphere of () -- 这在他的责任范围内", 
+        "translation": "n：责任；有义务"
+    }, 
+    "ambulance": {
+        "attr": "n", 
+        "sentence": "The crowd fell back to let the () through -- 人群后退，让救护车通过", 
+        "translation": "n：救护车"
+    }, 
+    "boost": {
+        "attr": "n，v", 
+        "sentence": "a big () in salary -- 一次大幅涨薪", 
+        "translation": "n：提高；增加；帮助 v：使增长，提高；促进"
+    }, 
+    "cereal": {
+        "attr": "n", 
+        "sentence": "a bowl of () -- 一碗麦片粥", 
+        "translation": "n：谷物；谷类食品"
+    }, 
+    "cherish": {
+        "attr": "v", 
+        "sentence": "I () and respect every living day -- 我珍惜并敬重生命中的每一天", 
+        "translation": "v：珍爱；爱情；怀念"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "contemptible": {
+        "attr": "adj", 
+        "sentence": "a () act of violence -- 卑劣的暴力行径", 
+        "translation": "adj：可鄙的；可轻视的"
+    }, 
+    "cordial": {
+        "attr": "adj，n", 
+        "sentence": "a () with a sweet taste -- 有甜味的甘露酒", 
+        "translation": "adj：热诚的；衷心的 n：兴奋剂；甜酒"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "dense": {
+        "attr": "adj", 
+        "sentence": "() forest -- 茂密的森林", 
+        "translation": "adj：密集的；稠密的；愚钝的"
+    }, 
+    "egregiously": {
+        "attr": "adv", 
+        "sentence": "The government () violated those limits -- 政府严重违反了这些限制", 
+        "translation": "adv：极糟糕地；极坏地"
+    }, 
+    "flock": {
+        "attr": "n，v", 
+        "sentence": "Birds () by the lake -- 鸟聚集在湖畔", 
+        "translation": "n：群 v：聚集；群集"
+    }, 
+    "outrage": {
+        "attr": "n，v", 
+        "sentence": "the () of the invader -- 侵略者的暴行", 
+        "translation": "n：暴行；愤怒；愤慨 v：激怒；使震怒"
+    }, 
+    "perpetual": {
+        "attr": "adj", 
+        "sentence": "They suffer from () hunger -- 他们一直都忍饥挨饿", 
+        "translation": "adj: 持久的；长久的"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "pretext": {
+        "attr": "n", 
+        "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们", 
+        "translation": "n：借口；托词"
+    }, 
+    "prototype": {
+        "attr": "n", 
+        "sentence": "He was the () of the elder generation -- 他是老一辈的典型", 
+        "translation": "n：原型；模型；典型"
+    }, 
+    "quench": {
+        "attr": "v", 
+        "sentence": "Water will () a fire -- 水会灭火", 
+        "translation": "v：熄灭；平息"
+    }, 
+    "remark": {
+        "attr": "v，n", 
+        "sentence": "You should not () on her appearance -- 你不应该评论她的外貌", 
+        "translation": "v：评论；谈论；注意到 n：评论；言论；注意"
+    }, 
+    "reproach": {
+        "attr": "v，n", 
+        "sentence": "He looked at her with () -- 他用责备的目光看着他", 
+        "translation": "v：责备；指责 n：责备；指责"
+    }, 
+    "reptile": {
+        "attr": "n，adj", 
+        "sentence": "Snake is a kind of () -- 蛇是一种爬行动物", 
+        "translation": "n：爬行动物 adj：爬行类的"
+    }, 
+    "sewing": {
+        "attr": "n，v", 
+        "sentence": "operate a () machine -- 使用缝纫机", 
+        "translation": "n：缝纫；缝纫的物品 v：缝制；缝补"
+    }, 
+    "shuttle": {
+        "attr": "n，v", 
+        "sentence": "the space () -- 太空梭", 
+        "translation": "n：梭子；穿梭；航天飞机 v：穿梭移动；往返运送"
+    }, 
+    "sigh": {
+        "attr": "v，n", 
+        "sentence": "() in relief -- 如释重负地叹了一口气", 
+        "translation": "v：叹气；叹息 n：叹息；叹气"
+    }, 
+    "stagnation": {
+        "attr": "n", 
+        "sentence": "The depressed market results in the () of trade -- 市场萧条导致贸易停滞", 
+        "translation": "n：停滞；萧条；迟钝"
+    }, 
+    "strike": {
+        "attr": "n，v", 
+        "sentence": "() against unequal pay -- 罢工以反对不公平薪酬", 
+        "translation": "n：击打；罢工 v：击打；罢工；侵袭"
+    }, 
+    "thrift": {
+        "attr": "n", 
+        "sentence": "His success was due to his industry and () -- 他的成功基于他的勤奋与节俭", 
+        "translation": "n：节俭；节约"
+    }, 
+    "validity": {
+        "attr": "n", 
+        "sentence": "They challenge the () of the vote -- 他们对选举的有效性提出质疑", 
+        "translation": "n：合法性；有效性；正确性"
+    }, 
+    "vapour": {
+        "attr": "n", 
+        "sentence": "() can be changed into liquid by cooling -- 蒸汽可以通过冷却变成液体", 
+        "translation": "n：水蒸气"
+    }, 
+    "versus": {
+        "attr": "prep", 
+        "sentence": "income () savings -- 收益与储蓄", 
+        "translation": "prep：对...; 与 ... 相对"
+    }
+}

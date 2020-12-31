@@ -1,0 +1,22 @@
+{
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "obligation": {
+        "attr": "n", 
+        "sentence": "undertake an () -- 承担义务", 
+        "translation": "n：义务；责任"
+    }, 
+    "occasion": {
+        "attr": "n，v", 
+        "sentence": "to () an angry response -- 引起愤怒的反应", 
+        "translation": "n：特殊场合；时机；机会；理由 v：导致；使发生"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }
+}

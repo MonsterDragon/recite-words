@@ -1,0 +1,162 @@
+{
+    "absence": {
+        "attr": "n", 
+        "sentence": "() from school -- 缺课", 
+        "translation": "n：缺席；缺乏"
+    }, 
+    "bail out": {
+        "attr": "", 
+        "sentence": "() a person committed to prison -- 把一个被判入狱的人保释出来", 
+        "translation": "保释；舀出；跳伞"
+    }, 
+    "banner": {
+        "attr": "n", 
+        "sentence": "hold up a () -- 举起旗帜", 
+        "translation": "n：旗帜；横幅"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命错误", 
+        "translation": "n：失误；愚蠢的错误 v：犯愚蠢的错误；失误"
+    }, 
+    "canoe": {
+        "attr": "n", 
+        "sentence": "His () was in the rapids -- 他的独木舟在急流当中", 
+        "translation": "n：独木舟"
+    }, 
+    "commute": {
+        "attr": "v，n", 
+        "sentence": "() from death to life imprisonment -- 由死刑减为无期徒刑", 
+        "translation": "v：上下班往返；改变为；减轻刑罚 n：上下班往返"
+    }, 
+    "consumption": {
+        "attr": "n", 
+        "sentence": "The goverment encourages individual () -- 政府鼓励个人消费", 
+        "translation": "n：消费；消耗"
+    }, 
+    "controversy": {
+        "attr": "n", 
+        "sentence": "That is a fact beyond () -- 那是一个不争的事实", 
+        "translation": "n：争论；论战"
+    }, 
+    "delegate": {
+        "attr": "n，v", 
+        "sentence": "appoint a () -- 委派代表", 
+        "translation": "n：代表 v：委派"
+    }, 
+    "dine": {
+        "attr": "v", 
+        "sentence": "He is going to () with us tonight -- 今晚他要和我们一起用餐", 
+        "translation": "v：进餐；用饭"
+    }, 
+    "disclose": {
+        "attr": "v", 
+        "sentence": "He attempts to () the truth -- 他试图揭开事实的真相", 
+        "translation": "v：揭露；透露；泄露"
+    }, 
+    "dismay": {
+        "attr": "v，n", 
+        "sentence": "The bad news will () them a lot -- 这个坏消息使他们非常沮丧", 
+        "translation": "v：使惊愕 n：沮丧；失望"
+    }, 
+    "enlighten": {
+        "attr": "v", 
+        "sentence": "This book will () the reader -- 这本书将会启发读者", 
+        "translation": "v：启发；开导"
+    }, 
+    "exceed": {
+        "attr": "v", 
+        "sentence": "to () one's powers -- 超过自己的权限", 
+        "translation": "v：超过；超出"
+    }, 
+    "fabulous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 巨额财富", 
+        "translation": "adj：难以置信的；寓言般的；极好的"
+    }, 
+    "immersive": {
+        "attr": "adj", 
+        "sentence": "This () film-watching experience is unforgettable -- 这场浸入式的观影体验太难忘了", 
+        "translation": "adj：沉浸式的"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "Survival is our first () -- 我们当务之急是设法活下来", 
+        "translation": "adj：急需的；势在必行的；专横的 n：必要的事；命令"
+    }, 
+    "infant": {
+        "attr": "n，adj", 
+        "sentence": "an () interprise -- 新兴的企业", 
+        "translation": "n：婴儿；幼儿 adj：婴儿的；幼儿的；初期的"
+    }, 
+    "manifest": {
+        "attr": "adj，n，v", 
+        "sentence": "Can you give us a copy of import () -- 能给我们一份进口载货单吗", 
+        "translation": "adj：明显的；显而易见的 v：表明；显现 n：载货单"
+    }, 
+    "mug": {
+        "attr": "n，v", 
+        "sentence": "This () has a chip in it -- 这个大杯子上有个缺口", 
+        "translation": "n：大杯 v：对 ... 行凶抢劫"
+    }, 
+    "oppressive": {
+        "attr": "adj", 
+        "sentence": "The () afternoon heat tired him out -- 下午闷热的天气使他疲惫不堪", 
+        "translation": "adj：压迫的；沉重的"
+    }, 
+    "pasture": {
+        "attr": "n，v", 
+        "sentence": "The land was used for () -- 这土地用作牧场", 
+        "translation": "n：牧场；放牧；牧草 v：放牧；吃草"
+    }, 
+    "qualitative": {
+        "attr": "adj", 
+        "sentence": "This will cause () changes -- 这将会引起质的变化", 
+        "translation": "adj：性质的；定型的"
+    }, 
+    "sample": {
+        "attr": "n，v", 
+        "sentence": "His job is to () products for defects -- 他的工作是抽样检查产品的瑕疵", 
+        "translation": "n：样品；样本 v：尝试；体验；抽样"
+    }, 
+    "seminar": {
+        "attr": "n", 
+        "sentence": "Teaching is by lectures and () -- 教学形式为讲座和研讨会", 
+        "translation": "n：研讨会；专题讨论"
+    }, 
+    "skeleton": {
+        "attr": "n，adj", 
+        "sentence": "() structure -- 骨架结构", 
+        "translation": "n：骨架；纲要；梗概 adj：骨干的；骨骼的"
+    }, 
+    "sponge": {
+        "attr": "n，v", 
+        "sentence": "() the mud off the car -- 用海绵擦去车上的污泥", 
+        "translation": "n：海绵块；海绵动物 v：用海绵擦拭"
+    }, 
+    "stool": {
+        "attr": "n", 
+        "sentence": "Please go and take a () test -- 请去化验一下大便", 
+        "translation": "n：凳子；粪便"
+    }, 
+    "symphony": {
+        "attr": "n", 
+        "sentence": "The orchestra played a Mozart () -- 乐队演奏了一首莫扎特的交响曲", 
+        "translation": "n：交响乐；交响曲"
+    }, 
+    "thereafter": {
+        "attr": "adv", 
+        "sentence": "() I began a slow recovery -- 此后我开始慢慢康复", 
+        "translation": "adv：其后；后来；此后"
+    }, 
+    "verbalize": {
+        "attr": "v", 
+        "sentence": "The dumb can not () through their mouth -- 哑巴不能通过他们的嘴巴用语言表达", 
+        "translation": "v：用言语表达"
+    }, 
+    "whip": {
+        "attr": "n，v", 
+        "sentence": "to () up the mob -- 煽动暴民", 
+        "translation": "n：鞭子 v：鞭打；抽打；突然移动"
+    }
+}

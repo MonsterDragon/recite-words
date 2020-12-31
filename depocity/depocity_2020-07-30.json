@@ -1,0 +1,302 @@
+{
+    "affiliation": {
+        "attr": "n", 
+        "sentence": "There is no () between our organization -- 我们的组织跟他们的组织之间没有关系", 
+        "translation": "n：加入；联系；从属关系"
+    }, 
+    "aural": {
+        "attr": "adj", 
+        "sentence": "() disease -- 耳病", 
+        "translation": "adj：听觉的"
+    }, 
+    "authenticate": {
+        "attr": "v", 
+        "sentence": "He is unable to () the photo -- 证明...是真实的；鉴别", 
+        "translation": "v：证明...是真实的；鉴别"
+    }, 
+    "calendar": {
+        "attr": "n", 
+        "sentence": "() year -- 日历年", 
+        "translation": "n：日历"
+    }, 
+    "canteen": {
+        "attr": "n", 
+        "sentence": "The () was closed -- 食堂关门了", 
+        "translation": "n：食堂"
+    }, 
+    "captive": {
+        "attr": "n，adj", 
+        "sentence": "free a () -- 释放一名俘虏", 
+        "translation": "n：俘虏 adj：被俘的；被监禁的；受控的"
+    }, 
+    "carpenter": {
+        "attr": "n", 
+        "sentence": "The () built a cupboard into the wall -- 木匠在墙上嵌入了一个碗橱", 
+        "translation": "n：木匠"
+    }, 
+    "category": {
+        "attr": "n", 
+        "sentence": "product () -- 产品类别", 
+        "translation": "n：类别"
+    }, 
+    "compose": {
+        "attr": "v", 
+        "sentence": "He tried to () himself -- 他试着让自己镇静下来", 
+        "translation": "v：创作；组成；使镇定"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "conjunction": {
+        "attr": "n", 
+        "sentence": "They are working in () with the police -- 他们与警方联合进行工作", 
+        "translation": "n：联合；连接词"
+    }, 
+    "correspondent": {
+        "attr": "n", 
+        "sentence": "war () -- 随军通讯记者", 
+        "translation": "n：通讯记者；通讯者"
+    }, 
+    "debate": {
+        "attr": "v，n", 
+        "sentence": "I () the issue in my mind -- 我仔细考虑该问题", 
+        "translation": "v：辩论；争论；考虑；盘算 n：辩论；争论"
+    }, 
+    "debut": {
+        "attr": "n，v", 
+        "sentence": "This is her () album -- 这是她的首张专辑", 
+        "translation": "n：首次露面；初次登场 v：初次登场"
+    }, 
+    "designate": {
+        "attr": "v，adj", 
+        "sentence": "the chairman-() -- 候任主席", 
+        "translation": "v：指定；标明；选派 adj：指定而尚未上任的"
+    }, 
+    "destructive": {
+        "attr": "adj", 
+        "sentence": "a () influence -- 破坏性影响", 
+        "translation": "adj：破坏的 毁灭性的"
+    }, 
+    "distinctly": {
+        "attr": "adv", 
+        "sentence": "The room looked ()familiar -- 这间房子看上去确实很相似", 
+        "translation": "adv：清楚地；明显地；无疑的"
+    }, 
+    "distract": {
+        "attr": "v", 
+        "sentence": "Don't () me from studying -- 别转移我学习的注意力", 
+        "translation": "v：转移；使分心"
+    }, 
+    "dividend": {
+        "attr": "n", 
+        "sentence": "a () is the part of a company's profits -- 红利是公司利润的部分", 
+        "translation": "n：被除数；股份红利；股息"
+    }, 
+    "engage": {
+        "attr": "v", 
+        "sentence": "We () to fulfill certain obligation -- 我们承诺履行一定的义务", 
+        "translation": "v：从事；吸引；参与；雇佣"
+    }, 
+    "entity": {
+        "attr": "n", 
+        "sentence": "a political () -- 政治实体", 
+        "translation": "n：实体；独立存在体"
+    }, 
+    "excursion": {
+        "attr": "n", 
+        "sentence": "take an () by train -- 乘火车做个短途旅行", 
+        "translation": "n：远足；短途旅行"
+    }, 
+    "extinct": {
+        "attr": "adj", 
+        "sentence": "Dinosaurs have been () for millions of years -- 恐龙灭绝几百万年了", 
+        "translation": "adj：灭绝的；熄灭的；绝种的"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "fringe": {
+        "attr": "n，v", 
+        "sentence": "on the () of city -- 在城市的边缘", 
+        "translation": "n：边缘；刘海 v：作为...的边缘"
+    }, 
+    "furnace": {
+        "attr": "n", 
+        "sentence": "Keep children away from the () -- 不要让孩子靠近火炉", 
+        "translation": "n：熔炉；火炉"
+    }, 
+    "gallop": {
+        "attr": "v，n", 
+        "sentence": "The horses () away -- 群马飞奔而去", 
+        "translation": "v：奔驰；飞奔 n：奔驰；飞奔"
+    }, 
+    "gasp": {
+        "attr": "v，n", 
+        "sentence": "I () of air -- 我喘着气呼吸", 
+        "translation": "v：喘气；喘息 n：喘气；喘息"
+    }, 
+    "implication": {
+        "attr": "n", 
+        "sentence": "His () in the crime was obvious to all -- 大家都清楚他和这一罪行有牵连", 
+        "translation": "n：暗示；含义；牵连"
+    }, 
+    "inconclusive": {
+        "attr": "adj", 
+        "sentence": "Research has no so far proved () -- 目前研究尚无定论", 
+        "translation": "adj：无结论的；非决定性的"
+    }, 
+    "individual": {
+        "attr": "n，adj", 
+        "sentence": "() effort -- 个人努力", 
+        "translation": "n：个人 adj：单独的；个别的"
+    }, 
+    "inform": {
+        "attr": "v", 
+        "sentence": "Can you () me what I am to do -- 你能告知我应该做何事吗？", 
+        "translation": "v：通知；告知"
+    }, 
+    "intermittent": {
+        "attr": "adj", 
+        "sentence": "the () rain -- 断断续续的降雨", 
+        "translation": "adj：断断续续的；间歇的"
+    }, 
+    "investigate": {
+        "attr": "v", 
+        "sentence": "() into an affair -- 调查一起事件", 
+        "translation": "v：调查；研究"
+    }, 
+    "irrespective": {
+        "attr": "adj", 
+        "sentence": "It must be done () of cost -- 不论花费多少，这件事一定要做", 
+        "translation": "adj：不顾的；不论...的"
+    }, 
+    "layoff": {
+        "attr": "n", 
+        "sentence": "n：临时解雇；活动停止期间", 
+        "translation": "injury () -- 受伤的休养期间"
+    }, 
+    "ministry": {
+        "attr": "n", 
+        "sentence": "the () of Defense -- 国防部", 
+        "translation": "n：部；牧师"
+    }, 
+    "molecule": {
+        "attr": "n", 
+        "sentence": "A () of an element consists of one or more atoms -- 元素的分子含有一个或几个原子", 
+        "translation": "n：分子"
+    }, 
+    "motive": {
+        "attr": "n", 
+        "sentence": "There seemed to be no () for the murder -- 这起谋杀案看不出有什么动机", 
+        "translation": "n：动机；目的"
+    }, 
+    "nevertheless": {
+        "attr": "adv", 
+        "sentence": "a small , () fatal error -- 很小却是致命的错误", 
+        "translation": "adv：尽管如此；然而；不过"
+    }, 
+    "oval": {
+        "attr": "n，adj", 
+        "sentence": "The () office -- 总统办公室", 
+        "translation": "n：椭圆 adj：椭圆的"
+    }, 
+    "phase": {
+        "attr": "n，v", 
+        "sentence": "crucial () -- 关键阶段", 
+        "translation": "n：阶段；局面 v：分阶段进行"
+    }, 
+    "profile": {
+        "attr": "n", 
+        "sentence": "His handsome () attracts me -- 他的英俊侧面轮廓吸引了我", 
+        "translation": "n：轮廓；侧面像；简介"
+    }, 
+    "punctual": {
+        "attr": "adj", 
+        "sentence": "He is always () for appointments -- 他总是准时赴约", 
+        "translation": "adj：准时的"
+    }, 
+    "rally": {
+        "attr": "v，n", 
+        "sentence": "a political () -- 一次政治集会\tBefore long the dying plants began to () -- 快要死亡的植物不久就开始复苏了", 
+        "translation": "v：集合起来；振作；复苏 n：集会"
+    }, 
+    "reconcile": {
+        "attr": "v", 
+        "sentence": "() disputes -- 调解纠纷", 
+        "translation": "v：使和解；调和"
+    }, 
+    "resolution": {
+        "attr": "n", 
+        "sentence": "a () to the crisis -- 解决此次危机", 
+        "translation": "n：决心；坚决；决议；解决；分辨率"
+    }, 
+    "result in": {
+        "attr": "", 
+        "sentence": "The rain will () a growth of vegetation -- 这场雨会促进植物生长", 
+        "translation": "导致"
+    }, 
+    "riot": {
+        "attr": "n", 
+        "sentence": "The () continued for several hours -- 骚乱持续了好几个小时", 
+        "translation": "n：骚乱；暴乱"
+    }, 
+    "scarcity": {
+        "attr": "n", 
+        "sentence": "a () of water -- 水资源匮乏", 
+        "translation": "n：缺乏；不足；缺少"
+    }, 
+    "skeptical": {
+        "attr": "adj", 
+        "sentence": "Mary is () about the solution -- Mary对这个解决办法表示怀疑", 
+        "translation": "adj：怀疑的"
+    }, 
+    "sly": {
+        "attr": "adj", 
+        "sentence": "a () scheme -- 一个狡猾的阴谋", 
+        "translation": "adj：诡诈的；诡秘的；心照不宣的"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "stimulate": {
+        "attr": "v", 
+        "sentence": "() people's enthusiasm -- 激发人们的积极性", 
+        "translation": "v：刺激；激励"
+    }, 
+    "strenuous": {
+        "attr": "adj", 
+        "sentence": "a () task -- 一个艰巨的任务", 
+        "translation": "adj: 费力的；繁重的；艰苦的"
+    }, 
+    "strip": {
+        "attr": "v，n", 
+        "sentence": "I () myself for a shower -- 我脱了衣服冲澡", 
+        "translation": "v：剥去；剥夺；脱衣 n：长条；条状"
+    }, 
+    "swan": {
+        "attr": "n，v", 
+        "sentence": "I want to () around the world -- 我想游遍世界", 
+        "translation": "n：天鹅 v：闲逛；随意旅行"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "tug": {
+        "attr": "n，v", 
+        "sentence": "I () thee door -- 我用力拉门", 
+        "translation": "n：用力拉；拖曳；拖船 v：用力拉；使劲拽"
+    }, 
+    "utterance": {
+        "attr": "n", 
+        "sentence": "He gave () to his thoughts -- 他发表了自己的观点", 
+        "translation": "n：言论；言辞；言语"
+    }
+}

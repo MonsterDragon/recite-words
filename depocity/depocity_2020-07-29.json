@@ -1,0 +1,157 @@
+{
+    "break up": {
+        "attr": "", 
+        "sentence": "You should () your bad habits -- 你应该改掉你的坏习惯", 
+        "translation": "打碎；分裂；解体；结束"
+    }, 
+    "bruising": {
+        "attr": "n，adj，v", 
+        "sentence": "a () contest -- 激烈的竞争", 
+        "translation": "n：淤伤；肿 adj：头破血流的；激烈的 v：挫伤；擦伤"
+    }, 
+    "chancellor": {
+        "attr": "n", 
+        "sentence": "the () of the Exchequer -- 财政大臣", 
+        "translation": "n：大臣"
+    }, 
+    "cherish": {
+        "attr": "v", 
+        "sentence": "I () and respect every living day -- 我珍惜并敬重生命中的每一天", 
+        "translation": "v：珍爱；爱情；怀念"
+    }, 
+    "commute": {
+        "attr": "v，n", 
+        "sentence": "() from death to life imprisonment -- 由死刑减为无期徒刑", 
+        "translation": "v：上下班往返；改变为；减轻刑罚 n：上下班往返"
+    }, 
+    "compliment": {
+        "attr": "v，n", 
+        "sentence": "sincere () -- 由衷地称赞", 
+        "translation": "v：称赞；恭维 n：称赞；恭维"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "corn": {
+        "attr": "n", 
+        "sentence": "sweet() -- 甜玉米", 
+        "translation": "n：玉米；谷物"
+    }, 
+    "cunning": {
+        "attr": "adj，n", 
+        "sentence": "a () trick -- 一个狡猾的诡计", 
+        "translation": "adj：狡猾的；诡诈的 n：狡猾；诡诈；狡黠"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "diffluence": {
+        "attr": "n", 
+        "sentence": "power () -- 功率分流", 
+        "translation": "n：分流；溶解"
+    }, 
+    "escort": {
+        "attr": "n；v", 
+        "sentence": "an () of soldiers -- 一队卫兵", 
+        "translation": "n：护送者；护卫队 v：护送；护卫"
+    }, 
+    "exception": {
+        "attr": "n", 
+        "sentence": "There is always an () to any rule -- 任何规则总有例外", 
+        "translation": "n：例外；除外"
+    }, 
+    "exterior": {
+        "attr": "n，adj", 
+        "sentence": "The () cold had stolen into the car -- 外部的寒冷已不知不觉地入侵车内", 
+        "translation": "n：外观；外表 adj：外面的；外部的"
+    }, 
+    "frontier": {
+        "attr": "n", 
+        "sentence": "He came from the remote () -- 他来自遥远的边疆", 
+        "translation": "n：边界；边境"
+    }, 
+    "mutter": {
+        "attr": "v，n", 
+        "sentence": "I () to myself -- 我喃喃自语", 
+        "translation": "v：嘀咕 n；嘀咕"
+    }, 
+    "on the whole": {
+        "attr": "", 
+        "sentence": "(), I'm in favour of the proposal -- 基本来说，我赞成这个提议", 
+        "translation": "大体上；基本上；总的来说"
+    }, 
+    "pretext": {
+        "attr": "n", 
+        "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们", 
+        "translation": "n：借口；托词"
+    }, 
+    "prototype": {
+        "attr": "n", 
+        "sentence": "He was the () of the elder generation -- 他是老一辈的典型", 
+        "translation": "n：原型；模型；典型"
+    }, 
+    "remark": {
+        "attr": "v，n", 
+        "sentence": "You should not () on her appearance -- 你不应该评论她的外貌", 
+        "translation": "v：评论；谈论；注意到 n：评论；言论；注意"
+    }, 
+    "reptile": {
+        "attr": "n，adj", 
+        "sentence": "Snake is a kind of () -- 蛇是一种爬行动物", 
+        "translation": "n：爬行动物 adj：爬行类的"
+    }, 
+    "sample": {
+        "attr": "n，v", 
+        "sentence": "His job is to () products for defects -- 他的工作是抽样检查产品的瑕疵", 
+        "translation": "n：样品；样本 v：尝试；体验；抽样"
+    }, 
+    "sewing": {
+        "attr": "n，v", 
+        "sentence": "operate a () machine -- 使用缝纫机", 
+        "translation": "n：缝纫；缝纫的物品 v：缝制；缝补"
+    }, 
+    "sigh": {
+        "attr": "v，n", 
+        "sentence": "() in relief -- 如释重负地叹了一口气", 
+        "translation": "v：叹气；叹息 n：叹息；叹气"
+    }, 
+    "sprout": {
+        "attr": "v，n", 
+        "sentence": "New business began to () up across the country -- 新公司开始在全国各地涌现", 
+        "translation": "v：发芽；长出；迅速成长 n：苗芽；新芽"
+    }, 
+    "stack": {
+        "attr": "n", 
+        "sentence": "() the dishes -- 把盘子叠起来", 
+        "translation": "n：摞；堆；叠"
+    }, 
+    "startling": {
+        "attr": "adj，v", 
+        "sentence": "a () change -- 惊人的变化", 
+        "translation": "adj：令人吃惊地 v：使惊动；使惊愕"
+    }, 
+    "supervise": {
+        "attr": "v", 
+        "sentence": "to () the market -- 管理市场", 
+        "translation": "v：监督；管理；指导"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "thorn": {
+        "attr": "n", 
+        "sentence": "He is a () in my side -- 他是我的眼中钉", 
+        "translation": "n：刺；荆棘"
+    }, 
+    "versus": {
+        "attr": "prep", 
+        "sentence": "income () savings -- 收益与储蓄", 
+        "translation": "prep：对...; 与 ... 相对"
+    }
+}

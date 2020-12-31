@@ -1,0 +1,92 @@
+{
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "declaim": {
+        "attr": "v", 
+        "sentence": "He used to () verse to us -- 他过去常常给我们朗诵诗歌", 
+        "translation": "v：慷慨陈词；高声朗诵"
+    }, 
+    "dilute": {
+        "attr": "v，adj", 
+        "sentence": "to () wine with water -- 加水冲淡酒", 
+        "translation": "v：稀释 adj：经稀释的"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "discrepancy": {
+        "attr": "n", 
+        "sentence": "There is a () in the two reports of the accident -- 关于那起事故的两份报道有矛盾之处", 
+        "translation": "n：差异；矛盾"
+    }, 
+    "erosion": {
+        "attr": "n", 
+        "sentence": "the soil () -- 土壤侵蚀", 
+        "translation": "n：侵蚀；腐蚀"
+    }, 
+    "erupt": {
+        "attr": "v", 
+        "sentence": "When will the volcano () -- 那座火山在什么时候喷发", 
+        "translation": "v：爆发；喷发"
+    }, 
+    "fertilizer": {
+        "attr": "n", 
+        "sentence": "natural () -- 天然肥料", 
+        "translation": "n：肥料"
+    }, 
+    "hoist": {
+        "attr": "n，v", 
+        "sentence": "Use a () to lift heavy things -- 用起重机提升重物", 
+        "translation": "n：起重机； v：提升；吊起；举高"
+    }, 
+    "militant": {
+        "attr": "adj，n", 
+        "sentence": "A few () people attacked the speaker -- 几个好战的人攻击了演讲者", 
+        "translation": "adj：激进的；好战的 n：激进；好战"
+    }, 
+    "naturalization": {
+        "attr": "n", 
+        "sentence": "They rejected his petition for () -- 他们拒绝了他的入籍申请", 
+        "translation": "n：移入；移植；入籍"
+    }, 
+    "penalize": {
+        "attr": "v", 
+        "sentence": "The new law seems to () the poor -- 新的法律似乎将穷人置于不利的地位", 
+        "translation": "v：对 ... 予以惩罚；使处于不利的地位"
+    }, 
+    "procedure": {
+        "attr": "n", 
+        "sentence": "() in production -- 生产程序", 
+        "translation": "n：程序；手续；步骤"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "stitch": {
+        "attr": "v，n", 
+        "sentence": "() the two layers together -- 将两层缝合起来", 
+        "translation": "v：缝；缝合 n：针脚；缝线"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }
+}

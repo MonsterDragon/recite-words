@@ -1,0 +1,47 @@
+{
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "appeal": {
+        "attr": "n，v", 
+        "sentence": "reject an () -- 驳回上诉", 
+        "translation": "n：恳求；呼吁；上诉  v：呼吁；吸引"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "culprit": {
+        "attr": "n", 
+        "sentence": "The hunt is on for the () -- 逐步罪犯的行动正在进行", 
+        "translation": "n：罪犯；犯错的人"
+    }, 
+    "forum": {
+        "attr": "n", 
+        "sentence": "the permanency of the Roman () -- 罗马广场的永恒", 
+        "translation": "n：论坛；讨论会；古罗马广场"
+    }, 
+    "legislative": {
+        "attr": "adj，n", 
+        "sentence": "the country's highest () body -- 国家的最高立法机关", 
+        "translation": "adj：立法的；制定法律的 n：立法权；立法机关"
+    }, 
+    "preface": {
+        "attr": "n", 
+        "sentence": "a () to a book -- 一本书的序言", 
+        "translation": "n：序言；前言"
+    }, 
+    "staple": {
+        "attr": "n，v，adj", 
+        "sentence": "a () topic of conversation -- 谈论的主要话题", 
+        "translation": "n：订书钉；主要产品；主要部分 v：用订书钉装订 adj：主要的；重要的"
+    }, 
+    "ventilation": {
+        "attr": "n", 
+        "sentence": "() system -- 通风系统", 
+        "translation": "n：通风；通风装置"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "adore": {
+        "attr": "v", 
+        "sentence": "I () your dress -- 我喜欢你的裙子", 
+        "translation": "v：爱慕；敬慕；崇拜"
+    }, 
+    "arbitrary": {
+        "attr": "adj", 
+        "sentence": "an () emperor -- 一个独断专行的皇帝", 
+        "translation": "adj：任意的；专横的；武断的"
+    }, 
+    "cast": {
+        "attr": "v，n", 
+        "sentence": "The part was () to him -- 这个角色由他扮演", 
+        "translation": "v：抛掷；投射；铸造 n：演员班子"
+    }, 
+    "compensation": {
+        "attr": "n", 
+        "sentence": "She claimed for () -- 她要求赔偿", 
+        "translation": "n：赔偿；补偿"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "confine": {
+        "attr": "v", 
+        "sentence": "() the thief -- 把小偷关禁闭", 
+        "translation": "v：限制；禁闭"
+    }, 
+    "declaim": {
+        "attr": "v", 
+        "sentence": "He used to () verse to us -- 他过去常常给我们朗诵诗歌", 
+        "translation": "v：慷慨陈词；高声朗诵"
+    }, 
+    "decoration": {
+        "attr": "n", 
+        "sentence": "The vase is just for () -- 这个花瓶只是为了装饰", 
+        "translation": "n：装饰品；装饰"
+    }, 
+    "designate": {
+        "attr": "v，adj", 
+        "sentence": "the chairman-() -- 候任主席", 
+        "translation": "v：指定；标明；选派 adj：指定而尚未上任的"
+    }, 
+    "despatch": {
+        "attr": "v，n", 
+        "sentence": "to () a passenger -- 派遣使者", 
+        "translation": "v：派遣；调遣；发送 n：快信；发送；派遣"
+    }, 
+    "discord": {
+        "attr": "n", 
+        "sentence": "The () of his music was hard to the ear -- 他演奏的不和谐并且很刺耳", 
+        "translation": "n：闭一只；不合；纷争"
+    }, 
+    "do away with": {
+        "attr": "", 
+        "sentence": "His enemies eventually managed to do away with him -- 他的敌人最后成功地消灭了他", 
+        "translation": "消除；废除；终止"
+    }, 
+    "endow": {
+        "attr": "v", 
+        "sentence": "to () a project -- 资助一个项目", 
+        "translation": "v：捐赠；资助；赋予"
+    }, 
+    "extravagent": {
+        "attr": "adj", 
+        "sentence": "The rich man lives an () life -- 这个富人过着奢侈的生活", 
+        "translation": "adj：奢侈的；过度的"
+    }, 
+    "hamper": {
+        "attr": "v，n", 
+        "sentence": "Prejudice will () a person from doing the right thing -- 偏见会妨碍人做正确的事情", 
+        "translation": "v：阻碍；妨碍 n：篮子"
+    }, 
+    "intact": {
+        "attr": "adj", 
+        "sentence": "The packages are () -- 包装完好无损", 
+        "translation": "adj：完整无损的；未经触动的"
+    }, 
+    "quilt": {
+        "attr": "n", 
+        "sentence": "I will wash the () on Sunday -- 星期天我要洗被子", 
+        "translation": "n：被子"
+    }, 
+    "quota": {
+        "attr": "n", 
+        "sentence": "We fulfilled the () in half the time -- 我们只用一半的时间就完成了限额", 
+        "translation": "n：配额；限额"
+    }, 
+    "reclaim": {
+        "attr": "v", 
+        "sentence": "I am here to () my property -- 我来要求归还我的财产", 
+        "translation": "v：要求归还；收回；开垦；感化"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "sentiment": {
+        "attr": "n", 
+        "sentence": "There's no place for () in business -- 做生意不能感情用事", 
+        "translation": "n：情绪；看法；感情"
+    }, 
+    "slacken": {
+        "attr": "v", 
+        "sentence": "() your muscle -- 放松你的肌肉", 
+        "translation": "v：减缓；松弛"
+    }, 
+    "solar": {
+        "attr": "adj", 
+        "sentence": "solar system -- 太阳系", 
+        "translation": "adj：太阳的；太阳能的"
+    }, 
+    "tug": {
+        "attr": "n，v", 
+        "sentence": "I () thee door -- 我用力拉门", 
+        "translation": "n：用力拉；拖曳；拖船 v：用力拉；使劲拽"
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "adjoining": {
+        "attr": "adj；v", 
+        "sentence": "() room -- 相邻的房间", 
+        "translation": "adj：毗邻的；相邻的 v：毗邻"
+    }, 
+    "appraisal": {
+        "attr": "n", 
+        "sentence": "n：鉴定；评价", 
+        "translation": "n：鉴定；评价"
+    }, 
+    "arrogant": {
+        "attr": "adj", 
+        "sentence": "He is not only () but also selfish -- 他不但傲慢，而且自私", 
+        "translation": "adj：傲慢的 ； 自大的"
+    }, 
+    "at odds with": {
+        "attr": "", 
+        "sentence": "She is () her boss -- 她和上司不和", 
+        "translation": "与...不和；与...争吵，不一致"
+    }, 
+    "bruising": {
+        "attr": "n，adj，v", 
+        "sentence": "a () contest -- 激烈的竞争", 
+        "translation": "n：淤伤；肿 adj：头破血流的；激烈的 v：挫伤；擦伤"
+    }, 
+    "chaos": {
+        "attr": "n", 
+        "sentence": "in () -- 一片混乱", 
+        "translation": "n：混乱"
+    }, 
+    "chef": {
+        "attr": "n", 
+        "sentence": "The () is preparing the dinner -- 厨师在准备晚餐", 
+        "translation": "n：主厨；厨师"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想"
+    }, 
+    "conductor": {
+        "attr": "n", 
+        "sentence": "Metal is a good () of electicity -- 金属是很好的导电体", 
+        "translation": "n：售票员；指挥；导体"
+    }, 
+    "constitute": {
+        "attr": "v：构成；被视为", 
+        "sentence": "They () a temporary committee -- 他们建立了一个临时委员会", 
+        "translation": "v：构成；被视为"
+    }, 
+    "corn": {
+        "attr": "n", 
+        "sentence": "sweet() -- 甜玉米", 
+        "translation": "n：玉米；谷物"
+    }, 
+    "crab": {
+        "attr": "n；v", 
+        "sentence": "The () crab is great delicacy -- 这螃蟹是珍馐美味", 
+        "translation": "n：螃蟹 v：抱怨"
+    }, 
+    "die out": {
+        "attr": "", 
+        "sentence": "Many old customs () -- 很多古老的习俗消失了", 
+        "translation": "灭绝；逐渐消失"
+    }, 
+    "emigrate": {
+        "attr": "v", 
+        "sentence": "Many British doctors () to the United States -- 许多英国医生移居美国", 
+        "translation": "v：移居国外"
+    }, 
+    "excort": {
+        "attr": "n；v", 
+        "sentence": "an () of soldiers -- 一队卫兵", 
+        "translation": "n：护送者；护卫队 v：护送；护卫"
+    }, 
+    "famine": {
+        "attr": "n", 
+        "sentence": "Wars, () and flood are terrible evils -- 战争、饥荒和洪水都是可怕的灾祸", 
+        "translation": "n：饥荒"
+    }, 
+    "grave": {
+        "attr": "n，adj", 
+        "sentence": "() wound -- 严重的创伤", 
+        "translation": "n：坟墓 adj：严重的；沉重的"
+    }, 
+    "hazard": {
+        "attr": "v", 
+        "sentence": "He had put his own life in () -- 他是在拿自己的生命来冒险", 
+        "translation": "n: 危害；危险 v: 冒险；使遭受危险"
+    }, 
+    "household": {
+        "attr": "n，adj", 
+        "sentence": "() chores -- 家务琐事", 
+        "translation": "n：家庭 adj：家庭的；家喻户晓的"
+    }, 
+    "initiate": {
+        "attr": "n；v", 
+        "sentence": "He was an () of the club -- 他是这个俱乐部的新入门者", 
+        "translation": "n：新入会的人 v：开创；传授"
+    }, 
+    "jaw": {
+        "attr": "n", 
+        "sentence": "The lower () is movable -- 下巴是可以活动的", 
+        "translation": "n：下吧"
+    }, 
+    "legacy": {
+        "attr": "n", 
+        "sentence": "() tax -- 遗产税", 
+        "translation": "n：遗产；遗赠"
+    }, 
+    "maiden": {
+        "attr": "n；adj", 
+        "sentence": "This () lives with her parents -- 这个未婚女子和她的父母住在一起", 
+        "translation": "n：少女；处女；未婚女子 adj：初次的"
+    }, 
+    "mutter": {
+        "attr": "v，n", 
+        "sentence": "I () to myself -- 我喃喃自语", 
+        "translation": "v：嘀咕 n；嘀咕"
+    }, 
+    "parachute": {
+        "attr": "v，n", 
+        "sentence": "to () supplies -- 用降落伞空投补给品", 
+        "translation": "v：跳伞；用降落伞空投补给品 n：降落伞"
+    }, 
+    "periodical": {
+        "attr": "adj，n", 
+        "sentence": "They published a new () -- 他们出版了一种新的期刊", 
+        "translation": "adj：周期的；定期的 n：期刊"
+    }, 
+    "perplexing": {
+        "attr": "adj", 
+        "sentence": "This is indeed a () problem -- 这确实是一个费解的难题", 
+        "translation": "adj：使人困惑的；使人为难的"
+    }, 
+    "prototype": {
+        "attr": "n", 
+        "sentence": "He was the () of the elder generation -- 他是老一辈的典型", 
+        "translation": "n：原型；模型；典型"
+    }, 
+    "recruit": {
+        "attr": "v，n", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v：征募；招收；招聘 n：新兵"
+    }, 
+    "resent": {
+        "attr": "v", 
+        "sentence": "I () those unfair comments -- 我对那些不公平的评语感到愤慨", 
+        "translation": "v：愤恨；憎恶；怨恨"
+    }, 
+    "revise": {
+        "attr": "v", 
+        "sentence": "to () the Constitution -- 修改宪法", 
+        "translation": "v：校阅；修正；温习"
+    }, 
+    "revolve": {
+        "attr": "v", 
+        "sentence": "Ideas () in her mind -- 思绪在她脑海中反复盘旋", 
+        "translation": "v：旋转；考虑；围绕"
+    }, 
+    "sigh": {
+        "attr": "v，n", 
+        "sentence": "() in relief -- 如释重负地叹了一口气", 
+        "translation": "v：叹气；叹息 n：叹息；叹气"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "skim": {
+        "attr": "v", 
+        "sentence": "It took me an hour to () the book -- 我花了一小时把书略读了一遍", 
+        "translation": "v：略读；撇去；掠过"
+    }, 
+    "strain": {
+        "attr": "v，n", 
+        "sentence": "to () the muscle -- 拉伤肌肉", 
+        "translation": "v：拉紧 n：压力；拉力"
+    }, 
+    "subtract": {
+        "attr": "v", 
+        "sentence": "If you () 3 from 5, you get 2 -- 5减3得2", 
+        "translation": "v: 减去；扣除"
+    }, 
+    "tackle": {
+        "attr": "n, v", 
+        "sentence": "fishing () -- 钓鱼用具", 
+        "translation": "n: 用具；阻截 v: 处理；阻截"
+    }
+}

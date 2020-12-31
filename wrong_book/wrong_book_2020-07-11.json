@@ -1,0 +1,17 @@
+{
+    "feat": {
+        "attr": "n", 
+        "sentence": "an acrobatic () -- 杂技表演", 
+        "translation": "n：功绩，技艺"
+    }, 
+    "perceive": {
+        "attr": "v", 
+        "sentence": "We can () his sorrow by looks on his face -- 我们从他的表情中察觉出悲伤", 
+        "translation": "v：察觉；理解；发觉"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }
+}

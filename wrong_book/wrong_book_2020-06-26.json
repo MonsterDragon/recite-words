@@ -1,0 +1,57 @@
+{
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj: 感染力的；传染性的"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "eccentric": {
+        "attr": "adj, n", 
+        "sentence": "() behavior -- 古怪的行为", 
+        "translation": "adj: 古怪的；偏离轨道的 n: 怪人；偏离轨道运行"
+    }, 
+    "escalate": {
+        "attr": "v", 
+        "sentence": "We do not want to () the war -- 我们不想升级战争", 
+        "translation": "v: 逐步升级；逐步升高"
+    }, 
+    "ignorant": {
+        "attr": "adj", 
+        "sentence": "He is () of even the most elementary facts -- 他连最基本的事实都不知道", 
+        "translation": "adj: 无知的；缺乏知识的"
+    }, 
+    "integral": {
+        "attr": "adj, n", 
+        "sentence": "Is this differential calculus or () calculus -- 微分和积分有什么区别", 
+        "translation": "adj: 完成的；积分的 n: 积分；整体"
+    }, 
+    "judicial": {
+        "attr": "adj", 
+        "sentence": "the () system -- 司法系统", 
+        "translation": "adj: 司法的；法庭的；审判的"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared fron () -- 这条路已被清除了障碍", 
+        "translation": "n: 障碍；闭塞"
+    }, 
+    "pharmacy": {
+        "attr": "n", 
+        "sentence": "She work at the () -- 她在药房工作", 
+        "translation": "n: 药房；药剂学"
+    }, 
+    "presumably": {
+        "attr": "adv", 
+        "sentence": "() the bad weather has delayed the flight -- 大概恶劣天气使飞机误点了", 
+        "translation": "adv: 大概"
+    }, 
+    "subtract": {
+        "attr": "v", 
+        "sentence": "If you () 3 from 5, you get 2 -- 5减3得2", 
+        "translation": "v: 减去；扣除"
+    }
+}

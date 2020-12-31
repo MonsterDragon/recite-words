@@ -1,0 +1,222 @@
+{
+    "aesthetic": {
+        "attr": "adj", 
+        "sentence": "My () standards are different from his -- 我的审美标准与他不同", 
+        "translation": "adj：审美的；美学的"
+    }, 
+    "amplify": {
+        "attr": "v", 
+        "sentence": "to () the signal -- 增强信号", 
+        "translation": "v：放大；扩大；增强；详述"
+    }, 
+    "autonomy": {
+        "attr": "n", 
+        "sentence": "There are minority () areas in China -- 中国有少数民族自治区", 
+        "translation": "n：自治；自治权；自主权"
+    }, 
+    "aviation": {
+        "attr": "n", 
+        "sentence": "civil () -- 民航", 
+        "translation": "n：飞行；航空"
+    }, 
+    "boycott": {
+        "attr": "v，n", 
+        "sentence": "to () a meeting -- 拒绝出席会议", 
+        "translation": "v：抵制；拒绝参加 n：抵制；拒绝参加"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "consult": {
+        "attr": "v", 
+        "sentence": " () a lawyer  -- 咨询律师", 
+        "translation": "v: 咨询；查询；请教"
+    }, 
+    "corridor": {
+        "attr": "n", 
+        "sentence": "run through the () -- 跑过走廊", 
+        "translation": "n: 走廊"
+    }, 
+    "counterpart": {
+        "attr": "n", 
+        "sentence": "Each twin was the () of the other -- 孪生子彼此酷似", 
+        "translation": "n：对应物；副本"
+    }, 
+    "cultivate": {
+        "attr": "v, n", 
+        "sentence": "His job is to () crops -- 他的工作就是终止农作物", 
+        "translation": "v: 培养；栽培"
+    }, 
+    "currency": {
+        "attr": "n", 
+        "sentence": "The () of the country collapsed suddenly -- 这个国家的货币猛跌", 
+        "translation": "n：货币；流通"
+    }, 
+    "dew": {
+        "attr": "n", 
+        "sentence": "The grass is wet with () -- 草被露水打湿", 
+        "translation": "n：露水；露"
+    }, 
+    "disclaim": {
+        "attr": "v", 
+        "sentence": "to () one's rights -- 否认某人的权利", 
+        "translation": "v：否认；放弃；拒绝承认"
+    }, 
+    "duplicate": {
+        "attr": "v，n，adj", 
+        "sentence": "Please fill in the receipt in () -- 请一式两份填写这份收据", 
+        "translation": "v：复制；复印；再做一次 n：副本；复制品 adj：复制的；副本的"
+    }, 
+    "eligible": {
+        "attr": "adj", 
+        "sentence": "She can't find an () man --她找不到和她意的男人", 
+        "translation": "adj：有资格的；合格的；合意的"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "garment": {
+        "attr": "n，v", 
+        "sentence": "to () the model -- 给模特穿衣服", 
+        "translation": "n：衣服；外衣 v：给...穿衣服"
+    }, 
+    "grip": {
+        "attr": "v, n", 
+        "sentence": "I try my best to () the present happiness -- 我努力抓住当下的幸福", 
+        "translation": "v: 紧握；紧抓 n: 紧握；掌握"
+    }, 
+    "hover": {
+        "attr": "v", 
+        "sentence": "Unemployment will () around 5% -- 失业率将徘徊在5%", 
+        "translation": "v：盘旋；翱翔；徘徊"
+    }, 
+    "identical": {
+        "attr": "adj", 
+        "sentence": "My opinion is () with his -- 我的意见与他的观点相同", 
+        "translation": "adj：相同的；同样的"
+    }, 
+    "instruct": {
+        "attr": "v", 
+        "sentence": "My job is to () her in English -- 我的工作是教授她英语", 
+        "translation": "v：教授；交到；指示"
+    }, 
+    "insulate": {
+        "attr": "v", 
+        "sentence": "How can we () our home from the noise -- 有什么办法可以使我们的住宅隔音吗", 
+        "translation": "隔离；隔热；绝缘"
+    }, 
+    "junk": {
+        "attr": "n", 
+        "sentence": "The () was piled up in the basement -- 垃圾被堆放在地下室", 
+        "translation": "n：无用的东西"
+    }, 
+    "locomotive": {
+        "attr": "n，adj", 
+        "sentence": "The () was dashed to pieces -- 机车撞得粉碎", 
+        "translation": "n：机车；火车头 adj：运动的"
+    }, 
+    "naughty": {
+        "attr": "adj", 
+        "sentence": "a () child -- 顽皮的孩子", 
+        "translation": "adj：顽皮的"
+    }, 
+    "neat": {
+        "attr": "adj", 
+        "sentence": "Cats are () animals -- 猫是爱整洁的动物", 
+        "translation": "adj：整洁的；整齐的"
+    }, 
+    "nuisance": {
+        "attr": "n", 
+        "sentence": "It is a () to take classes every day -- 每天上课很讨厌", 
+        "translation": "n：讨厌的人；讨厌的事"
+    }, 
+    "oval": {
+        "attr": "n，adj", 
+        "sentence": "The () office -- 总统办公室", 
+        "translation": "n：椭圆 adj：椭圆的"
+    }, 
+    "parameter": {
+        "attr": "n", 
+        "sentence": "Set this () to high value -- 设置这个参数到比较高的值", 
+        "translation": "n：参数；参量；界限"
+    }, 
+    "patronage": {
+        "attr": "n", 
+        "sentence": "We thank you for your () -- 我们感谢您的惠顾 ", 
+        "translation": "n: 赞助；惠顾；委任权"
+    }, 
+    "perception": {
+        "attr": "n", 
+        "sentence": "He was a man of kenn () -- 他是一个拥有敏锐洞察力的男人", 
+        "translation": "v：感知；看法；洞察力"
+    }, 
+    "pin down": {
+        "attr": "", 
+        "sentence": "to () the location -- 确定位置", 
+        "translation": "把 ... 固定住；确定"
+    }, 
+    "porch": {
+        "attr": "n", 
+        "sentence": "The () was narrow -- 门廊狭窄", 
+        "translation": "n：门廊"
+    }, 
+    "port": {
+        "attr": "n", 
+        "sentence": "to arrive at () -- 抵挡港口", 
+        "translation": "n：港口"
+    }, 
+    "prominence": {
+        "attr": "n", 
+        "sentence": "Crime prevention had to be given more () -- 防止犯罪方面应该受到更多的重视", 
+        "translation": "n: 突出；重要；卓越"
+    }, 
+    "prosecute": {
+        "attr": "v", 
+        "sentence": "The police () them for theft -- 警察以盗窃罪起诉他们", 
+        "translation": "v：起诉；控告；指控"
+    }, 
+    "provision": {
+        "attr": "n", 
+        "sentence": "make () for the future -- 准备日后只需", 
+        "translation": "n：预备"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "rust": {
+        "attr": "v，n", 
+        "sentence": "Iron is easy to () -- 铁易生锈", 
+        "translation": "v：生锈 n：铁锈"
+    }, 
+    "scorn": {
+        "attr": "n，v", 
+        "sentence": "an expression of () -- 轻视的表情", 
+        "translation": "n：蔑视；v：蔑视"
+    }, 
+    "soak": {
+        "attr": "v，n", 
+        "sentence": "Water will () through the earth -- 水会浸入土中", 
+        "translation": "v：使浸透；吸入 n：浸泡"
+    }, 
+    "stagnation": {
+        "attr": "n", 
+        "sentence": "The depressed market results in the () of trade -- 市场萧条导致贸易停滞", 
+        "translation": "n：停滞；萧条；迟钝"
+    }, 
+    "stretch": {
+        "attr": "v，n", 
+        "sentence": "There is a () of woolland beside the sea -- 海边又一片森林", 
+        "translation": "v：伸展；延伸 n：伸展；弹性；一般"
+    }, 
+    "wicked": {
+        "attr": "adj", 
+        "sentence": "a () boy -- 淘气的男孩", 
+        "translation": "adj：邪恶的；淘气的"
+    }
+}

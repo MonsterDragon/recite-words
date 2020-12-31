@@ -1,0 +1,604 @@
+[ERROR:2020-07-06 19:37:05 20593 log_func.py:21]: execute sql failed: Traceback (most recent call last):
+  File "basefunc.py", line 45, in <module>
+    cursor.execute(CREATE_WORD_TABLE)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1075, u'Incorrect table definition; there can be only one auto column and it must be defined as a key')
+
+[ERROR:2020-07-06 19:37:05 20593 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 13:48:25 27841 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 39, in write_sql
+    with connection.cursor() as cursor:
+NameError: global name 'connection' is not defined
+
+[ERROR:2020-07-07 13:48:25 27841 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 13:55:25 29150 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 41, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 29-34: ordinal not in range(128)
+
+[ERROR:2020-07-07 13:55:25 29150 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 14:02:52 30531 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 42, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 29-34: ordinal not in range(128)
+
+[ERROR:2020-07-07 14:02:52 30531 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 14:05:09 30979 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 45, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hotel will () him 100 -- \u65c5\u9986\u5c06\u9000\u7ed9\u4ed6100,\nv: \u9000\u8fd8\uff1b\u507f\u8fd8 n: \u9000\u6b3e\uff1b' at line 5")
+
+[ERROR:2020-07-07 14:05:09 30979 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 14:07:58 31487 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 46, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hotel will () him 100 -- \u65c5\u9986\u5c06\u9000\u7ed9\u4ed6100,\nv: \u9000\u8fd8\uff1b\u507f\u8fd8 n: \u9000\u6b3e\uff1b' at line 5")
+
+[ERROR:2020-07-07 14:07:58 31487 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 14:14:48 32754 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 47, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'hotel will () him 100 -- \u65c5\u9986\u5c06\u9000\u7ed9\u4ed6100,\nv: \u9000\u8fd8\uff1b\u507f\u8fd8 n: \u9000\u6b3e\uff1b' at line 5")
+
+[ERROR:2020-07-07 14:14:48 32754 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 14:15:50 483 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 47, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1136, u"Column count doesn't match value count at row 1")
+
+[ERROR:2020-07-07 14:15:50 483 log_func.py:22]: Failed!!!
+[ERROR:2020-07-07 15:29:57 14148 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 15, in query
+    query_str = connection.execute(SELECT_SQL.format(word))
+AttributeError: 'Connection' object has no attribute 'execute'
+
+[ERROR:2020-07-07 15:29:57 14148 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 11:09:22 13832 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 48, in insert
+    ele_dict[ele_dict.keys()[0]][json_list[i]] = result
+IndexError: list index out of range
+
+[ERROR:2020-07-09 11:09:22 13832 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 11:16:11 14982 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 48, in insert
+    ele_dict[ele_dict.keys()[0]][json_list[i]] = result
+TypeError: list indices must be integers, not str
+
+[ERROR:2020-07-09 11:16:11 14982 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 11:23:02 16108 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 49, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'temper -- \u51f6\u66b4\u7684\u813e\u6c14,adj\uff1a\u4e5f\u884c\u7684\uff1b\u51f6\u731b\u7684 n\uff1a\u91ce\u86ee\u4eba\uff1b\u7c97\u4eba v' at line 1")
+
+[ERROR:2020-07-09 11:23:02 16108 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 11:26:44 16806 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 49, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.vaocalbulary' doesn't exist")
+
+[ERROR:2020-07-09 11:26:44 16806 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 11:28:13 17158 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 49, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1136, u"Column count doesn't match value count at row 1")
+
+[ERROR:2020-07-09 11:28:13 17158 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 13:59:54 15071 log_func.py:21]: exe sql failed: Traceback (most recent call last):
+  File "statics.py", line 48, in write_sql
+    cursor.execute(INSERT_DATA.format(i, data[i]["sentence"], data[i]["translation"], data[i]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.VOCALBULARY' doesn't exist")
+
+[ERROR:2020-07-09 13:59:54 15071 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 14:10:04 20864 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 22, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.vocalbulary' doesn't exist")
+
+[ERROR:2020-07-09 14:10:04 20864 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 14:11:08 17122 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 22, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.VOLCALBULARY' doesn't exist")
+
+[ERROR:2020-07-09 14:11:08 17122 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 15:54:36 3730 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 23, in query
+    print(cursor.fetchone().encoding('utf-8'))
+AttributeError: 'tuple' object has no attribute 'encoding'
+
+[ERROR:2020-07-09 15:54:36 3730 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 16:05:22 5764 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 24, in query
+    query_tuple = cursoy.fetchone().encoding('utf-8')
+NameError: global name 'cursoy' is not defined
+
+[ERROR:2020-07-09 16:05:22 5764 log_func.py:22]: Failed!!!
+[ERROR:2020-07-09 16:05:43 5816 log_func.py:21]: query err: Traceback (most recent call last):
+  File "create.py", line 24, in query
+    query_tuple = cursor.fetchone().encoding('utf-8')
+AttributeError: 'tuple' object has no attribute 'encoding'
+
+[ERROR:2020-07-09 16:05:43 5816 log_func.py:22]: Failed!!!
+[ERROR:2020-07-11 15:05:01 14080 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+UnicodeEncodeError: 'ascii' codec can't encode characters in position 22-28: ordinal not in range(128)
+
+[ERROR:2020-07-11 15:05:01 14080 log_func.py:22]: Failed!!!
+[ERROR:2020-07-16 23:30:13 7494 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-07-16 23:30:13 7494 log_func.py:22]: Failed!!!
+[ERROR:2020-07-19 15:07:13 29732 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-07-19 15:07:13 29732 log_func.py:22]: Failed!!!
+[ERROR:2020-07-24 11:23:53 12253 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-07-24 11:23:53 12253 log_func.py:22]: Failed!!!
+[ERROR:2020-08-04 11:12:34 5752 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 54, in insert
+    result = circle(i)
+  File "./create.py", line 38, in circle
+    result = raw_input("{}: ".format(param))
+EOFError
+
+[ERROR:2020-08-04 11:12:34 5752 log_func.py:22]: Failed!!!
+[ERROR:2020-08-11 00:39:04 31290 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-08-11 00:39:04 31290 log_func.py:22]: Failed!!!
+[ERROR:2020-08-13 21:31:49 8959 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 23, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.VOCALBULARY' doesn't exist")
+
+[ERROR:2020-08-13 21:31:49 8959 log_func.py:22]: Failed!!!
+[ERROR:2020-08-13 21:31:57 9233 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 23, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.VOCALBULARY' doesn't exist")
+
+[ERROR:2020-08-13 21:31:57 9233 log_func.py:22]: Failed!!!
+[ERROR:2020-08-15 22:15:23 1150 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 23, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1146, u"Table 'word.VOCALBULARY' doesn't exist")
+
+[ERROR:2020-08-15 22:15:23 1150 log_func.py:22]: Failed!!!
+[ERROR:2020-08-29 23:31:53 22808 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 23, in query
+    query_str = cursor.execute(SELECT_SQL.format(word))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''naturalization''' at line 1")
+
+[ERROR:2020-08-29 23:31:53 22808 log_func.py:22]: Failed!!!
+[ERROR:2020-09-10 01:40:25 7903 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-09-10 01:40:25 7903 log_func.py:22]: Failed!!!
+[ERROR:2020-09-10 01:44:28 10969 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-09-10 01:44:28 10969 log_func.py:22]: Failed!!!
+[ERROR:2020-09-11 01:31:03 17407 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 54, in insert
+    result = circle(i)
+  File "./create.py", line 38, in circle
+    result = raw_input("{}: ".format(param))
+EOFError
+
+[ERROR:2020-09-11 01:31:03 17407 log_func.py:22]: Failed!!!
+[ERROR:2020-09-14 02:43:41 13610 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-09-14 02:43:41 13610 log_func.py:22]: Failed!!!
+[ERROR:2020-09-16 01:49:33 23875 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-09-16 01:49:33 23875 log_func.py:22]: Failed!!!
+[ERROR:2020-09-29 01:16:00 16641 log_func.py:21]: query err: Traceback (most recent call last):
+  File "./create.py", line 59, in insert
+    cursor.execute(INSERT_SQL.format(ele_dict.keys()[0], ele_dict[ele_dict.keys()[0]]["sentence"], ele_dict[ele_dict.keys()[0]]["translation"], ele_dict[ele_dict.keys()[0]]["attr"]))
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/usr/lib/python2.7/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/usr/lib/python2.7/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/usr/lib/python2.7/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/usr/lib/python2.7/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+DataError: (1406, u"Data too long for column 'word' at row 1")
+
+[ERROR:2020-09-29 01:16:00 16641 log_func.py:22]: Failed!!!

@@ -1,0 +1,197 @@
+{
+    "abdomen": {
+        "attr": "n", 
+        "sentence": "() muscle -- 腹肌", 
+        "translation": "n：腹部"
+    }, 
+    "amiable": {
+        "attr": "adj", 
+        "sentence": "He is an () professor -- 他是一位和蔼可亲的教授", 
+        "translation": "adj：和蔼可亲的；亲切友好的"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "banner": {
+        "attr": "n", 
+        "sentence": "hold up a () -- 举起旗帜", 
+        "translation": "n：旗帜；横幅"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命的错误", 
+        "translation": "n：失误 v：失误；范愚蠢的错误"
+    }, 
+    "brittle": {
+        "attr": "adj", 
+        "sentence": "() friendship -- 不牢固的友谊", 
+        "translation": "adj：脆弱的；尖利的"
+    }, 
+    "chaos": {
+        "attr": "n", 
+        "sentence": "in () -- 一片混乱", 
+        "translation": "n：混乱"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "delegate": {
+        "attr": "n，v", 
+        "sentence": "appoint a () -- 委派代表", 
+        "translation": "n：代表 v：委派"
+    }, 
+    "depict": {
+        "attr": "v", 
+        "sentence": "They () him as a hero -- 他们把他描绘成英雄", 
+        "translation": "v：描绘；描述"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就鄙视他", 
+        "translation": "v：鄙视，蔑视；看不起"
+    }, 
+    "dismay": {
+        "attr": "v，n", 
+        "sentence": "Jack shakes his head in () -- Jack沮丧的摇了摇头", 
+        "translation": "v：沮丧；失望 n：使惊愕沮丧"
+    }, 
+    "dull": {
+        "attr": "adj", 
+        "sentence": "a () speech -- 一段单调乏味的讲话", 
+        "translation": "adj：愚蠢的；枯燥的；无趣的；昏暗的"
+    }, 
+    "emigrate": {
+        "attr": "v", 
+        "sentence": "Many British doctors () to the United States -- 许多英国医生移居美国", 
+        "translation": "v：移居国外"
+    }, 
+    "fountain": {
+        "attr": "n", 
+        "sentence": "Social life is the () of wisdom -- 社会生活是智慧的源泉", 
+        "translation": "n：喷泉；源泉"
+    }, 
+    "furnish": {
+        "attr": "v", 
+        "sentence": "The school doesn't () students with lunch -- 学校不提供给学生午饭", 
+        "translation": "v：布置家居；配置；供给；提供"
+    }, 
+    "halt": {
+        "attr": "n，v", 
+        "sentence": "My political career had come to () -- 我的政治生涯已停止", 
+        "translation": "n：停顿下来 v：暂停；中断"
+    }, 
+    "hose": {
+        "attr": "n，v", 
+        "sentence": "hold a () on the fire -- 把水龙头对准火", 
+        "translation": "n：橡胶水管；塑料水管"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "lag": {
+        "attr": "v，n", 
+        "sentence": "There is a time () of about fifteen years -- 时间上有一段约15年的间隔", 
+        "translation": "v：缓慢移动；滞后 n：时间间隔"
+    }, 
+    "lavatory": {
+        "attr": "n", 
+        "sentence": "public () -- 公共厕所", 
+        "translation": "n：盥洗室；厕所"
+    }, 
+    "manual": {
+        "attr": "n，adj", 
+        "sentence": "This () is full of useful tips -- 这本小册子里有很多实用的小建议", 
+        "translation": "n：说明书；指南 adj：手工的；体力的"
+    }, 
+    "mug": {
+        "attr": "n,v", 
+        "sentence": "This () has a chip in it -- 这个大杯上有缺口", 
+        "translation": "n：大杯 v：对 .. 行凶抢劫"
+    }, 
+    "notion": {
+        "attr": "n", 
+        "sentence": "absract () -- 抽象概念", 
+        "translation": "n：概念；观念；想法"
+    }, 
+    "nurture": {
+        "attr": "v，n", 
+        "sentence": "to () a student's talent -- 培养学生的才能", 
+        "translation": "v：养育；培养 n：养育；教养"
+    }, 
+    "oral": {
+        "attr": "adj", 
+        "sentence": "() instruction -- 口头指令", 
+        "translation": "adj：口头的"
+    }, 
+    "overthrow": {
+        "attr": "v，n", 
+        "sentence": "to () the goverment -- 推翻政府", 
+        "translation": "v：推翻；颠覆；打倒 n：推翻；颠覆；打倒"
+    }, 
+    "passionate": {
+        "attr": "adj", 
+        "sentence": "a () interest -- 强烈的兴趣", 
+        "translation": "adj：热情的；充满热情的"
+    }, 
+    "pessimistic": {
+        "attr": "adj", 
+        "sentence": "He was () about the war -- 他对战争持消极的态度", 
+        "translation": "adj：消极的；负面的"
+    }, 
+    "reign": {
+        "attr": "v，n", 
+        "sentence": "to () over a country -- 统治一个国家", 
+        "translation": "v：统治；支配；盛行 n：君主统治；在位期"
+    }, 
+    "revise": {
+        "attr": "v", 
+        "sentence": "to () the Constitution -- 修改宪法", 
+        "translation": "v：校阅；修正；温习"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "stadium": {
+        "attr": "n", 
+        "sentence": "The () is being used of a match -- 那个露天运动场正在进行一场比赛", 
+        "translation": "n：体育场；运动场"
+    }, 
+    "subscription": {
+        "attr": "n", 
+        "sentence": "to add a () at the end of a document -- 在问件的最后加上签名", 
+        "translation": "n：订阅；订购；捐款；签署"
+    }, 
+    "subsidise": {
+        "attr": "v", 
+        "sentence": "Government can use the rich people's tax money to () the less fortunate -- 政府可以用富人纳税的钱去补贴穷人", 
+        "translation": "v：以津贴补助"
+    }, 
+    "tackle": {
+        "attr": "n, v", 
+        "sentence": "fishing () -- 钓鱼用具", 
+        "translation": "n: 用具；阻截 v: 处理；阻截"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "tutor": {
+        "attr": "v，n", 
+        "sentence": "to () a subjct -- 辅导一门课程", 
+        "translation": "v：当家教；知道；辅导 n：导师；家庭教师"
+    }
+}

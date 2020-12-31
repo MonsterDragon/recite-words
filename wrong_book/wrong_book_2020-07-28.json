@@ -1,0 +1,12 @@
+{
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "toll": {
+        "attr": "n", 
+        "sentence": "The church clock can () the hour -- 教堂的时钟能鸣钟报时", 
+        "translation": "n：伤亡人数；通行费；钟声"
+    }
+}

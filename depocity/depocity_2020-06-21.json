@@ -1,0 +1,122 @@
+{
+	"stoop": {
+            "sentence": "Don't () to quarrel with her about it -- 别降低身份为这事去跟她争吵",
+            "translation": "v: 俯身 n: 弯腰；曲背",
+            "attr": "v, n"
+        },
+	"publicize": {
+            "sentence": "to () a product -- 宣传产品",
+            "translation": "v: 宣传；公布",
+            "attr": "v"
+        },
+	"tumour": {
+            "sentence": "() cell -- 癌细胞",
+            "translation": "n: 肿瘤；肿块",
+            "attr": "n"
+        },
+	"corridor": {
+            "sentence": "run through the () -- 跑过走廊",
+            "translation": "n: 走廊",
+            "attr": "n"
+        },
+	"biography": {
+            "sentence": "His () was published last month -- 他的传记上月出版了",
+            "translation": "n: 传记",
+            "attr": "n"
+        },
+	"ballot": {
+            "sentence": "I cast a () for him -- 我投了他一票",
+            "translation": "n: 无记名投票 v: 进行无记名投票",
+            "attr": "n"
+        },
+	"extract": {
+            "sentence": "to () a teeth -- 拔牙",
+            "translation": "n: 提取物；摘录；精华 v: 拔出；提取；摘录",
+            "attr": "n, v"
+        },
+	"antique": {
+            "sentence": "The () furniture was made in 1700 -- 这件古家具是1700年制造的",
+            "translation": "n: 古董；古代文物 v: 古老的；过时的",
+            "attr": "n, v"
+        },
+	"cruise": {
+            "sentence": "They () in the sea -- 他们在海上巡游",
+            "translation": "v: 乘船游览 n: 乘船游览；航游",
+            "attr": "v, n"
+        },
+	"deck": {
+            "sentence": "double () -- 双层甲板",
+            "translation": "n: 甲板；舱面",
+            "attr": "n"
+        },
+	"eloquent": {
+            "sentence": "an () speaker -- 一个雄辩地演讲家",
+            "translation": "adj: 雄辩地；有口才的",
+            "attr": "adj"
+        },
+	"prominence": {
+            "sentence": "Crime prevention had to be given more () -- 防止犯罪方面应该受到更多的重视",
+            "translation": "n: 突出；重要；卓越",
+            "attr": "n"
+        },
+	"thumb": {
+            "sentence": "The baby sucked his () -- 婴儿吸吮他的大拇指",
+            "translation": "n: 大拇指",
+            "attr": "n"
+        },
+	"patronage": {
+            "sentence": "We thank you for your () -- 我们感谢您的惠顾 ",
+            "translation": "n: 赞助；惠顾；委任权",
+            "attr": "n"
+        },
+	"dazzle": {
+            "sentence": "Lights () him -- 灯光使他目眩",
+            "translation": "v: 使目眩 n: 耀眼；炫目",
+            "attr": "v, n"
+        },
+	"grim": {
+            "sentence": "Her face wore a () look -- 她脸上显出严厉的神情",
+            "translation": "adj: 严厉的；严峻的",
+            "attr": "adj"
+        },
+	"brim": {
+            "sentence": "to () over with happiness -- 洋溢着幸福",
+            "translation": "n: 边；边缘 v: 溢出",
+            "attr": "n, v"
+        },
+	"quiz": {
+            "sentence": "The teacher gave us a () in English -- 老师给我们一个英文的小测验",
+            "translation": "n: 小测验；知识竞赛",
+            "attr": "n"
+        },
+	"insult": {
+            "sentence": "I don't mean to () you -- 我没有侮辱你的意思",
+            "translation": "v: 侮辱；辱骂 n: 侮辱；辱骂",
+            "attr": "v, n"
+        },
+	"cultivate": {
+            "sentence": "His job is to () crops -- 他的工作就是终止农作物",
+            "translation": "v: 培养；栽培",
+            "attr": "v, n"
+        },
+	"essence": {
+            "sentence": "We should penetrate the appearence to see the () -- 我们需要透过现象看本质",
+            "translation": "n: 本质；精髓",
+            "attr": "n"
+        },
+	"stern": {
+            "sentence": "a () teacher -- 一个严厉的老师",
+            "translation": "adj: 严厉的；严格的 n: 船尾",
+            "attr": "adj, n"
+        },
+	"grip": {
+            "sentence": "I try my best to () the present happiness -- 我努力抓住当下的幸福",
+            "translation": "v: 紧握；紧抓 n: 紧握；掌握",
+            "attr": "v, n"
+        },
+	"retort": {
+            "sentence": "sharp () -- 尖刻的反驳",
+            "translation": "v: 反驳；回嘴 n: 反驳",
+            "attr": "n, v"
+        }
+}

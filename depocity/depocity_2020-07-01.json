@@ -1,0 +1,197 @@
+{
+	"deficit": {
+            "sentence": "a trade () -- 贸易逆差",
+            "translation": "n：赤子；亏损",
+            "attr": "n"
+        },
+	"sane": {
+            "sentence": "He was () at the time of murder -- 在凶杀案发生时他是清醒的",
+            "translation": "adj：头脑清醒的；明智的",
+            "attr": "adj"
+        },
+	"ideal": {
+            "sentence": "We do not live in a () world -- 我们并没有生活在一个完美的世界里",
+            "translation": "adj：理想的 n：理想；典范",
+            "attr": "adj，n"
+        },
+	"contemptible": {
+            "sentence": "a () act of violence -- 卑劣的暴力行径",
+            "translation": "adj：可比的；可轻视的",
+            "attr": "adj"
+        },
+	"telescope": {
+            "sentence": "astronomical () -- 天文望远镜",
+            "translation": "n：望远镜",
+            "attr": "n"
+        },
+	"depict": {
+            "sentence": "They () him as a hero -- 他们把他描绘成英雄",
+            "translation": "v：描绘；描述",
+            "attr": "v"
+        },
+	"plantation": {
+            "sentence": "the owner of a large tea () -- 大茶叶种植园的主人",
+            "translation": "n：种植园",
+            "attr": "n"
+        },
+	"splendid": {
+            "sentence": "() scene -- 壮丽的景象",
+            "translation": "adj：壮观的；极好的",
+            "attr": "adj"
+        },
+	"peninsula": {
+            "sentence": "the Korean () -- 朝鲜半岛",
+            "translation": "n：半岛",
+            "attr": "n"
+        },
+	"burden": {
+            "sentence": "I do not want to () you -- 我不想给你添麻烦",
+            "translation": "v：使负重；烦扰 n：负担；重担",
+            "attr": "v，n"
+        },
+	"swamp": {
+            "sentence": "Their company is in a finacial () -- 他们的公司陷入了财务困境",
+            "translation": "n：沼泽；湿地 v：淹没",
+            "attr": "n，v"
+        },
+	"slight": {
+            "sentence": "I was not aware of the () changes -- 我并没有意识到这个微小的变化",
+            "translation": "adj：微小的；轻微的",
+            "attr": "adj"
+        },
+	"boundary": {
+            "sentence": "() of the country -- 国家边界",
+            "translation": "n：边界",
+            "attr": "n"
+        },
+	"onerous": {
+            "sentence": "an () task -- 艰巨的任务",
+            "translation": "adj：繁重的；艰巨的；费力的",
+            "attr": "adj"
+        },
+	"bunch": {
+            "sentence": "I bought a () of grapes -- 我买了一串葡萄",
+            "translation": "n：束；串；捆",
+            "attr": "n"
+        },
+	"feeble": {
+            "sentence": "the () light -- 微弱的灯光",
+            "translation": "adj：虚弱的；衰弱的",
+            "attr": "adj"
+        },
+	"pope": {
+            "sentence": "() is the leader of religion -- 教皇是宗教的领袖",
+            "translation": "n：教皇",
+            "attr": "n"
+        },
+	"patriotic": {
+            "sentence": "His () action raised our admiration -- 他的爱国行为激起了我们的敬佩",
+            "translation": "adj：爱国的",
+            "attr": "adj"
+        },
+	"implement": {
+            "sentence": "agricultural () -- 农业用具",
+            "translation": "v：实施；执行 n：工具；器具",
+            "attr": "v，n"
+        },
+	"plateau": {
+            "sentence": "Price has now reached a () -- 物价现在已经平稳了",
+            "translation": "n：高原；平稳期",
+            "attr": "n"
+        },
+	"stagnation": {
+            "sentence": "His career had been in a () -- 他的事业已经陷入停滞了",
+            "translation": "n：停滞；萧条",
+            "attr": "n"
+        },
+	"cable": {
+            "sentence": "power () -- 电缆",
+            "translation": "n：电缆",
+            "attr": "n"
+        },
+	"acrobat": {
+            "sentence": "an () in a circus -- 马戏团的杂技演员",
+            "translation": "n：杂技演员",
+            "attr": "n"
+        },
+	"sophistic": {
+            "sentence": "() attack -- 断章取义的攻击",
+            "translation": "adj：诡辩的",
+            "attr": "adj"
+        },
+	"episode": {
+            "sentence": "dramastic () -- 戏剧性插曲",
+            "translation": "n：时间；一段经历",
+            "attr": "n"
+        },
+	"verse": {
+            "sentence": "This () discribe the sign of spring -- 这节诗描绘了春天的场景",
+            "translation": "n：诗；诗节",
+            "attr": "n"
+        },
+	"kit": {
+            "sentence": "We made a model plane out of a () -- 我们用一套零件做了一个模型飞机",
+            "translation": "n：成套工具；配套元件",
+            "attr": "n"
+        },
+	"excerpt": {
+            "sentence": "This is an () of novel -- 这是一部小说的摘录",
+            "translation": "n：摘要",
+            "attr": "n"
+        },
+	"rub": {
+            "sentence": "The mud will () off easily -- 泥土很容易就擦掉",
+            "translation": "v：摩擦；擦 n：擦",
+            "attr": "v，n"
+        },
+	"cabinet": {
+            "sentence": "a display () -- 陈列柜",
+            "translation": "n：内阁；储藏柜",
+            "attr": "n"
+        },
+	"impose": {
+            "sentence": "to () a tax -- 征税",
+            "translation": "v：征收；强加",
+            "attr": "v"
+        },
+	"cereal": {
+            "sentence": "a bowl of () -- 一碗麦片粥",
+            "translation": "n：谷物",
+            "attr": "n"
+        },
+	"exempt": {
+            "sentence": "to be () from taxes -- 免税",
+            "translation": "v：豁免；免除 adj：被免除的",
+            "attr": "v；adj"
+        },
+	"postpone": {
+            "sentence": "I have to () our appointment -- 我不得不把我们的约会延期",
+            "translation": "v：推迟；延期",
+            "attr": "v"
+        },
+	"mutual": {
+            "sentence": "() benefit -- 共同的利益",
+            "translation": "adj：相互的；共同的",
+            "attr": "adj"
+        },
+	"disposable": {
+            "sentence": "() assets -- 可自由支配的财产",
+            "translation": "adj：一次性的；可自由支配的",
+            "attr": "adj"
+        },
+	"cordial": {
+            "sentence": "a () with a sweet taste -- 有甜味的酒",
+            "translation": "adj：热诚的；衷心的 n：兴奋剂；甜酒",
+            "attr": "adj；n"
+        },
+	"postmodern": {
+            "sentence": "() archeticture -- 后现代主义建筑",
+            "translation": "adj：后现代主义的",
+            "attr": "adj"
+        },
+	"stale": {
+            "sentence": "The bread is too () to eat -- 面包不新鲜，不能吃了",
+            "translation": "adj：不新鲜的；陈腐的",
+            "attr": "adj"
+        }
+}

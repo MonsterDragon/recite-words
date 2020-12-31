@@ -1,0 +1,147 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "brass": {
+        "attr": "n", 
+        "sentence": "The () is too loud -- 铜管乐器的声音太响了", 
+        "translation": "n：黄铜；黄铜制品；厚脸皮"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "cognitive": {
+        "attr": "adj", 
+        "sentence": "() learning -- 认知性学习", 
+        "translation": "adj：认知的；认识的"
+    }, 
+    "collective": {
+        "attr": "adj，n", 
+        "sentence": "() leadership -- 集体领导", 
+        "translation": "adj: 集体的；共同的 n：集体"
+    }, 
+    "contaminate": {
+        "attr": "v", 
+        "sentence": "() the environment -- 污染环境", 
+        "translation": "v：污染"
+    }, 
+    "conversion": {
+        "attr": "n", 
+        "sentence": "religious () -- 宗教信仰的转变", 
+        "translation": "n：转换；转化；改变信仰"
+    }, 
+    "dazzle": {
+        "attr": "v, n", 
+        "sentence": "Lights () him -- 灯光使他目眩", 
+        "translation": "v: 使目眩 n: 耀眼；炫目"
+    }, 
+    "density": {
+        "attr": "n", 
+        "sentence": "Mercury has a much greater () than water -- 水银的密度比水大得多", 
+        "translation": "n：浓度；密度"
+    }, 
+    "dilemma": {
+        "attr": "n", 
+        "sentence": "The issue raises a moral () -- 这个问题引发了一个道德上的两难抉择", 
+        "translation": "n：窘境"
+    }, 
+    "exploit": {
+        "attr": "v，n", 
+        "sentence": "() markets -- 开拓市场", 
+        "translation": "v：开拓；利用；开采；剥削 n：功绩"
+    }, 
+    "glide": {
+        "attr": "v，n", 
+        "sentence": "I () away from classroom -- 我溜出教室", 
+        "translation": "v：滑动；滑行；滑翔 n：滑行；滑动；滑翔"
+    }, 
+    "hatch": {
+        "attr": "v，n", 
+        "sentence": "to () a plan -- 秘密策划一个计划", 
+        "translation": "v：孵出；秘密策划 n：舱口；小窗口"
+    }, 
+    "incur": {
+        "attr": "v", 
+        "sentence": "His unfriendly words () my anger -- 他不友好的话惹起了我的愤怒", 
+        "translation": "v：招致；遭受"
+    }, 
+    "lodge": {
+        "attr": "n, v", 
+        "sentence": "I () at a friend's house -- 我借宿在一个朋友家里", 
+        "translation": "n: 小舍，传达室 v: 存放；借宿"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "negligible": {
+        "attr": "adj", 
+        "sentence": "He is a () person in the goverment -- 在政府中他是个微不足道的人", 
+        "translation": "adj：微不足道的；可以忽略的"
+    }, 
+    "premise": {
+        "attr": "n，v", 
+        "sentence": "I wonder if the () is right -- 我怀疑这个前提是否正确", 
+        "translation": "n：前提；假定 v：作出前提"
+    }, 
+    "renovate": {
+        "attr": "v", 
+        "sentence": "to () a house -- 翻新一座房子", 
+        "translation": "v：整修；翻新"
+    }, 
+    "shallow": {
+        "attr": "adj", 
+        "sentence": "Only () people judge people by their appearance -- 只有浅薄的人才会以貌取人", 
+        "translation": "adj：浅的；浅薄的"
+    }, 
+    "show up": {
+        "attr": "", 
+        "sentence": "Difficulties can () a person's best qualities -- 困难能使一个人的最好的品质展现出来", 
+        "translation": "露面；到场；显现"
+    }, 
+    "stake": {
+        "attr": "n，v", 
+        "sentence": "The boy fastened the goat to a () -- 男孩把羊拴在木桩上", 
+        "translation": "n：股份；赌注 v：投下...赌注"
+    }, 
+    "stoop": {
+        "attr": "v, n", 
+        "sentence": "Don't () to quarrel with her about it -- 别降低身份为这事去跟她争吵", 
+        "translation": "v: 俯身 n: 弯腰；曲背"
+    }, 
+    "systematically": {
+        "attr": "adv", 
+        "sentence": "True standouts () develop valuable skills -- 真正出类拔萃的人会系统地培养具有价值的技能", 
+        "translation": "adv：有系统地；有组织地"
+    }, 
+    "tailor": {
+        "attr": "v，n", 
+        "sentence": "The () can alter your coat to fit you -- 裁缝会将你的上衣改的合你的身材", 
+        "translation": "v：剪裁；缝制 n：裁缝"
+    }, 
+    "thigh": {
+        "attr": "n", 
+        "sentence": "The injection site can be the arm or the () -- 注射部位可以是胳膊或大腿", 
+        "translation": "n：大腿"
+    }, 
+    "thrive": {
+        "attr": "v", 
+        "sentence": "May our country prosper and () forever -- 希望我们的国家繁荣兴旺", 
+        "translation": "v：兴旺；繁荣；茁壮成长"
+    }, 
+    "virtue": {
+        "attr": "n", 
+        "sentence": "() will prevail against evil -- 美德定将战胜邪恶", 
+        "translation": "n：美德；优点"
+    }
+}

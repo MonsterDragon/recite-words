@@ -1,0 +1,112 @@
+{
+    "at large ": {
+        "attr": "", 
+        "sentence": "The outlaw is still () -- 这个亡命之徒仍在逃逸之中", 
+        "translation": "一般的；普遍；未被捕；详尽"
+    }, 
+    "bacterial": {
+        "attr": "adj", 
+        "sentence": "() disease -- 细菌性疾病", 
+        "translation": "adj：细菌的"
+    }, 
+    "barren": {
+        "attr": "adj", 
+        "sentence": "() efforts -- 无效的努力", 
+        "translation": "adj：贫瘠的；无价值的；不孕的"
+    }, 
+    "delicately": {
+        "attr": "adv", 
+        "sentence": "We received a () worded refusal of our invitation -- 我们收到一封婉言谢绝我们邀请的回复函", 
+        "translation": "adv：优美地；微妙地；精致地"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "despatch": {
+        "attr": "v，n", 
+        "sentence": "to () a passenger -- 派遣使者", 
+        "translation": "v：派遣；调遣；发送 n：快信；发送；派遣"
+    }, 
+    "diabetes": {
+        "attr": "n", 
+        "sentence": "Insulin is used in the treatment of () -- 胰岛素用于治疗糖尿病", 
+        "translation": "n：糖尿病；多尿症"
+    }, 
+    "disposition": {
+        "attr": "n", 
+        "sentence": "Her property is at her () -- 她的财产由她自由处置", 
+        "translation": "n：性情；意向；处置"
+    }, 
+    "drastic": {
+        "attr": "adj", 
+        "sentence": "a () reduction -- 急速的下降", 
+        "translation": "adj：急速的；激烈的"
+    }, 
+    "hierarchy": {
+        "attr": "n", 
+        "sentence": "() of power --权利等级 ", 
+        "translation": "n：层次等级；等级制度"
+    }, 
+    "histerical": {
+        "attr": "adj", 
+        "sentence": "She burst into () tears -- 她歇斯底里地痛哭起来", 
+        "translation": "adj：歇斯底里；异常激动的"
+    }, 
+    "levy": {
+        "attr": "v，n", 
+        "sentence": "to () men for a war -- 征召男人参战", 
+        "translation": "v：征收；征募 n：征兵；征税"
+    }, 
+    "majority": {
+        "attr": "n", 
+        "sentence": "The () were for the plan -- 多数人赞成这个计划", 
+        "translation": "n：大多数；大部分"
+    }, 
+    "patrol": {
+        "attr": "n，v", 
+        "sentence": "The policeman was on () -- 警察在巡逻", 
+        "translation": "n：巡逻 v：巡逻"
+    }, 
+    "preoccupation": {
+        "attr": "n", 
+        "sentence": "His () was getting enough to eat -- 他的当务之急是填饱肚子", 
+        "translation": "n：当务之急；入神；"
+    }, 
+    "renovate": {
+        "attr": "v", 
+        "sentence": "to () a house -- 翻新一座房子", 
+        "translation": "v：整修；翻新"
+    }, 
+    "riot": {
+        "attr": "n", 
+        "sentence": "The () continued for several hours -- 骚乱持续了好几个小时", 
+        "translation": "n：骚乱；暴乱"
+    }, 
+    "skepticism": {
+        "attr": "n", 
+        "sentence": "the () of philosphers -- 哲学家的怀疑论", 
+        "translation": "n：怀疑论；怀疑主义；怀疑态度"
+    }, 
+    "solitary": {
+        "attr": "adj", 
+        "sentence": "The artist is a () being -- 艺术家是一个孤独的人", 
+        "translation": "adj：独自的；单独的；孤寂的"
+    }, 
+    "throughout": {
+        "attr": "prep，adv", 
+        "sentence": "It rained () the night -- 雨下了一整夜", 
+        "translation": "prep：遍及；各处；自始至终 adv：自始至终；到处"
+    }, 
+    "trim": {
+        "attr": "v，adj，n", 
+        "sentence": "a () and neat garden -- 整洁美观的花园", 
+        "translation": "v：修建；装饰 adj：整齐的；整洁的 n：修剪"
+    }, 
+    "tub": {
+        "attr": "n", 
+        "sentence": "bath () -- 浴盆", 
+        "translation": "n：桶；盆；浴盆"
+    }
+}

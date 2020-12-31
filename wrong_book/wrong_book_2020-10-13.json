@@ -1,0 +1,22 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "plug": {
+        "attr": "n，v", 
+        "sentence": "to () one's ears -- 塞住某人的耳朵", 
+        "translation": "n：插头；塞子；栓；宣传 v：堵；塞；插上；大肆宣传"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将浸透我们的衣服", 
+        "translation": "v：使浸透；使湿透；使饱和"
+    }, 
+    "tremble": {
+        "attr": "v，n", 
+        "sentence": "() with fear -- 害怕的发抖", 
+        "translation": "v：发抖；打颤；战栗 n：发抖；战栗"
+    }
+}

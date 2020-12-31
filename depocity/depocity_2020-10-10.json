@@ -1,0 +1,257 @@
+{
+    "aggravate": {
+        "attr": "v", 
+        "sentence": "Stress can () the situation -- 压力会使情况恶化", 
+        "translation": "v：加剧；使恶化；激怒"
+    }, 
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "auction": {
+        "attr": "n，v", 
+        "sentence": "They sold the furniture by () -- 他们拍卖了这套家具", 
+        "translation": "n：拍卖 v：拍卖"
+    }, 
+    "audit": {
+        "attr": "v,n", 
+        "sentence": "I () the account myself -- 我自己审查账目", 
+        "translation": "v：审查；查账 n：审查；查账"
+    }, 
+    "booth": {
+        "attr": "n", 
+        "sentence": "a ticket () -- 售票厅", 
+        "translation": "n：小厅；临时货摊；隔间"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "clumsy": {
+        "attr": "adj", 
+        "sentence": "The new waiter is () -- 新来的服务生很笨拙", 
+        "translation": "adj：笨拙的"
+    }, 
+    "clutch": {
+        "attr": "v,n", 
+        "sentence": "Clutch at the throat of fate -- 抓住命运的咽喉", 
+        "translation": "v：抓住；攫住 n：紧抓；离合器"
+    }, 
+    "coil": {
+        "attr": "v，n", 
+        "sentence": "A snake can () around a brunch -- 蛇能盘绕树枝", 
+        "translation": "v：盘绕；卷成圈 n：卷；线圈"
+    }, 
+    "compensation": {
+        "attr": "n", 
+        "sentence": "She claimed for () -- 她要求赔偿", 
+        "translation": "n：赔偿；补偿"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "conspiracy": {
+        "attr": "n", 
+        "sentence": "vile () -- 邪恶的阴谋", 
+        "translation": "n：阴谋"
+    }, 
+    "contemporary": {
+        "attr": "adj，n", 
+        "sentence": "() authors -- 当代作家", 
+        "translation": "adj：现代的；当代的；同时代的 n：同代人；同辈人"
+    }, 
+    "convey": {
+        "attr": "v", 
+        "sentence": "() ideas -- 传达思想", 
+        "translation": "v：传达；表达；运送"
+    }, 
+    "countless": {
+        "attr": "adj", 
+        "sentence": "() examples -- 不计其数的例子", 
+        "translation": "adj：无数的；多的；数不清的"
+    }, 
+    "delegate": {
+        "attr": "n，v", 
+        "sentence": "appoint a () -- 委派代表", 
+        "translation": "n：代表 v：委派"
+    }, 
+    "descent": {
+        "attr": "n", 
+        "sentence": "one's () into a life of crime -- 堕落到靠犯罪过活", 
+        "translation": "n：下降；斜坡；堕落"
+    }, 
+    "diplomatic": {
+        "attr": "adj", 
+        "sentence": "establish () relations -- 建立外交关系", 
+        "translation": "adj：外交的"
+    }, 
+    "diverse": {
+        "attr": "adj", 
+        "sentence": "() interests -- 不同的兴趣", 
+        "translation": "adj：不同的；相异的"
+    }, 
+    "feat": {
+        "attr": "n", 
+        "sentence": "an acrobatic () -- 杂技表演", 
+        "translation": "n：功绩，技艺"
+    }, 
+    "fracture": {
+        "attr": "n, v", 
+        "sentence": "Old people's bones are easy to () -- 老年人易骨折", 
+        "translation": "n: 破裂；骨折 v: 使断裂；使骨折"
+    }, 
+    "grocer": {
+        "attr": "n", 
+        "sentence": "business a () -- 运营一家杂货店", 
+        "translation": "n：食品杂货店"
+    }, 
+    "humid": {
+        "attr": "adj", 
+        "sentence": "the () climate -- 潮湿的气候", 
+        "translation": "adj：潮湿的；湿润的"
+    }, 
+    "inconceivable": {
+        "attr": "adj", 
+        "sentence": "It is () -- 难以置信的", 
+        "translation": "adj：难以想象的；难以相信的"
+    }, 
+    "indicative": {
+        "attr": "adj", 
+        "sentence": "use the () mood -- 用陈述语气", 
+        "translation": "adj：表明的；表示的；陈述的"
+    }, 
+    "instinct": {
+        "attr": "n", 
+        "sentence": "Trust your () -- 相信你的直觉", 
+        "translation": "n：本能；直觉"
+    }, 
+    "intimate": {
+        "attr": "n，adj，v", 
+        "sentence": "He is my () -- 他是我的密友", 
+        "translation": "n：密友 adj：亲密的；熟悉的 v：暗示"
+    }, 
+    "junk": {
+        "attr": "n", 
+        "sentence": "The () was piled up in the basement -- 垃圾被堆放在地下室", 
+        "translation": "n：无用的东西"
+    }, 
+    "laser": {
+        "attr": "n", 
+        "sentence": "() technology -- 激光技术", 
+        "translation": "n：激光"
+    }, 
+    "leisure": {
+        "attr": "n", 
+        "sentence": "I have no () for playing cards -- 我没闲暇时间玩牌", 
+        "translation": "n：空闲；闲暇"
+    }, 
+    "merchandise": {
+        "attr": "n，v", 
+        "sentence": "The () is not up to standard -- 货物品质未达标准", 
+        "translation": "n：商品；货物 v：推销；销售"
+    }, 
+    "minority": {
+        "attr": "n", 
+        "sentence": "A () voted against the plan -- 少数；少数民族", 
+        "translation": "n：少数；少数民族"
+    }, 
+    "parcel": {
+        "attr": "n，v", 
+        "sentence": "The postman asked me to sign for the () -- 邮递员叫我签收包裹", 
+        "translation": "n：包裹；小包 v：捆扎；打包"
+    }, 
+    "physician": {
+        "attr": "n", 
+        "sentence": "The () put him on a special diet -- 内科医生给他吃特定的事物", 
+        "translation": "n：医生；内科医生"
+    }, 
+    "plural": {
+        "attr": "n，adj", 
+        "sentence": "() noun -- 复数名词", 
+        "translation": "n：复数 adj：复数的"
+    }, 
+    "preposition": {
+        "attr": "n", 
+        "sentence": "A () is used before nouns and pronouns -- 介词用于名词和代词之前", 
+        "translation": "n：介词"
+    }, 
+    "rake": {
+        "attr": "n，v", 
+        "sentence": "to () the soil for planting -- 为栽种而耙地", 
+        "translation": "n：耙子；耙地机 v：扫掠过；搜索"
+    }, 
+    "razor": {
+        "attr": "n", 
+        "sentence": "The () slipped and cut my cheek -- 剃刀一划把我脸颊割破了", 
+        "translation": "n：剃须刀；刮脸刀"
+    }, 
+    "recreation": {
+        "attr": "n", 
+        "sentence": "facilities for () -- 娱乐设施", 
+        "translation": "n：消遣；娱乐"
+    }, 
+    "render": {
+        "attr": "v", 
+        "sentence": "() help -- 给予帮助", 
+        "translation": "v：给予；使变得；翻译；提交"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "retrieve": {
+        "attr": "v", 
+        "sentence": "to () information from a computer -- 从电脑中检索信息", 
+        "translation": "v：取回；重新获得"
+    }, 
+    "scratch": {
+        "attr": "v，n", 
+        "sentence": "() yourself if you itch -- 如果你感觉痒就搔一下", 
+        "translation": "v：抓骚；刮 n：抓痕；刮伤"
+    }, 
+    "site": {
+        "attr": "n", 
+        "sentence": "historic () -- 历史古迹", 
+        "translation": "n：位置；场所"
+    }, 
+    "spin": {
+        "attr": "v，n", 
+        "sentence": "to () at full speed -- 全速旋转", 
+        "translation": "v：旋转；疾驰 n：旋转"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "tiled": {
+        "attr": "adj，v", 
+        "sentence": "() the floor -- 铺地砖", 
+        "translation": "adj：铺砖的；平铺的 v：铺砖"
+    }, 
+    "vanity": {
+        "attr": "n", 
+        "sentence": "He has many faults, but () is not one of them -- 他有很多缺点，但是虚荣心不是其中之一", 
+        "translation": "n：虚荣；自负"
+    }, 
+    "waist": {
+        "attr": "n", 
+        "sentence": "His arms encircled her () -- 他的双臂搂着她的腰", 
+        "translation": "n：腰"
+    }, 
+    "wreath": {
+        "attr": "n", 
+        "sentence": "a () of smoke -- 烟圈", 
+        "translation": "n：花环；花圈"
+    }
+}

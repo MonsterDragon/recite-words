@@ -1,0 +1,217 @@
+{
+	"denote": {
+            "sentence": "We often () anger by red letters -- 我们常常用红色字母表示愤怒",
+            "translation": "v：代表；表示",
+            "attr": "v"
+        },
+	"empirical": {
+            "sentence": "Many () results supported the hypothesis -- 很多经验性结论都证明假设成立",
+            "translation": "adj：经验主义的；以经验为根据的",
+            "attr": "adj"
+        },
+	"missionary": {
+            "sentence": "A () is a Christian -- 传教士是基督徒",
+            "translation": "n：传教士 adj：传教士的",
+            "attr": "n，adj"
+        },
+	"composer": {
+            "sentence": "Who is the () of this song -- 谁是这首歌的作曲家",
+            "translation": "n：作曲家",
+            "attr": "n"
+        },
+	"rough": {
+            "sentence": "to treat sb () -- 粗暴的对待某人",
+            "translation": "adj：粗糙的；粗暴的 adv：粗糙地；粗野地",
+            "attr": "adj，adv"
+        },
+	"aide": {
+            "sentence": "a nurse's () -- 护士的助手",
+            "translation": "n：副官；助手",
+            "attr": "n"
+        },
+	"conceal": {
+            "sentence": "() the fact -- 隐藏事实",
+            "translation": "v：隐藏；隐瞒",
+            "attr": "v"
+        },
+	"torch": {
+            "sentence": "The () flared in the darkness -- 火炬在黑暗中闪光",
+            "translation": "n：火炬；火把；手电筒",
+            "attr": "n"
+        },
+	"renaissance": {
+            "sentence": "Florence is the shrine of the () -- 佛罗伦萨是文艺复兴的圣地",
+            "translation": "n：复兴；文艺复兴",
+            "attr": "n"
+        },
+	"appetite": {
+            "sentence": "He has an amazing () for hard work -- 他出奇地喜爱努力工作",
+            "translation": "n：胃口；食欲；嗜好",
+            "attr": "n"
+        },
+	"lift": {
+            "sentence": "He was too weak even to () his head -- 他虚弱的连头都抬不起来",
+            "translation": "v：举起；抬起；提起 n：电梯；搭便车",
+            "attr": "v， n"
+        },
+	"assumption": {
+            "sentence": "His action were based on a false () -- 他的行为基于错误的假想上",
+            "translation": "n：假设；假想",
+            "attr": "n"
+        },
+	"hatch": {
+            "sentence": "to () a plan -- 策划一个计划",
+            "translation": "v：秘密策划；孵出 n：舱口",
+            "attr": "v，n"
+        },
+	"averse": {
+            "sentence": "She was () to men with long hair -- 她极端讨厌留长发的男人",
+            "translation": "adj：不愿意的；反对的",
+            "attr": "adj"
+        },
+	"rim": {
+            "sentence": "the () of plate -- 盘子边缘",
+            "translation": "n：边；缘",
+            "attr": "n"
+        },
+	"levy": {
+            "sentence": "to () man for a war -- 征募士兵参战",
+            "translation": "v：征收；征税；征募 n：征兵；征税",
+            "attr": "v，n"
+        },
+	"ruthless": {
+            "sentence": "The () soldiers killed all the villagers -- ",
+            "translation": "adj：无情的；冷酷的",
+            "attr": "adj"
+        },
+	"versatile": {
+            "sentence": "This knife is a () tool -- 这把小刀是一个功能非常多的工具",
+            "translation": "adj：多才多艺的",
+            "attr": "adj"
+        },
+	"counsel": {
+            "sentence": "I would () you not to many too young -- 我劝你不要过早结婚",
+            "translation": "v：劝告；建议 n：律师；劝告",
+            "attr": "v，n"
+        },
+	"axis": {
+            "sentence": "time () -- 时间轴",
+            "translation": "n：轴线；轴",
+            "attr": "n"
+        },
+	"pond": {
+            "sentence": "Trees surround the () -- 树木围绕着池塘",
+            "translation": "n：池塘",
+            "attr": "n"
+        },
+	"kettle": {
+            "sentence": "Put the () on the stove -- 我水壶放到炉子上",
+            "translation": "n：水壶",
+            "attr": "n"
+        },
+	"vanity": {
+            "sentence": "He has many faults，but () is not one of them -- 他有许多缺点，但虚荣心不是其中之一",
+            "translation": "n：虚荣；自负",
+            "attr": "n"
+        },
+	"sham": {
+            "sentence": "This election is () -- 这次选举弄虚作假",
+            "translation": "n：假象；假冒者 adj：虚假的 v：假装",
+            "attr": "n，adj，v"
+        },
+	"compartment": {
+            "sentence": "smoking () -- 吸烟隔间",
+            "translation": "n：分隔间；车厢",
+            "attr": "n"
+        },
+	"stalk": {
+            "sentence": "He cutof the flowers at the () -- 他把茎上的花都剪掉了",
+            "translation": "n：茎；柄 v：跟踪；昂首阔步的走",
+            "attr": "n，adj"
+        },
+	"sorrow": {
+            "sentence": "A man in () is anxious for sympathy -- 悲痛中的人渴望得到同情",
+            "translation": "n：悲痛；伤心",
+            "attr": "n"
+        },
+	"penetrate": {
+            "sentence": "I finally () ger disguise -- 我最终看穿了她的伪装",
+            "translation": "v：渗透；看穿；洞察",
+            "attr": "v"
+        },
+	"retrospect": {
+            "sentence": "It was very strange feeling in () -- 回想起来那是一种非常奇怪的感觉",
+            "translation": "v：回想 n：回想",
+            "attr": "v，n"
+        },
+	"contaminate": {
+            "sentence": "() the environment -- 污染环境",
+            "translation": "v：污染",
+            "attr": "v"
+        },
+	"diversion": {
+            "sentence": "traffic () -- 交通绕行",
+            "translation": "n：转移；改道；分散注意力；消遣",
+            "attr": "n"
+        },
+	"glide": {
+            "sentence": "I () away from the classroom -- 我溜出教室",
+            "translation": "v：滑行；滑动 n：滑行；滑动",
+            "attr": "v，n"
+        },
+	"handicap": {
+            "sentence": "Blindness is a great () -- 失明是巨大的障碍",
+            "translation": "n：障碍",
+            "attr": "n"
+        },
+	"drift": {
+            "sentence": "There is a slow () into crisis -- 有一种渐入危机的趋势",
+            "translation": "v：飘；漂流 n：流动；趋势",
+            "attr": "v，n"
+        },
+	"deprive": {
+            "sentence": "Never () someone of hope -- 永远不要使别人失去希望",
+            "translation": "v：剥夺；使丧失",
+            "attr": "v"
+        },
+	"lodge": {
+            "sentence": "() a protest against -- 向某人提出抗议",
+            "translation": "n：小舍；传达室 v：存放；借宿；提出",
+            "attr": "n，v"
+        },
+	"avert": {
+            "sentence": "to () one's eyes -- 转移目光",
+            "translation": "v：转开；避免；防止",
+            "attr": "v"
+        },
+	"overstate": {
+            "sentence": "You () its importance -- 你夸大了这件事的重要性",
+            "translation": "v：夸大",
+            "attr": "v"
+        },
+	"propaganda": {
+            "sentence": "plitical () -- 政治宣传",
+            "translation": "n：宣传",
+            "attr": "n"
+        },
+	"impetus": {
+            "sentence": "Her speech gave an () to my ideas -- 她的讲话激发了我的思绪",
+            "translation": "n：冲力；推动力；刺激",
+            "attr": "n"
+        },
+	"instalment": {
+            "sentence": "the () purchase -- 分期付款购物",
+            "translation": "n：分期付款",
+            "attr": "n"
+        },
+	"forge": {
+            "sentence": "() a signature -- 伪造签名",
+            "translation": "v：伪造；制造；建立",
+            "attr": "v"
+        },
+	"insect": {
+            "sentence": "An () settled on a leaf -- 一只昆虫落在一片树叶上",
+            "translation": "n：昆虫",
+            "attr": "n"
+        }
+}

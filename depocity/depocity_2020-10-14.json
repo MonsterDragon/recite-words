@@ -1,0 +1,257 @@
+{
+    "booth": {
+        "attr": "n", 
+        "sentence": "a ticket () -- 售票厅", 
+        "translation": "n：小厅；临时货摊；隔间"
+    }, 
+    "brace": {
+        "attr": "n，v", 
+        "sentence": "I () my back against the wall -- 我后背紧靠在墙上", 
+        "translation": "n：支撑物；支架；一对 v：支撑；绷紧；紧靠；准备好"
+    }, 
+    "carpet": {
+        "attr": "n", 
+        "sentence": "red () -- 红地毯", 
+        "translation": "n：地毯"
+    }, 
+    "cassette": {
+        "attr": "n", 
+        "sentence": "video () -- 盒式录像带", 
+        "translation": "n：盒子；盒式磁带"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "clutch": {
+        "attr": "v,n", 
+        "sentence": "Clutch at the throat of fate -- 抓住命运的咽喉", 
+        "translation": "v：抓住；攫住 n：紧抓；离合器"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "conspiracy": {
+        "attr": "n", 
+        "sentence": "vile () -- 邪恶的阴谋", 
+        "translation": "n：阴谋"
+    }, 
+    "cosy": {
+        "attr": "adj", 
+        "sentence": "to live a () life -- 过安逸的人生", 
+        "translation": "adj：舒适的；安逸的"
+    }, 
+    "counseling": {
+        "attr": "n，v", 
+        "sentence": "the mental health () -- 心理健康咨询", 
+        "translation": "n：咨询服务 v：劝告；建议"
+    }, 
+    "deceit": {
+        "attr": "n", 
+        "sentence": "His () is disgusting -- 他的欺诈手段令人憎恶", 
+        "translation": "n：欺骗；欺诈"
+    }, 
+    "defect": {
+        "attr": "n，v", 
+        "sentence": "() in character -- 性格上的缺陷", 
+        "translation": "n：瑕疵；缺陷 v：叛逃；背叛"
+    }, 
+    "descent": {
+        "attr": "n", 
+        "sentence": "one's () into a life of crime -- 堕落到靠犯罪过活", 
+        "translation": "n：下降；斜坡；堕落"
+    }, 
+    "discreet": {
+        "attr": "adj", 
+        "sentence": "She wore () jewellery -- 她戴着素净的首饰", 
+        "translation": "adj：谨慎的；不显眼的；朴素的"
+    }, 
+    "division": {
+        "attr": "n", 
+        "sentence": "() of an area -- 区域的划分", 
+        "translation": "n：划分；除法；部门"
+    }, 
+    "domestic": {
+        "attr": "adj，n", 
+        "sentence": "() violence -- 家庭暴力", 
+        "translation": "adj：家庭的；国内的；驯养的 n：用人"
+    }, 
+    "dumb": {
+        "attr": "adj", 
+        "sentence": "It was () of you to say that -- 你说那种话真是太愚蠢了", 
+        "translation": "adj：哑的；沉默的；愚笨的"
+    }, 
+    "dye": {
+        "attr": "v；n", 
+        "sentence": "() hair black -- 染黑头发", 
+        "translation": "v：给...染色 n：染料"
+    }, 
+    "encompass": {
+        "attr": "v", 
+        "sentence": "They built a moat to () the castle -- 他们的城堡周围修了一条护城河", 
+        "translation": "v：包含；包围；围绕"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "fragrant": {
+        "attr": "adj", 
+        "sentence": "() perfume -- 芳香的香水", 
+        "translation": "adj：芬芳的"
+    }, 
+    "grocer": {
+        "attr": "n", 
+        "sentence": "business a () -- 运营一家杂货店", 
+        "translation": "n：食品杂货店"
+    }, 
+    "habitat": {
+        "attr": "n", 
+        "sentence": "the () of heroin -- 那个国家是海洛因的产地", 
+        "translation": "n：栖息地；居留地；产地"
+    }, 
+    "instinct": {
+        "attr": "n", 
+        "sentence": "Trust your () -- 相信你的直觉", 
+        "translation": "n：本能；直觉"
+    }, 
+    "ladder": {
+        "attr": "n", 
+        "sentence": "the () of success -- 成功的阶梯", 
+        "translation": "n：梯子；阶梯"
+    }, 
+    "minority": {
+        "attr": "n", 
+        "sentence": "A () voted against the plan -- 少数；少数民族", 
+        "translation": "n：少数；少数民族"
+    }, 
+    "oblige": {
+        "attr": "v", 
+        "sentence": "The laws () parents to send their children to school -- 法律要求父母送子女上学", 
+        "translation": "v：迫使；效劳"
+    }, 
+    "orchard": {
+        "attr": "n", 
+        "sentence": "an owner of an apple () -- 一个苹果园主", 
+        "translation": "n：果园"
+    }, 
+    "parcel": {
+        "attr": "n，v", 
+        "sentence": "The postman asked me to sign for the () -- 邮递员叫我签收包裹", 
+        "translation": "n：包裹；小包 v：捆扎；打包"
+    }, 
+    "perspective": {
+        "attr": "n，adj", 
+        "sentence": "A fine () opened out before us -- 一个美好的前景展现在我们面前", 
+        "translation": "n：透视；观点；看法；远景 adj：透视的"
+    }, 
+    "plural": {
+        "attr": "n，adj", 
+        "sentence": "() noun -- 复数名词", 
+        "translation": "n：复数 adj：复数的"
+    }, 
+    "prompt": {
+        "attr": "adj，adv，v，n", 
+        "sentence": "() reply -- 即刻的答复", 
+        "translation": "adj：迅速的；即时的；敏捷的 v：提示；促使；鼓动 n：激励；提示；提词 adv：准时地"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "recipe": {
+        "attr": "n", 
+        "sentence": "a () for fever -- 发烧的处方", 
+        "translation": "n：食谱；烹饪方法；处方"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "riot": {
+        "attr": "n", 
+        "sentence": "The () continued for several hours -- 骚乱持续了好几个小时", 
+        "translation": "n：骚乱；暴乱"
+    }, 
+    "shaft": {
+        "attr": "n", 
+        "sentence": "the () of an ax -- 斧头的把柄", 
+        "translation": "n：柄；矛；竖井；轴"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "startle": {
+        "attr": "v", 
+        "sentence": "I was () from sleep -- 我从睡梦中惊醒起来", 
+        "translation": "v：惊动；惊愕"
+    }, 
+    "stationery": {
+        "attr": "n", 
+        "sentence": "The shop sells () -- 这家商店出售文具", 
+        "translation": "n：文具"
+    }, 
+    "subtle": {
+        "attr": "adj", 
+        "sentence": "a () distinction -- 微妙的区别", 
+        "translation": "adj：微妙的；细微的"
+    }, 
+    "symmetry": {
+        "attr": "n", 
+        "sentence": "the () of a snowflake -- 雪花的对称", 
+        "translation": "n：对称"
+    }, 
+    "thrift": {
+        "attr": "n", 
+        "sentence": "His success was due to his industry and () -- 他的成功基于他的勤奋与节俭", 
+        "translation": "n：节俭；节约"
+    }, 
+    "tilt": {
+        "attr": "n，v", 
+        "sentence": "I () my body -- 我倾斜我的身子", 
+        "translation": "v：倾斜；偏向 n：倾斜；企图"
+    }, 
+    "trim": {
+        "attr": "v，adj，n", 
+        "sentence": "a () and neat garden -- 整洁美观的花园", 
+        "translation": "v：修建；装饰 adj：整齐的；整洁的 n：修剪"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }, 
+    "wander": {
+        "attr": "v", 
+        "sentence": "() over the countryside -- 在乡间漫步", 
+        "translation": "v：徘徊；漫游"
+    }, 
+    "wedge": {
+        "attr": "n，v", 
+        "sentence": "I () the door with a log of wood -- 我用一根木棍将门楔住", 
+        "translation": "n：楔子；三角木 v：把 ... 楔住；将 ... 挤住"
+    }, 
+    "wrap": {
+        "attr": "v，n", 
+        "sentence": "You should () up the gift in a paper -- 你应该把礼物用纸包好", 
+        "translation": "v：包；缠绕；覆盖 n：外套；围巾；包裹"
+    }
+}

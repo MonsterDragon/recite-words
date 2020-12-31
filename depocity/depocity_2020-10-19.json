@@ -1,0 +1,147 @@
+{
+    "accessory": {
+        "attr": "n，adj", 
+        "sentence": "an () of mobile phone -- 一个手机配件", 
+        "translation": "n：配件；附件；从犯 adj：附属的"
+    }, 
+    "aggravate": {
+        "attr": "v", 
+        "sentence": "Stress can () the situation -- 压力会使情况恶化", 
+        "translation": "v：加剧；使恶化；激怒"
+    }, 
+    "circus": {
+        "attr": "n", 
+        "sentence": "() performers -- 马戏团演员", 
+        "translation": "n：马戏团"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "concord": {
+        "attr": "n", 
+        "sentence": "The two tribes lived in () -- 两个部落和睦相处", 
+        "translation": "n：和谐；谐调；一致"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "convey": {
+        "attr": "v", 
+        "sentence": "() ideas -- 传达思想", 
+        "translation": "v：传达；表达；运送"
+    }, 
+    "discord": {
+        "attr": "n", 
+        "sentence": "The () of his music was hard to the ear -- 他演奏的不和谐并且很刺耳", 
+        "translation": "n：闭一只；不合；纷争"
+    }, 
+    "discreet": {
+        "attr": "adj", 
+        "sentence": "She wore () jewellery -- 她戴着素净的首饰", 
+        "translation": "adj：谨慎的；不显眼的；朴素的"
+    }, 
+    "indignant": {
+        "attr": "n", 
+        "sentence": "I was () because it's unfair -- 我非常愤慨，因为这不公平", 
+        "translation": "愤慨"
+    }, 
+    "irritate": {
+        "attr": "v", 
+        "sentence": "The noise began to () me -- 噪音开始令我感到烦躁", 
+        "translation": "v：激怒；使急躁；使疼痛"
+    }, 
+    "medieval": {
+        "attr": "adj", 
+        "sentence": "The () castle was made of stone -- 这座中世纪的城堡由石头建成", 
+        "translation": "adj：中世纪的；中古的"
+    }, 
+    "physician": {
+        "attr": "n", 
+        "sentence": "The () put him on a special diet -- 内科医生给他吃特定的事物", 
+        "translation": "n：医生；内科医生"
+    }, 
+    "pitch": {
+        "attr": "v，n", 
+        "sentence": "() the ball -- 抛球", 
+        "translation": "v：抛掷；扎营；力荐 n：球场；程度；音高"
+    }, 
+    "precedent": {
+        "attr": "n", 
+        "sentence": "follow the () -- 遵循先例", 
+        "translation": "n：先例；前例"
+    }, 
+    "preliminary": {
+        "attr": "adj", 
+        "sentence": "a () examination -- 一场测试", 
+        "translation": "adj：预备的；初步的"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "primitive": {
+        "attr": "adj", 
+        "sentence": "() society -- 原始社会", 
+        "translation": "adj：原始的；简陋的"
+    }, 
+    "quiver": {
+        "attr": "v", 
+        "sentence": "I () with anger -- 我气得全身发抖", 
+        "translation": "v：颤抖；颤动；发抖"
+    }, 
+    "radius": {
+        "attr": "n", 
+        "sentence": "What is the () of this circle -- 这个圆的半径有多长", 
+        "translation": "n：半径；范围"
+    }, 
+    "render": {
+        "attr": "v", 
+        "sentence": "() help -- 给予帮助", 
+        "translation": "v：给予；使变得；翻译；提交"
+    }, 
+    "scold": {
+        "attr": "v", 
+        "sentence": "Don't () the child without reason -- 不要无缘无故地责备小孩", 
+        "translation": "v：责骂；训斥"
+    }, 
+    "solemn": {
+        "attr": "adj", 
+        "sentence": "() ceremony -- 隆重的仪式", 
+        "translation": "adj：严肃的；庄严的；隆重的"
+    }, 
+    "specimen": {
+        "attr": "n", 
+        "sentence": "collect a () -- 采集标本", 
+        "translation": "n：标本；样品"
+    }, 
+    "speculate": {
+        "attr": "v", 
+        "sentence": "Can you () how much damage might arise -- 你能推测出这会造成多大的伤害吗", 
+        "translation": "v：推测；思索；投机"
+    }, 
+    "suspension": {
+        "attr": "n", 
+        "sentence": "the () of lights -- 航线停运", 
+        "translation": "n：悬浮；中止；暂缓"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "wholesome": {
+        "attr": "adj", 
+        "sentence": "() food -- 健康的食物", 
+        "translation": "adj：健康的；有益身心的"
+    }
+}

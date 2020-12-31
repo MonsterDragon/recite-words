@@ -1,0 +1,32 @@
+{
+    "concord": {
+        "attr": "n", 
+        "sentence": "The two tribes lived in () -- 两个部落和睦相处", 
+        "translation": "n：和谐；谐调；一致"
+    }, 
+    "gloomy": {
+        "attr": "adj", 
+        "sentence": "the () news -- 令人悲伤的消息", 
+        "translation": "adj：黑暗的；幽暗的；忧郁的；沮丧的"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "salvation": {
+        "attr": "n", 
+        "sentence": "() lies in political reform -- 解救办法在于政治改革", 
+        "translation": "n：拯救；救世；救助"
+    }, 
+    "susceptible": {
+        "attr": "adj", 
+        "sentence": "The plant is not () to disease -- 这种植物不容易受病害侵扰", 
+        "translation": "adj：易受影响的；易动感情的"
+    }, 
+    "wrap": {
+        "attr": "v，n", 
+        "sentence": "You should () up the gift in a paper -- 你应该把礼物用纸包好", 
+        "translation": "v：包；缠绕；覆盖 n：外套；围巾；包裹"
+    }
+}

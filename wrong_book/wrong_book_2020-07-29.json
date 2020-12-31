@@ -1,0 +1,12 @@
+{
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }
+}

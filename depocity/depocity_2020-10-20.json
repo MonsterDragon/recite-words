@@ -1,0 +1,72 @@
+{
+    "choke": {
+        "attr": "n，v", 
+        "sentence": "Leaves () the drain -- 树叶把排水管塞住了", 
+        "translation": "n：窒息；阻塞 v：窒息；阻塞"
+    }, 
+    "complement": {
+        "attr": "n，v", 
+        "sentence": "We () one another perfectly -- 我们相互取长补短，堪称完美", 
+        "translation": "n：补足物’补语 v：补足；补充"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "concede": {
+        "attr": "v", 
+        "sentence": "I () that I made a mistake -- 我承认我犯了一个错误", 
+        "translation": "v：承认；让步"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "demotivate": {
+        "attr": "v", 
+        "sentence": "Failure can () students -- 失败会挫伤学生的积极性", 
+        "translation": "v：使消极"
+    }, 
+    "equity": {
+        "attr": "n", 
+        "sentence": "() capital -- 产权资本", 
+        "translation": "n：公正；资产净值"
+    }, 
+    "implicit": {
+        "attr": "adj", 
+        "sentence": "The clue is () -- 此线索是隐含的", 
+        "translation": "adj：含蓄的；暗示的；无疑的"
+    }, 
+    "masterpiece": {
+        "attr": "n", 
+        "sentence": "architectural () -- 建筑上的杰作", 
+        "translation": "n：杰作；名著"
+    }, 
+    "plague": {
+        "attr": "n，v", 
+        "sentence": "A great () was raging in the city -- 一场瘟疫正在该城肆虐", 
+        "translation": "n：瘟疫；疫病 v：困扰；折磨"
+    }, 
+    "preclude": {
+        "attr": "v", 
+        "sentence": "to () all doubts -- 排除一切疑虑", 
+        "translation": "v：阻止；排除"
+    }, 
+    "reign": {
+        "attr": "v，n", 
+        "sentence": "to () over a country -- 统治国家", 
+        "translation": "v：统治；支配；盛行 n：君主统治；在位期"
+    }, 
+    "separate": {
+        "attr": "adj, n", 
+        "sentence": "The children sleep in () beds -- 孩子们分别谁在各自的床上", 
+        "translation": "adj: 分开的；分离的；单独的 n: 分离隔离"
+    }, 
+    "trial": {
+        "attr": "n", 
+        "sentence": "The court gave a fair () to the case -- 法院对这一案件做出了公正的审判", 
+        "translation": "n：审判；试验；考验"
+    }
+}

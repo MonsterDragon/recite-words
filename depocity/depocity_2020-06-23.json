@@ -1,0 +1,222 @@
+{
+	"orchestrate": {
+            "sentence": "to () an act of an opera -- 为歌剧的一幕谱写管弦乐曲",
+            "translation": "v: 改编为管弦乐；策划；精心安排",
+            "attr": "v"
+        },
+	"convict": {
+            "sentence": "The () confess his crime -- 罪犯供认了他的罪行",
+            "translation": "v: 定罪 n: 罪犯；囚犯",
+            "attr": "v, n"
+        },
+	"crawl": {
+            "sentence": "The baby is just learning to () -- 那个婴儿正在学习爬行",
+            "translation": "v: 爬行；爬",
+            "attr": "v"
+        },
+	"brutal": {
+            "sentence": "He has to face the () reality -- 他不得不面对残酷的现实",
+            "translation": "adj: 野蛮的；残酷的；残暴的",
+            "attr": "adj"
+        },
+	"sophistic": {
+            "sentence": "There is some truth in the critism, but it is a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩",
+            "translation": "adj: 诡辩的",
+            "attr": "adj"
+        },
+	"ancestry": {
+            "sentence": "He is of noble () -- 他出身贵族",
+            "translation": "n: 祖先；世系；家族",
+            "attr": "n"
+        },
+	"merchant": {
+            "sentence": "bargin with a () -- 和一个商人讨价还价",
+            "translation": "n: 商人",
+            "attr": "n"
+        },
+	"fascination": {
+            "sentence": "Old churches have a () for me -- 对我来说，旧教堂很有魅力",
+            "translation": "n: 魅力",
+            "attr": "n"
+        },
+	"mass": {
+            "sentence": "a () of earth -- 一块泥土",
+            "translation": "n: 质量；一群；大量；块",
+            "attr": "n"
+        },
+	"premier": {
+            "sentence": "He was appointed the new () -- 他被任命为新总理",
+            "translation": "n: 总理，首相 adj: 第一的；首要的",
+            "attr": "n, v"
+        },
+	"dullness": {
+            "sentence": "Diligence can make up for () -- 勤能补拙",
+            "translation": "n: 迟钝；钝度",
+            "attr": "n"
+        },
+	"entrepreneur": {
+            "sentence": "The () is rich -- 企业家很有钱",
+            "translation": "n: 企业家",
+            "attr": "n"
+        },
+	"mature": {
+            "sentence": "a () bond -- 到期的债券",
+            "translation": "adj: 成熟的；到期的；充分考虑的 v: 成熟；到期",
+            "attr": "adj, v"
+        },
+	"distill": {
+            "sentence": "() the essence of natural plants -- 用蒸馏法提取天然植物的精华",
+            "translation": "v: 蒸馏；蒸馏出；提炼",
+            "attr": "v"
+        },
+	"fundamental": {
+            "sentence": "the () laws of the universe -- 宇宙的基本规则",
+            "translation": "n: 基本规则；基本原理 adj: 基本的；基础的",
+            "attr": "n, v"
+        },
+	"utterly": {
+            "sentence": "It is () beyond reaching -- 这是完全可望不可即的",
+            "translation": "adv: 全然地；绝对地",
+            "attr": "adv"
+        },
+	"spill": {
+            "sentence": "to () the milk -- 溅出牛奶",
+            "translation": "v: 溢出；溅出 n: 溢出；溅出",
+            "attr": "v, n"
+        },
+	"elaborate": {
+            "sentence": "It's an () design -- 这是一种精心的设计",
+            "translation": "adj: 精心制作的；详尽的 v: 精心制作的",
+            "attr": "adj, v"
+        },
+	"regulation": {
+            "sentence": "He drives at the () speed -- 他按规定的速度行车",
+            "translation": "n: 规则；管制 v: 规定的；必须使用的",
+            "attr": "n, v"
+        },
+	"series": {
+            "sentence": "television () -- 电视连续剧",
+            "translation": "n: 连续；系列",
+            "attr": "n"
+        },
+	"compliment": {
+            "sentence": "sincere () -- 由衷的称赞",
+            "translation": "n: 称赞；恭维 v: 称赞； 恭维",
+            "attr": "n, v"
+        },
+	"hinder": {
+            "sentence": "Don't () him in his work -- 不要妨碍他的工作",
+            "translation": "v: 阻碍；打扰",
+            "attr": "v"
+        },
+	"expedition": {
+            "sentence": "a scientific () to the Sourth Pole -- 对南极的科学考察",
+            "translation": "n: 远征；探险；探险队",
+            "attr": "n"
+        },
+	"loyalty": {
+            "sentence": "I am utterly convinced of your () -- 我完全相信你的忠诚",
+            "translation": "n: 忠诚；忠实",
+            "attr": "n"
+        },
+	"boast": {
+            "sentence": "I don't want to (), but I can actually speak six languages -- 不是我自夸，我可以说6种语言",
+            "translation": "v: 自夸；夸耀",
+            "attr": "v"
+        },
+	"intimacy": {
+            "sentence": "to achieve () with others -- 和别人建立亲密关系",
+            "translation": "n: 亲昵行为",
+            "attr": "n"
+        },
+	"defy": {
+            "sentence": "The pine trees () severe old -- 松树不畏严寒",
+            "translation": "v: 不服从；藐视；挑衅",
+            "attr": "v"
+        },
+	"condemn": {
+            "sentence": "() sincerely -- 严厉的谴责",
+            "translation": "v: 谴责；判刑",
+            "attr": "v"
+        },
+	"contagious": {
+            "sentence": "Her laughter is () -- 她的笑很有感染力",
+            "translation": "adj: 感染力的；传染性的",
+            "attr": "adj"
+        },
+	"integral": {
+            "sentence": "Is this differential calculus or () calculus -- 微分和积分有什么区别",
+            "translation": "adj: 完成的；积分的 n: 积分；整体",
+            "attr": "adj, n"
+        },
+	"impetus": {
+            "sentence": "Her speech gave an () to my ideas -- 她的讲话激发了我的思绪",
+            "translation": "n: 冲力；推动力；刺激",
+            "attr": "n"
+        },
+	"diversity": {
+            "sentence": "cultural () -- 文化多样性",
+            "translation": "n: 多样性；多样化",
+            "attr": "n"
+        },
+	"pledge": {
+            "sentence": "They () never to tell the secret -- 他们发誓绝不泄密",
+            "translation": "v: 发誓；保证；抵押 n: 发誓；保证；抵押",
+            "attr": "v, n"
+        },
+	"ingredient": {
+            "sentence": "Salt is an important () for cooking -- 食盐是重要的烹饪作料",
+            "translation": "n: 成分；配料",
+            "attr": "n"
+        },
+	"pond": {
+            "sentence": "Trees surround the () -- 树木围绕着池塘",
+            "translation": "n: 池塘",
+            "attr": "n"
+        },
+	"communism": {
+            "sentence": "() is based on Marxism -- 共产主义是以马克思主义为基础的",
+            "translation": "n: 共产主义",
+            "attr": "n"
+        },
+	"judicial": {
+            "sentence": "the () system -- 司法系统",
+            "translation": "adj: 司法的；法庭的；审判的",
+            "attr": "adj"
+        },
+	"repression": {
+            "sentence": "His () broke out -- 他的压抑爆发出来了",
+            "translation": "n: 压抑",
+            "attr": "n"
+        },
+	"rotary": {
+            "sentence": "a () engine -- 转缸式发动机",
+            "translation": "adj: 旋转的",
+            "attr": "adj"
+        },
+	"transcend": {
+            "sentence": "Humans should always () theirs limits -- 人类应该不断超越自己的极限",
+            "translation": "v: 超越；超出",
+            "attr": "v"
+        },
+	"wink": {
+            "sentence": "I will be back in a () -- 我马上回来",
+            "translation": "n: 眨眼；眼色 v: 眨眼；使眼色",
+            "attr": "v, n"
+        },
+	"hay": {
+            "sentence": "a bale of () -- 一捆干草",
+            "translation": "n: 干草",
+            "attr": "n"
+        },
+	"plaster": {
+            "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏",
+            "translation": "n: 灰泥；膏药 v: 涂以灰泥；敷以药膏",
+            "attr": "n, v"
+        },
+	"tub": {
+            "sentence": "bath () -- 浴盆",
+            "translation": "n: 桶；盆；浴盆",
+            "attr": "n"
+        }
+}

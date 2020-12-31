@@ -1,0 +1,22 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "dilemma": {
+        "attr": "n", 
+        "sentence": "The issue raises a moral () -- 这个问题引发了一个道德上的两难抉择", 
+        "translation": "n：窘境"
+    }, 
+    "incur": {
+        "attr": "v", 
+        "sentence": "His unfriendly words () my anger -- 他不友好的话惹起了我的愤怒", 
+        "translation": "v：招致；遭受"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }
+}

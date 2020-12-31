@@ -1,0 +1,167 @@
+{
+    "appeal": {
+        "attr": "n，v", 
+        "sentence": "reject an () -- 驳回上诉", 
+        "translation": "n：恳求；呼吁；上诉  v：呼吁；吸引"
+    }, 
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "avalanche": {
+        "attr": "n", 
+        "sentence": "receive an () of mails -- 收到大量的信件", 
+        "translation": "n：雪崩；纷至沓来"
+    }, 
+    "bend": {
+        "attr": "v，n", 
+        "sentence": "There is a sharp () in the road -- 路上有一处急转弯", 
+        "translation": "v：弯曲；弯腰 n：弯曲处"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "bribe": {
+        "attr": "v，n", 
+        "sentence": "A goverment official took the () -- 一个政府官员接受了贿赂", 
+        "translation": "v：贿赂 n：贿赂"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj：传染性的，有感染力的"
+    }, 
+    "coupon": {
+        "attr": "n", 
+        "sentence": "() rate -- 息票率", 
+        "translation": "n：优惠券；息票"
+    }, 
+    "curl": {
+        "attr": "v，n", 
+        "sentence": "The dying leaves () up -- 快落下的叶子卷曲着", 
+        "translation": "v：卷；蜷缩 n：卷曲"
+    }, 
+    "dilute": {
+        "attr": "v，adj", 
+        "sentence": "to () wine with water -- 加水冲淡酒", 
+        "translation": "v：稀释 adj：经稀释的"
+    }, 
+    "discrepancy": {
+        "attr": "n", 
+        "sentence": "There is a () in the two reports of the accident -- 关于那起事故的两份报道有矛盾之处", 
+        "translation": "n：差异；矛盾"
+    }, 
+    "divine": {
+        "attr": "adj，v", 
+        "sentence": "It is the () will -- 这是天意", 
+        "translation": "adj：神的；神性的 v：占卜"
+    }, 
+    "hoist": {
+        "attr": "n，v", 
+        "sentence": "Use a () to lift heavy things -- 用起重机提升重物", 
+        "translation": "n：起重机； v：提升；吊起；举高"
+    }, 
+    "humorous": {
+        "attr": "adj", 
+        "sentence": "This is a () novel -- 这是一部幽默小说", 
+        "translation": "adj：幽默的；风趣的"
+    }, 
+    "inspect": {
+        "attr": "v", 
+        "sentence": "() the passport -- 检查护照", 
+        "translation": "v：检查；视察"
+    }, 
+    "metropolitan": {
+        "attr": "adj", 
+        "sentence": "() center -- 大都市中心", 
+        "translation": "adj：大都市的；大城市的"
+    }, 
+    "obstacle": {
+        "attr": "n", 
+        "sentence": "Parents' opposition is an () to her marriage -- 父母反对是她婚姻的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "procedure": {
+        "attr": "n", 
+        "sentence": "() in production -- 生产程序", 
+        "translation": "n：程序；手续；步骤"
+    }, 
+    "prone": {
+        "attr": "adj", 
+        "sentence": "He was () to anger -- 他易发怒", 
+        "translation": "adj：俯卧的；易于 ... 的；有倾向 ... 的"
+    }, 
+    "ratio": {
+        "attr": "n", 
+        "sentence": "direct () -- 正比", 
+        "translation": "n：比率；比值"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "rival": {
+        "attr": "n，v", 
+        "sentence": "a () in love -- 情敌", 
+        "translation": "n：竞争者；敌手 v：竞争；相匹敌"
+    }, 
+    "rod": {
+        "attr": "n", 
+        "sentence": "a () with a hollow core -- 一根空心杆子", 
+        "translation": "n：杆；棒"
+    }, 
+    "salute": {
+        "attr": "n，v", 
+        "sentence": "The soldiers () the officer -- 士兵们向军官敬礼", 
+        "translation": "n：敬礼；致敬；行礼  v：敬礼；致敬；行礼"
+    }, 
+    "scattered": {
+        "attr": "adj，v", 
+        "sentence": "Tom's books were () on the desk -- Tom的书散落在桌子上", 
+        "translation": "adj：分散的；散落的 v：分散；散布"
+    }, 
+    "scold": {
+        "attr": "v", 
+        "sentence": "Don't () the child without reason -- 不要无缘无故地责备小孩", 
+        "translation": "v：责骂；训斥"
+    }, 
+    "sleeve": {
+        "attr": "n", 
+        "sentence": "He pulled my () to attract my attention -- 他扯了扯我的衣服以引起我的注意", 
+        "translation": "n：袖子"
+    }, 
+    "stack": {
+        "attr": "n", 
+        "sentence": "() the dishes -- 把盘子叠起来", 
+        "translation": "n：摞；堆；叠"
+    }, 
+    "staple": {
+        "attr": "n，v，adj", 
+        "sentence": "a () topic of conversation -- 谈论的主要话题", 
+        "translation": "n：订书钉；主要产品；主要部分 v：用订书钉装订 adj：主要的；重要的"
+    }, 
+    "stitch": {
+        "attr": "v，n", 
+        "sentence": "() the two layers together -- 将两层缝合起来", 
+        "translation": "v：缝；缝合 n：针脚；缝线"
+    }, 
+    "superstition": {
+        "attr": "n", 
+        "sentence": "Ignorance leads to () -- 无知会导致迷信", 
+        "translation": "n：迷信；迷信观念"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }
+}

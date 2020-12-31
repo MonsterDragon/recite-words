@@ -1,0 +1,37 @@
+{
+    "agnoize": {
+        "attr": "v", 
+        "sentence": "I () over what to write -- 我苦苦思索到底些什么 ", 
+        "translation": "v：折磨；苦苦思索"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "inconceivable": {
+        "attr": "adj", 
+        "sentence": "It is () -- 难以置信的", 
+        "translation": "adj：难以想象的；难以相信的"
+    }, 
+    "neutral": {
+        "attr": "adj，n", 
+        "sentence": "() color -- 素净色", 
+        "translation": "adj：中立的；非彩色的；中性的 n：中立者；素净色；空挡位置"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "tiled": {
+        "attr": "adj，v", 
+        "sentence": "() the floor -- 铺地砖", 
+        "translation": "adj：铺砖的；平铺的 v：铺砖"
+    }
+}

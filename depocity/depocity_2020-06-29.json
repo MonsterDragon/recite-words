@@ -1,0 +1,162 @@
+{
+	"distract": {
+            "sentence": "Don't () me from studying -- 别转移我学习的注意力",
+            "translation": "v：转移；分散；使分心",
+            "attr": "v"
+        },
+	"evade": {
+            "sentence": "to () arrest -- 逃避抓捕",
+            "translation": "v：逃避；躲避",
+            "attr": "v"
+        },
+	"venture": {
+            "sentence": "May I () to suggest a change -- 我能冒昧的提个改进意见吗",
+            "translation": "v：冒险投机 n：冒险事业；商业冒险",
+            "attr": "v，n"
+        },
+	"wipe": {
+            "sentence": "to () off dirt -- 擦去灰尘",
+            "translation": "v：擦；抹；拭 n：擦拭；抹布",
+            "attr": "v，n"
+        },
+	"purse": {
+            "sentence": "leather () -- 女士皮革钱包",
+            "translation": "n：钱包；钱袋；女用小包；资金 v：噘嘴",
+            "attr": "v，n"
+        },
+	"smuggle": {
+            "sentence": "to () drugs -- 走私毒品",
+            "translation": "v：走私；偷运",
+            "attr": "v"
+        },
+	"athletic": {
+            "sentence": "() meeting -- 运动会",
+            "translation": "adj：运动的；运动员的；身强力壮的",
+            "attr": "adj"
+        },
+	"lodge": {
+            "sentence": "() a protest against -- 向某人提出抗议",
+            "translation": "n：小舍；传达室 v：存放；借宿；提出",
+            "attr": "n，v"
+        },
+	"incensory": {
+            "sentence": "Incense and () -- 熏香和香炉",
+            "translation": "n：香炉",
+            "attr": "n"
+        },
+	"cliff": {
+            "sentence": "He fell over the () -- 他从山崖上跌落",
+            "translation": "n：悬崖",
+            "attr": "n"
+        },
+	"obscure": {
+            "sentence": "an () poet -- 不出名的诗人",
+            "translation": "adj：昏暗的；不清楚的；无名的",
+            "attr": "adj"
+        },
+	"anticpite": {
+            "sentence": "We () hearing from you again -- 我们期待再接收到你的来信",
+            "translation": "v：预料；预期；期望",
+            "attr": "v"
+        },
+	"faulty": {
+            "sentence": "a () connection in the circuit -- 电路连接错误",
+            "translation": "adj：有缺点的；有缺陷的；有故障的",
+            "attr": "adj"
+        },
+	"analog": {
+            "sentence": "an () watch -- 指针式手表",
+            "translation": "n：类似物 adj：模拟的；指针的",
+            "attr": "n，adj"
+        },
+	"accustomed": {
+            "sentence": "be () to hard work -- 习惯于艰苦工作",
+            "translation": "adj：习惯的；惯常的 v：习惯",
+            "attr": "adj，v"
+        },
+	"enquiry": {
+            "sentence": "He makes an () for the product -- 他对产品提出了询问",
+            "translation": "v：询问；提问",
+            "attr": "v"
+        },
+	"manifestation": {
+            "sentence": "The riot is a () of people's discontent -- 这场骚乱是人们不满的一种表达",
+            "translation": "n：表示；显示；示威",
+            "attr": "n"
+        },
+	"omit": {
+            "sentence": "() superfluous words when writing telegram -- 在写电报时省去不必要的字",
+            "translation": "v：省略；遗漏",
+            "attr": "v"
+        },
+	"pant": {
+            "sentence": "I open my month and () -- 我张开嘴呼吸",
+            "translation": "v：喘气；喘息",
+            "attr": "v"
+        },
+	"whirl": {
+            "sentence": "My head in a () -- 我的脑袋一片混乱",
+            "translation": "v：旋转 n：混乱；尝试",
+            "attr": "v，n"
+        },
+	"punctual": {
+            "sentence": "He likes his guests to be () -- 他喜欢客人守时",
+            "translation": "adj：准时的",
+            "attr": "adj"
+        },
+	"epidemic": {
+            "sentence": "a worldwide () -- 遍及世界的流行病",
+            "translation": "adj：流行性的 n：流行病",
+            "attr": "adj，n"
+        },
+	"minor": {
+            "sentence": "() element -- 微量元素",
+            "translation": "adj：次要的；轻微的 n：未成年人；副修科目 v：副修",
+            "attr": "adj，v，n"
+        },
+	"artery": {
+            "sentence": "the blocked () -- 栓塞的动脉",
+            "translation": "n：动脉；干线；要道",
+            "attr": "n"
+        },
+	"pile": {
+            "sentence": "a () of wood -- 一堆石头",
+            "translation": "n：堆；摞 v：堆放；叠放",
+            "attr": "n，v"
+        },
+	"entity": {
+            "sentence": "the earth is a living () -- 作为一个有生命的实体的地球",
+            "translation": "n：实体",
+            "attr": "n"
+        },
+	"graphic": {
+            "sentence": "a () description -- 生动的描述",
+            "translation": "adj：生动的；图表的 n：图表",
+            "attr": "adj，n"
+        },
+	"proclaim": {
+            "sentence": "() the good news -- 宣布好消息",
+            "translation": "v：宣告；公布；表明",
+            "attr": "v"
+        },
+	"attorney": {
+            "sentence": "He acted as () for me -- 他担任我的律师",
+            "translation": "n：律师，辩护律师；代理人",
+            "attr": "n"
+        },
+	"debut": {
+            "sentence": "This is her () album -- 这是她首张专辑",
+            "translation": "n：收地路面；初次登场 v：初次登场",
+            "attr": "n，v"
+        },
+	"utterance": {
+            "sentence": "He gave () to his thoughts -- 他发表了他的观点",
+            "translation": "n：言辞；言论；言语",
+            "attr": "n"
+        },
+	"strenuous": {
+            "sentence": "to lead a () life -- 过艰苦奋斗的生活",
+            "translation": "ajd：费力的；繁重的；艰苦的",
+            "attr": "adj"
+        }
+}

@@ -1,0 +1,207 @@
+{
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "authentic": {
+        "attr": "adj", 
+        "sentence": "He's got an () letter by Shakespeare -- 他弄到了一封莎士比亚的亲笔信", 
+        "translation": "adj：真正的；真实的；真迹的"
+    }, 
+    "boast": {
+        "attr": "v", 
+        "sentence": "Nobody should () of his own learning -- 谁也不应当夸耀自己的学识", 
+        "translation": "v：自夸；夸耀"
+    }, 
+    "bore": {
+        "attr": "n，v，adj", 
+        "sentence": "Doing housework is a real () -- 做家务的确是件令人厌烦的事", 
+        "translation": "n：钻孔；使人讨厌的人 v：开凿；钻孔 v：忍受"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "delegate": {
+        "attr": "n，v", 
+        "sentence": "appoint a () -- 委派代表", 
+        "translation": "n：代表 v：委派"
+    }, 
+    "descent": {
+        "attr": "n", 
+        "sentence": "one's () into a life of crime -- 堕落到靠犯罪过活", 
+        "translation": "n：下降；斜坡；堕落"
+    }, 
+    "dissipate": {
+        "attr": "v", 
+        "sentence": "to () the heat -- 散热", 
+        "translation": "v：驱散；消散；浪费"
+    }, 
+    "distill": {
+        "attr": "v", 
+        "sentence": "() the essence of natural plants -- 用蒸馏法提取天然植物的精华", 
+        "translation": "v：蒸馏；提炼"
+    }, 
+    "doze": {
+        "attr": "v，n", 
+        "sentence": "I () off during the class -- 我上课打瞌睡", 
+        "translation": "v：打瞌睡 n：瞌睡"
+    }, 
+    "enforcement": {
+        "attr": "n", 
+        "sentence": "The () of the laws must be strict -- 执法必严", 
+        "translation": "n：执行；实施"
+    }, 
+    "enrol": {
+        "attr": "v", 
+        "sentence": "to () the name -- 登记名字", 
+        "translation": "v：登机；注册"
+    }, 
+    "entrenched": {
+        "attr": "adj，v", 
+        "sentence": "() racism -- 根深蒂固的种族歧视", 
+        "translation": "adj：确立的；根深蒂固的 v：牢固地确立"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "gap": {
+        "attr": "n", 
+        "sentence": "() in a fence -- 篱笆的缺口", 
+        "translation": "n：缺口；缝隙；差距"
+    }, 
+    "grain": {
+        "attr": "n", 
+        "sentence": "a field of () -- 种植谷物的田地", 
+        "translation": "n：谷物；颗粒"
+    }, 
+    "idiom": {
+        "attr": "n", 
+        "sentence": "the () of the young -- 年轻人的习惯用语", 
+        "translation": "n：成语；习语；惯用语"
+    }, 
+    "ingredient": {
+        "attr": "n", 
+        "sentence": "Salt is an important () for cooking -- 食盐是重要的烹饪作料", 
+        "translation": "n：成分；配料；要素；因素"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "lantern": {
+        "attr": "n", 
+        "sentence": "THe () swung in the wind -- 提灯在风中摇动", 
+        "translation": "n：提灯；灯笼"
+    }, 
+    "laser": {
+        "attr": "n", 
+        "sentence": "() technology -- 激光技术", 
+        "translation": "n：激光"
+    }, 
+    "marginal": {
+        "attr": "adj", 
+        "sentence": "The () illustration is very interesting -- 页边的插图很有趣", 
+        "translation": "adj：边缘的；页边的；微不足道的"
+    }, 
+    "mortality": {
+        "attr": "n", 
+        "sentence": "The () went down -- 死亡率下降了", 
+        "translation": "n：死亡人数；死亡率；必死性"
+    }, 
+    "mortgage": {
+        "attr": "n，v", 
+        "sentence": "() rates declined -- 按揭利率下跌了", 
+        "translation": "n：抵押；按揭 v：按揭；抵押"
+    }, 
+    "orthodox": {
+        "attr": "adj", 
+        "sentence": "an () church -- 传统的教堂", 
+        "translation": "adj：正统的；规范的"
+    }, 
+    "petrol": {
+        "attr": "n", 
+        "sentence": "a gallon of () -- 一加仑汽油", 
+        "translation": "n：汽油"
+    }, 
+    "postal": {
+        "attr": "adj，n", 
+        "sentence": "a schedule of () charges -- 邮资价目表", 
+        "translation": "adj：邮政的；邮局的；邮寄的 n：明信片"
+    }, 
+    "preliminary": {
+        "attr": "adj", 
+        "sentence": "a () examination -- 一场测试", 
+        "translation": "adj：预备的；初步的"
+    }, 
+    "prone": {
+        "attr": "adj", 
+        "sentence": "He was () to anger -- 他易发怒", 
+        "translation": "adj：俯卧的；易于 ... 的；有倾向 ... 的"
+    }, 
+    "protein": {
+        "attr": "n", 
+        "sentence": "a lack of () in the idet -- 饮食中缺乏蛋白质", 
+        "translation": "n：蛋白质"
+    }, 
+    "regime": {
+        "attr": "n", 
+        "sentence": "a Fascist () -- 法西斯政体", 
+        "translation": "n：政权"
+    }, 
+    "resume": {
+        "attr": "v", 
+        "sentence": "The work will () tomorrow -- 工作明天会继续下去", 
+        "translation": "v：继续；重新开始；重返"
+    }, 
+    "retrieve": {
+        "attr": "v", 
+        "sentence": "to () information from a computer -- 从电脑中检索信息", 
+        "translation": "v：取回；重新获得"
+    }, 
+    "seam": {
+        "attr": "n，v", 
+        "sentence": "coal () -- 煤层", 
+        "translation": "nL解封；矿层 v：缝合；有裂痕"
+    }, 
+    "spill": {
+        "attr": "v，n", 
+        "sentence": "to () the milk -- 溅出牛奶", 
+        "translation": "v：溢出；溅出 n：溢出；溅出"
+    }, 
+    "spin": {
+        "attr": "v，n", 
+        "sentence": "to () at full speed -- 全速旋转", 
+        "translation": "v：旋转；疾驰 n：旋转"
+    }, 
+    "sponge": {
+        "attr": "n，v", 
+        "sentence": "() the mud off the car -- 用海绵擦去车上的污泥", 
+        "translation": "n：海绵动物；海绵块 v：用海绵擦"
+    }, 
+    "suffice": {
+        "attr": "v", 
+        "sentence": "I will do my best to () you -- 我会尽一切努力来满足你的要求", 
+        "translation": "v：足够；足以"
+    }, 
+    "tow": {
+        "attr": "v，n", 
+        "sentence": "They threatened to () away my car -- 他们威胁要拖走我的车", 
+        "translation": "v：拖；拉；牵引 n：拖拽"
+    }, 
+    "vital": {
+        "attr": "adj", 
+        "sentence": "() point -- 极其重要的一点", 
+        "translation": "adj：至关重要的；所必需的；生死攸关的"
+    }, 
+    "vulgar": {
+        "attr": "adj", 
+        "sentence": "The lyrics were () -- 歌词粗俗下流", 
+        "translation": "adj：庸俗的；粗俗的；粗野地"
+    }
+}

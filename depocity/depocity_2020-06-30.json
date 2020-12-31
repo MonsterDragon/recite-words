@@ -1,0 +1,182 @@
+{
+	"exceedingly": {
+            "sentence": "The tyrant was () cruel -- 那个暴君极其残忍",
+            "translation": "adv：极度地；非常地",
+            "attr": "adv"
+        },
+	"spite": {
+            "sentence": "He did it just () her -- 他那样做只是为了激怒她",
+            "translation": "v：刁难；激怒 n：怨恨；恶意",
+            "attr": "v，n"
+        },
+	"skim": {
+            "sentence": "It took me an hour to () the book -- 我花了一小时把书略读了一遍",
+            "translation": "v：略读；撇去；掠过",
+            "attr": "v"
+        },
+	"particle": {
+            "sentence": "solid () -- 固体微粒",
+            "translation": "n：微粒；粒子",
+            "attr": "n"
+        },
+	"hestitant": {
+            "sentence": "She was () about accepting the invitation -- 她对是否接受邀请很犹豫",
+            "translation": "adj：犹豫的",
+            "attr": "adj"
+        },
+	"abundance": {
+            "sentence": "() of water power --丰富的水资源 ",
+            "translation": "adj：丰富的",
+            "attr": "adj"
+        },
+	"multitude": {
+            "sentence": "a noisy () -- 喧闹的人群",
+            "translation": "n：大量；众多；群众",
+            "attr": "n"
+        },
+	"penalty": {
+            "sentence": "death () -- 死刑",
+            "translation": "n：惩罚；刑罚",
+            "attr": "n"
+        },
+	"strain": {
+            "sentence": "to () the muscle -- 拉伤肌肉",
+            "translation": "v：拉紧 n：压力；拉力",
+            "attr": "v，n"
+        },
+	"sketch": {
+            "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗",
+            "translation": "v：草拟；简述 n：草图；素描；概述",
+            "attr": "v，n"
+        },
+	"shallow": {
+            "sentence": "Only () people judge people by their appearance -- 只有浅薄的人才会以貌取人",
+            "translation": "adj：浅的；浅薄的",
+            "attr": "adj"
+        },
+	"naval": {
+            "sentence": "He is a senior serving () officer -- 他是一名高级海军军官",
+            "translation": "adj：海军的",
+            "attr": "adj"
+        },
+	"compatible": {
+            "sentence": "() family relationships -- 和谐共处的家庭环境",
+            "translation": "adj：兼容的；可和谐共存的",
+            "attr": "adj"
+        },
+	"bail": {
+            "sentence": "() was refused -- 保释被拒绝了",
+            "translation": "v：保释；舀水 n：保释金",
+            "attr": "v，n"
+        },
+	"paradox": {
+            "sentence": "The story contains many levels of () -- 这个故事存在多重悖论",
+            "translation": "n：悖论；矛盾",
+            "attr": "n"
+        },
+	"grave": {
+            "sentence": "() wound -- 严重的创伤",
+            "translation": "n：坟墓 adj：严重的；沉重的",
+            "attr": "n，adj"
+        },
+	"chart": {
+            "sentence": "They ()ed the sea area between France and Britain -- 他们绘制了法国和英国之间的海域图",
+            "translation": "n：图表 v：作图；指定",
+            "attr": "n，v"
+        },
+	"equate": {
+            "sentence": "It's impossible to () wealth and happiness -- 财富与幸福无法等同",
+            "translation": "v：等同看待",
+            "attr": "v"
+        },
+	"utilize": {
+            "sentence": "No people () the empty house -- 没人使用这空房子",
+            "translation": "v：利用",
+            "attr": "v"
+        },
+	"improve": {
+            "sentence": "we must () our efficiency -- 我们必须提高我们的效率",
+            "translation": "v：改善；提高",
+            "attr": "v"
+        },
+	"diffusion": {
+            "sentence": "free () -- 自由扩散",
+            "translation": "n：扩散；传播",
+            "attr": "n"
+        },
+	"disposition": {
+            "sentence": "Her property is at her () -- 她的财产由她自由处置",
+            "translation": "n：性情；意向；处置",
+            "attr": "n"
+        },
+	"premise": {
+            "sentence": "I wonder if the () is right -- 我怀疑这个前提是否正确",
+            "translation": "n：前提；假定 v：作出前提",
+            "attr": "n，v"
+        },
+	"ridge": {
+            "sentence": "She was sitting on the () of the roof -- 她正坐在屋脊上",
+            "translation": "n：屋脊；山脊",
+            "attr": "n"
+        },
+	"petroleum": {
+            "sentence": "a shortage of () -- 石油短缺",
+            "translation": "n：石油",
+            "attr": "n"
+        },
+	"contention": {
+            "sentence": "The evidence supports their () -- 这一证据证实她的论点",
+            "translation": "n：论点；争辩",
+            "attr": "n"
+        },
+	"scrutinize": {
+            "sentence": "We must () ahd evaluate -- 我们必须仔细查看并作出评价",
+            "translation": "v：仔细检查",
+            "attr": "v"
+        },
+	"stern": {
+            "sentence": "The judge was a () man -- 那位法官是个严苛的人",
+            "translation": "adj：严厉的；严格的 n：船尾",
+            "attr": "adj，n"
+        },
+	"spontaneous": {
+            "sentence": "The revolution is broad and () -- 革命是广泛而自发的",
+            "translation": "adj：自发的；自然产生的",
+            "attr": "adj"
+        },
+	"excess": {
+            "sentence": "drink to () -- 过量饮酒",
+            "translation": "n：过度；超过 adj：过度的；额外的",
+            "attr": "n，adj"
+        },
+	"stroll": {
+            "sentence": "I () along the beach -- 我在海边散步",
+            "translation": "v：闲逛；散步；漫步 n：闲逛；散步；漫步",
+            "attr": "v，n"
+        },
+	"relate": {
+            "sentence": "I can't () his actions to his words -- 我无法把他的言行关联起来",
+            "translation": "v：相关的",
+            "attr": "v"
+        },
+	"gum": {
+            "sentence": "The () stuck to my fingers -- 口香糖黏住了我手指",
+            "translation": "n：树胶；口香糖 v：用胶粘",
+            "attr": "n，v"
+        },
+	"treaty": {
+            "sentence": "break a () -- 违反条约",
+            "translation": "n：条约；协议",
+            "attr": "n"
+        },
+	"ceiling": {
+            "sentence": "lights on the () -- 天花板上的灯",
+            "translation": "n：天花板",
+            "attr": "n"
+        },
+	"divert": {
+            "sentence": "Nothing could () his attention from his book -- 没有什么能转移他读书的潜力",
+            "translation": "v：转向；转移",
+            "attr": "v"
+        }
+}

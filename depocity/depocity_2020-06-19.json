@@ -1,0 +1,152 @@
+{
+	"hinge": {
+            "sentence": "Rust is eating away at the iron () -- 铁锈正在腐蚀铁链",
+            "translation": "v: 给...装铰链 n: 铰链；枢纽",
+            "attr": "n, v"
+	},
+	"pitch": {
+            "sentence": "They () at the foot of the mountain -- 他们在山脚下扎营",
+            "translation": "v: 投掷；扎营 n: 球场；沥青",
+            "attr": "n, v"
+	},
+	"aggressively": {
+            "sentence": "The dog react () -- 这条狗做出挑衅的反应",
+            "translation": "adj: 侵略的；挑衅的",
+            "attr": "adv"
+	},
+	"defer": {
+            "sentence": "() military service -- 延期服役",
+            "translation": "v: 延缓；推迟",
+            "attr": "v"
+	},
+	"ingredient": {
+            "sentence": "Investor now view it as a necessary () to a sustained boom -- 现在投资者却将其看作持续增长必不可少的一个因素",
+            "translation": "n: 成分；配料；因素",
+            "attr": "n"
+	},
+	"suspension": {
+            "sentence": " the () of war -- 停战",
+            "translation": "n: 悬浮；终止；暂缓",
+            "attr": "n"
+	},
+	"certainty": {
+            "sentence": "That is a () -- 这是必然的事",
+            "translation": "n: 确定；无疑",
+            "attr": "n"
+	},
+	"ingenious": {
+            "sentence": "an () invention -- 创意的发明",
+            "translation": "adj: 巧妙的， 有独创性的",
+            "attr": "adj"
+	},
+	"brake": {
+            "sentence": "The () is ineffective -- 刹车失灵",
+            "translation": "v: 刹车；制动器 n: 刹车",
+            "attr": "n, v"
+	},
+	"compel": {
+            "sentence": "Do not () me to use violence -- 强迫；胁迫",
+            "translation": "v: 强迫；胁迫",
+            "attr": "v"
+	},
+	"encounter": {
+            "sentence": "a chance () in the park -- 在公园里的一次偶然相遇",
+            "translation": "v: 遭遇；遇到 n: 遭遇；遭遇战",
+            "attr": "n, v"
+	},
+	"doctrine": {
+            "sentence": "This is a generally accepted () -- 这是一个被普遍接受的学说",
+            "translation": "n: 学说；教义",
+            "attr": "n"
+	},
+	"aisle": {
+            "sentence": "The () was full of people -- 过道挤满了人",
+            "translation": "n: 过道；通道；走廊",
+            "attr": "n"
+	},
+	"glide": {
+            "sentence": "I () away from the classroom -- 我溜出教室",
+            "translation": "v: 滑行；滑动；滑翔 n: 滑行；滑动；滑翔",
+            "attr": "n, v"
+	},
+	"patron": {
+            "sentence": "a () of the art -- 赞助人；资助人",
+            "translation": "n: 赞助人；资助人；老主顾",
+            "attr": "n"
+	},
+	"thorn": {
+            "sentence": "He is a () in my side -- 他是我的眼中钉",
+            "translation": "n: 棘；荆棘；刺",
+            "attr": "n"
+	},
+	"wagon": {
+            "sentence": "The () jogged along -- 四轮马车颠簸前行",
+            "translation": "n: 四轮运货马车",
+            "attr": "n"
+	},
+	"precedent": {
+            "sentence": "without () in history -- 史无前例",
+            "translation": "n: 前例；先例",
+            "attr": "n"
+	},
+	"visionary": {
+            "sentence": "The ideas of a () seem impractical -- 空想家的观念不切实际",
+            "translation": "adj: 幻想的；有远见的 n: 空想家；有远见的人",
+            "attr": "n, adj"
+	},
+	"certify": {
+            "sentence": "I () on my honour that she is innocent -- 我用人格担保她是清白无辜的",
+            "translation": "v: 证明；保证；证实",
+            "attr": "n"
+	},
+	"cope": {
+            "sentence": "() with problems -- 应对难题",
+            "translation": "v: 应付；处理",
+            "attr": "v"
+	},
+	"perpetual": {
+            "sentence": "They suffer from () hunger -- 他们一直忍饥挨饿",
+            "translation": "adj: 持久的；长久的",
+            "attr": "adj"
+	},
+	"grin": {
+            "sentence": "I () at him -- 我朝他龇牙一笑",
+            "translation": "v: 咧嘴嘲笑",
+            "attr": "v"
+	},
+	"sprout": {
+            "sentence": "New business began to () up across the country -- 新公司开始在全国各地涌现",
+            "translation": "v: 发芽；长出；迅速成长；涌现 n: 新芽",
+            "attr": "n, v"
+	},
+	"avert": {
+            "sentence": "He managed to () suspicion -- 他设法避嫌",
+            "translation": "v: 展开；避免；防止",
+            "attr": "v"
+	},
+	"preserve": {
+            "sentence": "The classics () traditional values -- 经典作品保持着传统价值",
+            "translation": "v: 保护；保存；保存",
+            "attr": "v"
+	},
+	"degenerate": {
+            "sentence": "Luxury made him a () -- 奢华使得他成了一个堕落的人",
+            "translation": "v: 退化；堕落 adj: 堕落的；退步的 n: 堕落的人",
+            "attr": "n, adj, v"
+	},
+	"homonymous": {
+            "sentence": "He won a () award -- 他赢得了一个同名奖项",
+            "translation": "adj: 同名的",
+            "attr": "adj"
+	},
+	"recruit": {
+            "sentence": "to () volunteers -- 招募志愿者",
+            "translation": "v: 招募；招聘 n: 新兵；新成员",
+            "attr": "n, v"
+	},
+	"attain": {
+            "sentence": "I () the position of minister -- 我得到了部长的职位",
+            "translation": "v: 获得",
+            "attr": "v"
+	}
+}

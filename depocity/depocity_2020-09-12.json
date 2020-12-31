@@ -1,0 +1,147 @@
+{
+    "anchor": {
+        "attr": "n；v", 
+        "sentence": "an emotional () for her -- 他的精神支柱", 
+        "translation": "n：锚；靠山；支柱 v：抛锚；主持节目；使稳固"
+    }, 
+    "arbitrary": {
+        "attr": "adj", 
+        "sentence": "an () emperor -- 一个独断专行的皇帝", 
+        "translation": "adj：任意的；专横的；武断的"
+    }, 
+    "chamber": {
+        "attr": "n", 
+        "sentence": "() of heart -- 心室", 
+        "translation": "n：房间；室"
+    }, 
+    "coherent": {
+        "attr": "adj", 
+        "sentence": "This is a () sentence -- 这是一个连贯的句子", 
+        "translation": "adj：连贯的；一致的；条理清晰地"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "cosy": {
+        "attr": "adj", 
+        "sentence": "to live a () life -- 过安逸的人生", 
+        "translation": "adj：舒适的；安逸的"
+    }, 
+    "debate": {
+        "attr": "n，v", 
+        "sentence": "hold a () -- 举行一次辩论", 
+        "translation": "n：辩论；争论 n：辩论；争论"
+    }, 
+    "deck": {
+        "attr": "n", 
+        "sentence": "double () -- 双层甲板", 
+        "translation": "n: 甲板；舱面"
+    }, 
+    "defect": {
+        "attr": "n，v", 
+        "sentence": "() in character -- 性格上的缺陷", 
+        "translation": "n：瑕疵；缺陷 v：叛逃；背叛"
+    }, 
+    "descend": {
+        "attr": "v", 
+        "sentence": "I'm surprised that he should () to cheating -- 他竟沦落到行骗的地步；我十分惊讶", 
+        "translation": "v：下来；下降；突然造访；突袭；沦落；起源"
+    }, 
+    "dim": {
+        "attr": "adj，v", 
+        "sentence": "dim sound -- 模糊不清的声音", 
+        "translation": "adj：暗淡的；昏暗的 v：变暗淡；变模糊"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "diversion": {
+        "attr": "n", 
+        "sentence": "traffic () -- 交通绕行", 
+        "translation": "n：转移；改道；分散注意力；消遣"
+    }, 
+    "diversity": {
+        "attr": "n", 
+        "sentence": "cultrual () -- 文化多样性", 
+        "translation": "n：多样性；多样化"
+    }, 
+    "dock": {
+        "attr": "n，v", 
+        "sentence": "The ship was approaching the () -- 船驶向码头", 
+        "translation": "n：码头；被告席 v：扣除 ；停靠码头"
+    }, 
+    "extinguish": {
+        "attr": "v", 
+        "sentence": "Please () your cigarettes -- 请你把烟熄掉", 
+        "translation": "v：熄灭；扑灭"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "gear": {
+        "attr": "n，v", 
+        "sentence": "You have to gear down, when you drive uphill -- 当你上山时，必须换抵挡", 
+        "translation": "n：用具；齿轮 v：换挡；调整"
+    }, 
+    "inferiority": {
+        "attr": "n", 
+        "sentence": "Failure induces a sense of () -- 失败使人产生自卑感", 
+        "translation": "n：劣势；低等；自卑"
+    }, 
+    "massacre": {
+        "attr": "v，n", 
+        "sentence": "bloody () -- 血腥的大屠杀", 
+        "translation": "v：屠杀 n：大屠杀"
+    }, 
+    "rag": {
+        "attr": "n", 
+        "sentence": "She twisted a () around my hand -- 她用一块破布包住我的手", 
+        "translation": "n：旧布；破布"
+    }, 
+    "reservation": {
+        "attr": "n", 
+        "sentence": "They accepted the proposal without () -- 他们无保留地接受这个建议", 
+        "translation": "n: 预定；保留"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "solemn": {
+        "attr": "adj", 
+        "sentence": "() ceremony -- 隆重的仪式", 
+        "translation": "adj：严肃的；庄严的；隆重的"
+    }, 
+    "stroll": {
+        "attr": "v，n", 
+        "sentence": "I () along the beach -- 我在海边散步", 
+        "translation": "v：闲逛；散步；漫步 n：闲逛；散步；漫步"
+    }, 
+    "tug": {
+        "attr": "n，v", 
+        "sentence": "I () thee door -- 我用力拉门", 
+        "translation": "n：用力拉；拖曳；拖船 v：用力拉；使劲拽"
+    }, 
+    "utmost": {
+        "attr": "n，adj", 
+        "sentence": "Conservation is of the () importance -- 保护自然资源至关重要", 
+        "translation": "n：最大限度 adj：最大程度的；极度的"
+    }, 
+    "virtuosity": {
+        "attr": "n", 
+        "sentence": "a performance of breathtaking () -- 技艺令人叫绝的演出", 
+        "translation": "n：精湛演艺"
+    }
+}

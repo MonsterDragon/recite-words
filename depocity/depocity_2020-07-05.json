@@ -1,0 +1,157 @@
+{
+	"fist": {
+            "sentence": "He shook his () at me -- 他对我挥舞着拳头",
+            "translation": "n：拳头",
+            "attr": "n"
+        },
+	"superficial": {
+            "sentence": "He is too () to appreciate great literature like this -- 他太肤浅，无法欣赏这类文学巨著",
+            "translation": "adj：表面的；肤浅的",
+            "attr": "adj"
+        },
+	"wax": {
+            "sentence": "to () the floors -- 给地板打蜡",
+            "translation": "v：给...上蜡 n：蜡",
+            "attr": "v，n"
+        },
+	"circus": {
+            "sentence": "() performers -- 马戏团演员",
+            "translation": "n：马戏团",
+            "attr": "n"
+        },
+	"adolescent": {
+            "sentence": "() rebellion -- 青春期的叛逆",
+            "translation": "n：青少年 adj：清除器的",
+            "attr": "n，adj"
+        },
+	"crisp": {
+            "sentence": "a () apple -- 脆的苹果",
+            "translation": "adj：脆的",
+            "attr": "adj"
+        },
+	"verse": {
+            "sentence": "He expressed his ideas in () -- 他用诗的形式来表达他的观点",
+            "translation": "n：诗；诗节",
+            "attr": "n"
+        },
+	"quite": {
+            "sentence": "My aunt lives () near -- 我姑姑住得相当近",
+            "translation": "adv：很；非常",
+            "attr": "adv"
+        },
+	"puzzlement": {
+            "sentence": "She frowned in () -- 她迷惑地蹙着眉",
+            "translation": "n：迷惘；困惑",
+            "attr": "n"
+        },
+	"celebrity": {
+            "sentence": "a sociel () -- 一位社会名流",
+            "translation": "n：名人；名声",
+            "attr": "n"
+        },
+	"aural": {
+            "sentence": "() disease -- 耳病",
+            "translation": "adj：听觉的",
+            "attr": "adj"
+        },
+	"stale": {
+            "sentence": "() air -- 不新鲜的空气",
+            "translation": "adj：陈腐的；不新鲜的",
+            "attr": "adj"
+        },
+	"mutual": {
+            "sentence": "() respect -- 相互的尊重",
+            "translation": "adj：相互的；共同的",
+            "attr": "adj"
+        },
+	"envisage": {
+            "sentence": "() a bright future -- 设想一个光明的未来",
+            "translation": "v：设想；想象",
+            "attr": "v"
+        },
+	"menace": {
+            "sentence": "a () to world peace -- 对世界和平的威胁",
+            "translation": "n：威胁",
+            "attr": "n"
+        },
+	"demolition": {
+            "sentence": "We will give that team a () -- 我们要打败那个队伍",
+            "translation": "n：摧毁；拆毁",
+            "attr": "n"
+        },
+	"engagement": {
+            "sentence": "to cancel an () -- 取消婚约",
+            "translation": "n：订婚；约会",
+            "attr": "n"
+        },
+	"impose": {
+            "sentence": "to () a tax -- 征税",
+            "translation": "v：征收",
+            "attr": "v"
+        },
+	"hypocrisy": {
+            "sentence": "We were cheated by his () -- 我们都被他的伪善欺骗了",
+            "translation": "n：伪善；虚伪",
+            "attr": "n"
+        },
+	"decieve": {
+            "sentence": "They () her into signing the papers -- 他们欺骗他在文件上签字",
+            "translation": "v：欺骗",
+            "attr": "v"
+        },
+	"discount": {
+            "sentence": "These goods will be sold at a () -- 这些货物将减价出售",
+            "translation": "n：打折 v：打折",
+            "attr": "n；v"
+        },
+	"sane": {
+            "sentence": "A () person would not drive as dangerously as he did -- 一个神志清醒的人是不会像他这样危险的开车的",
+            "translation": "adj：明智的",
+            "attr": "adj"
+        },
+	"gradual": {
+            "sentence": "There is a () improvement in his work -- 他的工作逐步有了改进",
+            "translation": "adj：逐渐的",
+            "attr": "adj"
+        },
+	"patron": {
+            "sentence": "a () of arts -- 艺术事业的赞助者",
+            "translation": "n：赞助人；老主顾",
+            "attr": "n"
+        },
+	"degenerate": {
+            "sentence": "The thief was a () member of a fine family -- 那个小偷是优秀家族的堕落成员",
+            "translation": "adj：退步的；堕落的 v：退化；堕落 n：堕落的人",
+            "attr": "adj，n，v"
+        },
+	"ingenious": {
+            "sentence": "an () invention -- 有创意的发明",
+            "translation": "adj：有创意的；巧妙地",
+            "attr": "adj"
+        },
+	"underfund": {
+            "sentence": "to () taht community service station -- 对那个社区服务站提供资金不足",
+            "translation": "v：对...提供资金不足",
+            "attr": "v"
+        },
+	"scorn": {
+            "sentence": "an expression of () -- 轻视的表情",
+            "translation": "n：蔑视；v：蔑视",
+            "attr": "n，v"
+        },
+	"stake": {
+            "sentence": "The boy fastened the goat to a () -- 男孩把羊拴在木桩上",
+            "translation": "n：股份；赌注 v：投下...赌注",
+            "attr": "n，v"
+        },
+	"pin": {
+            "sentence": "She fastened her coat with a () -- 她用别针扣紧她的衣服",
+            "translation": "n：大头针；别针 v：固定",
+            "attr": "n，v"
+        },
+	"strict": {
+            "sentence": "a () coach -- 严格的教练",
+            "translation": "adj：严格的",
+            "attr": "adj"
+        }
+}

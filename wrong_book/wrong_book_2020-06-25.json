@@ -1,0 +1,107 @@
+{
+    "condemn": {
+        "attr": "v", 
+        "sentence": "() sincerely -- 严厉的谴责", 
+        "translation": "v: 谴责；判刑"
+    }, 
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj: 感染力的；传染性的"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "duration": {
+        "attr": "n", 
+        "sentence": "The () of the moive is 110 minutes -- 这部电影的持续时间是110分钟", 
+        "translation": "n: 持续时间；期间"
+    }, 
+    "eccentric": {
+        "attr": "adj, n", 
+        "sentence": "() behavior -- 古怪的行为", 
+        "translation": "adj: 古怪的；偏离轨道的 n: 怪人；偏离轨道运行"
+    }, 
+    "escalate": {
+        "attr": "v", 
+        "sentence": "We do not want to () the war -- 我们不想升级战争", 
+        "translation": "v: 逐步升级；逐步升高"
+    }, 
+    "faint": {
+        "attr": "adj", 
+        "sentence": "He feel () from lack of food -- 他因缺乏食物而感到虚弱", 
+        "translation": "adj: 虚弱的；微弱的"
+    }, 
+    "ignorant": {
+        "attr": "adj", 
+        "sentence": "He is () of even the most elementary facts -- 他连最基本的事实都不知道", 
+        "translation": "adj: 无知的；缺乏知识的"
+    }, 
+    "integral": {
+        "attr": "adj, n", 
+        "sentence": "Is this differential calculus or () calculus -- 微分和积分有什么区别", 
+        "translation": "adj: 完成的；积分的 n: 积分；整体"
+    }, 
+    "judicial": {
+        "attr": "adj", 
+        "sentence": "the () system -- 司法系统", 
+        "translation": "adj: 司法的；法庭的；审判的"
+    }, 
+    "monarchy": {
+        "attr": "n", 
+        "sentence": "constitutional () -- 君主立宪制", 
+        "translation": "n: 君主制；君主政体"
+    }, 
+    "monopoly": {
+        "attr": "n", 
+        "sentence": "() enterprise -- 垄断企业", 
+        "translation": "n: 垄断"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared fron () -- 这条路已被清除了障碍", 
+        "translation": "n: 障碍；闭塞"
+    }, 
+    "pharmacy": {
+        "attr": "n", 
+        "sentence": "She work at the () -- 她在药房工作", 
+        "translation": "n: 药房；药剂学"
+    }, 
+    "plot": {
+        "attr": "n, v", 
+        "sentence": "How do you uncover their () -- 你怎么揭露出他们的阴谋", 
+        "translation": "n: 阴谋；情节；秘密计划 v: 划分；绘图；密谋"
+    }, 
+    "presumably": {
+        "attr": "adv", 
+        "sentence": "() the bad weather has delayed the flight -- 大概恶劣天气使飞机误点了", 
+        "translation": "adv: 大概"
+    }, 
+    "subtract": {
+        "attr": "v", 
+        "sentence": "If you () 3 from 5, you get 2 -- 5减3得2", 
+        "translation": "v: 减去；扣除"
+    }, 
+    "swell": {
+        "attr": "v", 
+        "sentence": "Hills () gradually from the plain -- 山丘从平原隆起", 
+        "translation": "v: 膨胀；肿胀"
+    }, 
+    "tackle": {
+        "attr": "n, v", 
+        "sentence": "fishing () -- 钓鱼用具", 
+        "translation": "n: 用具；阻截 v: 处理；阻截"
+    }, 
+    "temptation": {
+        "attr": "n", 
+        "sentence": "He overcome a strong () to run away -- 他克服了强烈的逃跑诱惑", 
+        "translation": "n: 诱惑"
+    }, 
+    "transcend": {
+        "attr": "v", 
+        "sentence": "Human should always () their limits -- 人类应该不断地超越自己", 
+        "translation": "v: 超越"
+    }
+}

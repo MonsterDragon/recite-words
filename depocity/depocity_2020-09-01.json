@@ -1,0 +1,167 @@
+{
+    "blunt": {
+        "attr": "adj，v", 
+        "sentence": "a few  () words -- 几句直言不讳的话", 
+        "translation": "adj：直率的；不锋利的 v：使变钝"
+    }, 
+    "bolt": {
+        "attr": "n, v", 
+        "sentence": "Don't forget to () the door -- 别忘了闩门", 
+        "translation": "n：插销；螺栓；闪电 v：用插销拴上"
+    }, 
+    "circuit": {
+        "attr": "n，v", 
+        "sentence": "break a () -- 中断回路", 
+        "translation": "n：回路；线路 v：环形"
+    }, 
+    "clasp": {
+        "attr": "v，n", 
+        "sentence": "The button won't () -- 扣子扣不上", 
+        "translation": "v：抱紧；握紧；扣紧 n：钩；扣；紧握"
+    }, 
+    "congestion": {
+        "attr": "n", 
+        "sentence": "There is always traffic () in that stree -- 那条路总是有交通堵塞", 
+        "translation": "n：堵塞；充血；瘀血"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "dimension": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：维度；尺寸"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "district": {
+        "attr": "n", 
+        "sentence": "The () has a mild climate -- 这片地区气候温和", 
+        "translation": "n：地区；取余；行政区"
+    }, 
+    "elaborate": {
+        "attr": "adj", 
+        "sentence": "an () machine -- 一台精致的机器", 
+        "translation": "adj：精心制作的；详尽阐述的 v精心制作"
+    }, 
+    "enrol": {
+        "attr": "v", 
+        "sentence": "to () the name -- 登记名字", 
+        "translation": "v：登机；注册"
+    }, 
+    "episode": {
+        "attr": "n", 
+        "sentence": "This is the last () of the film -- 这是这部电影最后一个情节", 
+        "translation": "n：一集；事件；一段经历"
+    }, 
+    "harassment": {
+        "attr": "n", 
+        "sentence": "racial () -- 种族侵扰", 
+        "translation": "n：骚扰；侵扰"
+    }, 
+    "incensory": {
+        "attr": "n", 
+        "sentence": "incensory", 
+        "translation": "n：香炉"
+    }, 
+    "integral": {
+        "attr": "adj，n", 
+        "sentence": "Practice experience is () to the course -- 这门课不可缺少实践经验", 
+        "translation": "adj：完整的；积分的 n：积分；整体"
+    }, 
+    "jug": {
+        "attr": "n", 
+        "sentence": "a () of mild -- 一大罐牛奶", 
+        "translation": "n：水壶；大罐"
+    }, 
+    "lane": {
+        "attr": "n", 
+        "sentence": "bus lane -- 公共汽车专用车道", 
+        "translation": "n：小路；小巷；巷道；车道"
+    }, 
+    "lottery": {
+        "attr": "n", 
+        "sentence": "She won a fortune in a () -- 她在抽奖中赢得了一大笔钱", 
+        "translation": "n：抽奖；彩票"
+    }, 
+    "plaster": {
+        "attr": "n，v", 
+        "sentence": "() the aching muscle -- 在疼痛的肌肉上敷以药膏", 
+        "translation": "n：灰泥；膏药；熟石膏 v：涂膏药"
+    }, 
+    "pledge": {
+        "attr": "v，n", 
+        "sentence": "They () never to tell the secret -- 他们发誓绝不泄密", 
+        "translation": "v：发誓；保证 n：誓言；保证"
+    }, 
+    "quiver": {
+        "attr": "v", 
+        "sentence": "I () with anger -- 我气得全身发抖", 
+        "translation": "v：颤抖；颤动；发抖"
+    }, 
+    "radically": {
+        "attr": "adv", 
+        "sentence": "The landscape is () changed -- 地貌发生了根本的变化", 
+        "translation": "adv：彻底地；根本地"
+    }, 
+    "rear": {
+        "attr": "v，n，adj", 
+        "sentence": "The main entrance is at the () -- 主要入口在后面", 
+        "translation": "v：抚养；饲养 n：后部 adj：后面的"
+    }, 
+    "reservoir": {
+        "attr": "n", 
+        "sentence": "artificial () -- 人工水库", 
+        "translation": "n：水库；蓄水池"
+    }, 
+    "restless": {
+        "attr": "adj", 
+        "sentence": "spend a () night -- 度过一个不眠之夜", 
+        "translation": "adj：不安宁的；好动的；坐立不安的"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "sly": {
+        "attr": "adj", 
+        "sentence": "a () scheme -- 一个狡猾的阴谋", 
+        "translation": "adj：诡诈的；诡秘的；心照不宣的"
+    }, 
+    "specification": {
+        "attr": "n", 
+        "sentence": "All the parts were machined to the () -- 所有的零件都是按规格加工的", 
+        "translation": "n：规格；规范"
+    }, 
+    "stool": {
+        "attr": "n", 
+        "sentence": "Please go and take a () test -- 请去化验一下粪便", 
+        "translation": "n：凳子；粪便"
+    }, 
+    "tease": {
+        "attr": "v，n", 
+        "sentence": "You should not () your sister -- 你不应该取消你的妹妹", 
+        "translation": "v：取消；戏弄；梳理 n：戏弄"
+    }, 
+    "tractor": {
+        "attr": "n", 
+        "sentence": "There is a () in this farmyard -- 这个农家庭院里停着一台拖拉机", 
+        "translation": "n：拖拉机；牵引机"
+    }, 
+    "tramp": {
+        "attr": "n，v", 
+        "sentence": "a ragged () -- 一个衣衫褴褛的流浪汉", 
+        "translation": "n：流浪汉；流浪乞丐；徒步旅行 v：步行；踩；踏"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }
+}

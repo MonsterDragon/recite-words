@@ -1,0 +1,182 @@
+{
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "artery": {
+        "attr": "n", 
+        "sentence": "to blocked () -- 栓塞的动脉", 
+        "translation": "n：动脉；干线；要道"
+    }, 
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "captive": {
+        "attr": "n，adj", 
+        "sentence": "free a () -- 释放一名俘虏", 
+        "translation": "n：俘虏 adj：被俘的；被监禁的"
+    }, 
+    "chew": {
+        "attr": "v", 
+        "sentence": "() gum -- 嚼口香糖", 
+        "translation": "v：咀嚼"
+    }, 
+    "chip": {
+        "attr": "n，v", 
+        "sentence": "a silicon () -- 一块硅芯片", 
+        "translation": "n：芯片；碎片 v：削成碎片；破裂"
+    }, 
+    "choke": {
+        "attr": "n，v", 
+        "sentence": "Leaves () the drain -- 树叶把排水管塞住了", 
+        "translation": "n：窒息；阻塞 v：窒息；阻塞"
+    }, 
+    "concede": {
+        "attr": "v", 
+        "sentence": "I () that I made a mistake -- 我承认我犯了一个错误", 
+        "translation": "v：承认；让步"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "cunning": {
+        "attr": "adj，n", 
+        "sentence": "a () trick -- 一个狡猾的诡计", 
+        "translation": "adj：狡猾的；诡诈的 n：狡猾；诡诈；狡黠"
+    }, 
+    "dedicate": {
+        "attr": "v", 
+        "sentence": "He would () his life to the country -- 他将为国家奉献一生", 
+        "translation": "v：奉献；献身；致力"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就轻视他", 
+        "translation": "v：鄙视；蔑视；看不起"
+    }, 
+    "dial": {
+        "attr": "n，v", 
+        "sentence": "I started to () but then hung up -- 我开始拨号，但后来挂断了电话", 
+        "translation": "n：拨号；刻度盘 v：拨"
+    }, 
+    "discourse": {
+        "attr": "n，v", 
+        "sentence": "political () -- 政治演讲", 
+        "translation": "n：演说；论述；交谈 v：谈论；交谈；讲演"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "erosion": {
+        "attr": "n", 
+        "sentence": "the soil () -- 土壤侵蚀", 
+        "translation": "n：侵蚀；腐蚀"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair -- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "excursion": {
+        "attr": "n", 
+        "sentence": "take an () by train -- 乘火车做个短途旅行", 
+        "translation": "n：远足；短途旅行"
+    }, 
+    "fuss": {
+        "attr": "n，v", 
+        "sentence": "What a () about nothing -- 真是无事生非", 
+        "translation": "n：大惊小怪；忙乱 v：瞎忙活；大惊小怪"
+    }, 
+    "gracious": {
+        "attr": "adj", 
+        "sentence": "The () king pardoned him -- 仁慈的国王宽恕了他", 
+        "translation": "adj：亲切的；和蔼的；仁慈的"
+    }, 
+    "initiative": {
+        "attr": "n", 
+        "sentence": "peace () -- 和平倡议", 
+        "translation": "n：主动性；主动权；倡议"
+    }, 
+    "interim": {
+        "attr": "adj，n", 
+        "sentence": "an () agreement -- 一项临时协议", 
+        "translation": "adj：暂时的；临时的 n：过渡时期；中间时期"
+    }, 
+    "notorious": {
+        "attr": "adj", 
+        "sentence": "a () gambler -- 声名狼藉的赌徒", 
+        "translation": "adj：声名狼藉的；臭名昭著的"
+    }, 
+    "pupil": {
+        "attr": "n", 
+        "sentence": "() of an eye -- 眼睛的瞳孔", 
+        "translation": "n：小学生；瞳孔"
+    }, 
+    "rational": {
+        "attr": "adj", 
+        "sentence": "Panic destroys () thought -- 惊慌摧毁理性思考", 
+        "translation": "adj：理性的；理智的"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }, 
+    "render": {
+        "attr": "v", 
+        "sentence": "() help -- 给予帮助", 
+        "translation": "v：给予；使变得；翻译；提交"
+    }, 
+    "revelation": {
+        "attr": "n", 
+        "sentence": "a moment of () -- 真相大白的一刻", 
+        "translation": "n：揭露"
+    }, 
+    "stain": {
+        "attr": "v,n", 
+        "sentence": "He will () the family honor -- 他将会玷污家族的荣誉", 
+        "translation": "v：玷污 n：玷污"
+    }, 
+    "stir": {
+        "attr": "v", 
+        "sentence": "() up hatred -- 激起仇恨", 
+        "translation": "v：搅拌；搅动；激起"
+    }, 
+    "tender": {
+        "attr": "adj，n，v", 
+        "sentence": "I'll () my resignation -- 我将提交辞呈", 
+        "translation": "adj：嫩的；温柔的；纤弱的 n：看管者；投标；补给船 v：正式提出；投标"
+    }, 
+    "trial": {
+        "attr": "n", 
+        "sentence": "The court gave a fair () to the case -- 法院对这一案件做出了公正的审判", 
+        "translation": "n：审判；试验；考验"
+    }, 
+    "utter": {
+        "attr": "v，adj", 
+        "sentence": "() a cry -- 大叫一声", 
+        "translation": "v：说出；出声 adj：完全地；十足的"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }, 
+    "wrench": {
+        "attr": "v，n", 
+        "sentence": "the () of leaving home -- 离家的悲痛", 
+        "translation": "v：猛扭；扭伤；挣脱 n：扳手；痛苦"
+    }
+}

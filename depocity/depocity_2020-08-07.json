@@ -1,0 +1,232 @@
+{
+    "break up": {
+        "attr": "", 
+        "sentence": "You should () your bad habits -- 你应该改掉你的坏习惯", 
+        "translation": "打碎；分裂；解体；结束"
+    }, 
+    "breeze": {
+        "attr": "n", 
+        "sentence": "Leaves tremble in the () -- 叶子在微风中颤动", 
+        "translation": "n：微风；和风"
+    }, 
+    "bud": {
+        "attr": "n，v", 
+        "sentence": "branches in full () -- 长满芽的枝条", 
+        "translation": "n：芽；蓓蕾 v：发芽"
+    }, 
+    "carry forward": {
+        "attr": "", 
+        "sentence": "We shall () the revolutionary tradition -- 我们应该发扬革命传统", 
+        "translation": "结转；转下期；发扬"
+    }, 
+    "cellar": {
+        "attr": "n", 
+        "sentence": "wine () -- 酒窖", 
+        "translation": "n：地窖；地下室"
+    }, 
+    "cement": {
+        "attr": "n，v", 
+        "sentence": "n：水泥；胶合剂 v：粘牢；巩固", 
+        "translation": "n，v"
+    }, 
+    "census": {
+        "attr": "n", 
+        "sentence": "() chart -- 人口调查表", 
+        "translation": "n：人口普查"
+    }, 
+    "clergy": {
+        "attr": "n", 
+        "sentence": "All the  () attend the ceremony -- 所有神职人员都参加这项仪式", 
+        "translation": "n：神职人员"
+    }, 
+    "compliment": {
+        "attr": "v，n", 
+        "sentence": "sincere () -- 由衷地称赞", 
+        "translation": "v：称赞；恭维 n：称赞；恭维"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "corn": {
+        "attr": "n", 
+        "sentence": "sweet() -- 甜玉米", 
+        "translation": "n：玉米；谷物"
+    }, 
+    "cottage": {
+        "attr": "n", 
+        "sentence": "country () -- 乡间小屋", 
+        "translation": "n：村舍；小屋；小别墅"
+    }, 
+    "diffluence": {
+        "attr": "n", 
+        "sentence": "power () -- 功率分流", 
+        "translation": "n：分流；溶解"
+    }, 
+    "embrace": {
+        "attr": "v，n", 
+        "sentence": "These passages () many examples -- 这些文章中囊括了许多例子", 
+        "translation": "v：拥抱；包围 n：拥抱"
+    }, 
+    "equator": {
+        "attr": "n", 
+        "sentence": "The () is an imaginary line -- 赤道是一条想象出来的线", 
+        "translation": "n：赤道"
+    }, 
+    "escort": {
+        "attr": "n；v", 
+        "sentence": "an () of soldiers -- 一队卫兵", 
+        "translation": "n：护送者；护卫队 v：护送；护卫"
+    }, 
+    "exception": {
+        "attr": "n", 
+        "sentence": "There is always an () to any rule -- 任何规则总有例外", 
+        "translation": "n：例外；除外"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair-- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "forge": {
+        "attr": "v", 
+        "sentence": "() a signature -- 伪造签名", 
+        "translation": "v：伪造；制造；建立"
+    }, 
+    "grant": {
+        "attr": "v，n", 
+        "sentence": "to () rights -- 授予权力", 
+        "translation": "v：允许；承认；授予 n：授予物；补助金；同意"
+    }, 
+    "hurricane": {
+        "attr": "n", 
+        "sentence": "The ship was caught in a () -- 船遇上了飓风", 
+        "translation": "n：飓风"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "The () of the policy is tricky -- 此政策实施起来困难重重", 
+        "translation": "n：履行；实施"
+    }, 
+    "likewise": {
+        "attr": "adv", 
+        "sentence": "Her second marriage was () unhappy -- 她的第二次婚姻同样也不幸福", 
+        "translation": "adv：同样地；照样地"
+    }, 
+    "lump": {
+        "attr": "n，v", 
+        "sentence": "a () of sugar -- 一块糖", 
+        "translation": "n：小块；肿块；隆起 v：成团；隆起；结成块"
+    }, 
+    "moist": {
+        "attr": "adj", 
+        "sentence": "Strawberries grow best in a cool, () climate -- 草莓最适于在凉爽，潮湿的环境下生长", 
+        "translation": "adj：潮湿的；湿润的"
+    }, 
+    "mortgage": {
+        "attr": "v，n", 
+        "sentence": "we will have to () his land for a loan -- 我们不得不将土地抵押 来申请贷款", 
+        "translation": "v：抵押；按揭 n：抵押；按揭"
+    }, 
+    "obsolete": {
+        "attr": "adj", 
+        "sentence": "Digital cameras made film () -- 数码相机淘汰了胶片", 
+        "translation": "adj：过时的；废弃的；淘汰的"
+    }, 
+    "parade": {
+        "attr": "n，v", 
+        "sentence": "have a () -- 举行游行", 
+        "translation": "n：游行；阅兵 v：游行；阅兵"
+    }, 
+    "perfume": {
+        "attr": "n，v", 
+        "sentence": "fragrant () -- 芳香的香水", 
+        "translation": "n：香水；香味 v：给 ... 添加香水"
+    }, 
+    "perplexing": {
+        "attr": "adj", 
+        "sentence": "This is indeed a () problem -- 这确实是一个费解的难题", 
+        "translation": "adj：使人困惑的；使人为难的"
+    }, 
+    "prose": {
+        "attr": "n", 
+        "sentence": "His () is written in elegant language -- 他的散文写的十分优雅", 
+        "translation": "n：散文"
+    }, 
+    "rag": {
+        "attr": "n", 
+        "sentence": "She washed the floor with a () -- 她用一块旧布洗地板", 
+        "translation": "n：旧布；破布"
+    }, 
+    "regulatory": {
+        "attr": "adj", 
+        "sentence": "() mechanism -- 调节机制", 
+        "translation": "adj：调整的；管理的"
+    }, 
+    "rent": {
+        "attr": "n，v", 
+        "sentence": "pay the () -- 交付租金", 
+        "translation": "v：出租；租借 n：租金；破口；裂缝 v：撕碎；分裂"
+    }, 
+    "rouse": {
+        "attr": "v", 
+        "sentence": "() sb to sth -- 唤起 ... 做 ...", 
+        "translation": "v：使活跃；唤醒"
+    }, 
+    "scent": {
+        "attr": "n，v", 
+        "sentence": "a () of danger -- 危险的气息", 
+        "translation": "n：香味；香水；气息；察觉 v：嗅出；觉察出"
+    }, 
+    "scrutiny": {
+        "attr": "n", 
+        "sentence": "His theory wouldn't bear () -- 他的理论经不起推敲", 
+        "translation": "n：仔细研究"
+    }, 
+    "shrewd": {
+        "attr": "adj", 
+        "sentence": "His answer is () -- 他的回答很机敏", 
+        "translation": "adj：精明的；敏锐地；机灵的"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "It is too soon to () yet -- 现在播种还为时尚早", 
+        "translation": "v：播种；散步"
+    }, 
+    "stagger": {
+        "attr": "v，n", 
+        "sentence": "I () at the price -- 这价钱使我犹豫不决", 
+        "translation": "v：蹒跚；犹豫；动摇 n：蹒跚；踌躇"
+    }, 
+    "swing": {
+        "attr": "n，v", 
+        "sentence": "The () of the ship made many people seasick -- 船的摇摆使多人晕船", 
+        "translation": "n：摇摆；秋千 v：摇摆"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "trolley": {
+        "attr": "n", 
+        "sentence": "supermarket () -- 超市手推车", 
+        "translation": "n：手推车；有轨电车"
+    }, 
+    "tuck": {
+        "attr": "v，n", 
+        "sentence": "the () of a skirt -- 裙子的褶皱", 
+        "translation": "v：把 ... 塞进狭窄的空间；把 ... 藏入 n：褶皱；零食"
+    }, 
+    "valve": {
+        "attr": "n", 
+        "sentence": "safety () -- 安全阀", 
+        "translation": "n：阀；瓣膜"
+    }, 
+    "vibrate": {
+        "attr": "v", 
+        "sentence": "The buildings seemed to () -- 楼房好像在颤动", 
+        "translation": "v：震动；颤动"
+    }
+}

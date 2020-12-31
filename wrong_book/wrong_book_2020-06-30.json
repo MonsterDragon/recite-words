@@ -1,0 +1,37 @@
+{
+    "anticipate": {
+        "attr": "v", 
+        "sentence": "We () hearing from you again -- 我们期待再接收到你的来信", 
+        "translation": "v：预料；预期；期望"
+    }, 
+    "artery": {
+        "attr": "n", 
+        "sentence": "the blocked () -- 栓塞的动脉", 
+        "translation": "n：动脉；干线；要道"
+    }, 
+    "attorney": {
+        "attr": "n", 
+        "sentence": "He acted as () for me -- 他担任我的律师", 
+        "translation": "n：律师，辩护律师；代理人"
+    }, 
+    "evade": {
+        "attr": "v", 
+        "sentence": "to () arrest -- 逃避抓捕", 
+        "translation": "v：逃避；躲避"
+    }, 
+    "incensory": {
+        "attr": "n", 
+        "sentence": "Incense and () -- 熏香和香炉", 
+        "translation": "n：香炉"
+    }, 
+    "propaganda": {
+        "attr": "n", 
+        "sentence": "political () -- 政治宣传", 
+        "translation": "n: 宣传"
+    }, 
+    "punctual": {
+        "attr": "adj", 
+        "sentence": "He likes his guests to be () -- 他喜欢客人守时", 
+        "translation": "adj：准时的"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "bizarre": {
+        "attr": "adj", 
+        "sentence": "the () dress -- 奇装异服", 
+        "translation": "adj：离奇的；奇特的；奇怪的"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "manipulate": {
+        "attr": "v", 
+        "sentence": "to () tools -- 使用工具", 
+        "translation": "v：操纵；使用"
+    }, 
+    "quarrel": {
+        "attr": "v，n", 
+        "sentence": "Let's make an end of this follish () -- 让我们结束这种愚蠢的争吵吧", 
+        "translation": "v：争吵；吵架 n：争吵"
+    }, 
+    "recipient": {
+        "attr": "a，adj", 
+        "sentence": "() of awards -- 领奖者", 
+        "translation": "n：接受者；容纳着；容器 adj：容易接受的；感受性强的"
+    }
+}

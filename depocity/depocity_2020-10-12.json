@@ -1,0 +1,162 @@
+{
+    "articulate": {
+        "attr": "adj，v", 
+        "sentence": "an () essay -- 表达力强的论文", 
+        "translation": "adj：发音清晰的；善于表达的；有关节的 v：清楚地讲话；发音"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "brittle": {
+        "attr": "adj", 
+        "sentence": "() friendship -- 不牢固的友谊", 
+        "translation": "adj：易碎的；脆弱的；尖利的"
+    }, 
+    "bump": {
+        "attr": "v，n", 
+        "sentence": "to () into an old friends -- 无意中碰到一位老朋友", 
+        "translation": "v：撞；碰上 n：碰撞；猛击；肿块"
+    }, 
+    "clasp": {
+        "attr": "v，n", 
+        "sentence": "The button won't () -- 扣子扣不上", 
+        "translation": "v：抱紧；握紧；扣紧 n：钩；扣；紧握"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "conservation": {
+        "attr": "n", 
+        "sentence": "the () of water -- 节约用水", 
+        "translation": "n：保护；保存；节约"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "constant": {
+        "attr": "adj，n", 
+        "sentence": "() practice -- 不断的练习", 
+        "translation": "adj：恒定的；不变的；持续的 n：常数；常量"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "cushion": {
+        "attr": "n，v", 
+        "sentence": "to () a blow -- 减轻打击", 
+        "translation": "n：靠垫；软垫；缓冲物 v：加衬垫；减轻"
+    }, 
+    "depict": {
+        "attr": "v", 
+        "sentence": "() the detail -- 描述细节", 
+        "translation": "v：描述；描绘"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "engender": {
+        "attr": "v", 
+        "sentence": "The teacher could () delight in students -- 这个老师能够让学生感到快乐", 
+        "translation": "v：使发生；引起"
+    }, 
+    "forge": {
+        "attr": "v", 
+        "sentence": "() a signature -- 伪造签名", 
+        "translation": "v：伪造；制造；建立"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "layman": {
+        "attr": "n", 
+        "sentence": "He is a () in politics -- 他对政治是个门外汉", 
+        "translation": "n：外行"
+    }, 
+    "mutually": {
+        "attr": "adv", 
+        "sentence": "The two beliefs are () exclusive -- 这两种信念相互排斥的", 
+        "translation": "adv：彼此；相互地"
+    }, 
+    "pessimistic": {
+        "attr": "adj", 
+        "sentence": "There is no reason to be () about the future -- 没有理由对未来悲观", 
+        "translation": "adj：悲观；厌世的"
+    }, 
+    "plug": {
+        "attr": "n，v", 
+        "sentence": "to () one's ears -- 塞住某人的耳朵", 
+        "translation": "n：插头；塞子；栓；宣传 v：堵；塞；插上；大肆宣传"
+    }, 
+    "polish": {
+        "attr": "v，n", 
+        "sentence": "They () the floor smooth -- 他们把地板擦得光滑", 
+        "translation": "v：擦亮；磨光；润色；完善 n：光泽；上光剂"
+    }, 
+    "poverty": {
+        "attr": "n", 
+        "sentence": "eliminate () -- 消除贫困", 
+        "translation": "n：贫困；短缺"
+    }, 
+    "revitalize": {
+        "attr": "v", 
+        "sentence": "to () the economy -- 振兴经济", 
+        "translation": "v：使新生；使复兴"
+    }, 
+    "sacred": {
+        "attr": "adj", 
+        "sentence": "() art -- 宗教艺术", 
+        "translation": "adj：宗教的；神圣的；庄严的"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将浸透我们的衣服", 
+        "translation": "v：使浸透；使湿透；使饱和"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "stack": {
+        "attr": "n", 
+        "sentence": "() the dishes -- 把盘子叠起来", 
+        "translation": "n：摞；堆；叠"
+    }, 
+    "tenant": {
+        "attr": "n，v", 
+        "sentence": "The desk was left by the previous () -- 这张桌子是前面房客留下的", 
+        "translation": "n：房客；租户；佃户 v：出租"
+    }, 
+    "tremble": {
+        "attr": "v，n", 
+        "sentence": "() with fear -- 害怕的发抖", 
+        "translation": "v：发抖；打颤；战栗 n：发抖；战栗"
+    }, 
+    "tuck": {
+        "attr": "v，n", 
+        "sentence": "to () away money -- 把钱藏起来", 
+        "translation": "v：把...藏入 n：褶皱；零食"
+    }, 
+    "twist": {
+        "attr": "v，n", 
+        "sentence": "to () one's wrist -- 扭伤了手腕", 
+        "translation": "v：搓；捻；拧 n：搓；捻；拧"
+    }, 
+    "ventilation": {
+        "attr": "n", 
+        "sentence": "() system -- 通风系统", 
+        "translation": "n：通风；通风装置"
+    }
+}

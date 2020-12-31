@@ -1,0 +1,17 @@
+{
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj: 感染力的；传染性的"
+    }, 
+    "controversy": {
+        "attr": "n", 
+        "sentence": "That is a fact beyond () -- 那是一个不争的事实", 
+        "translation": "n：争论；论战"
+    }, 
+    "propaganda": {
+        "attr": "n", 
+        "sentence": "political () -- 政治宣传", 
+        "translation": "n: 宣传"
+    }
+}

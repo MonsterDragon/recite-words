@@ -1,0 +1,42 @@
+{
+    "aggravate": {
+        "attr": "v", 
+        "sentence": "Stress can () the situation -- 压力会使情况恶化", 
+        "translation": "v：加剧；使恶化；激怒"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "costume": {
+        "attr": "n，v", 
+        "sentence": "() play -- 角色扮演", 
+        "translation": "n：服装；衣服；戏服 v：给...提供服装"
+    }, 
+    "legislative": {
+        "attr": "adj，n", 
+        "sentence": "the country's highest () body -- 国家的最高立法机关", 
+        "translation": "adj：立法的；制定法律的 n：立法权；立法机关"
+    }, 
+    "neutral": {
+        "attr": "adj，n", 
+        "sentence": "() color -- 素净色", 
+        "translation": "adj：中立的；非彩色的；中性的 n：中立者；素净色；空挡位置"
+    }, 
+    "parcel": {
+        "attr": "n，v", 
+        "sentence": "The postman asked me to sign for the () -- 邮递员叫我签收包裹", 
+        "translation": "n：包裹；小包 v：捆扎；打包"
+    }, 
+    "preface": {
+        "attr": "n", 
+        "sentence": "a () to a book -- 一本书的序言", 
+        "translation": "n：序言；前言"
+    }
+}

@@ -1,0 +1,202 @@
+{
+    "cemetery": {
+        "attr": "n", 
+        "sentence": "public () -- 公共坟场", 
+        "translation": "n：墓地；公墓"
+    }, 
+    "conviction": {
+        "attr": "n", 
+        "sentence": "He will appeal against his () -- 他将对判决进行上诉", 
+        "translation": "n：坚信；判罪；信服"
+    }, 
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "credentials": {
+        "attr": "n", 
+        "sentence": "() as a specialist -- 作为专家的资历", 
+        "translation": "n：资格证书；证件；资历"
+    }, 
+    "criterion": {
+        "attr": "n", 
+        "sentence": "moral () -- 道德准则", 
+        "translation": "n：标准；准则；规范"
+    }, 
+    "deceit": {
+        "attr": "n", 
+        "sentence": "His () is disgusting -- 他的欺诈手段令人憎恶", 
+        "translation": "n：欺骗；欺诈"
+    }, 
+    "deceptiveness": {
+        "attr": "n", 
+        "sentence": "distinguish between () and true -- 分辨是非", 
+        "translation": "n：欺骗性；虚伪"
+    }, 
+    "deem": {
+        "attr": "v", 
+        "sentence": "Do you () this plan sensible -- 你认为这项计划明智吗", 
+        "translation": "v：认为；判断；以为"
+    }, 
+    "delicately": {
+        "attr": "adv", 
+        "sentence": "We received a () worded refusal of our invitation -- 我们收到一封婉言谢绝我们邀请的回复函", 
+        "translation": "adv：优美地；微妙地；精致地"
+    }, 
+    "demotivate": {
+        "attr": "v", 
+        "sentence": "Failure can () students -- 失败会挫伤学生的积极性", 
+        "translation": "v：使消极"
+    }, 
+    "descendant": {
+        "attr": "n", 
+        "sentence": "I am a descendant of dragon -- 我是龙的后代", 
+        "translation": "n：后代；子孙；后裔"
+    }, 
+    "fable": {
+        "attr": "n", 
+        "sentence": "It's total () -- 这完全是无稽之谈", 
+        "translation": "n：寓言；寓言故事；无稽之谈"
+    }, 
+    "fairly": {
+        "attr": "adv", 
+        "sentence": "The problem was () solved -- 问题得到公正解决", 
+        "translation": "adv：公正地；相当地"
+    }, 
+    "fragrant": {
+        "attr": "adj", 
+        "sentence": "() perfume -- 芳香的香水", 
+        "translation": "adj：芬芳的"
+    }, 
+    "germ": {
+        "attr": "n", 
+        "sentence": "the () of a project -- 计划的雏形", 
+        "translation": "n：病菌；萌芽"
+    }, 
+    "illiterate": {
+        "attr": "adj，n", 
+        "sentence": "About half the population is still () -- 大约一半人口仍是文盲", 
+        "translation": "adj：文盲的；无知的 n：文盲；无知的人"
+    }, 
+    "intend": {
+        "attr": "n，adj", 
+        "sentence": "What's the () of this plan -- 这个计划的目的是什么", 
+        "translation": "n：意图；目的 adj：专心的；专注的 ；急切的"
+    }, 
+    "intensive": {
+        "attr": "adj", 
+        "sentence": "() training -- 密集的训练", 
+        "translation": "adj：密集的；增强的"
+    }, 
+    "intimidate": {
+        "attr": "v", 
+        "sentence": "The gang tried to () the merchant -- 犯罪团伙想威胁那位商人", 
+        "translation": "v：胁迫；威胁；恐吓"
+    }, 
+    "knit": {
+        "attr": "v", 
+        "sentence": "() sweater -- 织毛衣", 
+        "translation": "v：编制；编结"
+    }, 
+    "lateral": {
+        "attr": "adj", 
+        "sentence": "() section -- 横截面", 
+        "translation": "adj：侧面的；横向的"
+    }, 
+    "liberate": {
+        "attr": "v", 
+        "sentence": "() the slaves -- 解放奴隶", 
+        "translation": "v：解放；释放"
+    }, 
+    "outlook": {
+        "attr": "n", 
+        "sentence": "economic () -- 经济前景", 
+        "translation": "n：景色；前景；观点；人生观"
+    }, 
+    "parcel": {
+        "attr": "n，v", 
+        "sentence": "The postman asked me to sign for the () -- 邮递员叫我签收包裹", 
+        "translation": "n：包裹；小包 v：捆扎；打包"
+    }, 
+    "peasant": {
+        "attr": "n", 
+        "sentence": "() will sow wheat in Spring -- 农民们春天播种小麦", 
+        "translation": "n：农民；乡巴佬；庄稼人"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "preach": {
+        "attr": "v", 
+        "sentence": "() peace -- 宣传和平", 
+        "translation": "v：宣扬；鼓吹；布道"
+    }, 
+    "recipe": {
+        "attr": "n", 
+        "sentence": "a () for fever -- 发烧的处方", 
+        "translation": "n：食谱；烹饪方法；处方"
+    }, 
+    "scheme": {
+        "attr": "n，v", 
+        "sentence": "to carry out a () -- 实行一个方案", 
+        "translation": "n：阴谋；计划 v：密谋；策划"
+    }, 
+    "slum": {
+        "attr": "n", 
+        "sentence": "() area -- 贫民窟", 
+        "translation": "n：贫民窟"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "stab": {
+        "attr": "n，v", 
+        "sentence": "the () in the back -- 暗箭伤人；背后中伤", 
+        "translation": "n：刺；戳 v：刺；戳"
+    }, 
+    "strap": {
+        "attr": "n，v", 
+        "sentence": "be () for -- 急需；缺乏", 
+        "translation": "n：带子；皮带；皮条 v：包扎"
+    }, 
+    "symposium": {
+        "attr": "n", 
+        "sentence": "scientific ()  -- 科学研讨会", 
+        "translation": "n：研讨会"
+    }, 
+    "texture": {
+        "attr": "n", 
+        "sentence": "the () of the rock -- 岩石的纹理", 
+        "translation": "n：质地；纹理；构造"
+    }, 
+    "thermal": {
+        "attr": "adj", 
+        "sentence": "() underwear -- 保暖内衣", 
+        "translation": "adj：热的；保热的"
+    }, 
+    "thrill": {
+        "attr": "n，v", 
+        "sentence": "He felt a () of fear -- 他感到毛骨悚然", 
+        "translation": "n：兴奋；震撼感 v：激动；震颤"
+    }, 
+    "utterance": {
+        "attr": "n", 
+        "sentence": "He gave () to his thoughts -- 他发表了自己的观点", 
+        "translation": "n：言辞；言语；言论"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }
+}

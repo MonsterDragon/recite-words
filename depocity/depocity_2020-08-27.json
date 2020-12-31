@@ -1,0 +1,117 @@
+{
+    "abound": {
+        "attr": "v", 
+        "sentence": "Streams () with fish -- 河里鱼很多", 
+        "translation": "v：大量存在；有许多"
+    }, 
+    "bully": {
+        "attr": "v，n", 
+        "sentence": "The terrorists () the citizens -- 恐怖分子恐吓市民们", 
+        "translation": "v：恐吓；威胁；欺负 n：仗势欺人者"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "cosmic": {
+        "attr": "adj", 
+        "sentence": "the () space -- 宇宙空间", 
+        "translation": "adj：宇宙的；广阔的"
+    }, 
+    "dilute": {
+        "attr": "v，adj", 
+        "sentence": "to () wine with water -- 加水冲淡酒", 
+        "translation": "v：稀释 adj：经稀释的"
+    }, 
+    "discern": {
+        "attr": "v", 
+        "sentence": "to () right from wrong -- 洞察是非", 
+        "translation": "v：辨明；识别；洞悉"
+    }, 
+    "dome": {
+        "attr": "n", 
+        "sentence": "The () of the church is under repair -- 教堂的圆顶正在修理中", 
+        "translation": "n：穹顶；圆屋顶"
+    }, 
+    "drawback": {
+        "attr": "n", 
+        "sentence": "There is a () to his new car -- 他的新车有个缺点", 
+        "translation": "n：缺点；不利条件"
+    }, 
+    "emersion": {
+        "attr": "n", 
+        "sentence": "In other language programs people use () -- 在另一些语言项目里，人们选用在线式学习方式", 
+        "translation": "n：浮现"
+    }, 
+    "entail": {
+        "attr": "v", 
+        "sentence": "The crisis would () dissolution of the union -- 这场危机定会导致联盟解体", 
+        "translation": "v：是必要的；牵涉"
+    }, 
+    "erupt": {
+        "attr": "v", 
+        "sentence": "When will the volcano () -- 那座火山在什么时候喷发", 
+        "translation": "v：爆发；喷发"
+    }, 
+    "evacuate": {
+        "attr": "v", 
+        "sentence": "They will () tomorrow night -- 他们将在明晚撤退", 
+        "translation": "v：撤离；疏散；撤出"
+    }, 
+    "infirm": {
+        "attr": "adj", 
+        "sentence": "the old and () -- 年老体弱者", 
+        "translation": "adj：体弱的；虚弱的"
+    }, 
+    "lad": {
+        "attr": "n", 
+        "sentence": "The () desires to go to university -- 这小伙子渴望去上大学", 
+        "translation": "n：小伙子；少年"
+    }, 
+    "lag": {
+        "attr": "v，n", 
+        "sentence": "There is a time () of about fifteen years -- 时间上有一段约15年的间隔", 
+        "translation": "v：缓慢移动；滞后 n：时间间隔"
+    }, 
+    "naturalization": {
+        "attr": "n", 
+        "sentence": "They rejected his petition for () -- 他们拒绝了他的入籍申请", 
+        "translation": "n：移入；移植；入籍"
+    }, 
+    "pact": {
+        "attr": "n", 
+        "sentence": "to sign a () -- 签约", 
+        "translation": "n：契约；协定；条约"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "retain": {
+        "attr": "v", 
+        "sentence": "() one's balance -- 保持平衡", 
+        "translation": "v：保留；保持"
+    }, 
+    "subsequent": {
+        "attr": "adj", 
+        "sentence": "() generation -- 下一代", 
+        "translation": "adj：随后的；后来的"
+    }, 
+    "syndrome": {
+        "attr": "n", 
+        "sentence": "The () has no effective treatments yet -- 这种综合征尚无有效的治疗方法", 
+        "translation": "n：综合征；综合症状"
+    }, 
+    "thrive": {
+        "attr": "v", 
+        "sentence": "May our country prosper and () forever -- 希望我们的国家繁荣兴旺", 
+        "translation": "v：兴旺；繁荣；茁壮成长"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }
+}

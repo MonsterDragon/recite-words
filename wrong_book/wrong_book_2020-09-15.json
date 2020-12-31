@@ -1,0 +1,12 @@
+{
+    "explicit": {
+        "attr": "adj", 
+        "sentence": "() directions -- 明确指示", 
+        "translation": "adj：明确的；清楚地"
+    }, 
+    "vital": {
+        "attr": "adj", 
+        "sentence": "() point -- 极其重要的一点", 
+        "translation": "adj：至关重要的；所必需的；生死攸关的"
+    }
+}

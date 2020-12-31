@@ -1,0 +1,12 @@
+{
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "He put a () on a house -- 他给一所房子付了押金", 
+        "translation": "n：存款；押金；沉淀 v：存储；堆积"
+    }, 
+    "shrewd": {
+        "attr": "adj", 
+        "sentence": "His answer is () -- 他的回答很机敏", 
+        "translation": "adj：精明的；敏锐地；机灵的"
+    }
+}

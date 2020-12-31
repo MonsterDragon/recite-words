@@ -1,0 +1,182 @@
+{
+    "affection": {
+        "attr": "n", 
+        "sentence": "great () for music -- 对音乐的极大喜爱", 
+        "translation": "n：钟爱；情感；爱慕"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "barren": {
+        "attr": "adj", 
+        "sentence": "() efforts -- 无效的努力", 
+        "translation": "adj：贫瘠的；无价值的；不孕的"
+    }, 
+    "clergy": {
+        "attr": "n", 
+        "sentence": "All the  () attend the ceremony -- 所有神职人员都参加这项仪式", 
+        "translation": "n：神职人员"
+    }, 
+    "compartment": {
+        "attr": "n", 
+        "sentence": "smoking () -- 吸烟隔间", 
+        "translation": "n：分隔间；车间"
+    }, 
+    "composite": {
+        "attr": "adj，n", 
+        "sentence": "English is a () of many languages -- 英语是多种语言混合而成的", 
+        "translation": "adj：合成的；复合的 n：合成物；复合材料"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "contaminate": {
+        "attr": "v", 
+        "sentence": "() the environment -- 污染环境", 
+        "translation": "v：污染"
+    }, 
+    "cosmic": {
+        "attr": "adj", 
+        "sentence": "the () space -- 宇宙空间", 
+        "translation": "adj：宇宙的；广阔的"
+    }, 
+    "cruise": {
+        "attr": "v, n", 
+        "sentence": "They () in the sea -- 他们在海上巡游", 
+        "translation": "v: 乘船游览 n: 乘船游览；航游"
+    }, 
+    "deck": {
+        "attr": "n", 
+        "sentence": "double () -- 双层甲板", 
+        "translation": "n: 甲板；舱面"
+    }, 
+    "diabetes": {
+        "attr": "n", 
+        "sentence": "Insulin is used in the treatment of () -- 胰岛素用于治疗糖尿病", 
+        "translation": "n：糖尿病；多尿症"
+    }, 
+    "drift": {
+        "attr": "n, v", 
+        "sentence": "There is a slow () into crsis -- 有一种渐入危机的趋势", 
+        "translation": "n: 流动；趋势 v: 飘；漂流"
+    }, 
+    "dusk": {
+        "attr": "n", 
+        "sentence": "The lights go on at () -- 一到黄昏灯就亮了", 
+        "translation": "n：黄昏；薄暮"
+    }, 
+    "eloquent": {
+        "attr": "adj", 
+        "sentence": "an () speaker -- 一个雄辩地演讲家", 
+        "translation": "adj: 雄辩地；有口才的"
+    }, 
+    "enable": {
+        "attr": "v", 
+        "sentence": "A bird's wings () it to fly -- 鸟的翅膀使鸟可以飞", 
+        "translation": "v：使能够；给予能力"
+    }, 
+    "exert": {
+        "attr": "v", 
+        "sentence": "() all strength -- 使尽全身的力气", 
+        "translation": "v：运用；施加"
+    }, 
+    "forge": {
+        "attr": "v", 
+        "sentence": "() a signature -- 伪造签名", 
+        "translation": "v：伪造；制造；建立"
+    }, 
+    "gang": {
+        "attr": "n，v", 
+        "sentence": "a () of criminals -- 一帮罪犯", 
+        "translation": "n：一群；一伙；一帮 v：成群结队；合伙攻击"
+    }, 
+    "garage": {
+        "attr": "n，v", 
+        "sentence": "park a car in the () -- 把汽车停在车库", 
+        "translation": "n：车库；汽车修理厂 v：把...送入车库"
+    }, 
+    "glamor": {
+        "attr": "n，v", 
+        "sentence": "a woman with () -- 有魅力的女人", 
+        "translation": "n：魅力；魔力 v：迷住"
+    }, 
+    "grope": {
+        "attr": "v", 
+        "sentence": "() for an answer -- 搜寻一个答案", 
+        "translation": "v：搜索；搜寻"
+    }, 
+    "implementation": {
+        "attr": "n", 
+        "sentence": "The () of the policy is tricky -- 此政策实施起来困难重重", 
+        "translation": "n：履行；实施"
+    }, 
+    "layoff": {
+        "attr": "n", 
+        "sentence": "n：临时解雇；活动停止期间", 
+        "translation": "injury () -- 受伤的休养期间"
+    }, 
+    "lease": {
+        "attr": "v，n", 
+        "sentence": "() the apartment -- 出租公寓", 
+        "translation": "v：出租 n：租契"
+    }, 
+    "nuts about": {
+        "attr": "", 
+        "sentence": "He's () the car -- 他对汽车非常迷恋", 
+        "translation": "迷恋"
+    }, 
+    "opponent": {
+        "attr": "n", 
+        "sentence": "to beat his () in the election -- 在选举中击败他的对手", 
+        "translation": "n：对手；反对者；敌手"
+    }, 
+    "proficiency": {
+        "attr": "n", 
+        "sentence": "He demonstrated his () in Chinese -- 他展示了他在汉语方面的精通", 
+        "translation": "n：熟练；精通"
+    }, 
+    "readily": {
+        "attr": "adv", 
+        "sentence": "He () agreed to help us -- 他欣然同意帮助我们", 
+        "translation": "adv：欣然地；爽快地；容易地"
+    }, 
+    "repression": {
+        "attr": "n", 
+        "sentence": "() made him behave worse -- 受抑制使他表现更糟", 
+        "translation": "n：抑制；压抑"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }, 
+    "stoop": {
+        "attr": "v, n", 
+        "sentence": "Don't () to quarrel with her about it -- 别降低身份为这事去跟她争吵", 
+        "translation": "v: 俯身 n: 弯腰；曲背"
+    }, 
+    "systematically": {
+        "attr": "adv", 
+        "sentence": "True standouts () develop valuable skills -- 真正出类拔萃的人会系统地培养具有价值的技能", 
+        "translation": "adv：有系统地；有组织地"
+    }, 
+    "thumb": {
+        "attr": "n", 
+        "sentence": "The baby sucked his () -- 婴儿吸吮他的大拇指", 
+        "translation": "n: 大拇指"
+    }, 
+    "triumph": {
+        "attr": "v，n", 
+        "sentence": "Justice will () over evil -- 正义必将战胜邪恶", 
+        "translation": "v：战胜；成功 n：胜利；凯旋"
+    }, 
+    "void": {
+        "attr": "adj，n，v", 
+        "sentence": "to fill a () -- 填补空白", 
+        "translation": "adj：空的；缺乏的；无效的 n：空白；空虚 v：取消；使无效"
+    }
+}

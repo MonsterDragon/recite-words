@@ -1,0 +1,217 @@
+{
+    "anonymous": {
+        "attr": "adj", 
+        "sentence": "an () vote -- 不记名投票", 
+        "translation": "adj：匿名的；无名的；不知名的"
+    }, 
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "benign": {
+        "attr": "adj", 
+        "sentence": "() climate -- 温和的气候", 
+        "translation": "adj：仁慈的；温和的；良性的"
+    }, 
+    "blunder": {
+        "attr": "n，v", 
+        "sentence": "fatal () -- 致命的错误", 
+        "translation": " n：失误 v：犯错误；失误"
+    }, 
+    "bore": {
+        "attr": "n，v，adj", 
+        "sentence": "Doing housework is a real () -- 做家务的确是件令人厌烦的事", 
+        "translation": "n：钻孔；使人讨厌的人 v：开凿；钻孔 v：忍受"
+    }, 
+    "bully": {
+        "attr": "v，n", 
+        "sentence": "The terrorists () the citizens -- 恐怖分子恐吓市民们", 
+        "translation": "v：恐吓；威胁；欺负 n：仗势欺人者"
+    }, 
+    "bunch": {
+        "attr": "n", 
+        "sentence": "I bought a () of grapes -- 我买了一串葡萄", 
+        "translation": "n：束；捆；串"
+    }, 
+    "concrete": {
+        "attr": "adj，n，v", 
+        "sentence": "() evidence -- 确凿的证据", 
+        "translation": "adj：有形的；混凝土的；确实具体的 n：混凝土；具体物 v：用混凝土覆盖"
+    }, 
+    "conspiracy": {
+        "attr": "n", 
+        "sentence": "vile () -- 邪恶的阴谋", 
+        "translation": "n：阴谋"
+    }, 
+    "conversion": {
+        "attr": "n", 
+        "sentence": "religious () -- 宗教信仰的转变", 
+        "translation": "n：转换；转化；改变信仰"
+    }, 
+    "corrode": {
+        "attr": "v", 
+        "sentence": "Acid rain () buildings -- 酸雨腐蚀建筑物", 
+        "translation": "v：腐蚀；侵蚀"
+    }, 
+    "department": {
+        "attr": "n", 
+        "sentence": "the personnel () -- 人事部", 
+        "translation": "n：部门；系；部"
+    }, 
+    "dorm": {
+        "attr": "n", 
+        "sentence": "Four students live in one () room -- 每4个学生住一间宿舍", 
+        "translation": "n：集体宿舍"
+    }, 
+    "foster": {
+        "attr": "v", 
+        "sentence": "to () children -- 养育孩子", 
+        "translation": "v：培养；助长；抚养"
+    }, 
+    "fume": {
+        "attr": "n，v", 
+        "sentence": "The candles begin to () -- 这些蜡烛开始冒烟了", 
+        "translation": "n：烟雾；烟气；愤怒；烦恼 v：冒烟；用烟熏"
+    }, 
+    "gloomy": {
+        "attr": "adj", 
+        "sentence": "the () news -- 令人悲伤的消息", 
+        "translation": "adj：黑暗的；幽暗的；忧郁的；沮丧的"
+    }, 
+    "grim": {
+        "attr": "adj", 
+        "sentence": "Her face wore a () look -- 她脸上显出严厉的神情", 
+        "translation": "adj: 严厉的；严峻的"
+    }, 
+    "imperial": {
+        "attr": "adj", 
+        "sentence": "() rule -- 帝国统治", 
+        "translation": "adj：帝国的；皇帝的"
+    }, 
+    "incentive": {
+        "attr": "n", 
+        "sentence": "The bonus is an () for me to work hard -- 奖金是促进我辛勤工作的动机", 
+        "translation": "n：刺激；动机；诱因"
+    }, 
+    "liner": {
+        "attr": "n", 
+        "sentence": "The () is about to leave the port -- 邮轮将要离港了", 
+        "translation": "n：邮轮；客轮；衬里"
+    }, 
+    "lubricate": {
+        "attr": "v", 
+        "sentence": "to () the engine -- 给发动机添加润滑油", 
+        "translation": "v：润滑；加润滑油于"
+    }, 
+    "nominal": {
+        "attr": "n", 
+        "sentence": "the () leader -- 挂名领导", 
+        "translation": "adj：名义上的；微不足道的；象征性的"
+    }, 
+    "nominate": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 提名一名候选人", 
+        "translation": "v：提名；推荐；指派"
+    }, 
+    "pension": {
+        "attr": "n", 
+        "sentence": "() fund -- 退休基金", 
+        "translation": "n：养老金；退休金；抚恤金"
+    }, 
+    "pest": {
+        "attr": "n", 
+        "sentence": "() control -- 害虫防治", 
+        "translation": "n：害虫"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "prior": {
+        "attr": "adj", 
+        "sentence": "() consideration -- 优先考虑", 
+        "translation": "adj：优先的；在前的"
+    }, 
+    "protest": {
+        "attr": "n，v", 
+        "sentence": "to () one's innocence -- 申明某人无罪", 
+        "translation": "n：抗议；抗议活动 v：抗议"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "rage": {
+        "attr": "n；v", 
+        "sentence": "() of infection -- 传染病的肆虐", 
+        "translation": "n：狂补；暴怒；肆虐 v：发怒；怒斥"
+    }, 
+    "reel": {
+        "attr": "n，v", 
+        "sentence": "a () of cotton -- 一轴棉线", 
+        "translation": "n：卷筒；卷轴；卷盘；线轴 v：卷；绕；踉跄"
+    }, 
+    "regime": {
+        "attr": "n", 
+        "sentence": "a Fascist () -- 法西斯政体", 
+        "translation": "n：政权"
+    }, 
+    "resolute": {
+        "attr": "adj", 
+        "sentence": "a decisive and () leader -- 一位坚决果断的领导人", 
+        "translation": "adj：坚决的；毅然的；有决心的"
+    }, 
+    "ripe": {
+        "attr": "adj", 
+        "sentence": "Time is () for revolution -- 革命的时机成熟了", 
+        "translation": "adj：成熟的"
+    }, 
+    "robe": {
+        "attr": "n，v", 
+        "sentence": "a bath () -- 浴袍", 
+        "translation": "n：长袍 v：穿上长袍"
+    }, 
+    "speculate": {
+        "attr": "v", 
+        "sentence": "Can you () how much damage might arise -- 你能推测出这会造成多大的伤害吗", 
+        "translation": "v：推测；思索；投机"
+    }, 
+    "stimulus": {
+        "attr": "n", 
+        "sentence": "Praise is a () for better work -- 赞扬激励人工作地更出色", 
+        "translation": "n：刺激物；促进因素；激励因素"
+    }, 
+    "stoop": {
+        "attr": "v, n", 
+        "sentence": "Don't () to quarrel with her about it -- 别降低身份为这事去跟她争吵", 
+        "translation": "v: 俯身 n: 弯腰；曲背"
+    }, 
+    "syndrome": {
+        "attr": "n", 
+        "sentence": "The () has no effective treatments yet -- 这种综合征尚无有效的治疗方法", 
+        "translation": "n：综合征；综合症状"
+    }, 
+    "threshold": {
+        "attr": "n", 
+        "sentence": "The treaty will be the () of lasting peace -- 这个条约将成为持久和平的开端", 
+        "translation": "n：门槛；门口；起始点"
+    }, 
+    "transaction": {
+        "attr": "n", 
+        "sentence": "a business () -- 一项商业交易", 
+        "translation": "n：交易；业务"
+    }, 
+    "veil": {
+        "attr": "n，v", 
+        "sentence": "() the face -- 用面纱把脸遮起来", 
+        "translation": "n：面纱；遮盖物 v：蒙上面纱；隐藏；掩饰"
+    }
+}

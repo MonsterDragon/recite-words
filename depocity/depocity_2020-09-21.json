@@ -1,0 +1,97 @@
+{
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "contemporary": {
+        "attr": "adj，n", 
+        "sentence": "() authors -- 当代作家", 
+        "translation": "adj：现代的；当代的；同时代的 n：同代人；同辈人"
+    }, 
+    "crust": {
+        "attr": "n", 
+        "sentence": "The () of the bread is burnt -- 这块面包的外皮烧焦了", 
+        "translation": "n：外壳；硬壳；面包皮"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "district": {
+        "attr": "n", 
+        "sentence": "The () has a mild climate -- 这片地区气候温和", 
+        "translation": "n：地区；取余；行政区"
+    }, 
+    "drift": {
+        "attr": "n, v", 
+        "sentence": "There is a slow () into crsis -- 有一种渐入危机的趋势", 
+        "translation": "n: 流动；趋势 v: 飘；漂流"
+    }, 
+    "feudal": {
+        "attr": "adj", 
+        "sentence": "The () barons were cruel to the people -- 封建贵族对人民残酷", 
+        "translation": "adj：封建的；封建制度"
+    }, 
+    "inferiority": {
+        "attr": "n", 
+        "sentence": "Failure induces a sense of () -- 失败使人产生自卑感", 
+        "translation": "n：劣势；低等；自卑"
+    }, 
+    "lateral": {
+        "attr": "adj", 
+        "sentence": "() section -- 横截面", 
+        "translation": "adj：侧面的；横向的"
+    }, 
+    "massive": {
+        "attr": "adj", 
+        "sentence": "() clear-up -- 大规模的整理清扫", 
+        "translation": "adj：大规模的"
+    }, 
+    "opponent": {
+        "attr": "n", 
+        "sentence": "beat the () -- 击败对手", 
+        "translation": "n：对手；反对者；敌手"
+    }, 
+    "plunge": {
+        "attr": "v，n", 
+        "sentence": "Price started a downward () -- 价格开始猛跌", 
+        "translation": "v：投入；跳入 n：跳进；骤降"
+    }, 
+    "pneumonia": {
+        "attr": "n", 
+        "sentence": "Penicillin cured () -- 抗生素治愈肺炎", 
+        "translation": "n：肺炎"
+    }, 
+    "prominence": {
+        "attr": "n", 
+        "sentence": "Crime prevention had to be given more () -- 防止犯罪方面应该受到更多的重视", 
+        "translation": "n: 突出；重要；卓越"
+    }, 
+    "prosecute": {
+        "attr": "v", 
+        "sentence": "The police () them for theft -- 警察以盗窃罪起诉他们", 
+        "translation": "v：起诉；控告；指控"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "ripe": {
+        "attr": "adj", 
+        "sentence": "Time is () for revolution -- 革命的时机成熟了", 
+        "translation": "adj：成熟的"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "tenant": {
+        "attr": "n，v", 
+        "sentence": "The desk was left by the previous () -- 这张桌子是前面房客留下的", 
+        "translation": "n：房客；租户；佃户 v：出租"
+    }
+}

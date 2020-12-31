@@ -1,0 +1,17 @@
+{
+    "boundary": {
+        "attr": "n", 
+        "sentence": "() of the country -- 国家边界", 
+        "translation": "n：边界"
+    }, 
+    "notorious": {
+        "attr": "adj", 
+        "sentence": "a () gambler -- 声名狼藉的赌徒", 
+        "translation": "adj：声名狼藉的；臭名昭著的"
+    }, 
+    "quench": {
+        "attr": "v", 
+        "sentence": "Water will () a fire -- 水会灭火", 
+        "translation": "v：熄灭；平息"
+    }
+}

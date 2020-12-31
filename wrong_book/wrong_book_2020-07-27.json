@@ -1,0 +1,12 @@
+{
+    "calendar": {
+        "attr": "n", 
+        "sentence": "() year -- 日历年", 
+        "translation": "n：日历"
+    }, 
+    "maiden": {
+        "attr": "n；adj", 
+        "sentence": "This () lives with her parents -- 这个未婚女子和她的父母住在一起", 
+        "translation": "n：少女；处女；未婚女子 adj：初次的"
+    }
+}

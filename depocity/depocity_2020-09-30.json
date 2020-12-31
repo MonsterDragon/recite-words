@@ -1,0 +1,142 @@
+{
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "augment": {
+        "attr": "v", 
+        "sentence": "indirectly () -- 间接增加", 
+        "translation": "v：增加；增强；扩大"
+    }, 
+    "calendar": {
+        "attr": "n", 
+        "sentence": "() year -- 日历年", 
+        "translation": "n：日历"
+    }, 
+    "chew": {
+        "attr": "v", 
+        "sentence": "() gum -- 嚼口香糖", 
+        "translation": "v：咀嚼"
+    }, 
+    "conformity": {
+        "attr": "n", 
+        "sentence": "I acted in () with my principles -- 我依照我的原则办事", 
+        "translation": "n：符合；一致；遵从；依照"
+    }, 
+    "contend": {
+        "attr": "v", 
+        "sentence": "to () for a prize -- 为奖品而竞争", 
+        "translation": "v：竞争；争辩；处理；主张"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "coupon": {
+        "attr": "n", 
+        "sentence": "() rate -- 息票率", 
+        "translation": "n：优惠券；息票"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "filter": {
+        "attr": "n，v", 
+        "sentence": "Charcoal is used to () water -- 木炭是用来过滤水的", 
+        "translation": "n：过滤器 v：过滤"
+    }, 
+    "flourish": {
+        "attr": "v，n", 
+        "sentence": "Plants () in this earth -- 植物在这种土地上生长的很茂盛", 
+        "translation": "v：茂盛；繁荣 n：挥舞；夸张行为"
+    }, 
+    "formulate": {
+        "attr": "v", 
+        "sentence": "() rules -- 制定规则", 
+        "translation": "v：规划；制订；用公式表示"
+    }, 
+    "fraction": {
+        "attr": "n", 
+        "sentence": "One fourth is a proper () -- 四分之一是一个真分数", 
+        "translation": "n：小部分；分数"
+    }, 
+    "generalize": {
+        "attr": "v", 
+        "sentence": "It is wrong to () about people -- 以偏概全地谈论人是不对的", 
+        "translation": "v：概括；归纳；推广"
+    }, 
+    "molecule": {
+        "attr": "n", 
+        "sentence": "A () is made up of atoms -- 分子由原子组成", 
+        "translation": "n：分子"
+    }, 
+    "optical": {
+        "attr": "adj", 
+        "sentence": "() defect -- 视觉缺陷", 
+        "translation": "adj：是觉得；光学的"
+    }, 
+    "ornament": {
+        "attr": "n", 
+        "sentence": "The palace was rich in () -- 宫廷装饰琳琅满目", 
+        "translation": "n：装饰；装饰品"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "propel": {
+        "attr": "v", 
+        "sentence": "to () the process -- 推进进程", 
+        "translation": "v：推进；推动"
+    }, 
+    "pupil": {
+        "attr": "n", 
+        "sentence": "() of an eye -- 眼睛的瞳孔", 
+        "translation": "n：小学生；瞳孔"
+    }, 
+    "rack": {
+        "attr": "n，v", 
+        "sentence": "to () up points -- 积累分数", 
+        "translation": "n：架子；支架；齿条；破坏 v：折磨；使痛苦；累计"
+    }, 
+    "reconcile": {
+        "attr": "v", 
+        "sentence": "() disputes -- 调解纠纷", 
+        "translation": "v：使和解；调和"
+    }, 
+    "render": {
+        "attr": "v", 
+        "sentence": "() help -- 给予帮助", 
+        "translation": "v：给予；使变得；翻译；提交"
+    }, 
+    "retort": {
+        "attr": "n, v", 
+        "sentence": "sharp () -- 尖刻的反驳", 
+        "translation": "v: 反驳；回嘴 n: 反驳"
+    }, 
+    "skeptical": {
+        "attr": "adj", 
+        "sentence": "Mary is () about the solution -- 玛丽对这个解决办法表示怀疑", 
+        "translation": "adj：怀疑的"
+    }, 
+    "strenuous": {
+        "attr": "adj", 
+        "sentence": "a () task -- 一个艰巨的任务", 
+        "translation": "adj: 费力的；繁重的；艰苦的"
+    }, 
+    "strive": {
+        "attr": "v", 
+        "sentence": "() to do your best -- 努力做到最好", 
+        "translation": "v：努力；奋斗；力求"
+    }, 
+    "turbine": {
+        "attr": "n", 
+        "sentence": "The () maked a lot of noise -- 涡轮机发出震耳欲聋的响声", 
+        "translation": "n：涡轮"
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "ancestry": {
+        "attr": "n", 
+        "sentence": "His wife was of royal () -- 他的妻子是王族的后裔", 
+        "translation": "n：祖先；世系；血统"
+    }, 
+    "aspect": {
+        "attr": "n", 
+        "sentence": "in this () -- 在这方面", 
+        "translation": "n：模样；样貌；方面；朝向"
+    }, 
+    "authentic": {
+        "attr": "adj", 
+        "sentence": "He's got an () letter by Shakespeare -- 他弄到了一封莎士比亚的亲笔信", 
+        "translation": "adj：真正的；真实的；真迹的"
+    }, 
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "crawl": {
+        "attr": "v", 
+        "sentence": "() out the recession -- 慢慢走出经济萧条", 
+        "translation": "v：爬；爬行"
+    }, 
+    "defy": {
+        "attr": "v", 
+        "sentence": "The pine trees () severe cold -- 松树不畏严寒", 
+        "translation": "v：不服从；藐视；挑衅"
+    }, 
+    "dense": {
+        "attr": "adj", 
+        "sentence": "() forest -- 茂密的森林", 
+        "translation": "adj：密集的；稠密的；愚钝的"
+    }, 
+    "distill": {
+        "attr": "v", 
+        "sentence": "() the essence of natural plants -- 用蒸馏法提取天然植物的精华", 
+        "translation": "v：蒸馏；提炼"
+    }, 
+    "extent": {
+        "attr": "n", 
+        "sentence": "the () of forests -- 森林的范围", 
+        "translation": "n：长度；宽度；广度；程度"
+    }, 
+    "hinder": {
+        "attr": "v", 
+        "sentence": "Heavy snow will () the construction project -- 大雪会妨碍这项建筑工程", 
+        "translation": "v：阻碍，打扰"
+    }, 
+    "ingredient": {
+        "attr": "n", 
+        "sentence": "Salt is an important () for cooking -- 食盐是重要的烹饪作料", 
+        "translation": "n：成分；配料；要素；因素"
+    }, 
+    "merit": {
+        "attr": "n，v", 
+        "sentence": "The picture shows much artistic () -- 这幅画有很高的艺术价值", 
+        "translation": "n：优点；功绩；价值 v：值得；应得"
+    }, 
+    "owing to": {
+        "attr": "", 
+        "sentence": "() jet lag, I felt so tired -- 由于飞行时差反应，我觉得很疲倦", 
+        "translation": "由于；因...的缘故"
+    }, 
+    "polar": {
+        "attr": "adj", 
+        "sentence": "They are of () opinions -- 他们的意见截然相反", 
+        "translation": "adj：极地的；两级的；对立的"
+    }, 
+    "premier": {
+        "attr": "n，adj", 
+        "sentence": "the () issue -- 首要的议题", 
+        "translation": "n：总理；首相 adj：第一的；首要的"
+    }, 
+    "premium": {
+        "attr": "n；adj", 
+        "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费", 
+        "translation": "n：保险费；奖金 adj：高价的；优质的"
+    }, 
+    "qualify": {
+        "attr": "v", 
+        "sentence": "I hope to () as a doctor -- 我希望取得医生资格", 
+        "translation": "v：使合格；使具有资格"
+    }, 
+    "sensible": {
+        "attr": "adj", 
+        "sentence": "That seems to be a () idea -- 那似乎是个明智的主意", 
+        "translation": "adj：明智的；有判断力的；可察觉的"
+    }, 
+    "siege": {
+        "attr": "n", 
+        "sentence": "state of () -- 包围状态", 
+        "translation": "n：围攻；封锁"
+    }, 
+    "simplicity": {
+        "attr": "n", 
+        "sentence": "She dressed with () -- 她穿着朴素", 
+        "translation": "n：简单；简易；朴素"
+    }, 
+    "spill": {
+        "attr": "v，n", 
+        "sentence": "to () the milk -- 溅出牛奶", 
+        "translation": "v：溢出；溅出 n：溢出；溅出"
+    }, 
+    "strife": {
+        "attr": "n", 
+        "sentence": "The country was forn by () -- 国家因为冲突而分裂", 
+        "translation": "n：争吵；争斗；冲突"
+    }, 
+    "sweep": {
+        "attr": "v，n", 
+        "sentence": "He helps me () the floor -- 他帮我扫地", 
+        "translation": "v：扫；打扫；扫荡 n：扫；打扫；扫荡"
+    }, 
+    "wipe": {
+        "attr": "v，n", 
+        "sentence": " to () off dirt -- 擦去灰尘", 
+        "translation": "v：擦；抹；消除 n：擦拭；抹布"
+    }
+}

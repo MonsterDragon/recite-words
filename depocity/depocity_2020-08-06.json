@@ -1,0 +1,172 @@
+{
+    "affluent": {
+        "attr": "adj", 
+        "sentence": "() consumers prefer foreign brands -- 富裕的消费者更倾向于国外的品牌", 
+        "translation": "adj：富裕的；丰富的；富足的"
+    }, 
+    "aide": {
+        "attr": "n", 
+        "sentence": "a nurse's () -- 护士的助手", 
+        "translation": "n：副官；助手"
+    }, 
+    "backdrop": {
+        "attr": "n", 
+        "sentence": "The () is hung at the back of the stage -- 背景幕布挂在舞台的后部", 
+        "translation": "n：背景幕布；背景"
+    }, 
+    "batch": {
+        "attr": "n", 
+        "sentence": "She made a () of cookies -- 她做了一炉甜饼", 
+        "translation": "n：一批；一炉；一组"
+    }, 
+    "billing": {
+        "attr": "n", 
+        "sentence": "annual () -- 年营业额", 
+        "translation": "n：演员表；营业额"
+    }, 
+    "brittle": {
+        "attr": "adj", 
+        "sentence": "() friendship -- 不牢固的友谊", 
+        "translation": "adj：脆弱的；尖利的"
+    }, 
+    "commitment": {
+        "attr": "n", 
+        "sentence": "meet the () -- 履行承诺", 
+        "translation": "n：承诺；投入"
+    }, 
+    "complexity": {
+        "attr": "n", 
+        "sentence": "the chemical () -- 化学成分复杂", 
+        "translation": "n：复杂性"
+    }, 
+    "corrode": {
+        "attr": "v", 
+        "sentence": "Water can () metal -- 水能腐蚀金属", 
+        "translation": "v：腐蚀；侵蚀"
+    }, 
+    "counsel": {
+        "attr": "v，n", 
+        "sentence": "I would () you not to many too young -- 我劝你不要过早结婚", 
+        "translation": "v：劝告；建议 n：律师；劝告"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "denote": {
+        "attr": "v", 
+        "sentence": "We often () anger by red letters -- 我们常常用红色字母表示愤怒", 
+        "translation": "v：表示；代表"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "He put a () on a house -- 他给一所房子付了押金", 
+        "translation": "n：存款；押金；沉淀 v：存储；堆积"
+    }, 
+    "dispute": {
+        "attr": "n，v", 
+        "sentence": "The () was settled last week -- 争端在上周解决了", 
+        "translation": "n：纠纷；争端 v：争论；争论"
+    }, 
+    "exquisitely": {
+        "attr": "adv", 
+        "sentence": "These gardens are not big but () laid out -- 这些园林规模不大，但布局灵巧", 
+        "translation": "adv：精巧地；剧烈地；敏锐地"
+    }, 
+    "fold": {
+        "attr": "v，n", 
+        "sentence": "() a sheet of paper -- 折叠一张纸", 
+        "translation": "v：折叠；交叠；倒闭 n：折痕；褶"
+    }, 
+    "furious": {
+        "attr": "adj", 
+        "sentence": "a () temper -- 性格暴躁", 
+        "translation": "adj：狂怒的；暴怒的；激怒的"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "instalment": {
+        "attr": "n", 
+        "sentence": "the () purchase -- 分期付款购物", 
+        "translation": "n：分期付款"
+    }, 
+    "kettle": {
+        "attr": "n", 
+        "sentence": "Put the () on the stove -- 我水壶放到炉子上", 
+        "translation": "n：水壶"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "notion": {
+        "attr": "n", 
+        "sentence": "absract () -- 抽象概念", 
+        "translation": "n：概念；观念；想法"
+    }, 
+    "nurture": {
+        "attr": "v，n", 
+        "sentence": "to () a student's talent -- 培养学生的才能", 
+        "translation": "v：养育；培养 n：养育；教养"
+    }, 
+    "reap": {
+        "attr": "v", 
+        "sentence": "to () wheat -- 收割小麦", 
+        "translation": "v：收割；收获；获得"
+    }, 
+    "rural": {
+        "attr": "adj", 
+        "sentence": "live a () life -- 过乡村生活", 
+        "translation": "adj：农村的；乡村的"
+    }, 
+    "scrape": {
+        "attr": "v，n", 
+        "sentence": "I () the side of my car against a wall -- 我把我的汽车车身蹭到墙上刮坏了", 
+        "translation": "v：刮；擦 n：刮；擦"
+    }, 
+    "setback": {
+        "attr": "n", 
+        "sentence": "He suffered a () in his business -- 他在生意上遭遇挫折", 
+        "translation": "n: 退步；挫折"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "shareholding": {
+        "attr": "n", 
+        "sentence": "() system -- 股份制", 
+        "translation": "n：股权"
+    }, 
+    "sore": {
+        "attr": "adj，n", 
+        "sentence": "There is a () in my back -- 我背上有一处作痛", 
+        "translation": "adj：疼痛的；痛心的 n：痛处；伤处"
+    }, 
+    "thermometer": {
+        "attr": "n", 
+        "sentence": "She put the () in his mouth -- 她把体温表放入他口中", 
+        "translation": "n：温度计；体温表"
+    }, 
+    "tremendous": {
+        "attr": "adj", 
+        "sentence": "She works with () vigour -- 她工作起来干劲十足", 
+        "translation": "adj：巨大的；极大地"
+    }, 
+    "weave": {
+        "attr": "v", 
+        "sentence": " () a story -- 编故事", 
+        "translation": "v: 编制；编织"
+    }
+}

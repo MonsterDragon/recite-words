@@ -1,0 +1,17 @@
+{
+    "boundary": {
+        "attr": "n", 
+        "sentence": "() of the country -- 国家边界", 
+        "translation": "n：边界"
+    }, 
+    "episode": {
+        "attr": "n", 
+        "sentence": "dramastic () -- 戏剧性插曲", 
+        "translation": "n：时间；一段经历"
+    }, 
+    "patriotic": {
+        "attr": "adj", 
+        "sentence": "His () action raised our admiration -- 他的爱国行为激起了我们的敬佩", 
+        "translation": "adj：爱国的"
+    }
+}

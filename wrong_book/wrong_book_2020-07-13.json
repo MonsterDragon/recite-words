@@ -1,0 +1,37 @@
+{
+    "brook": {
+        "attr": "n，v", 
+        "sentence": "He would () no interrutions -- 他不允许别人打岔", 
+        "translation": "n：小溪，小河 v：忍受；容忍"
+    }, 
+    "congestion": {
+        "attr": "n", 
+        "sentence": "There is always traffic () in that stree -- 那条路总是有交通堵塞", 
+        "translation": "n：堵塞；充血；瘀血"
+    }, 
+    "dimention": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：尺寸；维度"
+    }, 
+    "inferiority": {
+        "attr": "n", 
+        "sentence": "Failure induces a sense of () -- 失败使人产生自卑感", 
+        "translation": "n：劣势；低等；自卑"
+    }, 
+    "rage": {
+        "attr": "n；v", 
+        "sentence": "() of infection -- 传染病的肆虐", 
+        "translation": "n：狂补；暴怒；肆虐 v：发怒；怒斥"
+    }, 
+    "specialise": {
+        "attr": "v", 
+        "sentence": "He plans to () in history -- 他打算专门研究历史", 
+        "translation": "v：专用于；专门研究"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }
+}

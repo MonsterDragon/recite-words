@@ -1,0 +1,152 @@
+{
+    "be content to do sth": {
+        "attr": "", 
+        "sentence": "They are well () see me alive -- 他们都为能看见我活着回来而高兴", 
+        "translation": "高兴；满意做某事"
+    }, 
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "curse": {
+        "attr": "n，v", 
+        "sentence": "The witch put a () on her -- 女巫对她下了诅咒", 
+        "translation": "n：诅咒；咒骂 v：诅咒；咒骂"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "division": {
+        "attr": "n", 
+        "sentence": "() of an area -- 区域的划分", 
+        "translation": "n：划分；除法；部门"
+    }, 
+    "domestic": {
+        "attr": "adj，n", 
+        "sentence": "() violence -- 家庭暴力", 
+        "translation": "adj：家庭的；国内的；驯养的 n：用人"
+    }, 
+    "duplicate": {
+        "attr": "v，n，adj", 
+        "sentence": "Please fill in the receipt in () -- 请一式两份填写这份收据", 
+        "translation": "v：复制；复印；再做一次 n：副本；复制品 adj：复制的；副本的"
+    }, 
+    "editorial": {
+        "attr": "n，adj", 
+        "sentence": "The () lashed out at official corruption -- 那篇社论抨击官场腐败", 
+        "translation": "n：社论 adj：编辑的；社论的"
+    }, 
+    "encompass": {
+        "attr": "v", 
+        "sentence": "They built a moat to () the castle -- 他们的城堡周围修了一条护城河", 
+        "translation": "v：包含；包围；围绕"
+    }, 
+    "expedition": {
+        "attr": "n", 
+        "sentence": "a scientific () to Sourth Pole -- 对南极的科学考察", 
+        "translation": "n：探险；远征；探险队"
+    }, 
+    "fuss": {
+        "attr": "n，v", 
+        "sentence": "What a () about nothing -- 真是无事生非", 
+        "translation": "n：大惊小怪；忙乱 v：瞎忙活；大惊小怪"
+    }, 
+    "levy": {
+        "attr": "v，n", 
+        "sentence": "to () men for a war -- 征召男人参战", 
+        "translation": "v：征收；征募 n：征兵；征税"
+    }, 
+    "liberalize": {
+        "attr": "v", 
+        "sentence": "the decision to () travel restrictions -- 放宽旅游限制的决定", 
+        "translation": "v：自由化；放宽限制"
+    }, 
+    "metaphor": {
+        "attr": "n", 
+        "sentence": "A () is an imaginative way of describing -- 隐喻是一种富有想象力的描述事物的方式", 
+        "translation": "n：隐喻；比喻；象征"
+    }, 
+    "polar": {
+        "attr": "adj", 
+        "sentence": "They are of () opinions -- 他们的意见截然相反", 
+        "translation": "adj：极地的；两级的；对立的"
+    }, 
+    "presume": {
+        "attr": "v", 
+        "sentence": "They () the man to be innocent -- 他们认为此人是无辜的", 
+        "translation": "v：假设；假定；设想；冒昧"
+    }, 
+    "propel": {
+        "attr": "v", 
+        "sentence": "to () the process -- 推进进程", 
+        "translation": "v：推进；推动"
+    }, 
+    "rest on": {
+        "attr": "", 
+        "sentence": "His argument does not () reasoning -- 他的论点并非基于真理", 
+        "translation": "搁置；停留在；基于"
+    }, 
+    "rib": {
+        "attr": "n", 
+        "sentence": "The butcher chopped off a () of pork -- 屠夫砍下一根猪的肋骨", 
+        "translation": "n：肋骨"
+    }, 
+    "scenery": {
+        "attr": "n", 
+        "sentence": "The () in the mountains is very beatiful -- 山里的景色很美", 
+        "translation": "n：景色；风景"
+    }, 
+    "stretch": {
+        "attr": "v，n", 
+        "sentence": "There is a () of woolland beside the sea -- 海边又一片森林", 
+        "translation": "v：伸展；延伸 n：伸展；弹性；一般"
+    }, 
+    "stunning": {
+        "attr": "adj，v", 
+        "sentence": "His performance was simply () -- 他的表演真是精彩极了", 
+        "translation": "adj：极好的；令人震惊的 v：使眩晕；使震惊"
+    }, 
+    "subtle": {
+        "attr": "adj", 
+        "sentence": "a () distinction -- 微妙的区别", 
+        "translation": "adj：微妙的；细微的"
+    }, 
+    "sulfur": {
+        "attr": "n", 
+        "sentence": "() dioxide -- 二氧化硫", 
+        "translation": "n：硫磺"
+    }, 
+    "symmetry": {
+        "attr": "n", 
+        "sentence": "the () of a snowflake -- 雪花的对称", 
+        "translation": "n：对称"
+    }, 
+    "trim": {
+        "attr": "v，adj，n", 
+        "sentence": "a () and neat garden -- 整洁美观的花园", 
+        "translation": "v：修建；装饰 adj：整齐的；整洁的 n：修剪"
+    }, 
+    "tub": {
+        "attr": "n", 
+        "sentence": "bath () -- 浴盆", 
+        "translation": "n：桶；盆；浴盆"
+    }, 
+    "warfare": {
+        "attr": "n", 
+        "sentence": "the class () -- 阶级斗争", 
+        "translation": "n：战争；斗争"
+    }, 
+    "wedge": {
+        "attr": "n，v", 
+        "sentence": "I () the door with a log of wood -- 我用一根木棍将门楔住", 
+        "translation": "n：楔子；三角木 v：把 ... 楔住；将 ... 挤住"
+    }, 
+    "wrap": {
+        "attr": "v，n", 
+        "sentence": "You should () up the gift in a paper -- 你应该把礼物用纸包好", 
+        "translation": "v：包；缠绕；覆盖 n：外套；围巾；包裹"
+    }
+}

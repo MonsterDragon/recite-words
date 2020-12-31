@@ -1,0 +1,107 @@
+{
+    "anguish": {
+        "attr": "n", 
+        "sentence": "The quarrel caused her great () -- 争吵给她造成了极大的痛苦", 
+        "translation": "n：苦闷；痛苦"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "bribe": {
+        "attr": "v，n", 
+        "sentence": "A goverment official took the () -- 一个政府官员接受了贿赂", 
+        "translation": "v：贿赂 n：贿赂"
+    }, 
+    "brochure": {
+        "attr": "n", 
+        "sentence": "holiday () -- 独家手册", 
+        "translation": "n：小册子；手册"
+    }, 
+    "circular": {
+        "attr": "adj，n", 
+        "sentence": "() letter -- 通知书", 
+        "translation": "adj：圆圈的；循环的；唤醒的 n：通告"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "contemptuous": {
+        "attr": "adj", 
+        "sentence": "a () look -- 表示轻蔑的脸色", 
+        "translation": "adj：轻蔑的；瞧不起的"
+    }, 
+    "corrupt": {
+        "attr": "adj，v", 
+        "sentence": "to () a politician -- 使政客腐败", 
+        "translation": "adj：腐败的；贪污的；受贿的  v：使腐败；使堕落"
+    }, 
+    "descent": {
+        "attr": "n", 
+        "sentence": "one's () into a life of crime -- 堕落到靠犯罪过活", 
+        "translation": "n：下降；斜坡；堕落"
+    }, 
+    "dissipate": {
+        "attr": "v", 
+        "sentence": "to () the heat -- 散热", 
+        "translation": "v：驱散；消散；浪费"
+    }, 
+    "eliminate": {
+        "attr": "v", 
+        "sentence": "() poverty -- 消除贫困", 
+        "translation": "v：消除；淘汰"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "inspect": {
+        "attr": "v", 
+        "sentence": "() the passport -- 检查护照", 
+        "translation": "v：检查；视察"
+    }, 
+    "mortality": {
+        "attr": "n", 
+        "sentence": "The () went down -- 死亡率下降了", 
+        "translation": "n：死亡人数；死亡率；必死性"
+    }, 
+    "nudge": {
+        "attr": "v，n", 
+        "sentence": "She gave him a () --他轻轻推了他一下", 
+        "translation": "v：轻推；劝说；鼓动 n：轻推；劝说；鼓动"
+    }, 
+    "prone": {
+        "attr": "adj", 
+        "sentence": "He was () to anger -- 他易发怒", 
+        "translation": "adj：俯卧的；易于 ... 的；有倾向 ... 的"
+    }, 
+    "revision": {
+        "attr": "n", 
+        "sentence": "() is an important phase in writing -- 修改是写作过程中重要的阶段", 
+        "translation": "n：修订；修改；复习"
+    }, 
+    "revolve": {
+        "attr": "v", 
+        "sentence": "Ideas () in her mind -- 思绪在她脑海中反复盘旋", 
+        "translation": "v：旋转；考虑；围绕"
+    }, 
+    "rod": {
+        "attr": "n", 
+        "sentence": "a () with a hollow core -- 一根空心杆子", 
+        "translation": "n：杆；棒"
+    }, 
+    "tiresome": {
+        "attr": "adj", 
+        "sentence": "It's () to wait in the time -- 排队等候太烦人", 
+        "translation": "adj：讨厌的；令人厌烦的"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }
+}

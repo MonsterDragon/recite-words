@@ -1,0 +1,37 @@
+{
+    "concise": {
+        "attr": "adj", 
+        "sentence": "() description -- 简要地描述", 
+        "translation": "adj：简要的；简明的"
+    }, 
+    "dimension": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：维度；尺寸"
+    }, 
+    "generally": {
+        "attr": "adv", 
+        "sentence": "() speaking -- 一般而言", 
+        "translation": "adv：通常的；一般地"
+    }, 
+    "gossip": {
+        "attr": "v，n", 
+        "sentence": "Never () about your boss -- 永远不要说你上司的闲话", 
+        "translation": "v：散播 n：流言蜚语；闲话"
+    }, 
+    "intensity": {
+        "attr": "n", 
+        "sentence": "The pain increased in () -- 疼痛越来越剧烈了", 
+        "translation": "n：强度；强烈"
+    }, 
+    "plot": {
+        "attr": "n,v", 
+        "sentence": "The military () a coup -- 军方密谋一场政变", 
+        "translation": "n: 图标；阴谋 v: 划分；绘图；密谋"
+    }, 
+    "revise": {
+        "attr": "v", 
+        "sentence": "to () the Constitution -- 修改宪法", 
+        "translation": "v：校阅；修正；温习"
+    }
+}

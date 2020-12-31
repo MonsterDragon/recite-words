@@ -1,0 +1,142 @@
+{
+    "allegiance": {
+        "attr": "n", 
+        "sentence": "His () has never been questioned -- 他的忠心毫无疑问", 
+        "translation": "n：忠诚；效忠；忠贞"
+    }, 
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "bewilder": {
+        "attr": "v", 
+        "sentence": "So many questions () me -- 有如此多的问题是我困惑", 
+        "translation": "v：使迷惑；使不知所措"
+    }, 
+    "sentiment": {
+        "attr": "n", 
+        "sentence": "There's no place for () in business -- 做生意不能感情用事", 
+        "translation": "n：情绪；看法；感情"
+    }, 
+    "commonwealth": {
+        "attr": "n", 
+        "sentence": "The () lost a great leader -- 共和国失去了一位伟大的领袖", 
+        "translation": "n: 联邦；共和国"
+    }, 
+    "curriculum": {
+        "attr": "n", 
+        "sentence": "arraneg the () -- 安排课程", 
+        "translation": "n：课程"
+    }, 
+    "demolition": {
+        "attr": "n", 
+        "sentence": "We will give that team a () -- 我们要打败那个队伍", 
+        "translation": "n：摧毁；拆毁"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "discard": {
+        "attr": "v", 
+        "sentence": "We should () old beliefs -- 我们应该抛弃旧观念", 
+        "translation": "v：抛开；遗弃；废弃"
+    }, 
+    "exclusionary": {
+        "attr": "adj", 
+        "sentence": "() business practives -- 排他性的商业行为", 
+        "translation": "adj：排斥的；排除在外的"
+    }, 
+    "hitherto": {
+        "attr": "adv", 
+        "sentence": "(), this is the most advanced method -- 到目前为止，这是最先进的方法", 
+        "translation": "adv：迄今；到目前为止"
+    }, 
+    "immense": {
+        "attr": "adj", 
+        "sentence": "The expence of living is () -- 生活费用很大", 
+        "translation": "adj: 巨大的"
+    }, 
+    "infrastructure": {
+        "attr": "n", 
+        "sentence": "social () --社会基础设施", 
+        "translation": "n：基础设施"
+    }, 
+    "linger": {
+        "attr": "v", 
+        "sentence": "His last words still () in our ears -- 他的临终祝福仍萦绕在我们耳际", 
+        "translation": "v：徘徊；逗留；流连"
+    }, 
+    "linguistic": {
+        "attr": "adj", 
+        "sentence": "A dictionary contains lots of () knowledge -- 一步字典包含了大量语言学知识", 
+        "translation": "adj: 语言的"
+    }, 
+    "mist": {
+        "attr": "n", 
+        "sentence": "thick () -- 薄雾", 
+        "translation": "n：薄雾；朦胧不清"
+    }, 
+    "nowadays": {
+        "attr": "adv", 
+        "sentence": "() people travel by plane -- 如今人们乘飞机出行", 
+        "translation": "adv：现在；现今；目前"
+    }, 
+    "recede": {
+        "attr": "v", 
+        "sentence": "The illness began to () -- 病情开始减弱", 
+        "translation": "v：后退；减弱；退出"
+    }, 
+    "resemblance": {
+        "attr": "n", 
+        "sentence": "Your story shows little () to the facts -- 你说的与事实相去甚远", 
+        "translation": "n：相似；相像"
+    }, 
+    "resident": {
+        "attr": "n，adj", 
+        "sentence": "permanent () -- 永久居民", 
+        "translation": "n：长期居民 adj：居住的；常驻的"
+    }, 
+    "specification": {
+        "attr": "n", 
+        "sentence": "All the parts were machined to the () -- 所有的零件都是按规格加工的", 
+        "translation": "n：规格；规范"
+    }, 
+    "spectator": {
+        "attr": "n", 
+        "sentence": "the common () -- 普通观众", 
+        "translation": "n：观众；旁观者"
+    }, 
+    "suffice": {
+        "attr": "v", 
+        "sentence": "I will do my best to () you -- 我会尽一切努力来满足你的要求", 
+        "translation": "v：足够；足以"
+    }, 
+    "thoroughly": {
+        "attr": "adv", 
+        "sentence": "Chicken must be cooked () -- 鸡肉必须彻底煮熟", 
+        "translation": "adv：彻底地；完全地"
+    }, 
+    "to be sure": {
+        "attr": "", 
+        "sentence": "He is clever, (), but not very hardworking -- 诚然，他很聪明但是不勤奋", 
+        "translation": "无可否认；诚然"
+    }, 
+    "tumble": {
+        "attr": "v，n", 
+        "sentence": "Housing prices () -- 房价暴跌", 
+        "translation": "v：跌倒；摔倒；暴跌 n：跌倒；摔倒；暴跌"
+    }, 
+    "veto": {
+        "attr": "n，v", 
+        "sentence": "the president's power of () -- 总统的否决权", 
+        "translation": "n：否决；否决权 v：否决"
+    }, 
+    "via": {
+        "attr": "prep", 
+        "sentence": "I sent message to Mary () her friend -- 我通过Mary的朋友带信给他", 
+        "translation": "prep：通过；经由"
+    }
+}

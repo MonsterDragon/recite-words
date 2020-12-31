@@ -1,0 +1,42 @@
+{
+    "anguish": {
+        "attr": "n", 
+        "sentence": "The quarrel caused her great () -- 争吵给她造成了极大的痛苦", 
+        "translation": "n：苦闷；痛苦"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "coherent": {
+        "attr": "adj", 
+        "sentence": "This is a () sentence -- 这是一个连贯的句子", 
+        "translation": "adj：连贯的；一致的；条理清晰地"
+    }, 
+    "indispensable": {
+        "attr": "adj", 
+        "sentence": "Health is () to everyone -- 健康是人人所不可缺少的", 
+        "translation": "adj：必不可少的"
+    }, 
+    "psychiatry": {
+        "attr": "n", 
+        "sentence": "clinical () -- 临床精神病学", 
+        "translation": "n：精神病学"
+    }, 
+    "reckon": {
+        "attr": "v", 
+        "sentence": "I () so -- 我这么认为", 
+        "translation": "v：计算；估计；认为；考虑到"
+    }, 
+    "sophistic": {
+        "attr": "adj", 
+        "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩", 
+        "translation": "adj: 诡辩的"
+    }, 
+    "vocational": {
+        "attr": "adj", 
+        "sentence": "() training -- 专业训练", 
+        "translation": "adj：职业的"
+    }
+}

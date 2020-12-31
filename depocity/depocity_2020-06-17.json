@@ -1,0 +1,212 @@
+{
+	"transfer": {
+            "sentence": "() from a bus to taxi -- 从公交车换乘出租车",
+            "translation": "v: 转移；转让；调任 n: 转移；转让；调任",
+            "attr": "v, n"
+        },
+	"racket": {
+            "sentence": "tennis () -- 网球拍",
+            "translation": "球拍",
+            "attr": "n"
+        },
+        "hemisphere": {
+            "sentence": "the northern () -- 北半球",
+            "translation": "半球体",
+            "attr": "n"
+        },
+        "arch": {
+            "sentence": "Don't () your back -- 别弓着背",
+            "translation": "n: 拱型；拱门 adj: 调皮的；撒娇的；主要的 v: 成拱形",
+            "attr": "n, v, adj"
+        },
+        "sniff": {
+            "sentence": "Do you want a () of powder -- 你想问问火药吗",
+            "translation": "v: 闻；擤鼻子 n: 闻；嗅",
+            "attr": "n, v"
+        },
+        "patch": {
+            "sentence": "He had a () on the elbow of his jacket -- 他衣服的肘部有一块补丁",
+            "translation": "n: 补丁 v: 打补丁",
+            "attr": "n, v"
+        },
+        "regulate": {
+            "sentence": "() the economy -- 调控经济",
+            "translation": "管理；调整",
+            "attr": "v"
+        },
+        "deck": {
+            "sentence": "double () -- 双层甲板",
+            "translation": "甲板",
+            "attr": "n"
+        },
+        "dazzle": {
+            "sentence": "The () of the stars attracts people -- 明星的光彩吸引着人们",
+            "translation": "n: 耀眼；灿烂 v: 使目眩；使眼花",
+            "attr": "n, v"
+        },
+        "redundant": {
+            "sentence": "() labours -- 过剩的劳动力",
+            "translation": "多余的；过剩的；被裁减的",
+            "attr": "adj"
+        },
+        "climate": {
+            "sentence": "economic () -- 经济形势",
+            "translation": "气候；风气",
+            "attr": "n"
+        },
+        "fracture": {
+            "sentence": "Old people's bones are easy to () -- 老年人易骨折",
+            "translation": "n: 破裂；骨折 v: 使断裂；使骨折",
+            "attr": "n, v"
+        },
+        "cube": {
+            "sentence": "sugar () -- 方糖",
+            "translation": "立方体；立方",
+            "attr": "n"
+        },
+        "scramble": {
+            "sentence": "They () for the best seats -- 他们抢夺最好的座位",
+            "translation": "v: 攀爬；爬；争抢 n: 攀爬；爬；争夺",
+            "attr": "n, v"
+        },
+        "accuracy": {
+            "sentence": "You should check the () of the data -- 你应该核对一下这些数据的准确性",
+            "translation": "精确性；准确性",
+            "attr": "n"
+        },
+        "posture": {
+            "sentence": "a sitting () -- 坐姿",
+            "translation": "n: 姿势 v: 作 ... 姿势",
+            "attr": "n, v"
+        },
+        "jury": {
+            "sentence": "The () brought in a verdict of guilty -- 陪审团作出有罪的裁决",
+            "translation": "陪审团",
+            "attr": "n"
+        },
+        "reciprocity": {
+            "sentence": "equality () -- 平等互惠",
+            "translation": "相互性；互惠",
+            "attr": "n"
+        },
+        "intrigue": {
+            "sentence": "He exposed the () -- 他揭露了这一阴谋",
+            "translation": "n: 阴谋诡计 v: 密谋",
+            "attr": "n, v"
+        },
+        "stereotype": {
+            "sentence": "People have a () about successful man -- 人们对于成功人士都有一种刻板印象",
+            "translation": "刻板印象，固定模式",
+            "attr": "n"
+        },
+        "infer": {
+            "sentence": "to () an unkown fact from a known fact -- 从已知事实推断出未知事实",
+            "translation": "推断；推知",
+            "attr": "v"
+        },
+        "adherence": {
+            "sentence": "() the truth -- 坚守真理",
+            "translation": "粘附；坚持；遵守",
+            "attr": "n"
+        },
+        "indignant": {
+            "sentence": "I was () because it's unfair -- 我非常愤慨，因为这不公平",
+            "translation": "愤慨",
+            "attr": "n"
+        },
+        "affectionate": {
+            "sentence": "She was very () with children -- 她很爱孩子",
+            "translation": "挚爱的；有深厚感情的",
+            "attr": "adj"
+        },
+        "reluctant": {
+            "sentence": "He is () to be photographed -- 他不情愿被人拍照",
+            "translation": "不情愿的；勉强的",
+            "attr": "n"
+        },
+        "insulate": {
+            "sentence": "How can we () our home from the noise -- 有什么办法可以使我们的住宅隔音吗",
+            "translation": "隔离；隔热；绝缘",
+            "attr": "v"
+        },
+        "fluctuate": {
+            "sentence": "Stock prices () wildly -- 股票价格大幅波动",
+            "translation": "波动；起伏不定",
+            "attr": "v"
+        },
+        "desolate": {
+            "sentence": "a () desert -- 荒凉的沙漠",
+            "translation": "荒凉的",
+            "attr": "n"
+        },
+        "grip": {
+            "sentence": "I try my best to () the present happiness -- 我努力抓住当下的幸福",
+            "translation": "v: 紧握；紧抓 n: 紧握；紧抓",
+            "attr": "n, v"
+        },
+        "momentum": {
+            "sentence": "() is a physical term -- 动量是物理学术语",
+            "translation": "动量",
+            "attr": "n"
+        },
+        "scorn": {
+            "sentence": "an expression of () -- 轻视的表情",
+            "translation": "蔑视",
+            "attr": "n, v"
+        },
+        "eminent": {
+            "sentence": "He is () in the field of biology -- 他在生物学领域很有名",
+            "translation": "著名的；非凡的",
+            "attr": "adj"
+        },
+        "blend": {
+            "sentence": "() the sugar and flour -- 把糖和面粉混合",
+            "translation": "混合；配合；融合",
+            "attr": "v"
+        },
+        "insult": {
+            "sentence": "bear an () -- 忍受侮辱",
+            "translation": "v, n 侮辱；辱骂",
+            "attr": "n, v"
+        },
+        "catastrophe": {
+            "sentence": "() insurance -- 灾难保险",
+            "translation": "灾难",
+            "attr": "n"
+        },
+        "semester": {
+            "sentence": "This () will be my last one in this university -- 这学期将是我在这所大学的最后一学期了",
+            "translation": "一学期；半年",
+            "attr": "n"
+        },
+        "outline": {
+            "sentence": "a shadowy () -- 一个模糊的轮廓",
+            "translation": "n: 轮廓；刚纲要 v: 概述；描画轮廓",
+            "attr": "n"
+        },
+        "acclaim": {
+            "sentence": "The novel received great () -- 这本小说备受赞扬",
+            "translation": "n: 赞扬 v: 称赞",
+            "attr": "n, v"
+        },
+        "stoop": {
+            "sentence": "Eagles () at a prey -- 老鹰俯身捕食",
+            "translation": "v: 俯身；弯腰 n: 俯身；弯腰",
+            "attr": "v, n"
+        },
+        "catchword": {
+            "sentence": "to pubicize the () -- 宣传口号",
+            "translation": "口号",
+            "attr": "n"
+        },
+        "huddle": {
+            "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人",
+            "translation": "v: 拥挤 n: 挤作一团",
+            "attr": "v, n"
+        },
+        "grim": {
+            "sentence": "Her face wore a () look -- 她脸上显示出严厉的表情",
+            "translation": "严厉的",
+            "attr": "adj"
+        }
+}

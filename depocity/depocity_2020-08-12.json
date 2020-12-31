@@ -1,0 +1,142 @@
+{
+    "acquaint": {
+        "attr": "v", 
+        "sentence": "Let me () you with my family -- 让我带你认识一下我的家人", 
+        "translation": "v：使熟悉；使相识"
+    }, 
+    "anchor": {
+        "attr": "n；v", 
+        "sentence": "an emotional () for her -- 他的精神支柱", 
+        "translation": "n：锚；靠山；支柱 v：抛锚；主持节目；使稳固"
+    }, 
+    "arbitrary": {
+        "attr": "adj", 
+        "sentence": "an () emperor -- 一个独断专行的皇帝", 
+        "translation": "adj：任意的；专横的；武断的"
+    }, 
+    "aviation": {
+        "attr": "n", 
+        "sentence": "civil () -- 民航", 
+        "translation": "n：飞行；航空；航空业"
+    }, 
+    "conjunction": {
+        "attr": "n", 
+        "sentence": "They are working in () with the police -- 他们与警方联合进行工作", 
+        "translation": "n：联合；连接词"
+    }, 
+    "counterpart": {
+        "attr": "n", 
+        "sentence": "Night is the () of day -- 黑夜和白天是相对的", 
+        "translation": "n：对应物；对立"
+    }, 
+    "debate": {
+        "attr": "v，n", 
+        "sentence": "I () the issue in my mind -- 我仔细考虑该问题", 
+        "translation": "v：辩论；争论；考虑；盘算 n：辩论；争论"
+    }, 
+    "declaim": {
+        "attr": "v", 
+        "sentence": "He used to () verse to us -- 他过去常常给我们朗诵诗歌", 
+        "translation": "v：慷慨陈词；高声朗诵"
+    }, 
+    "disruptive": {
+        "attr": "adj", 
+        "sentence": "Alcohol can produce () behavior -- 酒精会引起破坏行为", 
+        "translation": "adj：引起混乱的；分裂的；破坏性的"
+    }, 
+    "emphasis": {
+        "attr": "n", 
+        "sentence": "It is too well known to need () -- 这一点人尽皆知，无需强调", 
+        "translation": "n：强调；重点"
+    }, 
+    "humidity": {
+        "attr": "n", 
+        "sentence": "My laundry will not dry because of the () -- 由于湿度关系，我的衣服不会干", 
+        "translation": "n：湿度；湿气"
+    }, 
+    "inferiority": {
+        "attr": "n", 
+        "sentence": "Failure induces a sense of () -- 失败使人产生自卑感", 
+        "translation": "n：劣势；低等；自卑"
+    }, 
+    "insight": {
+        "attr": "n", 
+        "sentence": "Good teacher have () into children's emotions -- 优秀的教师能洞察学生内心的情感", 
+        "translation": "n：洞察力；见识"
+    }, 
+    "internal": {
+        "attr": "adj，n", 
+        "sentence": "He worked in () trade -- 她的工作是做国内贸易", 
+        "translation": "adj：国内的；内部的 n：内脏；本质"
+    }, 
+    "intrude": {
+        "attr": "v", 
+        "sentence": "They () on our party -- 他们闯入我们的派对", 
+        "translation": "v：闯入；打扰"
+    }, 
+    "moan": {
+        "attr": "n，v", 
+        "sentence": "the () of the wind -- 风的萧萧声", 
+        "translation": "n：呻吟声；抱怨 v：呻吟；呼啸；抱怨"
+    }, 
+    "neat": {
+        "attr": "adj", 
+        "sentence": "a () desk -- 整洁的书桌", 
+        "translation": "adj：整洁的；整齐的；干净利索的"
+    }, 
+    "perception": {
+        "attr": "n", 
+        "sentence": "He was a man of kenn () -- 他是一个拥有敏锐洞察力的男人", 
+        "translation": "v：感知；看法；洞察力"
+    }, 
+    "pin down": {
+        "attr": "", 
+        "sentence": "to () the location -- 确定位置", 
+        "translation": "把...固定住；使受制约；确定"
+    }, 
+    "poll": {
+        "attr": "n，v", 
+        "sentence": "They expected a heavy () -- 他们期望会有很高的投票数", 
+        "translation": "n：民意调查 v：获得"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "rest on": {
+        "attr": "", 
+        "sentence": "His argument does not () reasoning -- 他的论点并非基于推理", 
+        "translation": "基于；依赖；依靠"
+    }, 
+    "scout": {
+        "attr": "n，v", 
+        "sentence": "The () was searching through the woods -- 侦查员正在树林中搜索", 
+        "translation": "n：侦查；侦察兵 v：侦查；巡视"
+    }, 
+    "slender": {
+        "attr": "adj", 
+        "sentence": "() figure -- 苗条的身材", 
+        "translation": "adj：苗条的"
+    }, 
+    "specialise": {
+        "attr": "v", 
+        "sentence": "He plans to () in history -- 他打算专门研究历史", 
+        "translation": "v：专用于；专门研究"
+    }, 
+    "tense": {
+        "attr": "adj，n", 
+        "sentence": "the future () -- 将来时态", 
+        "translation": "adj：紧张的；拉紧的 n：时态"
+    }, 
+    "tough resistance": {
+        "attr": "", 
+        "sentence": "The troops are encounting （） -- 军队遭遇顽强的抵抗", 
+        "translation": "顽强的抵抗"
+    }, 
+    "vulnerable": {
+        "attr": "adj", 
+        "sentence": "() point -- 弱点", 
+        "translation": "adj：脆弱的；易受伤的"
+    }
+}

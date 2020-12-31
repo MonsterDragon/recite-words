@@ -1,0 +1,142 @@
+{
+    "bald": {
+        "attr": "adj", 
+        "sentence": "That is a () lie -- 那是个赤裸裸的谎言", 
+        "translation": "adj：秃头的；赤裸裸的"
+    }, 
+    "coherent": {
+        "attr": "adj", 
+        "sentence": "This is a () sentence -- 这是一个连贯的句子", 
+        "translation": "adj：连贯的；一致的；条理清晰地"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "dim": {
+        "attr": "adj，v", 
+        "sentence": "dim sound -- 模糊不清的声音", 
+        "translation": "adj：暗淡的；昏暗的 v：变暗淡；变模糊"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "diversity": {
+        "attr": "n", 
+        "sentence": "cultrual () -- 文化多样性", 
+        "translation": "n：多样性；多样化"
+    }, 
+    "excerpt": {
+        "attr": "n，v", 
+        "sentence": "This is an () from a novel -- 这是一部小说的摘录", 
+        "translation": "n：摘录；摘要 v：摘录；引用"
+    }, 
+    "extension": {
+        "attr": "n", 
+        "sentence": "three months' () on the loan -- 货款的三个月宽限期", 
+        "translation": "n：延伸；扩展；延长期"
+    }, 
+    "facility": {
+        "attr": "n", 
+        "sentence": "He has great () in learning languages -- 他学语言很有天赋", 
+        "translation": "n：设施；设备；功能；遍历；熟练"
+    }, 
+    "feeble": {
+        "attr": "adj", 
+        "sentence": "the () light -- 微弱的灯光", 
+        "translation": "adj：虚弱的；衰弱的；无力的"
+    }, 
+    "hatch": {
+        "attr": "v，n", 
+        "sentence": "to () a plan -- 秘密策划一个计划", 
+        "translation": "v：孵出；秘密策划 n：舱口；小窗口"
+    }, 
+    "hen": {
+        "attr": "n", 
+        "sentence": "() house -- 鸡舍", 
+        "translation": "n：母机"
+    }, 
+    "indulge": {
+        "attr": "v", 
+        "sentence": "to () one's curiosity -- 满足好奇心", 
+        "translation": "v：放任；沉溺；使满足；听任"
+    }, 
+    "insure": {
+        "attr": "v", 
+        "sentence": "() one's house against fire -- 给房屋保火险", 
+        "translation": "v：保险；确保"
+    }, 
+    "interim": {
+        "attr": "adj，n", 
+        "sentence": "an () agreement -- 一项临时协议", 
+        "translation": "adj：暂时的；临时的 n：过渡时期；中间时期"
+    }, 
+    "lap": {
+        "attr": "n，v", 
+        "sentence": "the last () of the race -- 比赛的最后一圈", 
+        "translation": "n：大腿部；一圈 v：超越一圈；轻拍"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "neglect": {
+        "attr": "v，n", 
+        "sentence": "The garden was in a state of () -- 那花园无人整理", 
+        "translation": "v：疏忽；忽视；不予重视 n：疏忽；大意"
+    }, 
+    "objection": {
+        "attr": "n", 
+        "sentence": "I have no () to their plan -- 我不反对他们的计划", 
+        "translation": "n：反对；异议"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "rub": {
+        "attr": "v，n", 
+        "sentence": "The mud will () off easily -- 污泥很容易擦掉", 
+        "translation": "v：擦；擦掉 n：擦；摩擦；阻碍"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "slope": {
+        "attr": "n， v", 
+        "sentence": "The () is too steep for us to climb -- 这斜坡太陡，我们爬不上去", 
+        "translation": "n：斜坡；坡度 v：倾斜；有坡度"
+    }, 
+    "solemn": {
+        "attr": "adj", 
+        "sentence": "() ceremony -- 隆重的仪式", 
+        "translation": "adj：严肃的；庄严的；隆重的"
+    }, 
+    "stride": {
+        "attr": "v，n", 
+        "sentence": "to () across an obstacle -- 大步跨过障碍", 
+        "translation": "v：大步行走；跨一大步 n：大步；步伐"
+    }, 
+    "synthesis": {
+        "attr": "n", 
+        "sentence": "the picture () -- 图像合成", 
+        "translation": "n：综合；合成；综合体"
+    }, 
+    "tame": {
+        "attr": "adj，v", 
+        "sentence": "The film has a () ending -- 那电影的结局枯燥乏味", 
+        "translation": "adj：顺从的；枯燥乏味的 v：驯服；驯养"
+    }, 
+    "virtuosity": {
+        "attr": "n", 
+        "sentence": "a performance of breathtaking () -- 技艺令人叫绝的演出", 
+        "translation": "n：精湛演艺"
+    }
+}

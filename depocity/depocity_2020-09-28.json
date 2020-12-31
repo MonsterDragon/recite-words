@@ -1,0 +1,132 @@
+{
+    "analogous": {
+        "attr": "adj", 
+        "sentence": "A computer is () to a brain -- 计算机与人脑相似", 
+        "translation": "adj：相似的；类似的"
+    }, 
+    "associate": {
+        "attr": "v，n，adj", 
+        "sentence": "I files charges against my () -- 我对我的同事提起诉讼", 
+        "translation": "v： 把 ... 联系在一起；与...交往 n：同事；伙伴 adj：副的"
+    }, 
+    "benign": {
+        "attr": "adj", 
+        "sentence": "() climate -- 温和的气候", 
+        "translation": "adj：仁慈的；温和的；良性的"
+    }, 
+    "bore": {
+        "attr": "n，v，adj", 
+        "sentence": "Doing housework is a real () -- 做家务的确是件令人厌烦的事", 
+        "translation": "n：钻孔；使人讨厌的人 v：开凿；钻孔 v：忍受"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "cord": {
+        "attr": "n", 
+        "sentence": "lamp () -- 灯绳", 
+        "translation": "n：细绳；绳索"
+    }, 
+    "disturbance": {
+        "attr": "n", 
+        "sentence": "emotional () -- 情绪失调", 
+        "translation": "n：干扰；障碍；紊乱；骚乱"
+    }, 
+    "entail": {
+        "attr": "v", 
+        "sentence": "The crisis would () dissolution of the union -- 这场危机定会导致联盟解体", 
+        "translation": "v：是必要的；牵涉"
+    }, 
+    "idiom": {
+        "attr": "n", 
+        "sentence": "the () of the young -- 年轻人的习惯用语", 
+        "translation": "n：成语；习语；惯用语"
+    }, 
+    "imperial": {
+        "attr": "adj", 
+        "sentence": "() rule -- 帝国统治", 
+        "translation": "adj：帝国的；皇帝的"
+    }, 
+    "ingredient": {
+        "attr": "n", 
+        "sentence": "Salt is an important () for cooking -- 食盐是重要的烹饪作料", 
+        "translation": "n：成分；配料；要素；因素"
+    }, 
+    "integrity": {
+        "attr": "n", 
+        "sentence": "the () of brain function -- 脑功能健全", 
+        "translation": "n：完整；政治；诚实"
+    }, 
+    "lag": {
+        "attr": "v，n", 
+        "sentence": "There is a time () of about fifteen years -- 时间上有一段约15年的间隔", 
+        "translation": "v：缓慢移动；滞后 n：时间间隔"
+    }, 
+    "nominal": {
+        "attr": "n", 
+        "sentence": "the () leader -- 挂名领导", 
+        "translation": "adj：名义上的；微不足道的；象征性的"
+    }, 
+    "pension": {
+        "attr": "n", 
+        "sentence": "() fund -- 退休基金", 
+        "translation": "n：养老金；退休金；抚恤金"
+    }, 
+    "portion": {
+        "attr": "n，v", 
+        "sentence": "a small () of the whole -- 整体的一小部分", 
+        "translation": "n：部分；一份 v：分配"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "regime": {
+        "attr": "n", 
+        "sentence": "a Fascist () -- 法西斯政体", 
+        "translation": "n：政权"
+    }, 
+    "robe": {
+        "attr": "n，v", 
+        "sentence": "a bath () -- 浴袍", 
+        "translation": "n：长袍 v：穿上长袍"
+    }, 
+    "shaft": {
+        "attr": "n", 
+        "sentence": "the () of an ax -- 斧头的把柄", 
+        "translation": "n：柄；矛；竖井；轴"
+    }, 
+    "sovereign": {
+        "attr": "n，adj", 
+        "sentence": "the () of England -- 英国的君主", 
+        "translation": "n：最高统治者；君主；元首 adj：独立自主的"
+    }, 
+    "territory": {
+        "attr": "n", 
+        "sentence": "extend the () -- 扩张领土", 
+        "translation": "n：领土；领域"
+    }, 
+    "thrift": {
+        "attr": "n", 
+        "sentence": "His success was due to his industry and () -- 他的成功基于他的勤奋与节俭", 
+        "translation": "n：节俭；节约"
+    }, 
+    "tilt": {
+        "attr": "n，v", 
+        "sentence": "I () my body -- 我倾斜我的身子", 
+        "translation": "v：倾斜；偏向 n：倾斜；企图"
+    }
+}

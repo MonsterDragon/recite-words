@@ -1,0 +1,212 @@
+{
+    "aggravate": {
+        "attr": "v", 
+        "sentence": "Stress can () the situation -- 压力会使情况恶化", 
+        "translation": "v：加剧；使恶化；激怒"
+    }, 
+    "approximate": {
+        "attr": "adj，v", 
+        "sentence": "an () figure -- 一个近似值", 
+        "translation": "adj：近似的；大约的 v：接近；粗略估计"
+    }, 
+    "authorize": {
+        "attr": "v", 
+        "sentence": "() the project -- 批准工程", 
+        "translation": "v：授权；委托；批准"
+    }, 
+    "collision": {
+        "attr": "n", 
+        "sentence": "a () between two opposing opinions -- 两个对立观点的冲突", 
+        "translation": "n：碰撞；冲突"
+    }, 
+    "comply": {
+        "attr": "v", 
+        "sentence": "Everyone should () with the law -- 每个人都应该遵守法律", 
+        "translation": "v：顺从；遵守"
+    }, 
+    "concord": {
+        "attr": "n", 
+        "sentence": "The two tribes lived in () -- 两个部落和睦相处", 
+        "translation": "n：和谐；谐调；一致"
+    }, 
+    "confine": {
+        "attr": "v", 
+        "sentence": "() the thief -- 把小偷关禁闭", 
+        "translation": "v：限制；禁闭"
+    }, 
+    "conformity": {
+        "attr": "n", 
+        "sentence": "I acted in () with my principles -- 我依照我的原则办事", 
+        "translation": "n：符合；一致；遵从；依照"
+    }, 
+    "convey": {
+        "attr": "v", 
+        "sentence": "() ideas -- 传达思想", 
+        "translation": "v：传达；表达；运送"
+    }, 
+    "costume": {
+        "attr": "n，v", 
+        "sentence": "() play -- 角色扮演", 
+        "translation": "n：服装；衣服；戏服 v：给...提供服装"
+    }, 
+    "culprit": {
+        "attr": "n", 
+        "sentence": "The hunt is on for the () -- 逐步罪犯的行动正在进行", 
+        "translation": "n：罪犯；犯错的人"
+    }, 
+    "deceptiveness": {
+        "attr": "n", 
+        "sentence": "distinguish between () and true -- 分辨是非", 
+        "translation": "n：欺骗性；虚伪"
+    }, 
+    "deem": {
+        "attr": "v", 
+        "sentence": "Do you () this plan sensible -- 你认为这项计划明智吗", 
+        "translation": "v：认为；判断；以为"
+    }, 
+    "desperate": {
+        "attr": "adj", 
+        "sentence": "He was () after the failure of his last attempt -- 最后一次尝试失败后，他绝望了", 
+        "translation": "adj：绝望的；不顾一切的；拼死的；极度渴望的"
+    }, 
+    "dump": {
+        "attr": "v，n", 
+        "sentence": "There is a () behind the house -- 房子后面有一个垃圾场", 
+        "translation": "v：倒空 n：垃圾场"
+    }, 
+    "eject": {
+        "attr": "v", 
+        "sentence": "The pilots () from the plane and escape injury -- 飞行员从飞机中弹出，安然无恙", 
+        "translation": "v：喷射；喷出；驱逐；逐出"
+    }, 
+    "endow": {
+        "attr": "v", 
+        "sentence": "to () a project -- 资助一个项目", 
+        "translation": "v：捐赠；资助；赋予"
+    }, 
+    "fable": {
+        "attr": "n", 
+        "sentence": "It's total () -- 这完全是无稽之谈", 
+        "translation": "n：寓言；寓言故事；无稽之谈"
+    }, 
+    "flourish": {
+        "attr": "v，n", 
+        "sentence": "Plants () in this earth -- 植物在这种土地上生长的很茂盛", 
+        "translation": "v：茂盛；繁荣 n：挥舞；夸张行为"
+    }, 
+    "germ": {
+        "attr": "n", 
+        "sentence": "the () of a project -- 计划的雏形", 
+        "translation": "n：病菌；萌芽"
+    }, 
+    "hospitality": {
+        "attr": "n", 
+        "sentence": "Thank you for your warm () -- 感谢你们的亲切款待", 
+        "translation": "n：款待；好客；殷勤"
+    }, 
+    "ignite": {
+        "attr": "v", 
+        "sentence": "to () one's anger -- 激起某人的怒火", 
+        "translation": "v：点燃；激起"
+    }, 
+    "immense": {
+        "attr": "adj", 
+        "sentence": "The expence of living is () -- 生活费用很大", 
+        "translation": "adj: 巨大的"
+    }, 
+    "intact": {
+        "attr": "adj", 
+        "sentence": "The packages are () -- 包装完好无损", 
+        "translation": "adj：完整无损的；未经触动的"
+    }, 
+    "intervene": {
+        "attr": "v", 
+        "sentence": "The Goverment will () in the crisis -- 政府将对这次危机进行干预", 
+        "translation": "v：干涉；介入；打岔；干扰"
+    }, 
+    "landscape": {
+        "attr": "n", 
+        "sentence": "XinJiang's desert () -- 新疆的沙漠风光", 
+        "translation": "n：景色；风景画"
+    }, 
+    "lateral": {
+        "attr": "adj", 
+        "sentence": "() section -- 横截面", 
+        "translation": "adj：侧面的；横向的"
+    }, 
+    "metaphor": {
+        "attr": "n", 
+        "sentence": "A () is an imaginative way of describing -- 隐喻是一种富有想象力的描述事物的方式", 
+        "translation": "n：隐喻；比喻；象征"
+    }, 
+    "neutral": {
+        "attr": "adj，n", 
+        "sentence": "() color -- 素净色", 
+        "translation": "adj：中立的；非彩色的；中性的 n：中立者；素净色；空挡位置"
+    }, 
+    "obsolete": {
+        "attr": "adj", 
+        "sentence": "Digital cameras made film () -- 数码相机淘汰了胶片", 
+        "translation": "adj：过时的；废弃的；淘汰的"
+    }, 
+    "optimum": {
+        "attr": "adj", 
+        "sentence": "the () person -- 最佳人选", 
+        "translation": "adj：最适的；最佳的"
+    }, 
+    "ornament": {
+        "attr": "n", 
+        "sentence": "The palace was rich in () -- 宫廷装饰琳琅满目", 
+        "translation": "n：装饰；装饰品"
+    }, 
+    "parcel": {
+        "attr": "n，v", 
+        "sentence": "The postman asked me to sign for the () -- 邮递员叫我签收包裹", 
+        "translation": "n：包裹；小包 v：捆扎；打包"
+    }, 
+    "perplexing": {
+        "attr": "adj", 
+        "sentence": "This is indeed a () problem -- 这确实是一个费解的难题", 
+        "translation": "adj：使人困惑的；使人为难的"
+    }, 
+    "scent": {
+        "attr": "n，v", 
+        "sentence": "a () of danger -- 危险的气息", 
+        "translation": "n：香味；气味；气息  v：嗅出；察觉出"
+    }, 
+    "scratch": {
+        "attr": "v，n", 
+        "sentence": "() yourself if you itch -- 如果你感觉痒就搔一下", 
+        "translation": "v：抓骚；刮 n：抓痕；刮伤"
+    }, 
+    "staple": {
+        "attr": "n，v，adj", 
+        "sentence": "a () topic of conversation -- 谈论的主要话题", 
+        "translation": "n：订书钉；主要产品；主要部分 v：用订书钉装订 adj：主要的；重要的"
+    }, 
+    "strap": {
+        "attr": "n，v", 
+        "sentence": "be () for -- 急需；缺乏", 
+        "translation": "n：带子；皮带；皮条 v：包扎"
+    }, 
+    "synthetic": {
+        "attr": "adj", 
+        "sentence": "() rubber -- 合成橡胶", 
+        "translation": "adj：合成的；综合的"
+    }, 
+    "trunk": {
+        "attr": "n", 
+        "sentence": "They are unpacking a () -- 他们正在打开衣箱", 
+        "translation": "n：树干；躯干；衣箱；象鼻子"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }, 
+    "vocational": {
+        "attr": "adj", 
+        "sentence": "() training -- 专业训练", 
+        "translation": "adj：职业的"
+    }
+}

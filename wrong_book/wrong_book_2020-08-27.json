@@ -1,0 +1,27 @@
+{
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "panorama": {
+        "attr": "n", 
+        "sentence": "A vast () of the valley lay before us -- 山谷的广阔全景展现在我们面前", 
+        "translation": "n：全景；概论"
+    }, 
+    "virtual": {
+        "attr": "adj", 
+        "sentence": "() reality -- 虚拟现实", 
+        "translation": "adj：几乎的；实际上的；事实上的；虚拟的"
+    }, 
+    "weary": {
+        "attr": "adj，v", 
+        "sentence": "I am () of teaching -- 我厌烦了教书", 
+        "translation": "adj：厌倦的；厌烦的 v：厌倦；厌烦"
+    }
+}

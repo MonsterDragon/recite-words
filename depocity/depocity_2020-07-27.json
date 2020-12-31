@@ -1,0 +1,217 @@
+{
+    "abolish": {
+        "attr": "v", 
+        "sentence": "to () slavery -- 废除奴隶制", 
+        "translation": "v：取消；废除；废止"
+    }, 
+    "agenda": {
+        "attr": "n", 
+        "sentence": "adopt an () -- 通过议程", 
+        "translation": "n：议事日程；议程"
+    }, 
+    "agitate": {
+        "attr": "v", 
+        "sentence": "to () the water -- 搅动水", 
+        "translation": "v：搅动；鼓动；使焦虑"
+    }, 
+    "appal": {
+        "attr": "v", 
+        "sentence": "This horrible news will () everyone -- 这个害人的消息将使每个人震惊", 
+        "translation": "v：使大为震惊；使惊骇"
+    }, 
+    "aviation": {
+        "attr": "n", 
+        "sentence": "civil () -- 民航", 
+        "translation": "n：飞行；航空；航空业"
+    }, 
+    "brass": {
+        "attr": "n", 
+        "sentence": "The () is too loud -- 铜管乐器的声音太响了", 
+        "translation": "n：黄铜；黄铜制品；厚脸皮"
+    }, 
+    "cognitive": {
+        "attr": "adj", 
+        "sentence": "() learning -- 认知性学习", 
+        "translation": "adj：认知的；认识的"
+    }, 
+    "collide": {
+        "attr": "v", 
+        "sentence": "The interests of two countries () -- 两国的利益冲突", 
+        "translation": "v：碰撞；相撞；冲突"
+    }, 
+    "confidant": {
+        "attr": "n", 
+        "sentence": "a loose-lipped () -- 无话不谈的知己", 
+        "translation": "n：心腹朋友；知己"
+    }, 
+    "converge": {
+        "attr": "v", 
+        "sentence": "Their views () -- 他们的观点一致", 
+        "translation": "v：聚合；汇聚；趋同"
+    }, 
+    "conversion": {
+        "attr": "n", 
+        "sentence": "religious () -- 宗教信仰的转变", 
+        "translation": "n：转换；转化；改变信仰"
+    }, 
+    "critical": {
+        "attr": "adj", 
+        "sentence": "We must inherit in a () way -- 我们要以批判的方式继承", 
+        "translation": "adj：批判式的；临界的；危急的；关键的"
+    }, 
+    "degenerate": {
+        "attr": "adj，n，v", 
+        "sentence": "The thief was a () member of a fine family -- 那个小偷是优秀家族的堕落成员", 
+        "translation": "adj：退步的；堕落的 v：退化；堕落 n：堕落的人"
+    }, 
+    "dilemma": {
+        "attr": "n", 
+        "sentence": "The issue raises a moral () -- 这个问题引发了一个道德上的两难抉择", 
+        "translation": "n：窘境"
+    }, 
+    "disguise": {
+        "attr": "v，n", 
+        "sentence": "() a fact from someone -- 对某人隐瞒事实", 
+        "translation": "v：伪装；掩饰 n：伪装；伪装物"
+    }, 
+    "eligible": {
+        "attr": "adj", 
+        "sentence": "She can't find an () man --她找不到和她意的男人", 
+        "translation": "adj：有资格的；合格的；合意的"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "hitherto": {
+        "attr": "adv", 
+        "sentence": "(), this is the most advanced method -- 到目前为止，这是最先进的方法", 
+        "translation": "adv：迄今；到目前为止"
+    }, 
+    "incline": {
+        "attr": "n", 
+        "sentence": "He rolled the balls down the() -- 他把球滚下斜坡", 
+        "translation": "n：倾斜；倾向"
+    }, 
+    "infer": {
+        "attr": "v", 
+        "sentence": "to () an unkown fact from a known fact -- 从已知事实推断出未知事实", 
+        "translation": "推断；推知"
+    }, 
+    "interval": {
+        "attr": "n", 
+        "sentence": "maintain () -- 保持间距", 
+        "translation": "n：间隔，中场休息"
+    }, 
+    "intrigue": {
+        "attr": "n, v", 
+        "sentence": "He exposed the () -- 他揭露了这一阴谋", 
+        "translation": "n: 阴谋诡计 v: 密谋"
+    }, 
+    "lounge": {
+        "attr": "n，v", 
+        "sentence": "departure () -- 候车室", 
+        "translation": "n：休息室；长沙发 v：懒洋洋地躺；闲逛"
+    }, 
+    "malignant": {
+        "attr": "adj", 
+        "sentence": "This is a kind of () tumor -- 这是一种恶性肿瘤", 
+        "translation": "adj：恶毒的；恶性的"
+    }, 
+    "mend": {
+        "attr": "v，n", 
+        "sentence": "The patient is on the () -- 病人正在康复中", 
+        "translation": "v：修理；修补；康复 n：修补；补丁；痊愈"
+    }, 
+    "prohibit": {
+        "attr": "v", 
+        "sentence": "Rainy weather and fog () flying -- 雨天和大雾天气禁止飞行", 
+        "translation": "v：进制；妨碍"
+    }, 
+    "prophet": {
+        "attr": "n", 
+        "sentence": "The () foresaw a famine -- 预言家预见了将有饥荒", 
+        "translation": "n：预言家；先知"
+    }, 
+    "refine": {
+        "attr": "v", 
+        "sentence": "They () the gold out of th ore -- 他们从矿石中提炼出黄金", 
+        "translation": "v：精炼；改进"
+    }, 
+    "renovate": {
+        "attr": "v", 
+        "sentence": "to () a house -- 翻新一座房子", 
+        "translation": "v：整修；翻新"
+    }, 
+    "representative": {
+        "attr": "n，adj", 
+        "sentence": "() council -- 代表委员会", 
+        "translation": "n：代表；典型事物 adj：典型的；有代表性的；代议制的"
+    }, 
+    "resolve": {
+        "attr": "n决心", 
+        "sentence": "His () began to waver -- 他的决心开始动摇了", 
+        "translation": "v：解决；分解"
+    }, 
+    "sack": {
+        "attr": "n，v", 
+        "sentence": "The invaders () the city -- 侵略者把这座城市洗劫一空", 
+        "translation": "n：袋子；解雇 v：解雇；装入袋子；劫掠"
+    }, 
+    "screw": {
+        "attr": "n，v", 
+        "sentence": "() sown the lid -- 拧紧盖子", 
+        "translation": "n：螺丝钉 v：拧紧"
+    }, 
+    "sober": {
+        "attr": "adj，v", 
+        "sentence": "() the children down -- 让孩子们安静下来", 
+        "translation": "adj：清醒的；严肃的；素淡的 v：使清醒"
+    }, 
+    "solidarity": {
+        "attr": "n", 
+        "sentence": "We should keep good () and overcome the difficulties -- 我们应该团结一致，克服困难", 
+        "translation": "n：团结；一致；休戚相关"
+    }, 
+    "subsequent": {
+        "attr": "adj", 
+        "sentence": "() events confirmed our doubts -- 后来发生的事证实了我的怀疑", 
+        "translation": "adj：随后的；后来的"
+    }, 
+    "tailor": {
+        "attr": "v，n", 
+        "sentence": "The () can alter your coat to fit you -- 裁缝会将你的上衣改的合你的身材", 
+        "translation": "v：剪裁；缝制 n：裁缝"
+    }, 
+    "textile": {
+        "attr": "n", 
+        "sentence": "cotton () -- 棉织品", 
+        "translation": "n：纺织业；纺织品"
+    }, 
+    "thrive": {
+        "attr": "v", 
+        "sentence": "May our country prosper and () forever -- 希望我们的国家繁荣兴旺", 
+        "translation": "v：兴旺；繁荣；茁壮成长"
+    }, 
+    "toll": {
+        "attr": "n", 
+        "sentence": "The church clock can () the hour -- 教堂的时钟能鸣钟报时", 
+        "translation": "n：伤亡人数；通行费；钟声"
+    }, 
+    "toss": {
+        "attr": "v", 
+        "sentence": "The matter made him () in the bed -- 这件事使他在床上辗转反侧", 
+        "translation": "v：抛掷；向后甩"
+    }, 
+    "wrist": {
+        "attr": "n", 
+        "sentence": "The doctor felt her pulse on her () -- 这位医生在她的手腕上号脉", 
+        "translation": "n：手腕；腕关节"
+    }, 
+    "zinc": {
+        "attr": "n", 
+        "sentence": "() ore -- 锌矿", 
+        "translation": "n：锌"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "brisk": {
+        "attr": "adj，v", 
+        "sentence": "to make business () up -- 是生意兴隆起来", 
+        "translation": "adj：轻快的；兴隆的 v：使...活泼"
+    }, 
+    "hypocritical": {
+        "attr": "adj", 
+        "sentence": "() praise -- 虚伪的夸奖", 
+        "translation": "adj：伪善的；虚伪的"
+    }, 
+    "owing to": {
+        "attr": "", 
+        "sentence": "() jet lag, I felt so tired -- 由于飞行时差反应，我觉得很疲倦", 
+        "translation": "由于；因...的缘故"
+    }
+}

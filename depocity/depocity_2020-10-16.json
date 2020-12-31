@@ -1,0 +1,102 @@
+{
+    "assume": {
+        "attr": "v", 
+        "sentence": "to () a posture of angry defiance -- 表现出愤怒的反抗态度", 
+        "translation": "v：假定；设想；呈现；承担"
+    }, 
+    "bid": {
+        "attr": "v，n", 
+        "sentence": "I () her goodnight -- 我想她道晚安", 
+        "translation": "v：投标；出价；叫牌；恳求；致意 n：投标；出价；叫牌"
+    }, 
+    "commence": {
+        "attr": "adjc", 
+        "sentence": "() a career -- 开始一个职业生涯", 
+        "translation": "adj：开始发生；着手"
+    }, 
+    "conspicuous": {
+        "attr": "adj", 
+        "sentence": "a () error -- 显而易见的错误", 
+        "translation": "adj：显著的；显眼的"
+    }, 
+    "deduce": {
+        "attr": "v", 
+        "sentence": "() a conclusion -- 推演结论", 
+        "translation": "腿短；推演；演绎"
+    }, 
+    "dispose": {
+        "attr": "v", 
+        "sentence": "I () the furniture in proper order -- 我把家具摆放得井井有条", 
+        "translation": "v：安排；处置；处理"
+    }, 
+    "enhance": {
+        "attr": "v", 
+        "sentence": "() friendship -- 增进友谊", 
+        "translation": "v：提高；增强"
+    }, 
+    "entail": {
+        "attr": "v", 
+        "sentence": "The crisis would () dissolution of the union -- 这场危机定会导致联盟解体", 
+        "translation": "v：是必要的；牵涉"
+    }, 
+    "finite": {
+        "attr": "adj", 
+        "sentence": "a () list of choices -- 有限的选择", 
+        "translation": "adj：有限的；限定的"
+    }, 
+    "fraction": {
+        "attr": "n", 
+        "sentence": "One fourth is a proper () -- 四分之一是一个真分数", 
+        "translation": "n：小部分；分数"
+    }, 
+    "generalize": {
+        "attr": "v", 
+        "sentence": "It is wrong to () about people -- 以偏概全地谈论人是不对的", 
+        "translation": "v：概括；归纳；推广"
+    }, 
+    "handful": {
+        "attr": "n", 
+        "sentence": "a () of rice -- 一把米", 
+        "translation": "n：一把；少数"
+    }, 
+    "implicit": {
+        "attr": "adj", 
+        "sentence": "The clue is () -- 此线索是隐含的", 
+        "translation": "adj：含蓄的；暗示的；无疑的"
+    }, 
+    "limp": {
+        "attr": "v，adj", 
+        "sentence": "I can only () after twisting my ankle -- 扭了脚踝之后我只能一瘸一拐地走了", 
+        "translation": "v：蹒跚；瘸着走 adj：无力的；无生气的"
+    }, 
+    "persevere": {
+        "attr": "v", 
+        "sentence": "We still () despite setbacks -- 尽管挫折，我们仍不屈不挠", 
+        "translation": "v：坚持不懈"
+    }, 
+    "retort": {
+        "attr": "n, v", 
+        "sentence": "sharp () -- 尖刻的反驳", 
+        "translation": "v: 反驳；回嘴 n: 反驳"
+    }, 
+    "saddle": {
+        "attr": "n，v", 
+        "sentence": "mount the () -- 爬上马鞍", 
+        "translation": "n：马鞍；鞍座 v：装马鞍"
+    }, 
+    "scrape": {
+        "attr": "v，n", 
+        "sentence": "Do not () your feet on the floor -- 不要用脚摩擦地板发出刺耳的声音", 
+        "translation": "v：刮；擦 n：刮；擦"
+    }, 
+    "strive": {
+        "attr": "v", 
+        "sentence": "() to do your best -- 努力做到最好", 
+        "translation": "v：努力；奋斗；力求"
+    }, 
+    "superflous": {
+        "attr": "adj", 
+        "sentence": "() wealth -- 多余的财富", 
+        "translation": "adj：多余的；过剩的；不必要的"
+    }
+}

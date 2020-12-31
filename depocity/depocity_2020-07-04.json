@@ -1,0 +1,117 @@
+{
+	"dispositon": {
+            "sentence": "Her property is at her () -- 她的财产由她自由处置",
+            "translation": "n：处置；意向；性情",
+            "attr": "n"
+        },
+	"basement": {
+            "sentence": "The junk was piled up in the () -- 垃圾被堆放到地下室",
+            "translation": "n：地下室",
+            "attr": "n"
+        },
+	"extend": {
+            "sentence": "() the territory -- 扩张领土",
+            "translation": "v：扩展；延长",
+            "attr": "v"
+        },
+	"stroll": {
+            "sentence": "I () along the beach -- 我在海边散步",
+            "translation": "v：闲逛；散步 n：闲逛；散步",
+            "attr": "v，n"
+        },
+	"deviate": {
+            "sentence": "Don't always () to minor issues -- 不要老是偏离到次要问题上去",
+            "translation": "v：背离；偏离；违背",
+            "attr": "v"
+        },
+	"ethical": {
+            "sentence": "Her behavior is alien to our () values -- 她的行为和我们的伦理价值相异",
+            "translation": "adj：伦理的；道德的",
+            "attr": "adj"
+        },
+	"domestic": {
+            "sentence": "() violence -- 家庭暴力",
+            "translation": "adj：家庭的；国内的；驯养的 n：用人",
+            "attr": "adj，n"
+        },
+	"drastic": {
+            "sentence": "a () reduction -- 急速的下降",
+            "translation": "adj：急速的；激烈的",
+            "attr": "adj"
+        },
+	"premium": {
+            "sentence": "You should pay the () for an insurance policy -- 你要为保险单付保险费",
+            "translation": "n：保险费；奖金 adj：高价的；优质的",
+            "attr": "n；adj"
+        },
+	"naval": {
+            "sentence": "He is a senior serving () officer -- 他是一名高级现役海军军官",
+            "translation": "adj：海军的",
+            "attr": "adj"
+        },
+	"decoration": {
+            "sentence": "The vase is just for () -- 这个花瓶只是为了装饰",
+            "translation": "n：装饰品；装饰",
+            "attr": "n"
+        },
+	"hierarchy": {
+            "sentence": "() of power --权利等级 ",
+            "translation": "n：层次等级；等级制度",
+            "attr": "n"
+        },
+	"prompting": {
+            "sentence": "() from the prompter -- 提词器的提示",
+            "translation": "n：促进；激励；提示 v：激励；提示",
+            "attr": "n，adj"
+        },
+	"typical": {
+            "sentence": "It is () of him to forget -- 爱忘事正是他的典型",
+            "translation": "adj：典型的",
+            "attr": "adj"
+        },
+	"charmber": {
+            "sentence": "() of the heart -- 心室",
+            "translation": "n：房间；室；腔",
+            "attr": "n"
+        },
+	"bureaucracy": {
+            "sentence": "People fight against () -- 人们与官僚主义斗争",
+            "translation": "n：官僚主义；官僚机构",
+            "attr": "n"
+        },
+	"stack": {
+            "sentence": "() the dishes -- 把盘子叠起来",
+            "translation": "n：摞；堆；叠",
+            "attr": "n"
+        },
+	"pretext": {
+            "sentence": "He refused to see them on one () or another -- 他以种种接口拒绝见他们",
+            "translation": "n：借口；托词",
+            "attr": "n"
+        },
+	"siege": {
+            "sentence": "state of () -- 围攻的状态",
+            "translation": "n：围攻",
+            "attr": "n"
+        },
+	"spontaneous": {
+            "sentence": "The revolution is broad and () -- 革命是广泛而自发的",
+            "translation": "adj：自发的；自然产生的",
+            "attr": "adj"
+        },
+	"sketch": {
+            "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗",
+            "translation": "v：简述；草拟 n：草图；素描",
+            "attr": "v，n"
+        },
+	"slope": {
+            "sentence": "The () is too steep for us to climb -- 这个斜坡太陡，我们怕不上去",
+            "translation": "v：倾斜 n：斜坡",
+            "attr": "v，n"
+        },
+	"intact": {
+            "sentence": "The packages are () -- 包装完好无损",
+            "translation": "adj：完整无损的",
+            "attr": "adj"
+        }
+}

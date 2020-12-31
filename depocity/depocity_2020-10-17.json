@@ -1,0 +1,157 @@
+{
+    "acclaim": {
+        "attr": "n, v", 
+        "sentence": "The novel received great () -- 这本小说备受赞扬", 
+        "translation": "n: 赞扬 v: 称赞"
+    }, 
+    "accuracy": {
+        "attr": "n", 
+        "sentence": "You should check the () of the data -- 你应该核对一下这些数据的准确性", 
+        "translation": "精确性；准确性"
+    }, 
+    "ample": {
+        "attr": "adj", 
+        "sentence": "() reward -- 优厚的报酬", 
+        "translation": "adj：足够的；丰裕的"
+    }, 
+    "bosom": {
+        "attr": "n，adj", 
+        "sentence": "a jealousy in his () -- 他内心生出一阵嫉妒", 
+        "translation": "n：胸；怀；乳房 adj：亲密的；知心的"
+    }, 
+    "breeze": {
+        "attr": "n", 
+        "sentence": "The wheat ripped in the () -- 小麦在微风中起伏波动", 
+        "translation": "n：微风；和风"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "dean": {
+        "attr": "n", 
+        "sentence": "install a () -- 让一个院长就职", 
+        "translation": "n：学院院长；系主任"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就轻视他", 
+        "translation": "v：鄙视；蔑视；看不起"
+    }, 
+    "distress": {
+        "attr": "adj，n", 
+        "sentence": "Everyone should help people in () -- 每一个人应帮助有困难的人", 
+        "translation": "adj：有苦难的  n：忧虑；悲伤"
+    }, 
+    "ebb": {
+        "attr": "v，n", 
+        "sentence": "My luck is on the () -- 我的运气不好", 
+        "translation": "n：退潮；衰退；减少 v：退潮；衰退；减少"
+    }, 
+    "frost": {
+        "attr": "n，v", 
+        "sentence": "() over the trees -- 使树木结了一层霜", 
+        "translation": "n：霜；霜冻；严寒 v：结霜"
+    }, 
+    "furnace": {
+        "attr": "n", 
+        "sentence": "Keep children away from the () -- 不要让孩子靠近火炉", 
+        "translation": "n：熔炉；火炉"
+    }, 
+    "grant": {
+        "attr": "v，n", 
+        "sentence": "to () rights -- 授予权力", 
+        "translation": "v：允许；承认；授予 n：授予物；补助金；同意"
+    }, 
+    "howl": {
+        "attr": "v，n", 
+        "sentence": "I hear the wolves () -- 我听见狼嚎", 
+        "translation": "v：嚎叫；怒吼；嚎叫 n：嚎叫；怒吼；嚎叫"
+    }, 
+    "imperative": {
+        "attr": "adj，n", 
+        "sentence": "It is () that we make a decision -- 我们继续做出决定", 
+        "translation": "adj：继续的；势在必行的 n：必要的事；命令"
+    }, 
+    "incompatible": {
+        "attr": "adj", 
+        "sentence": "Water is () with fire -- 水火不相容", 
+        "translation": "adj：不兼容；不相配；不调和"
+    }, 
+    "intricate": {
+        "attr": "adj", 
+        "sentence": "The design is () -- 这个设计错综复杂", 
+        "translation": "adj：错综复杂的"
+    }, 
+    "jury": {
+        "attr": "n", 
+        "sentence": "The () brought in a verdict of guilty -- 陪审团作出有罪的裁决", 
+        "translation": "陪审团"
+    }, 
+    "layman": {
+        "attr": "n", 
+        "sentence": "He is a () in politics -- 他对政治是个门外汉", 
+        "translation": "n：外行"
+    }, 
+    "lens": {
+        "attr": "n", 
+        "sentence": "a () cover -- 一个镜头盖", 
+        "translation": "n：透镜；镜片"
+    }, 
+    "loan": {
+        "attr": "n，v", 
+        "sentence": "short-term loan -- 短期贷款", 
+        "translation": "n：贷款；借 v：借"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "meadow": {
+        "attr": "n", 
+        "sentence": "shave a () -- 修剪草坪", 
+        "translation": "n：草地；牧场"
+    }, 
+    "outline": {
+        "attr": "n", 
+        "sentence": "a shadowy () -- 一个模糊的轮廓", 
+        "translation": "n: 轮廓；刚纲要 v: 概述；描画轮廓"
+    }, 
+    "patch": {
+        "attr": "n, v", 
+        "sentence": "He had a () on the elbow of his jacket -- 他衣服的肘部有一块补丁", 
+        "translation": "n: 补丁 v: 打补丁"
+    }, 
+    "plot": {
+        "attr": "n,v", 
+        "sentence": "The military () a coup -- 军方密谋一场政变", 
+        "translation": "n: 图标；阴谋 v: 划分；绘图；密谋"
+    }, 
+    "preface": {
+        "attr": "n", 
+        "sentence": "a () to a book -- 一本书的序言", 
+        "translation": "n：序言；前言"
+    }, 
+    "sake": {
+        "attr": "n", 
+        "sentence": "We made concession for the () of peace -- 为了和平我们做出了让步", 
+        "translation": "n：缘故；理由"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将浸透我们的衣服", 
+        "translation": "v：使浸透；使湿透；使饱和"
+    }, 
+    "scramble": {
+        "attr": "n, v", 
+        "sentence": "They () for the best seats -- 他们抢夺最好的座位", 
+        "translation": "v: 攀爬；爬；争抢 n: 攀爬；爬；争夺"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "Don't () rumors -- 别散播谣言", 
+        "translation": "v：播种；散步"
+    }
+}

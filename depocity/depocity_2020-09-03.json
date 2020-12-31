@@ -1,0 +1,197 @@
+{
+    "auxiliary": {
+        "attr": "n，adj", 
+        "sentence": "This organization is an () -- 这所机构是附属机构", 
+        "translation": "n：辅助的；附属的 n：辅助物；附属物"
+    }, 
+    "bribe": {
+        "attr": "v，n", 
+        "sentence": "A goverment official took the () -- 一个政府官员接受了贿赂", 
+        "translation": "v：贿赂 n：贿赂"
+    }, 
+    "carve": {
+        "attr": "v", 
+        "sentence": "() a snowman -- 雕刻雪人", 
+        "translation": "v：雕刻；切开"
+    }, 
+    "chamber": {
+        "attr": "n", 
+        "sentence": "() of heart -- 心室", 
+        "translation": "n：房间；室"
+    }, 
+    "cosy": {
+        "attr": "adj", 
+        "sentence": "to live a () life -- 过安逸的人生", 
+        "translation": "adj：舒适的；安逸的"
+    }, 
+    "dim": {
+        "attr": "adj，v", 
+        "sentence": "dim sound -- 模糊不清的声音", 
+        "translation": "adj：暗淡的；昏暗的 v：变暗淡；变模糊"
+    }, 
+    "dismay": {
+        "attr": "n，v", 
+        "sentence": "The bad news will () them a lot -- 这个坏消息将使他们非常沮丧", 
+        "translation": "n：沮丧；失望 v：使沮丧"
+    }, 
+    "divert": {
+        "attr": "v", 
+        "sentence": "Nothing could () his attention from his book -- 没有什么能转移他读书的潜力", 
+        "translation": "v：转向；转移"
+    }, 
+    "endeavor": {
+        "attr": "v，n", 
+        "sentence": "Please make every () to arrive on time -- 请尽量准时到达", 
+        "translation": "v：尽力；奋力 n：尽力；奋力"
+    }, 
+    "extravagant": {
+        "attr": "adj", 
+        "sentence": "() act -- 行为放肆", 
+        "translation": "adj：生吃的；过度的"
+    }, 
+    "fence": {
+        "attr": "n", 
+        "sentence": "bamboo () -- 竹篱笆", 
+        "translation": "n：篱笆；栅栏；围栏"
+    }, 
+    "formidable": {
+        "attr": "adj", 
+        "sentence": "a () opponent -- 难以对付的对手", 
+        "translation": "adj：可怕的；令人敬畏的；难以对付的"
+    }, 
+    "frank": {
+        "attr": "adj", 
+        "sentence": "His eyes are () and honest -- 他的眼光坦率而诚实", 
+        "translation": "adj：坦诚的；真诚的"
+    }, 
+    "gum": {
+        "attr": "n，v", 
+        "sentence": "The () stuck to my fingers -- 口香糖黏住了我手指", 
+        "translation": "n：树胶；口香糖 v：用胶粘"
+    }, 
+    "hostility": {
+        "attr": "n", 
+        "sentence": "an attitude of () -- 敌对态度", 
+        "translation": "n：敌意；敌对；对抗"
+    }, 
+    "illiterate": {
+        "attr": "adj，n", 
+        "sentence": "About half the population is still () -- 大约一半人口仍是文盲", 
+        "translation": "adj：文盲的；无知的 n：文盲；无知的人"
+    }, 
+    "indulge": {
+        "attr": "v", 
+        "sentence": "to () one's curiosity -- 满足好奇心", 
+        "translation": "v：放任；沉溺；使满足；听任"
+    }, 
+    "intimidate": {
+        "attr": "v", 
+        "sentence": "The gang tried to () the merchant -- 犯罪团伙想威胁那位商人", 
+        "translation": "v：胁迫；威胁；恐吓"
+    }, 
+    "lest": {
+        "attr": "conj", 
+        "sentence": "I got up early () I should miss the train -- 我早起以免错过了火车", 
+        "translation": "连：唯恐；免得；以免"
+    }, 
+    "omit": {
+        "attr": "v", 
+        "sentence": "Don't () locking the door -- 被忘了锁门", 
+        "translation": "v：省略；遗漏"
+    }, 
+    "persistance": {
+        "attr": "n", 
+        "sentence": "the () of the high fever -- 高烧持久不退", 
+        "translation": "n：坚持；毅力"
+    }, 
+    "petition": {
+        "attr": "v，n", 
+        "sentence": "to () for pardon -- 请求赦免", 
+        "translation": "v：请求；请愿 n：请愿书"
+    }, 
+    "ponder": {
+        "attr": "v", 
+        "sentence": "We should () what to do next -- 我们应该考虑下一步怎么办", 
+        "translation": "v：深思；仔细考虑"
+    }, 
+    "rein": {
+        "attr": "n，v", 
+        "sentence": "Give free () to your imagination -- 自由的运用你的想象力", 
+        "translation": "n：缰绳；控制 v：控制；驾驭"
+    }, 
+    "remold": {
+        "attr": "v", 
+        "sentence": "to () a tyre -- 翻新轮胎", 
+        "translation": "v：改造；翻新"
+    }, 
+    "resort": {
+        "attr": "n，v", 
+        "sentence": "If other means fail, we shall () to force -- 如果其他手段均失败，我们就诉诸武力", 
+        "translation": "n：诉诸；度假胜地 v：求助；诉诸"
+    }, 
+    "semester": {
+        "attr": "n", 
+        "sentence": "This () will be my last one in this university -- 这学期将是我在这所大学的最后一学期了", 
+        "translation": "一学期；半年"
+    }, 
+    "shove": {
+        "attr": "v", 
+        "sentence": "to () a boat into the water -- 把船推到水里", 
+        "translation": "v：挤；推；撞"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "slip": {
+        "attr": "n，v", 
+        "sentence": "I () on the ice -- 我在冰上滑倒", 
+        "translation": "n：滑到；溜走 v：滑到；滑落"
+    }, 
+    "slum": {
+        "attr": "n", 
+        "sentence": "() area -- 贫民窟", 
+        "translation": "n：贫民窟"
+    }, 
+    "spontaneous": {
+        "attr": "adj", 
+        "sentence": "The revolution is broad and () -- 革命是广泛而自发的", 
+        "translation": "adj：自发的；自然产生的"
+    }, 
+    "symposium": {
+        "attr": "n", 
+        "sentence": "scientific ()  -- 科学研讨会", 
+        "translation": "n：研讨会"
+    }, 
+    "territory": {
+        "attr": "n", 
+        "sentence": "extend the () -- 扩张领土", 
+        "translation": "n：领土；领域"
+    }, 
+    "utmost": {
+        "attr": "n，adj", 
+        "sentence": "Conservation is of the () importance -- 保护自然资源至关重要", 
+        "translation": "n：最大限度 adj：最大程度的；极度的"
+    }, 
+    "utterance": {
+        "attr": "n", 
+        "sentence": "He gave () to his thoughts -- 他发表了自己的观点", 
+        "translation": "n：言辞；言语；言论"
+    }, 
+    "vague": {
+        "attr": "adj", 
+        "sentence": "He gave only a () answer -- 他只给了一个模糊的答案", 
+        "translation": "adj：含糊的；不明确的"
+    }, 
+    "virtuosity": {
+        "attr": "n", 
+        "sentence": "a performance of breathtaking () -- 技艺令人叫绝的演出", 
+        "translation": "n：精湛演艺"
+    }, 
+    "welfare": {
+        "attr": "n", 
+        "sentence": "() hotel -- 福利旅馆", 
+        "translation": "n：福利；社会救济"
+    }
+}

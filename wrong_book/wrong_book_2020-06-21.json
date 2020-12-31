@@ -1,0 +1,87 @@
+{
+    "appetite": {
+        "attr": "n", 
+        "sentence": "A walk before dinner will arouse your () -- 晚饭前的散步会引起你的食欲", 
+        "translation": "n: 胃口；食欲；嗜好；爱好"
+    }, 
+    "calcium": {
+        "attr": "n", 
+        "sentence": "Milk is an important source of () -- 牛奶是钙质的重要来源", 
+        "translation": "n: 钙"
+    }, 
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "doctrine": {
+        "attr": "n", 
+        "sentence": "This is a generally accepted () -- 这是一个被普遍接受的学说", 
+        "translation": "n: 学说；教义"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "grin": {
+        "attr": "v", 
+        "sentence": "I () at him -- 我朝他龇牙一笑", 
+        "translation": "v: 咧嘴嘲笑"
+    }, 
+    "haul": {
+        "attr": "v, n", 
+        "sentence": "a () on a rope  -- 拉了一下绳子", 
+        "translation": "v: 拉；拖 n: 拉；拖"
+    }, 
+    "layer": {
+        "attr": "n", 
+        "sentence": "bottom () -- 底层", 
+        "translation": "n: 层；层次"
+    }, 
+    "lodge": {
+        "attr": "n, v", 
+        "sentence": "I () at a friend's house -- 我借宿在一个朋友家里", 
+        "translation": "n: 小舍，传达室 v: 存放；借宿"
+    }, 
+    "perpetual": {
+        "attr": "adj", 
+        "sentence": "They suffer from () hunger -- 他们一直忍饥挨饿", 
+        "translation": "adj: 持久的；长久的"
+    }, 
+    "precedant": {
+        "attr": "n", 
+        "sentence": "without () in history -- 史无前例", 
+        "translation": "n: 前例；先例"
+    }, 
+    "prestige": {
+        "attr": "n", 
+        "sentence": "international () -- 国际声望", 
+        "translation": "n: 声望；威望；威信"
+    }, 
+    "recruit": {
+        "attr": "n, v", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v: 招募；招聘 n: 新兵；新成员"
+    }, 
+    "strenuous": {
+        "attr": "adj", 
+        "sentence": "a () task -- 一个艰巨的任务", 
+        "translation": "adj: 费力的；繁重的；艰苦的"
+    }, 
+    "thorn": {
+        "attr": "n", 
+        "sentence": "He is a () in my side -- 他是我的眼中钉", 
+        "translation": "n: 棘；荆棘；刺"
+    }, 
+    "versatile": {
+        "attr": "adj", 
+        "sentence": "Nylon is a () material -- 尼龙是一种有多方面用途的材料", 
+        "translation": "多方面的；多才多艺的"
+    }, 
+    "wagon": {
+        "attr": "n", 
+        "sentence": "The () jogged along -- 四轮马车颠簸前行", 
+        "translation": "n: 四轮运货马车"
+    }
+}

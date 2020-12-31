@@ -1,0 +1,222 @@
+{
+    "absorption": {
+        "attr": "n", 
+        "sentence": "() in one's work -- 专心工作", 
+        "translation": "n：吸收；专注；合并"
+    }, 
+    "acquaint": {
+        "attr": "v", 
+        "sentence": "Let me () you with my family -- 让我带你认识一下我的家人", 
+        "translation": "v：使熟悉；使相识"
+    }, 
+    "anchor": {
+        "attr": "n；v", 
+        "sentence": "an emotional () for her -- 他的精神支柱", 
+        "translation": "n：锚；靠山；支柱 v：抛锚；主持节目；使稳固"
+    }, 
+    "bare": {
+        "attr": "adj，v", 
+        "sentence": "to () one's arm -- 露出胳膊", 
+        "translation": "adj：赤裸的；空的 v：使漏出"
+    }, 
+    "batch": {
+        "attr": "n", 
+        "sentence": "She made a () of cookies -- 她做了一炉甜饼", 
+        "translation": "n：一批；一炉；一组"
+    }, 
+    "brook": {
+        "attr": "n，v", 
+        "sentence": "He would () no interrutions -- 他不允许别人打岔", 
+        "translation": "n：小溪，小河 v：忍受；容忍"
+    }, 
+    "clerk": {
+        "attr": "n", 
+        "sentence": "bank () -- 银行职员", 
+        "translation": "n：职员；店员"
+    }, 
+    "compromise": {
+        "attr": "n，v", 
+        "sentence": "agree on a () -- 同意妥协", 
+        "translation": "n：妥协；和解 v：妥协；和解；损害"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想"
+    }, 
+    "congestion": {
+        "attr": "n", 
+        "sentence": "There is always traffic () in that stree -- 那条路总是有交通堵塞", 
+        "translation": "n：堵塞；充血；瘀血"
+    }, 
+    "crab": {
+        "attr": "n；v", 
+        "sentence": "The () crab is great delicacy -- 这螃蟹是珍馐美味", 
+        "translation": "n：螃蟹 v：抱怨"
+    }, 
+    "creep": {
+        "attr": "v；n", 
+        "sentence": "() forward -- 匍匐前进", 
+        "translation": "v：爬行；匍匐；蹑手蹑脚 n：讨厌鬼；马屁精"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "demonstrate": {
+        "attr": "v", 
+        "sentence": "to () outside the parliament building -- 议会大楼前示威", 
+        "translation": "v：演示；示威；展示"
+    }, 
+    "dimention": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：尺寸；维度"
+    }, 
+    "discriminate": {
+        "attr": "v", 
+        "sentence": "Laws don't () against anyone -- 法律不歧视任何人", 
+        "translation": "v：歧视；区别；区分"
+    }, 
+    "ebb": {
+        "attr": "v，n", 
+        "sentence": "My luck is on the () -- 我的运气不好", 
+        "translation": "n：退潮；衰退；减少 v：退潮；衰退；减少"
+    }, 
+    "gesture": {
+        "attr": "n", 
+        "sentence": "silence th crowd with a () -- 做一个手势使人群安静下来", 
+        "translation": "n：手势；姿态；姿势"
+    }, 
+    "graze": {
+        "attr": "v，n", 
+        "sentence": "to () cattle -- 放牛", 
+        "translation": "v：放牧；吃草 n：擦伤"
+    }, 
+    "incensory": {
+        "attr": "n", 
+        "sentence": "incensory", 
+        "translation": "n：香炉"
+    }, 
+    "inferiority": {
+        "attr": "n", 
+        "sentence": "Failure induces a sense of () -- 失败使人产生自卑感", 
+        "translation": "n：劣势；低等；自卑"
+    }, 
+    "intensity": {
+        "attr": "n", 
+        "sentence": "The pain increased in () -- 疼痛越来越剧烈了", 
+        "translation": "n：强度；强烈"
+    }, 
+    "intrude": {
+        "attr": "v", 
+        "sentence": "They () on our party -- 他们闯入我们的派对", 
+        "translation": "v：闯入；打扰"
+    }, 
+    "invade": {
+        "attr": "v", 
+        "sentence": "Germs may () the organism -- 细菌会侵入有机体", 
+        "translation": "v：侵犯；侵略"
+    }, 
+    "lame": {
+        "attr": "adj；v", 
+        "sentence": "a () excuse -- 不充分的理由", 
+        "translation": "adj：瘸的；站不住脚的；无说服力的 v：变瘸"
+    }, 
+    "lane": {
+        "attr": "n", 
+        "sentence": "bus lane -- 公共汽车专用车道", 
+        "translation": "n：小路；小巷；巷道；车道"
+    }, 
+    "legacy": {
+        "attr": "n", 
+        "sentence": "() tax -- 遗产税", 
+        "translation": "n：遗产；遗赠"
+    }, 
+    "magnet": {
+        "attr": "n", 
+        "sentence": "A () has polarity -- 磁铁具有极性", 
+        "translation": "n：磁铁"
+    }, 
+    "nominal": {
+        "attr": "n", 
+        "sentence": "the () leader -- 挂名领导", 
+        "translation": "adj：名义上的；微不足道的；象征性的"
+    }, 
+    "nudge": {
+        "attr": "v，n", 
+        "sentence": "She gave him a () --他轻轻推了他一下", 
+        "translation": "v：轻推；劝说；鼓动 n：轻推；劝说；鼓动"
+    }, 
+    "perception": {
+        "attr": "n", 
+        "sentence": "He was a man of kenn () -- 他是一个拥有敏锐洞察力的男人", 
+        "translation": "v：感知；看法；洞察力"
+    }, 
+    "persecute": {
+        "attr": "v", 
+        "sentence": "to () the weak -- 迫害弱者", 
+        "translation": "v：迫害；烦扰"
+    }, 
+    "poll": {
+        "attr": "n，v", 
+        "sentence": "They expected a heavy () -- 他们期望会有很高的投票数", 
+        "translation": "n：民意调查 v：获得"
+    }, 
+    "rage": {
+        "attr": "n；v", 
+        "sentence": "() of infection -- 传染病的肆虐", 
+        "translation": "n：狂补；暴怒；肆虐 v：发怒；怒斥"
+    }, 
+    "reconcile": {
+        "attr": "v", 
+        "sentence": "() disputes -- 调解纠纷", 
+        "translation": "v：使和解；调和"
+    }, 
+    "ruby": {
+        "attr": "n", 
+        "sentence": "She is wearing a small () earring -- 她带着一枚红宝石小耳环", 
+        "translation": "n：红宝石"
+    }, 
+    "scan": {
+        "attr": "v，n", 
+        "sentence": "I () my pocket for change -- 我仔细查看口袋找零钱", 
+        "translation": "v：扫描；浏览；审视 n：扫描；浏览"
+    }, 
+    "segregate": {
+        "attr": "v", 
+        "sentence": "They () you from the rest of the community -- tam", 
+        "translation": "v：分开；分离；隔离"
+    }, 
+    "slender": {
+        "attr": "adj", 
+        "sentence": "() figure -- 苗条的身材", 
+        "translation": "adj：苗条的"
+    }, 
+    "specialise": {
+        "attr": "v", 
+        "sentence": "He plans to () in history -- 他打算专门研究历史", 
+        "translation": "v：专用于；专门研究"
+    }, 
+    "stripe": {
+        "attr": "n", 
+        "sentence": "a dress with dark () -- 一条有着深色条纹的裙子", 
+        "translation": "n：条纹；类型"
+    }, 
+    "tablet": {
+        "attr": "n", 
+        "sentence": "Take one () every four hours -- 每四小时服一片", 
+        "translation": "n：药片；片状物"
+    }, 
+    "tilt": {
+        "attr": "n，v", 
+        "sentence": "I () my body -- 我倾斜我的身子", 
+        "translation": "v：倾斜；偏向 n：倾斜；企图"
+    }, 
+    "tribe": {
+        "attr": "n", 
+        "sentence": "a rude () -- 野蛮的部落", 
+        "translation": "n：部落"
+    }
+}

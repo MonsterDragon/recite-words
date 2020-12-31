@@ -1,0 +1,92 @@
+{
+    "antique": {
+        "attr": "n, v", 
+        "sentence": "The () furniture was made in 1700 -- 这件古家具是1700年制造的", 
+        "translation": "n: 古董；古代文物 v: 古老的；过时的"
+    }, 
+    "charateristic": {
+        "attr": "adj, n", 
+        "sentence": "Sympathy is the () feeling of mankind -- 同情心是人类特有的感情", 
+        "translation": "adj: 典型的；特有的 n: 特点；特性"
+    }, 
+    "commonwealth": {
+        "attr": "n", 
+        "sentence": "The () lost a great leader -- 共和国失去了一位伟大的领袖", 
+        "translation": "n: 联邦；共和国"
+    }, 
+    "dazzle": {
+        "attr": "v, n", 
+        "sentence": "Lights () him -- 灯光使他目眩", 
+        "translation": "v: 使目眩 n: 耀眼；炫目"
+    }, 
+    "extract": {
+        "attr": "n, v", 
+        "sentence": "to () a teeth -- 拔牙", 
+        "translation": "n: 提取物；摘录；精华 v: 拔出；提取；摘录"
+    }, 
+    "fling": {
+        "attr": "v", 
+        "sentence": "Don't () your clothes around -- 别乱扔衣服", 
+        "translation": "v: 投；猛掷"
+    }, 
+    "fuse": {
+        "attr": "n, v", 
+        "sentence": "Rainwater will () the bulds -- 雨水会引发保险丝烧熔", 
+        "translation": "n: 保险丝；导火线 v: 熔接"
+    }, 
+    "hamper": {
+        "attr": "v, n", 
+        "sentence": "Prejudice will () a person from doing the right thing -- 偏见会阻碍人们做正确的事", 
+        "translation": "n: 篮子 v: 阻碍"
+    }, 
+    "hurl": {
+        "attr": "v", 
+        "sentence": "I () the baseball back -- 我把棒球大力掷回去", 
+        "translation": "v: 猛掷"
+    }, 
+    "immense": {
+        "attr": "adj", 
+        "sentence": "The expence of living is () -- 生活费用很大", 
+        "translation": "adj: 巨大的"
+    }, 
+    "linguistic": {
+        "attr": "adj", 
+        "sentence": "A dictionary contains lots of () knowledge -- 一步字典包含了大量语言学知识", 
+        "translation": "adj: 语言的"
+    }, 
+    "obstruction": {
+        "attr": "n", 
+        "sentence": "The road was cleared fron () -- 这条路已被清除了障碍", 
+        "translation": "n: 障碍；闭塞"
+    }, 
+    "prestige": {
+        "attr": "n", 
+        "sentence": "international () -- 国际声望", 
+        "translation": "n: 声望；威望；威信"
+    }, 
+    "publicize": {
+        "attr": "v", 
+        "sentence": "to () a product -- 宣传产品", 
+        "translation": "v: 宣传；公布"
+    }, 
+    "recruit": {
+        "attr": "n, v", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v: 招募；招聘 n: 新兵；新成员"
+    }, 
+    "sophistic": {
+        "attr": "adj", 
+        "sentence": "There is some truth in criticism, but it s a () attack that lacks context -- 评论里确有一丝真理，不过这种攻击只是断章取义的诡辩", 
+        "translation": "adj: 诡辩的"
+    }, 
+    "troublesome": {
+        "attr": "adj", 
+        "sentence": "Rid yourself of such () thoughts -- 使自己摆脱如此令人烦恼的想法", 
+        "translation": "adj: 令人烦恼的；麻烦的；苦难的"
+    }, 
+    "tumour": {
+        "attr": "n", 
+        "sentence": "() cell -- 癌细胞", 
+        "translation": "n: 肿瘤；肿块"
+    }
+}

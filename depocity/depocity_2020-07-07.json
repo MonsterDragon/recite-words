@@ -1,0 +1,102 @@
+{
+	"inflation": {
+            "sentence": "Zero () is not realistic -- 零通胀是不现实的",
+            "translation": "n：膨胀；充气；通货膨胀",
+            "attr": "n"
+        },
+	"tent": {
+            "sentence": "The girls pitched a () -- 这些女孩搭起了帐篷",
+            "translation": "n：帐篷",
+            "attr": "n"
+        },
+	"envelope": {
+            "sentence": "to open an () -- 拆开信封",
+            "translation": "n：信封",
+            "attr": "n"
+        },
+	"span": {
+            "sentence": "His acting career () almost five decades -- 他的演艺生涯持续了近50载",
+            "translation": "n：间距；跨度 v：持续；跨越；涉及",
+            "attr": "n，v"
+        },
+	"monopoly": {
+            "sentence": "() enterprise -- 垄断企业",
+            "translation": "n：垄断",
+            "attr": "n"
+        },
+	"vein": {
+            "sentence": "The blood floods in the () -- 血液在血脉中流动",
+            "translation": "n：静脉；矿脉",
+            "attr": "n"
+        },
+	"cite": {
+            "sentence": "() an example -- 引用一个例子",
+            "translation": "v：引用；提及；距离",
+            "attr": "v"
+        },
+	"bud": {
+            "sentence": "Trees begin to () in the spring -- 树在春天开始发芽",
+            "translation": "n：芽 v：发芽",
+            "attr": "n， v"
+        },
+	"vain": {
+            "sentence": "We tried to help her but in () -- 我们想方设法帮助她，但是徒劳无功",
+            "translation": "adj：徒劳的；空虚的；自负的",
+            "attr": "adj"
+        },
+	"chop": {
+            "sentence": "() wood -- 砍柴",
+            "translation": "v：砍；劈；剁",
+            "attr": "v"
+        },
+	"scrutiny": {
+            "sentence": "He made a () into the cause of the accident -- 他仔细研究了这起事故的原因",
+            "translation": "n：仔细研究",
+            "attr": "n"
+        },
+	"resemble": {
+            "sentence": "The brothers () each other in taste -- 这兄弟俩在品位上很相似",
+            "translation": "v：相似；类似",
+            "attr": "v"
+        },
+	"spectacle": {
+            "sentence": "The sunrise was a splendid () -- 这日出可是个壮观的景象",
+            "translation": "n：景象；奇观；场面",
+            "attr": "n"
+        },
+	"embrace": {
+            "sentence": "These passages () many examples -- 这些文章中囊括了许多例子",
+            "translation": "n；拥抱 v：拥抱；包围；囊括",
+            "attr": "v，n"
+        },
+	"fell": {
+            "sentence": "He can () his enemy with a blow -- 他能一拳将他的敌人击倒",
+            "translation": "v：砍伐；击倒 v：下降；跌倒",
+            "attr": "v"
+        },
+	"zoom": {
+            "sentence": "The share prices were in a () -- 股票价格直线飞升",
+            "translation": "v：飞驰；陡升 n：直线上升；激增",
+            "attr": "v，n"
+        },
+	"cope": {
+            "sentence": "I cannot () with so much work -- 我无法处理这么多的工作",
+            "translation": "v：应付；处理",
+            "attr": "v"
+        },
+	"stake": {
+            "sentence": "The boy fastened the goat to a () -- 男孩把羊拴在木桩上",
+            "translation": "n：股份；赌注；桩 v：投下...赌注",
+            "attr": "n，v"
+        },
+	"rapid": {
+            "sentence": "The city developed at a very () rate -- 这个城市迅速发展起来",
+            "translation": "adj：迅速的",
+            "attr": "adj"
+        },
+	"inference": {
+            "sentence": "We drew the () that he was satisfied -- 我们推断出他很满意",
+            "translation": "n：推断；推论",
+            "attr": "n"
+        }
+}

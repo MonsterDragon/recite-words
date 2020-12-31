@@ -1,0 +1,142 @@
+{
+	"departure": {
+            "sentence": "His () was quite beyond my expectation -- 他的离开超出我的想象",
+            "translation": "离开，出发",
+            "attr": "v"
+        },
+	"invasion": {
+            "sentence": "repel an () -- 抵抗侵略",
+            "translation": "侵犯，侵略",
+            "attr": "n"
+        },
+        "evaporate": {
+            "sentence": "If you heat the water, it will () -- 如果你加热水，它会蒸发",
+            "translation": "蒸发；消失",
+            "attr": "v"
+        },
+        "conscientious": {
+            "sentence": "a () worker -- 一个勤勉的工作人员",
+            "translation": "本着良心的， 勤勉认真的",
+            "attr": "adj"
+        },
+        "genuinely": {
+            "sentence": "I () feel happy -- 我感到由衷的快乐",
+            "translation": "由衷地；真诚地；真正地",
+            "attr": "adv"
+        },
+        "turbulent": {
+            "sentence": "He was born in that () period of history -- 他出生在那个动荡的历史时期",
+            "translation": "狂暴的；骚动的；动荡的",
+            "attr": "adj"
+        },
+        "elite": {
+            "sentence": "the () troops -- 精英部队",
+            "translation": "精英；精华；中坚",
+            "attr": "n"
+        },
+        "wreck": {
+            "sentence": "They found the () of an old ship -- 他们找到了一条旧船的残骸",
+            "translation": "v: 破坏；毁坏 n: 遇难船只；失事",
+            "attr": "n, v"
+        },
+        "cricket": {
+            "sentence": "() match -- 板球比赛",
+            "translation": "板球；蟋蟀",
+            "attr": "n"
+        },
+        "stack": {
+            "sentence": "a () of books -- 一摞书",
+            "translation": "n: 摞；堆；叠 v: 把...方成整齐的一摞",
+            "attr": "n, v"
+        },
+        "resign": {
+            "sentence": "() the position as a teacher -- 辞去教师职务",
+            "translation": "辞职；顺从；甘心于",
+            "attr": "v"
+        },
+        "weave": {
+            "sentence": "() a story -- 编一个故事",
+            "translation": "编制；编织",
+            "attr": "v"
+        },
+        "refute": {
+            "sentence": "to () a rumor -- 驳倒谎言",
+            "translation": "驳斥；反驳；批驳",
+            "attr": "v"
+        },
+        "invert": {
+            "sentence": "to () an hourglasses -- 倒置沙漏",
+            "translation": "使倒置；使颠倒",
+            "attr": "v"
+        },
+        "interference": {
+            "sentence": "He hates () with his work -- 他厌恶别人妨碍他的工作",
+            "translation": "干扰；干涉；妨碍",
+            "attr": "v"
+        },
+        "squeeze": {
+            "sentence": "() into a tight soace -- 挤进一个拥挤的地方",
+            "translation": "v: 捏；挤；榨 n: 捏；挤；榨",
+            "attr": "n, v"
+        },
+        "simultaneous": {
+            "sentence": "() interpreation -- 同声传译",
+            "translation": "同时的，同步的",
+            "attr": "adj"
+        },
+        "obscure": {
+            "sentence": "The point of his speech is () -- 他发言的观点不明确",
+            "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解",
+            "attr": "v, adj"
+        },
+        "assault": {
+            "sentence": "He was sent to prison for () -- 他因袭及他人而被送进监狱",
+            "translation": "袭击",
+            "attr": "v"
+        },
+        "hazard": {
+            "sentence": "He had put his own life in () -- 他是在拿自己的生命来冒险",
+            "translation": "n: 危害；危险 v: 冒险；使遭受危险",
+            "attr": "v"
+        },
+        "deduce": {
+            "sentence": "() a conclusion -- 推演结论",
+            "translation": "腿短；推演；演绎",
+            "attr": "v"
+        },
+        "compelled": {
+            "sentence": "My conscience () me to confess -- 良心迫使我承认了",
+            "translation": "迫使；强迫",
+            "attr": "v"
+        },
+        "deprive": {
+            "sentence": "We have no right to () their lives -- 我们没有权利去剥夺它们的生命",
+            "translation": "剥夺；使丧失",
+            "attr": "v"
+        },
+        "accountability": {
+            "sentence": "a sense of () -- 责任感",
+            "translation": "责任；义务",
+            "attr": "n"
+        },
+        "assumption": {
+            "sentence": "His actions were based on a false () -- 他的行为基于错误的假想上",
+            "translation": "假设假想",
+            "attr": "n"
+        },
+        "thrift": {
+            "sentence": "His success was due to his industry and () -- 他的成功在于他的勤奋与简朴",
+            "translation": "节俭；节约",
+            "attr": "n"
+        },
+        "grab": {
+            "sentence": "It's rude to () a seat -- 抢占座位是不礼貌的",
+            "translation": "抓取；攫取",
+            "attr": "v"
+        },
+        "grim": {
+            "sentence": "Her face wore a () look -- 她脸上现出严厉的神情",
+            "translation": "严厉的；严峻的；坚定地；可怕的",
+            "attr": "adj"
+        }
+}

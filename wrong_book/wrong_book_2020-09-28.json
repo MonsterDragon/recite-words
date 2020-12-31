@@ -1,0 +1,52 @@
+{
+    "benign": {
+        "attr": "adj", 
+        "sentence": "() climate -- 温和的气候", 
+        "translation": "adj：仁慈的；温和的；良性的"
+    }, 
+    "contraction": {
+        "attr": "n", 
+        "sentence": "muscular () -- 肌肉的收缩", 
+        "translation": "n：收缩；缩小"
+    }, 
+    "controversial": {
+        "attr": "adj", 
+        "sentence": "we tried to stay away from () topics -- 我们尽量避免一些争议的话题", 
+        "translation": "adj：有争议的"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "statute": {
+        "attr": "n", 
+        "sentence": "Working hours are limited by () -- 工作时间有法令限制", 
+        "translation": "n：法令；法规；条例"
+    }, 
+    "thermal": {
+        "attr": "adj", 
+        "sentence": "() underwear -- 保暖内衣", 
+        "translation": "adj：热的；保热的"
+    }, 
+    "vicinity": {
+        "attr": "n", 
+        "sentence": "No one was aware of his () -- 没人发现他在附近", 
+        "translation": "n：附近；周围地区"
+    }, 
+    "wretched": {
+        "attr": "adj", 
+        "sentence": "() weather -- 恶劣的天气", 
+        "translation": "adj：悲惨的；不行的；难过的"
+    }
+}

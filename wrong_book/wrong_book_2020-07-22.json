@@ -1,0 +1,12 @@
+{
+    "combat": {
+        "attr": "n，v", 
+        "sentence": "single () -- 一对一搏斗", 
+        "translation": "n：搏斗；战斗 v：搏斗；战斗"
+    }, 
+    "hypocritical": {
+        "attr": "adj", 
+        "sentence": "() praise -- 虚伪的夸奖", 
+        "translation": "adj：伪善的；虚伪的"
+    }
+}

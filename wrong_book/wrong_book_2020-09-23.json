@@ -1,0 +1,22 @@
+{
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "feudal": {
+        "attr": "adj", 
+        "sentence": "The () barons were cruel to the people -- 封建贵族对人民残酷", 
+        "translation": "adj：封建的；封建制度"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "tiresome": {
+        "attr": "adj", 
+        "sentence": "It's () to wait in the time -- 排队等候太烦人", 
+        "translation": "adj：讨厌的；令人厌烦的"
+    }
+}

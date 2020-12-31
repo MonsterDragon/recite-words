@@ -1,0 +1,17 @@
+{
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "relevant": {
+        "attr": "adj", 
+        "sentence": "Have you heard of the () report -- 你听说过相关的报道吗？", 
+        "translation": "adj：相关的"
+    }, 
+    "stall": {
+        "attr": "n，v", 
+        "sentence": "to () the process -- 暂停进程", 
+        "translation": "n：小隔间；摊位 v：停顿；熄火"
+    }
+}

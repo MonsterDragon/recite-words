@@ -1,0 +1,32 @@
+{
+    "enclosure": {
+        "attr": "n", 
+        "sentence": "She keeps a horse in that () -- 她在那个围场养了一匹马", 
+        "translation": "n：围场；围地"
+    }, 
+    "patchwork": {
+        "attr": "n", 
+        "sentence": "This is only a work of () -- 这只是拼凑出来的作品", 
+        "translation": "n：拼凑物"
+    }, 
+    "perceive": {
+        "attr": "v", 
+        "sentence": "We can () his sorrow by looks on his face -- 我们从他的表情中察觉出悲伤", 
+        "translation": "v：察觉；理解；发觉"
+    }, 
+    "repertoire": {
+        "attr": "n", 
+        "sentence": "The () will surprise the audience -- 全部节目将使观众们感到惊讶", 
+        "translation": "n：全部节目；全部才能"
+    }, 
+    "rigorous": {
+        "attr": "adj", 
+        "sentence": "He makes a () study of the planet in the area -- 他对该地的植物进行了严密的研究", 
+        "translation": "adj：严密的；严格的"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }
+}

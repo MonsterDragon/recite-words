@@ -1,0 +1,22 @@
+{
+    "articulately": {
+        "attr": "adv", 
+        "sentence": "He said each syllable () -- 他发音清晰地说出了每个音节", 
+        "translation": "adv：发音清晰地；明确有力的表达地"
+    }, 
+    "chaos": {
+        "attr": "n", 
+        "sentence": "in () -- 一片混乱", 
+        "translation": "n：混乱"
+    }, 
+    "lavatory": {
+        "attr": "n", 
+        "sentence": "public () -- 公共厕所", 
+        "translation": "n：盥洗室；厕所"
+    }, 
+    "subscription": {
+        "attr": "n", 
+        "sentence": "to add a () at the end of a document -- 在问件的最后加上签名", 
+        "translation": "n：订阅；订购；捐款；签署"
+    }
+}

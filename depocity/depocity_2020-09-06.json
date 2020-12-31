@@ -1,0 +1,117 @@
+{
+    "batch": {
+        "attr": "n", 
+        "sentence": "She made a () of cookies -- 她做了一炉甜饼", 
+        "translation": "n：一批；一炉；一组"
+    }, 
+    "chop": {
+        "attr": "v，n", 
+        "sentence": "() wood -- 砍柴", 
+        "translation": "v：砍；劈；剁 n：砍；剁"
+    }, 
+    "clasp": {
+        "attr": "v，n", 
+        "sentence": "The button won't () -- 扣子扣不上", 
+        "translation": "v：抱紧；握紧；扣紧 n：钩；扣；紧握"
+    }, 
+    "consent": {
+        "attr": "n，v", 
+        "sentence": "receive a () -- 取得同意", 
+        "translation": "n：同意；允许 v：同意；允许"
+    }, 
+    "consultant": {
+        "attr": "n", 
+        "sentence": "marketing () -- 市场顾问", 
+        "translation": "n：顾问"
+    }, 
+    "cope": {
+        "attr": "v", 
+        "sentence": "I cannot () with so much work -- 我无法处理这么多工作", 
+        "translation": "v：应付处理"
+    }, 
+    "corrode": {
+        "attr": "v", 
+        "sentence": "Acid rain () buildings -- 酸雨腐蚀建筑物", 
+        "translation": "v：腐蚀；侵蚀"
+    }, 
+    "decisive": {
+        "attr": "adj", 
+        "sentence": "a () fluence -- 决定性的影响", 
+        "translation": "adj：决定性的；果断的"
+    }, 
+    "disclaim": {
+        "attr": "v", 
+        "sentence": "to () one's rights -- 否认某人的权利", 
+        "translation": "v：否认；放弃；拒绝承认"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "fiber": {
+        "attr": "n", 
+        "sentence": "seaweed () -- 海藻纤维", 
+        "translation": "n：纤维"
+    }, 
+    "foster": {
+        "attr": "v", 
+        "sentence": "to () children -- 养育孩子", 
+        "translation": "v：培养；助长；抚养"
+    }, 
+    "instalment": {
+        "attr": "n", 
+        "sentence": "the () purchase -- 分期付款购物", 
+        "translation": "n：分期付款"
+    }, 
+    "monopoly": {
+        "attr": "n", 
+        "sentence": "() enterprise -- 垄断企业", 
+        "translation": "n：垄断"
+    }, 
+    "naturalization": {
+        "attr": "n", 
+        "sentence": "They rejected his petition for () -- 他们拒绝了他的入籍申请", 
+        "translation": "n：移入；移植；入籍"
+    }, 
+    "patronage": {
+        "attr": "n", 
+        "sentence": "We thank you for your () -- 我们感谢您的惠顾 ", 
+        "translation": "n: 赞助；惠顾；委任权"
+    }, 
+    "port": {
+        "attr": "n", 
+        "sentence": "to arrive at () -- 抵挡港口", 
+        "translation": "n：港口"
+    }, 
+    "possess": {
+        "attr": "v", 
+        "sentence": "() fortune legally -- 合法拥有财产", 
+        "translation": "v：拥有；占有"
+    }, 
+    "rehearsal": {
+        "attr": "n", 
+        "sentence": "The play is in () now -- 这出戏在排演中", 
+        "translation": "n：排练；预演"
+    }, 
+    "retail": {
+        "attr": "n，v", 
+        "sentence": "I bought it in () -- 我是以零售的方式买下它", 
+        "translation": "n：零售 v：零售"
+    }, 
+    "sheer": {
+        "attr": "adj", 
+        "sentence": "The concert was a () delight -- 这场音乐会是一次十足的享受", 
+        "translation": "adj：十足的；纯粹的；陡峭的"
+    }, 
+    "sore": {
+        "attr": "n，adj", 
+        "sentence": "There is a () in my back -- 我的背痛", 
+        "translation": "n：痛处；伤处 adj：疼痛的；痛心的"
+    }, 
+    "summit": {
+        "attr": "n，adj", 
+        "sentence": "The Prime Minister is attending the () -- 首相正在参加最高级会议", 
+        "translation": "n：顶峰；定点 adj：最高级的"
+    }
+}

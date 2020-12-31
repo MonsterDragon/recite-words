@@ -1,0 +1,87 @@
+{
+        "depth": {
+            "sentence": "What is the () of lake -- 这个湖有多深",
+            "translation": "深度；深刻",
+            "attr": "n"
+	},
+        "chamber": {
+            "sentence": "() of the heart -- 心房",
+            "translation": "房间，室，腔",
+            "attr": "n"
+	},
+        "plough": {
+            "sentence": "the farmer is at the () -- 那个农民在种田",
+            "translation": "n: 犁；耕地 v: 犁；耕；翻",
+            "attr": "n, v"
+	},
+        "recession": {
+            "sentence": "Economy is in () -- 经济正在衰退",
+            "translation": "后退；不景气",
+            "attr": "n"
+	},
+        "versatile": {
+            "sentence": "Nylon is a () material -- 尼龙是一种有多方面用途的材料",
+            "translation": "多方面的；多才多艺的",
+            "attr": "adj"
+	},
+        "sculpture": {
+            "sentence": "() the rock -- 刻蚀岩石",
+            "translation": "n: 雕刻；雕塑品 v: 雕塑；刻蚀",
+            "attr": "n, v"
+	},
+        "lapse": {
+            "sentence": "The () of time is irreversible -- 时间流逝不可避免",
+            "translation": "n: 流逝；过失 v: 失效；终止",
+            "attr": "n, v"
+	},
+        "literacy": {
+            "sentence": "() campaign -- 识字运动",
+            "translation": "识字；有读写能力",
+            "attr": "n"
+	},
+        "startling": {
+            "sentence": "a () change -- 吃惊的变化",
+            "translation": "adj: 令人吃惊地 v: 使惊动；使吃惊",
+            "attr": "adj, v"
+	},
+        "illuminate": {
+            "sentence": "() the sky -- 照亮天空",
+            "translation": "照亮；阐明",
+            "attr": "v"
+	},
+        "glance": {
+            "sentence": "I () at the headline in the newspaper -- 我匆匆看一眼报纸大标题",
+            "translation": "v: 扫视；瞥一眼 n: 一瞥；扫视",
+            "attr": "v, n"
+	},
+        "hamper": {
+            "sentence": "The heavy rain would () the flow of traffic -- 大雨会阻碍交通运行",
+            "translation": "v: 阻碍；妨碍 n: 篮子",
+            "attr": "v, n"
+	},
+        "noble": {
+            "sentence": "He was from a () family -- 他来自于贵族家庭",
+            "translation": "adj: 贵族的；高尚的 n: 贵族",
+            "attr": "n, adj"
+	},
+        "intrinsic": {
+            "sentence": "() goodness -- 内在的善良",
+            "translation": "固有的；内在的；本身的",
+            "attr": "adj"
+	},
+        "susceptible": {
+            "sentence": "Children are more () to colds than adults -- 小孩比大人容易患感冒",
+            "translation": "易受影响的；易动感情的",
+            "attr": "adj"
+	},
+        "disruption": {
+            "sentence": "Fogs brought () to the traffic -- 大雾给交通带来了混乱",
+            "translation": "中断；扰乱；混乱",
+            "attr": "n"
+	},
+        "trim": {
+            "sentence": "a () and neat garden -- 整洁美观的花园",
+            "translation": "v: 修建；装饰 adj: 整齐的；整洁的 n: 修建",
+            "attr": "n, adj, v"
+	}
+}

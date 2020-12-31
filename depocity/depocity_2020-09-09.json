@@ -1,0 +1,197 @@
+{
+    "accommodate": {
+        "attr": "v", 
+        "sentence": "The hotel can () 500 guests -- 这旅馆可容纳500个客人", 
+        "translation": "v：容纳；适应"
+    }, 
+    "avail": {
+        "attr": "v，n", 
+        "sentence": "to () oneself of every opportunity -- 利用每一次机会", 
+        "translation": "v：游泳；有益；利用 n：有用；有益"
+    }, 
+    "cathedral": {
+        "attr": "n", 
+        "sentence": "The () is made of stone -- 这所教堂是用石头建成的", 
+        "translation": "n：大教堂"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "clause": {
+        "attr": "n", 
+        "sentence": "unfair () -- 不平等条款", 
+        "translation": "n：从句；条款"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "concede": {
+        "attr": "v", 
+        "sentence": "I () that I made a mistake -- 我承认我犯了一个错误", 
+        "translation": "v：承认；让步"
+    }, 
+    "courtesy": {
+        "attr": "n", 
+        "sentence": "() must be educated in childhood -- 必须在孩提时代就教好礼仪", 
+        "translation": "n：礼貌；谦虚"
+    }, 
+    "demotivate": {
+        "attr": "v", 
+        "sentence": "Failure can () students -- 失败会挫伤学生的积极性", 
+        "translation": "v：使消极"
+    }, 
+    "equity": {
+        "attr": "n", 
+        "sentence": "() capital -- 产权资本", 
+        "translation": "n：公正；资产净值"
+    }, 
+    "exempt": {
+        "attr": "v，adj", 
+        "sentence": "to be () from taxes -- 免税", 
+        "translation": "v：豁免；免除 adj：被免除的；被豁免的"
+    }, 
+    "fragile": {
+        "attr": "adj", 
+        "sentence": "() health -- 虚弱的体质", 
+        "translation": "adj：一岁的；脆弱的"
+    }, 
+    "futile": {
+        "attr": "adj", 
+        "sentence": "Efforts to convince him were () -- 试图说服他所做的努力是徒劳的", 
+        "translation": "adj：无用的；徒劳的"
+    }, 
+    "glow": {
+        "attr": "v，n", 
+        "sentence": "to () with shame -- 因羞愧而脸红", 
+        "translation": "v：发光；发热；脸红 n：红光；炽热；脸红"
+    }, 
+    "hinder": {
+        "attr": "v", 
+        "sentence": "Heavy snow will () the construction project -- 大雪会妨碍这项建筑工程", 
+        "translation": "v：阻碍，打扰"
+    }, 
+    "hollow": {
+        "attr": "adj", 
+        "sentence": "A water pipe is () -- 水管是空心的", 
+        "translation": "adj：中空的；空洞的"
+    }, 
+    "integrate": {
+        "attr": "v", 
+        "sentence": "We must () theory with practice -- 我们必须把理论与实际相结合", 
+        "translation": "v：合并；融入"
+    }, 
+    "intersection": {
+        "attr": "n", 
+        "sentence": "Turn left at the next () -- 在下一个十字路口向左转", 
+        "translation": "n：交叉；相交；十字路口"
+    }, 
+    "jug": {
+        "attr": "n", 
+        "sentence": "a () of mild -- 一大罐牛奶", 
+        "translation": "n：水壶；大罐"
+    }, 
+    "litter": {
+        "attr": "n，v", 
+        "sentence": "The () is gently deposited on the floor -- 担架轻放在地上", 
+        "translation": "n：垃圾；杂物；担架 v：乱扔；乱丢杂物"
+    }, 
+    "obligation": {
+        "attr": "n", 
+        "sentence": "undertake an () -- 承担义务", 
+        "translation": "n：义务；责任"
+    }, 
+    "occasion": {
+        "attr": "n，v", 
+        "sentence": "to () an angry response -- 引起愤怒的反应", 
+        "translation": "n：特殊场合；时机；机会；理由 v：导致；使发生"
+    }, 
+    "pace": {
+        "attr": "n，v", 
+        "sentence": "to accelerate the () -- 加快步伐", 
+        "translation": "n：一步；步伐；步速 v：踱步"
+    }, 
+    "pact": {
+        "attr": "n", 
+        "sentence": "to sign a () -- 签约", 
+        "translation": "n：契约；协定；条约"
+    }, 
+    "pail": {
+        "attr": "n", 
+        "sentence": "He lifted a () of water -- 他把一桶水提起来了", 
+        "translation": "n：桶"
+    }, 
+    "plausible": {
+        "attr": "adj", 
+        "sentence": "a () excuse -- 看似有理的借口", 
+        "translation": "adj：看似真实的；似乎可信的"
+    }, 
+    "profound": {
+        "attr": "adj", 
+        "sentence": "a () insight -- 深邃的洞察力", 
+        "translation": "adj: 深邃的；深刻的；深奥的；深远的"
+    }, 
+    "puffed": {
+        "attr": "adj，v", 
+        "sentence": "His face was a little () -- 他的脸有些肿", 
+        "translation": "adj：肿胀的；气喘吁吁地 v：吸；吹；喷；冒出；急促"
+    }, 
+    "realm": {
+        "attr": "n", 
+        "sentence": "the () of science -- 科学领域", 
+        "translation": "n：王国；领域"
+    }, 
+    "residence": {
+        "attr": "n", 
+        "sentence": "fixed () -- 固定住所", 
+        "translation": "n：居住；住所"
+    }, 
+    "robust": {
+        "attr": "adj", 
+        "sentence": "THe chair is not very () -- 那把椅子不太结实", 
+        "translation": "adj：强奸的；强壮的；结实的"
+    }, 
+    "satellite": {
+        "attr": "n", 
+        "sentence": "launch a () -- 发射一颗人造卫星", 
+        "translation": "n：卫星；人造卫星"
+    }, 
+    "scrap": {
+        "attr": "v，n，adj", 
+        "sentence": "to () a rule -- 取消一条规则", 
+        "translation": "v：废弃；取消 n：小块；碎片；废金属 adj：废弃的"
+    }, 
+    "shallow": {
+        "attr": "adj", 
+        "sentence": "Only () people judge people by their appearance -- 只有浅薄的人才会以貌取人", 
+        "translation": "adj：浅的；浅薄的"
+    }, 
+    "sovereign": {
+        "attr": "n，adj", 
+        "sentence": "the () of England -- 英国的君主", 
+        "translation": "n：最高统治者；君主；元首 adj：独立自主的"
+    }, 
+    "spin": {
+        "attr": "v，n", 
+        "sentence": "to () at full speed -- 全速旋转", 
+        "translation": "v：旋转；疾驰 n：旋转"
+    }, 
+    "stamp": {
+        "attr": "n，v", 
+        "sentence": "I stuck a () on the letter -- 我把一张邮票贴在信上", 
+        "translation": "n：邮票；印记；跺脚 v：盖印；跺脚"
+    }, 
+    "sway": {
+        "attr": "n，v", 
+        "sentence": "The dancers () to the music -- 舞者随着音乐起舞", 
+        "translation": "v：摇摆；摇动 n：摇摆；影响；支配"
+    }, 
+    "triviality": {
+        "attr": "n", 
+        "sentence": "to make a fuss about a () -- 为琐事大惊小怪", 
+        "translation": "n：琐事；微不足道"
+    }
+}

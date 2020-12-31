@@ -1,0 +1,32 @@
+{
+    "anguish": {
+        "attr": "n", 
+        "sentence": "The quarrel caused her great () -- 争吵给她造成了极大的痛苦", 
+        "translation": "n：苦闷；痛苦"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "bribe": {
+        "attr": "v，n", 
+        "sentence": "A goverment official took the () -- 一个政府官员接受了贿赂", 
+        "translation": "v：贿赂 n：贿赂"
+    }, 
+    "circular": {
+        "attr": "adj，n", 
+        "sentence": "() letter -- 通知书", 
+        "translation": "adj：圆圈的；循环的；唤醒的 n：通告"
+    }, 
+    "tiresome": {
+        "attr": "adj", 
+        "sentence": "It's () to wait in the time -- 排队等候太烦人", 
+        "translation": "adj：讨厌的；令人厌烦的"
+    }, 
+    "trifle": {
+        "attr": "n，v", 
+        "sentence": "Never () with other's affections -- 不要玩弄别人的感情", 
+        "translation": "n：琐事；少量 v：闹着玩；玩弄"
+    }
+}

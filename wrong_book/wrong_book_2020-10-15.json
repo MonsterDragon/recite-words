@@ -1,0 +1,17 @@
+{
+    "recipe": {
+        "attr": "n", 
+        "sentence": "a () for fever -- 发烧的处方", 
+        "translation": "n：食谱；烹饪方法；处方"
+    }, 
+    "retention": {
+        "attr": "n", 
+        "sentence": "() period -- 保存期", 
+        "translation": "n：保留；保持；保持物；记忆力"
+    }, 
+    "subtle": {
+        "attr": "adj", 
+        "sentence": "a () distinction -- 微妙的区别", 
+        "translation": "adj：微妙的；细微的"
+    }
+}

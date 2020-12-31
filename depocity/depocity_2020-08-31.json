@@ -1,0 +1,157 @@
+{
+    "abound": {
+        "attr": "v", 
+        "sentence": "Streams () with fish -- 河里鱼很多", 
+        "translation": "v：大量存在；有许多"
+    }, 
+    "acrobat": {
+        "attr": "n", 
+        "sentence": "an () in a circus -- 马戏团的杂技演员", 
+        "translation": "n：杂技演员"
+    }, 
+    "brass": {
+        "attr": "n", 
+        "sentence": "The () is too loud -- 铜管乐器的声音太响了", 
+        "translation": "n：黄铜；黄铜制品；厚脸皮"
+    }, 
+    "bulletin": {
+        "attr": "n", 
+        "sentence": "the early morning news () -- 早间新闻简报", 
+        "translation": "n：公告；布告；公告；简报"
+    }, 
+    "bully": {
+        "attr": "v，n", 
+        "sentence": "The terrorists () the citizens -- 恐怖分子恐吓市民们", 
+        "translation": "v：恐吓；威胁；欺负 n：仗势欺人者"
+    }, 
+    "chorus": {
+        "attr": "v，n", 
+        "sentence": "in () -- 异口同声", 
+        "translation": "v：合唱；异口同声的说 n：合唱团；合唱"
+    }, 
+    "clip": {
+        "attr": "n, v", 
+        "sentence": " () the nail -- 修剪指甲", 
+        "translation": "n: 小夹子；回形针 v: 修剪；夹住"
+    }, 
+    "compassion": {
+        "attr": "n", 
+        "sentence": "beg for () -- 乞求怜悯", 
+        "translation": "n：同情；怜悯"
+    }, 
+    "conversion": {
+        "attr": "n", 
+        "sentence": "religious () -- 宗教信仰的转变", 
+        "translation": "n：转换；转化；改变信仰"
+    }, 
+    "dazzle": {
+        "attr": "v, n", 
+        "sentence": "Lights () him -- 灯光使他目眩", 
+        "translation": "v: 使目眩 n: 耀眼；炫目"
+    }, 
+    "dome": {
+        "attr": "n", 
+        "sentence": "The () of the church is under repair -- 教堂的圆顶正在修理中", 
+        "translation": "n：穹顶；圆屋顶"
+    }, 
+    "emergence": {
+        "attr": "n", 
+        "sentence": "the () of the Internet -- 互联网的出现", 
+        "translation": "n：出现；浮现"
+    }, 
+    "exempt": {
+        "attr": "v，adj", 
+        "sentence": "to be () from taxes -- 免税", 
+        "translation": "v：豁免；免除 adj：被免除的；被豁免的"
+    }, 
+    "hatch": {
+        "attr": "v，n", 
+        "sentence": "to () a plan -- 秘密策划一个计划", 
+        "translation": "v：孵出；秘密策划 n：舱口；小窗口"
+    }, 
+    "incur": {
+        "attr": "v", 
+        "sentence": "His unfriendly words () my anger -- 他不友好的话惹起了我的愤怒", 
+        "translation": "v：招致；遭受"
+    }, 
+    "lad": {
+        "attr": "n", 
+        "sentence": "The () desires to go to university -- 这小伙子渴望去上大学", 
+        "translation": "n：小伙子；少年"
+    }, 
+    "mineral": {
+        "attr": "n", 
+        "sentence": "Coal is a () -- 煤是一种矿物", 
+        "translation": "n：矿物"
+    }, 
+    "pace": {
+        "attr": "n，v", 
+        "sentence": "to accelerate the () -- 加快步伐", 
+        "translation": "n：一步；步伐；步速 v：踱步"
+    }, 
+    "pact": {
+        "attr": "n", 
+        "sentence": "to sign a () -- 签约", 
+        "translation": "n：契约；协定；条约"
+    }, 
+    "patriotic": {
+        "attr": "adj", 
+        "sentence": "The soliders are singing () songs -- 士兵们唱起爱国歌曲", 
+        "translation": "adj：爱国的"
+    }, 
+    "plateau": {
+        "attr": "n", 
+        "sentence": "Price has now reached a () -- 物价现在已经平稳了", 
+        "translation": "n：高原；平稳期"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "premise": {
+        "attr": "n，v", 
+        "sentence": "I wonder if the () is right -- 我怀疑这个前提是否正确", 
+        "translation": "n：前提；假定 v：作出前提"
+    }, 
+    "prospective": {
+        "attr": "adj", 
+        "sentence": "() earnings -- 预期收益", 
+        "translation": "adj：预期的；未来的；盼望中的"
+    }, 
+    "rub": {
+        "attr": "v，n", 
+        "sentence": "The mud will () off easily -- 污泥很容易擦掉", 
+        "translation": "v：擦；擦掉 n：擦；摩擦；阻碍"
+    }, 
+    "scatter": {
+        "attr": "v", 
+        "sentence": "Don't () your energy -- 不要分散精力", 
+        "translation": "v：分散；散开；散布"
+    }, 
+    "spiritual": {
+        "attr": "adj", 
+        "sentence": "Reading books is a man's () needs -- 读书是人的精神需要", 
+        "translation": "adj：精神上的；心灵的"
+    }, 
+    "stoop": {
+        "attr": "v, n", 
+        "sentence": "Don't () to quarrel with her about it -- 别降低身份为这事去跟她争吵", 
+        "translation": "v: 俯身 n: 弯腰；曲背"
+    }, 
+    "syndrome": {
+        "attr": "n", 
+        "sentence": "The () has no effective treatments yet -- 这种综合征尚无有效的治疗方法", 
+        "translation": "n：综合征；综合症状"
+    }, 
+    "tailor": {
+        "attr": "v，n", 
+        "sentence": "The () can alter your coat to fit you -- 裁缝会将你的上衣改的合你的身材", 
+        "translation": "v：剪裁；缝制 n：裁缝"
+    }, 
+    "vest": {
+        "attr": "v，n", 
+        "sentence": "to () someone with power -- 授予某人权利", 
+        "translation": "v：授予 n：背心；马甲；汗衫"
+    }
+}

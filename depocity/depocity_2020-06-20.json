@@ -1,0 +1,157 @@
+{
+	"haul": {
+            "sentence": "a () on a rope  -- 拉了一下绳子",
+            "translation": "v: 拉；拖 n: 拉；拖",
+            "attr": "v, n"
+        },
+	"consult": {
+            "sentence": " () a lawyer  -- 咨询律师",
+            "translation": "v: 咨询；查询；请教",
+            "attr": "v"
+        },
+	"genuinely": {
+            "sentence": "I () feel happy  -- 我感到由衷的快乐",
+            "translation": "adv: 由衷的；真诚的",
+            "attr": "adv"
+        },
+	"lever": {
+            "sentence": "Move this () to change the gear -- 换挡时扳动这根操纵杆",
+            "translation": "n: 操纵杆；杠杆 v: 撬动",
+            "attr": "v, n"
+        },
+	"clip": {
+            "sentence": " () the nail -- 修剪指甲",
+            "translation": "n: 小夹子；回形针 v: 修剪；夹住",
+            "attr": "n, v"
+        },
+	"weave": {
+            "sentence": " () a story -- 编故事",
+            "translation": "v: 编制；编织",
+            "attr": "v"
+        },
+	"conservative": {
+            "sentence": " () ideas -- 保守思想",
+            "translation": "adj: 保守的；守旧的 n: 守旧派；保守主义者",
+            "attr": "adj, n"
+        },
+	"outskirts": {
+            "sentence": "We lived on the () of the city -- 我们住在这个城市的郊区",
+            "translation": "n: 郊区",
+            "attr": "n"
+        },
+	"provision": {
+            "sentence": "make () for the future -- 准备日后只需",
+            "translation": "",
+            "attr": ""
+        },
+	"separate": {
+            "sentence": "The children sleep in () beds -- 孩子们分别谁在各自的床上",
+            "translation": "adj: 分开的；分离的；单独的 n: 分离隔离",
+            "attr": "adj, n"
+        },
+	"trench": {
+            "sentence": "They () to strengthen the defense -- 他们挖战壕以增强防卫",
+            "translation": "n: 沟；渠；战壕 v: 挖战壕；亲好",
+            "attr": "n, v"
+        },
+	"turbulent": {
+            "sentence": " () rapids -- 汹涌的急流",
+            "translation": "adj: 汹涌的；骚动的",
+            "attr": "adj"
+        },
+	"sorrow": {
+            "sentence": "A man in () is anxious for sympathy -- 悲痛中的人渴望得到同情",
+            "translation": "n: 悲痛；伤心",
+            "attr": "n"
+        },
+	"raw": {
+            "sentence": " () material -- 原材料",
+            "translation": "adj: 生的；未加工处理过的",
+            "attr": "adj"
+        },
+	"retort": {
+            "sentence": "sharp () -- 尖刻的反驳",
+            "translation": "v: 反驳；回嘴 n: 反驳；回嘴",
+            "attr": "v, n"
+        },
+	"lodge": {
+            "sentence": "I () at a friend's house -- 我借宿在一个朋友家里",
+            "translation": "n: 小舍，传达室 v: 存放；借宿",
+            "attr": "n, v"
+        },
+	"shatter": {
+            "sentence": "a () of glass -- 一块碎玻璃",
+            "translation": "v: 使粉碎；使破碎；使破灭 n: 碎片",
+            "attr": "v, n"
+        },
+	"setback": {
+            "sentence": "He suffered a () in his business -- 他在生意上遭遇挫折",
+            "translation": "n: 退步；挫折",
+            "attr": "n"
+        },
+	"strenuous": {
+            "sentence": "a () task -- 一个艰巨的任务",
+            "translation": "adj: 费力的；繁重的；艰苦的",
+            "attr": "adj"
+        },
+	"prestige": {
+            "sentence": "international () -- 国际声望",
+            "translation": "n: 声望；威望；威信",
+            "attr": "n"
+        },
+	"drift": {
+            "sentence": "There is a slow () into crsis -- 有一种渐入危机的趋势",
+            "translation": "n: 流动；趋势 v: 飘；漂流",
+            "attr": "n, v"
+        },
+	"apptite": {
+            "sentence": "A walk before dinner will arouse your () -- 晚饭前的散步会引起你的食欲",
+            "translation": "n: 胃口；食欲；嗜好；爱好",
+            "attr": "n"
+        },
+	"canvas": {
+            "sentence": "a () bags -- 帆布背包",
+            "translation": "n: 帆布",
+            "attr": "n"
+        },
+	"bulk": {
+            "sentence": "I have done the () of work -- 我已经完成了大部分的工作",
+            "translation": "n: 巨大的体积；大量",
+            "attr": "n"
+        },
+	"appraise": {
+            "sentence": "to () the property -- 评估资产",
+            "translation": "v: 评价；估价；鉴定",
+            "attr": "v"
+        },
+	"layer": {
+            "sentence": "bottom () -- 底层",
+            "translation": "n: 层；层次",
+            "attr": "n"
+        },
+	"plot": {
+            "sentence": "The military () a coup -- 军方密谋一场政变",
+            "translation": "n: 图标；阴谋 v: 划分；绘图；密谋",
+            "attr": "n,v"
+        },
+	"overstate": {
+            "sentence": "to () one's case -- 夸大自己的情况",
+            "translation": "v: 夸大；言过其实",
+            "attr": "v"
+        },
+	"calcium": {
+            "sentence": "Milk is an important source of () -- 牛奶是钙质的重要来源",
+            "translation": "n: 钙",
+            "attr": "n"
+        },
+	"pigeon": {
+            "sentence": "The message was delivered by carrier () -- 这个信息通过信鸽传递",
+            "translation": "n: 信鸽",
+            "attr": "n"
+        },
+	"torch": {
+            "sentence": "The () flared the darkness -- 火炬在黑暗中闪光",
+            "translation": "n: 火炬",
+            "attr": "n"
+        }
+}

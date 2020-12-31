@@ -1,0 +1,167 @@
+{
+    "amateur": {
+        "attr": "n，adj", 
+        "sentence": "() performance -- 业余表演", 
+        "translation": "n：业余爱好者 adj：业余的"
+    }, 
+    "antique": {
+        "attr": "n, v", 
+        "sentence": "The () furniture was made in 1700 -- 这件古家具是1700年制造的", 
+        "translation": "n: 古董；古代文物 v: 古老的；过时的"
+    }, 
+    "brick": {
+        "attr": "n", 
+        "sentence": "The house are built of () -- 这座房子是砖砌成的", 
+        "translation": "n：砖"
+    }, 
+    "canvas": {
+        "attr": "n", 
+        "sentence": "a () bags -- 帆布背包", 
+        "translation": "n: 帆布"
+    }, 
+    "cape": {
+        "attr": "n", 
+        "sentence": "a woollen () -- 羊毛披肩", 
+        "translation": "n：披风；披肩"
+    }, 
+    "cellar": {
+        "attr": "n", 
+        "sentence": "wine () -- 酒窖", 
+        "translation": "n：地窖；地下室"
+    }, 
+    "census": {
+        "attr": "n", 
+        "sentence": "() chart -- 人口普查表", 
+        "translation": "n：人口普查"
+    }, 
+    "commerce": {
+        "attr": "n", 
+        "sentence": "international () -- 国际间的贸易", 
+        "translation": "n：商业；贸易"
+    }, 
+    "conference": {
+        "attr": "n", 
+        "sentence": "academic () -- 学术研讨会", 
+        "translation": "n：大型会议；商讨"
+    }, 
+    "consecutive": {
+        "attr": "adj", 
+        "sentence": "four () weeks -- 连续四周", 
+        "translation": "adj：连续的；连贯的"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "courtesy": {
+        "attr": "n", 
+        "sentence": "() must be educated in childhood -- 必须在孩提时代就教好礼仪", 
+        "translation": "n：礼貌；谦虚"
+    }, 
+    "crunch": {
+        "attr": "v，n", 
+        "sentence": "He was caught in a financal () -- 他陷入了的财政危机", 
+        "translation": "v：发咯吱咯吱声  n：艰难局面；危急情况"
+    }, 
+    "despise": {
+        "attr": "v", 
+        "sentence": "You shall not () a man because he is poor -- 不应该因为一个人穷就轻视他", 
+        "translation": "v：鄙视；蔑视；看不起"
+    }, 
+    "dynamics": {
+        "attr": "n", 
+        "sentence": "chemical () -- 化学动态学", 
+        "translation": "n：动态学；动力学"
+    }, 
+    "exclaim": {
+        "attr": "v", 
+        "sentence": "() in despair -- 绝望的呼喊", 
+        "translation": "v：呼喊；大叫"
+    }, 
+    "fabric": {
+        "attr": "n", 
+        "sentence": "woolen () -- 毛织品", 
+        "translation": "n：织物；布料"
+    }, 
+    "fur": {
+        "attr": "n", 
+        "sentence": "() coats -- 毛皮大衣", 
+        "translation": "n：毛皮；皮草；软毛"
+    }, 
+    "hoist": {
+        "attr": "n，v", 
+        "sentence": "Use a () to lift heavy things -- 用起重机提升重物", 
+        "translation": "n：起重机； v：提升；吊起；举高"
+    }, 
+    "irrational": {
+        "attr": "adj", 
+        "sentence": "Beasts are () creatures -- 野兽是没有理性的生物", 
+        "translation": "adj：不合理的；失去理性的"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "preserve": {
+        "attr": "v", 
+        "sentence": "The classic () traditional values -- 经典作品保持的传统价值", 
+        "translation": "v：保护；保存；保持"
+    }, 
+    "rigorous": {
+        "attr": "adj", 
+        "sentence": "Planes have to undergo () safety checks -- 飞机必须接受严密的安全检查", 
+        "translation": "adj：严密的；缜密的；严格的"
+    }, 
+    "robust": {
+        "attr": "adj", 
+        "sentence": "THe chair is not very () -- 那把椅子不太结实", 
+        "translation": "adj：强奸的；强壮的；结实的"
+    }, 
+    "segregate": {
+        "attr": "v", 
+        "sentence": "They () you from the rest of the community -- tam", 
+        "translation": "v：分开；分离；隔离"
+    }, 
+    "shatter": {
+        "attr": "v, n", 
+        "sentence": "a () of glass -- 一块碎玻璃", 
+        "translation": "v: 使粉碎；使破碎；使破灭 n: 碎片"
+    }, 
+    "spray": {
+        "attr": "n，v", 
+        "sentence": "a () of water -- 水花飞溅", 
+        "translation": "n：喷雾 v：喷洒"
+    }, 
+    "stagger": {
+        "attr": "v，n", 
+        "sentence": "() under heavy burdens -- 被沉重的担子压得步履蹒跚", 
+        "translation": "v：蹒跚；犹豫；动摇 n：蹒跚；踌躇"
+    }, 
+    "tension": {
+        "attr": "n", 
+        "sentence": "sense of () -- 紧张感", 
+        "translation": "n：绷紧；紧张"
+    }, 
+    "tentative": {
+        "attr": "adj，n", 
+        "sentence": "to make a () -- 做试验；尝试一下", 
+        "translation": "adj：试验性的；暂时的 n：假设；试验"
+    }, 
+    "turbulent": {
+        "attr": "adj", 
+        "sentence": " () rapids -- 汹涌的急流", 
+        "translation": "adj: 汹涌的；骚动的"
+    }, 
+    "underlie": {
+        "attr": "v", 
+        "sentence": "Intellect () power -- 才智是权力的基础", 
+        "translation": "v：构成 ... 的基础"
+    }, 
+    "verge": {
+        "attr": "n，v", 
+        "sentence": "The economy is on the () of collapse -- 经济已经到了崩溃的边缘", 
+        "translation": "n：边缘；边界 v：濒临；接近"
+    }
+}

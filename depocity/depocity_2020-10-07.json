@@ -1,0 +1,102 @@
+{
+    "barrel": {
+        "attr": "n", 
+        "sentence": "a () of beer -- 一桶啤酒", 
+        "translation": "n：桶；枪管"
+    }, 
+    "bid": {
+        "attr": "v，n", 
+        "sentence": "I () her goodnight -- 我想她道晚安", 
+        "translation": "v：投标；出价；叫牌；恳求；致意 n：投标；出价；叫牌"
+    }, 
+    "caress": {
+        "attr": "n，v", 
+        "sentence": "I gently () her hair -- 我轻抚她的秀发", 
+        "translation": "n：爱抚；抚摸；吻 v：爱抚；抚摸；吻"
+    }, 
+    "compulsory": {
+        "attr": "adj", 
+        "sentence": "() education -- 义务教育", 
+        "translation": "adj：强制的；必须做的"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "disputable": {
+        "attr": "adj", 
+        "sentence": "() testimony -- 有争辩余地的证据", 
+        "translation": "adj：可争议的；可质疑的"
+    }, 
+    "disturbance": {
+        "attr": "n", 
+        "sentence": "emotional () -- 情绪失调", 
+        "translation": "n：干扰；障碍；紊乱；骚乱"
+    }, 
+    "empirical": {
+        "attr": "adj", 
+        "sentence": "Many () results supported the hypothesis -- 很多经验性结论都证明假设成立", 
+        "translation": "adj：经验主义的；以经验为根据的"
+    }, 
+    "entail": {
+        "attr": "v", 
+        "sentence": "The crisis would () dissolution of the union -- 这场危机定会导致联盟解体", 
+        "translation": "v：是必要的；牵涉"
+    }, 
+    "foam": {
+        "attr": "n，v", 
+        "sentence": "The surface of the water is full of () -- 水面都是泡沫", 
+        "translation": "n：泡沫；泡沫塑料 v：起泡沫"
+    }, 
+    "irony": {
+        "attr": "n，adj", 
+        "sentence": "Do you see the () here -- 你看这里的讽刺之处了吗", 
+        "translation": "n：讽刺；反语 adj：铁的；似铁的"
+    }, 
+    "monotonous": {
+        "attr": "adj", 
+        "sentence": "The () voice sent me to sleep -- 单调乏味的声音使我昏昏欲睡", 
+        "translation": "adj：单调乏味的；毫无变化的"
+    }, 
+    "obstacle": {
+        "attr": "n", 
+        "sentence": "Parents' opposition is an () to her marriage -- 父母反对是她婚姻的障碍", 
+        "translation": "n：障碍"
+    }, 
+    "petrol": {
+        "attr": "n", 
+        "sentence": "a gallon of () -- 一加仑汽油", 
+        "translation": "n：汽油"
+    }, 
+    "preliminary": {
+        "attr": "adj", 
+        "sentence": "a () examination -- 一场测试", 
+        "translation": "adj：预备的；初步的"
+    }, 
+    "refine": {
+        "attr": "v", 
+        "sentence": "They () the gold out of th ore -- 他们从矿石中提炼出黄金", 
+        "translation": "v：精炼；改进"
+    }, 
+    "saddle": {
+        "attr": "n，v", 
+        "sentence": "mount the () -- 爬上马鞍", 
+        "translation": "n：马鞍；鞍座 v：装马鞍"
+    }, 
+    "scrape": {
+        "attr": "v，n", 
+        "sentence": "Do not () your feet on the floor -- 不要用脚摩擦地板发出刺耳的声音", 
+        "translation": "v：刮；擦 n：刮；擦"
+    }, 
+    "spectacular": {
+        "attr": "adj", 
+        "sentence": "This is () firm -- 这是一部壮观的电影", 
+        "translation": "adj：壮观的"
+    }, 
+    "thesis": {
+        "attr": "n", 
+        "sentence": "This () does not stand up to close inspection -- 这个论点经不起推敲", 
+        "translation": "n：论点；论文"
+    }
+}

@@ -1,0 +1,207 @@
+{
+    "album": {
+        "attr": "n", 
+        "sentence": "() of views -- 风景画集", 
+        "translation": "n：专辑；相册"
+    }, 
+    "altogether": {
+        "attr": "adv", 
+        "sentence": "There are ten people () -- 这里总共有十个人", 
+        "translation": "adv：总共；完全"
+    }, 
+    "apparatus": {
+        "attr": "n", 
+        "sentence": "x-ray () -- x光透视仪", 
+        "translation": "n：装置；仪器；器械；器官"
+    }, 
+    "bare": {
+        "attr": "adj，v", 
+        "sentence": "to () one's arm -- 露出胳膊", 
+        "translation": "adj：赤裸的；空的 v：使漏出"
+    }, 
+    "breed": {
+        "attr": "v，n", 
+        "sentence": "Many animals () in spring -- 很多动物在春天交配繁殖", 
+        "translation": "v：饲养；交配 n：品种"
+    }, 
+    "breeze": {
+        "attr": "n", 
+        "sentence": "The wheat ripped in the () -- 小麦在微风中起伏波动", 
+        "translation": "n：微风；和风"
+    }, 
+    "clue": {
+        "attr": "n", 
+        "sentence": "() to the case -- 案件的线索", 
+        "translation": "n：线索；提示"
+    }, 
+    "commodity": {
+        "attr": "n", 
+        "sentence": "() economy -- 商品经济", 
+        "translation": "n：商品；货物"
+    }, 
+    "concrete": {
+        "attr": "adj，n，v", 
+        "sentence": "() evidence -- 确凿的证据", 
+        "translation": "adj：有形的；混凝土的；确实具体的 n：混凝土；具体物 v：用混凝土覆盖"
+    }, 
+    "contemplate": {
+        "attr": "v", 
+        "sentence": "I () my hands -- 我凝视着自己的双手", 
+        "translation": "v：注视；凝视；沉思；期望"
+    }, 
+    "contemptuous": {
+        "attr": "adj", 
+        "sentence": "a () look -- 表示轻蔑的脸色", 
+        "translation": "adj：轻蔑的；瞧不起的"
+    }, 
+    "curl": {
+        "attr": "v，n", 
+        "sentence": "The dying leaves () up -- 快落下的叶子卷曲着", 
+        "translation": "v：卷；蜷缩 n：卷曲"
+    }, 
+    "distort": {
+        "attr": "v", 
+        "sentence": "The media would () reality -- 媒体会歪曲事实", 
+        "translation": "v：扭曲；歪曲；使变形"
+    }, 
+    "exclusion": {
+        "attr": "n", 
+        "sentence": "() of air creates a vacuum in the bottle -- 瓶子里的空气排除后就产生真空", 
+        "translation": "n：排除；排斥"
+    }, 
+    "exemplify": {
+        "attr": "v", 
+        "sentence": "I will () my point with a story -- 我会用一个故事举例说明我的观点", 
+        "translation": "v：举例说明；例证；例示"
+    }, 
+    "fare": {
+        "attr": "n，v", 
+        "sentence": "I () well without computers -- 没有电脑我也过的很好", 
+        "translation": "n：车费；票价；费用 v：进展；遭遇"
+    }, 
+    "gossip": {
+        "attr": "v，n", 
+        "sentence": "Never () about your boss -- 永远不要说你上司的闲话", 
+        "translation": "v：散播 n：流言蜚语；闲话"
+    }, 
+    "graze": {
+        "attr": "v，n", 
+        "sentence": "to () cattle -- 放牛", 
+        "translation": "v：放牧；吃草 n：擦伤"
+    }, 
+    "grim": {
+        "attr": "adj", 
+        "sentence": "Her face wore a () look -- 她脸上显出严厉的神情", 
+        "translation": "adj: 严厉的；严峻的"
+    }, 
+    "inspect": {
+        "attr": "v", 
+        "sentence": "() the passport -- 检查护照", 
+        "translation": "v：检查；视察"
+    }, 
+    "integration": {
+        "attr": "n", 
+        "sentence": "European () -- 欧洲一体化", 
+        "translation": "n：结合；整合；一体化"
+    }, 
+    "liner": {
+        "attr": "n", 
+        "sentence": "The () is about to leave the port -- 邮轮将要离港了", 
+        "translation": "n：邮轮；客轮；衬里"
+    }, 
+    "magistrate": {
+        "attr": "n", 
+        "sentence": "The thief was brought before the () -- 窃贼被带到地方法官前", 
+        "translation": "n：地方法官；治安官；行政官"
+    }, 
+    "midst": {
+        "attr": "n", 
+        "sentence": "in the () of the war -- 在战争进行之中", 
+        "translation": "n：中间；中部"
+    }, 
+    "naughty": {
+        "attr": "adj", 
+        "sentence": "a () child -- 顽皮的孩子", 
+        "translation": "adj：顽皮的"
+    }, 
+    "outfit": {
+        "attr": "n，v", 
+        "sentence": "cooking () -- 全套烹饪设备", 
+        "translation": "n：全套装备；整套服装；配备 v：装备；配置设备"
+    }, 
+    "pepper": {
+        "attr": "n，v", 
+        "sentence": "() if hot -- 胡椒是辣的", 
+        "translation": "n：胡椒粉；辣椒 v：使布满"
+    }, 
+    "plain": {
+        "attr": "n，adj", 
+        "sentence": "() clothes -- 朴素的衣服", 
+        "translation": "n：平原 adj：清楚地；明显的；浅白的"
+    }, 
+    "plight": {
+        "attr": "n，v", 
+        "sentence": "economic () -- 经济困境", 
+        "translation": "n：境况；困境 v：保证；发誓"
+    }, 
+    "plot": {
+        "attr": "n,v", 
+        "sentence": "The military () a coup -- 军方密谋一场政变", 
+        "translation": "n: 图标；阴谋 v: 划分；绘图；密谋"
+    }, 
+    "rival": {
+        "attr": "n，v", 
+        "sentence": "a () in love -- 情敌", 
+        "translation": "n：竞争者；敌手 v：竞争；相匹敌"
+    }, 
+    "rod": {
+        "attr": "n", 
+        "sentence": "a () with a hollow core -- 一根空心杆子", 
+        "translation": "n：杆；棒"
+    }, 
+    "sophisticated": {
+        "attr": "adj", 
+        "sentence": "She is a () journalist -- 她是一个富有经验的记者", 
+        "translation": "adj：老练的；世故的"
+    }, 
+    "sow": {
+        "attr": "v", 
+        "sentence": "Don't () rumors -- 别散播谣言", 
+        "translation": "v：播种；散步"
+    }, 
+    "spoil": {
+        "attr": "v，n", 
+        "sentence": "As a mother, you should not () your child -- 作为母亲，你不能宠坏你的孩子", 
+        "translation": "v：宠坏；变糟；变质 n：赃物；战利品"
+    }, 
+    "sponsor": {
+        "attr": "n，v", 
+        "sentence": "A wealthy () came to our rescue with a generous donation -- 有个富有的赞助人慷慨捐赠来解救我们", 
+        "translation": "n：赞助商；发起人 v：赞助；主办"
+    }, 
+    "summit": {
+        "attr": "n，adj", 
+        "sentence": "The Prime Minister is attending the () -- 首相正在参加最高级会议", 
+        "translation": "n：顶峰；定点 adj：最高级的"
+    }, 
+    "surge": {
+        "attr": "v，n", 
+        "sentence": "Waves () waves -- 后浪推前浪", 
+        "translation": "v：汹涌；涌起；猛增 n：汹涌；波涛；激增"
+    }, 
+    "transient": {
+        "attr": "adj", 
+        "sentence": "We stayed at the inn as () guests -- 我们在小旅馆中短暂停留", 
+        "translation": "adj：短暂的"
+    }, 
+    "tribe": {
+        "attr": "n", 
+        "sentence": "a rude () -- 野蛮的部落", 
+        "translation": "n：部落"
+    }, 
+    "urban": {
+        "attr": "adj", 
+        "sentence": "The () poor are in need of accommodation -- 城市里的穷人需要住房", 
+        "translation": "adj：诚实的；都市的"
+    }
+}

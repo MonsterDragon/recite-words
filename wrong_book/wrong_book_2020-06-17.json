@@ -1,0 +1,47 @@
+{
+    "compel": {
+        "attr": "v", 
+        "sentence": "My conscience () me to confess -- 良心迫使我承认了", 
+        "translation": "迫使；强迫"
+    }, 
+    "conscientious": {
+        "attr": "adj", 
+        "sentence": "a () worker -- 一个勤勉的工作人员", 
+        "translation": "本着良心的， 勤勉认真的"
+    }, 
+    "cricket": {
+        "attr": "n", 
+        "sentence": "() match -- 板球比赛", 
+        "translation": "板球；蟋蟀"
+    }, 
+    "elite": {
+        "attr": "n", 
+        "sentence": "the () troops -- 精英部队", 
+        "translation": "精英；精华；中坚"
+    }, 
+    "genuinely": {
+        "attr": "adv", 
+        "sentence": "I () feel happy -- 我感到由衷的快乐", 
+        "translation": "由衷地；真诚地；真正地"
+    }, 
+    "interference": {
+        "attr": "v", 
+        "sentence": "He hates () with his work -- 他厌恶别人妨碍他的工作", 
+        "translation": "干扰；干涉；妨碍"
+    }, 
+    "obscure": {
+        "attr": "v, adj", 
+        "sentence": "The point of his speech is () -- 他发言的观点不明确", 
+        "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解"
+    }, 
+    "simultaneous": {
+        "attr": "adj", 
+        "sentence": "() interpreation -- 同声传译", 
+        "translation": "同时的，同步的"
+    }, 
+    "thrift": {
+        "attr": "n", 
+        "sentence": "His success was due to his industry and () -- 他的成功在于他的勤奋与简朴", 
+        "translation": "节俭；节约"
+    }
+}

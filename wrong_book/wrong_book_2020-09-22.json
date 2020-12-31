@@ -1,0 +1,42 @@
+{
+    "anguish": {
+        "attr": "n", 
+        "sentence": "The quarrel caused her great () -- 争吵给她造成了极大的痛苦", 
+        "translation": "n：苦闷；痛苦"
+    }, 
+    "bleak": {
+        "attr": "adj", 
+        "sentence": "His face was () -- 他脸色阴郁", 
+        "translation": "adj：荒凉的；阴冷的；凄凉的"
+    }, 
+    "contemptible": {
+        "attr": "adj", 
+        "sentence": "a () act of violence -- 卑劣的暴力行径", 
+        "translation": "adj：可鄙的；可轻视的"
+    }, 
+    "deliberate": {
+        "attr": "v，adj", 
+        "sentence": "take () action -- 采取深思熟虑的行动", 
+        "translation": "v：深思熟虑 adj：深思熟虑的"
+    }, 
+    "drift": {
+        "attr": "n, v", 
+        "sentence": "There is a slow () into crsis -- 有一种渐入危机的趋势", 
+        "translation": "n: 流动；趋势 v: 飘；漂流"
+    }, 
+    "feudal": {
+        "attr": "adj", 
+        "sentence": "The () barons were cruel to the people -- 封建贵族对人民残酷", 
+        "translation": "adj：封建的；封建制度"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "tiresome": {
+        "attr": "adj", 
+        "sentence": "It's () to wait in the time -- 排队等候太烦人", 
+        "translation": "adj：讨厌的；令人厌烦的"
+    }
+}

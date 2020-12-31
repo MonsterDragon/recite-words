@@ -1,0 +1,102 @@
+{
+    "antique": {
+        "attr": "n, v", 
+        "sentence": "The () furniture was made in 1700 -- 这件古家具是1700年制造的", 
+        "translation": "n: 古董；古代文物 v: 古老的；过时的"
+    }, 
+    "ballot": {
+        "attr": "n", 
+        "sentence": "I cast a () for him -- 我投了他一票", 
+        "translation": "n: 无记名投票 v: 进行无记名投票"
+    }, 
+    "calcium": {
+        "attr": "n", 
+        "sentence": "Milk is an important source of () -- 牛奶是钙质的重要来源", 
+        "translation": "n: 钙"
+    }, 
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "cultivate": {
+        "attr": "v, n", 
+        "sentence": "His job is to () crops -- 他的工作就是终止农作物", 
+        "translation": "v: 培养；栽培"
+    }, 
+    "dazzle": {
+        "attr": "v, n", 
+        "sentence": "Lights () him -- 灯光使他目眩", 
+        "translation": "v: 使目眩 n: 耀眼；炫目"
+    }, 
+    "doctrine": {
+        "attr": "n", 
+        "sentence": "This is a generally accepted () -- 这是一个被普遍接受的学说", 
+        "translation": "n: 学说；教义"
+    }, 
+    "eloquent": {
+        "attr": "adj", 
+        "sentence": "an () speaker -- 一个雄辩地演讲家", 
+        "translation": "adj: 雄辩地；有口才的"
+    }, 
+    "essence": {
+        "attr": "n", 
+        "sentence": "We should penetrate the appearence to see the () -- 我们需要透过现象看本质", 
+        "translation": "n: 本质；精髓"
+    }, 
+    "extract": {
+        "attr": "n, v", 
+        "sentence": "to () a teeth -- 拔牙", 
+        "translation": "n: 提取物；摘录；精华 v: 拔出；提取；摘录"
+    }, 
+    "patronage": {
+        "attr": "n", 
+        "sentence": "We thank you for your () -- 我们感谢您的惠顾 ", 
+        "translation": "n: 赞助；惠顾；委任权"
+    }, 
+    "perpetual": {
+        "attr": "adj", 
+        "sentence": "They suffer from () hunger -- 他们一直忍饥挨饿", 
+        "translation": "adj: 持久的；长久的"
+    }, 
+    "prestige": {
+        "attr": "n", 
+        "sentence": "international () -- 国际声望", 
+        "translation": "n: 声望；威望；威信"
+    }, 
+    "publicize": {
+        "attr": "v", 
+        "sentence": "to () a product -- 宣传产品", 
+        "translation": "v: 宣传；公布"
+    }, 
+    "recruit": {
+        "attr": "n, v", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v: 招募；招聘 n: 新兵；新成员"
+    }, 
+    "stern": {
+        "attr": "adj, n", 
+        "sentence": "a () teacher -- 一个严厉的老师", 
+        "translation": "adj: 严厉的；严格的 n: 船尾"
+    }, 
+    "strenuous": {
+        "attr": "adj", 
+        "sentence": "a () task -- 一个艰巨的任务", 
+        "translation": "adj: 费力的；繁重的；艰苦的"
+    }, 
+    "thumb": {
+        "attr": "n", 
+        "sentence": "The baby sucked his () -- 婴儿吸吮他的大拇指", 
+        "translation": "n: 大拇指"
+    }, 
+    "tumour": {
+        "attr": "n", 
+        "sentence": "() cell -- 癌细胞", 
+        "translation": "n: 肿瘤；肿块"
+    }, 
+    "versatile": {
+        "attr": "adj", 
+        "sentence": "Nylon is a () material -- 尼龙是一种有多方面用途的材料", 
+        "translation": "多方面的；多才多艺的"
+    }
+}

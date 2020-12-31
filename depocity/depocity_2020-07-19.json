@@ -1,0 +1,122 @@
+{
+    "allegiance": {
+        "attr": "n", 
+        "sentence": "His () has never been questioned -- 他的忠心毫无疑问", 
+        "translation": "n：忠诚；效忠；忠贞"
+    }, 
+    "bewilder": {
+        "attr": "v", 
+        "sentence": "So many questions () me -- 有如此多的问题是我困惑", 
+        "translation": "v：使迷惑；使不知所措"
+    }, 
+    "conviction": {
+        "attr": "n", 
+        "sentence": "He will appeal against his () -- 他将对判决进行上诉", 
+        "translation": "n：坚信；判罪；信服"
+    }, 
+    "dedicate": {
+        "attr": "v", 
+        "sentence": "He would () his life to the country -- 他将为国家奉献一生", 
+        "translation": "v：奉献；献身；致力"
+    }, 
+    "deplore": {
+        "attr": "v, n", 
+        "sentence": "We () the terrible accident -- 我们对这可怕的事故深表遗憾", 
+        "translation": "v: 谴责；强烈反对；悲叹"
+    }, 
+    "deprive": {
+        "attr": "v", 
+        "sentence": "Never () someone of hope -- 永远不要使别人失去希望", 
+        "translation": "v：剥夺；使丧失"
+    }, 
+    "exhibit": {
+        "attr": "n，v", 
+        "sentence": "the space () -- 太空展", 
+        "translation": "n：展品；展览 v：展览；陈列；展示"
+    }, 
+    "fragment": {
+        "attr": "n，v", 
+        "sentence": "I overhead a () of their converation -- 我无意中听到他们谈话的片段", 
+        "translation": "n：碎片；断片；片段 v：使...成碎片；使...分裂"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "levy": {
+        "attr": "v，n", 
+        "sentence": "to () men for a war -- 征召男人参战", 
+        "translation": "v：征收；征募 n：征兵；征税"
+    }, 
+    "moreover": {
+        "attr": "adv", 
+        "sentence": "I don't like skating. (), the ice is too thin -- 我不喜欢滑冰，而且冰太薄了", 
+        "translation": "adv：而且，此外"
+    }, 
+    "plough": {
+        "attr": "n，v", 
+        "sentence": "Hard earth doesn't () well -- 硬地不好翻", 
+        "translation": "n：犁；耕地 v：犁；耕；翻"
+    }, 
+    "severe": {
+        "attr": "adj", 
+        "sentence": "Her injuries are () -- 她的伤很严重", 
+        "translation": "adj：严重的；非常困难的；严厉的"
+    }, 
+    "solitary": {
+        "attr": "adj", 
+        "sentence": "The artist is a () being -- 艺术家是一个孤独的人", 
+        "translation": "adj：独自的；单独的；孤寂的"
+    }, 
+    "specification": {
+        "attr": "n", 
+        "sentence": "All the parts were machined to the () -- 所有的零件都是按规格加工的", 
+        "translation": "n：规格；规范"
+    }, 
+    "thoroughly": {
+        "attr": "adv", 
+        "sentence": "Chicken must be cooked () -- 鸡肉必须彻底煮熟", 
+        "translation": "adv：彻底地；完全地"
+    }, 
+    "throughout": {
+        "attr": "prep，adv", 
+        "sentence": "It rained () the night -- 雨下了一整夜", 
+        "translation": "prep：遍及；各处；自始至终 adv：自始至终；到处"
+    }, 
+    "to be sure": {
+        "attr": "", 
+        "sentence": "He is clever, (), but not very hardworking -- 诚然，他很聪明但是不勤奋", 
+        "translation": "无可否认；诚然"
+    }, 
+    "trait": {
+        "attr": "n", 
+        "sentence": "character () -- 性格特征", 
+        "translation": "n：特征；特点"
+    }, 
+    "trim": {
+        "attr": "v，adj，n", 
+        "sentence": "a () and neat garden -- 整洁美观的花园", 
+        "translation": "v：修建；装饰 adj：整齐的；整洁的 n：修剪"
+    }, 
+    "verify": {
+        "attr": "v", 
+        "sentence": "Please () and approve the document -- 请审核批准这个文件", 
+        "translation": "v：核实；证实"
+    }, 
+    "veto": {
+        "attr": "n，v", 
+        "sentence": "the president's power of () -- 总统的否决权", 
+        "translation": "n：否决；否决权 v：否决"
+    }, 
+    "vocational": {
+        "attr": "adj", 
+        "sentence": "() training -- 专业训练", 
+        "translation": "adj：职业的"
+    }, 
+    "warrant": {
+        "attr": "n，v", 
+        "sentence": "The police obtained a search () for her house -- 警察拿到了她家的搜查令", 
+        "translation": "n：搜查令；逮捕令 v：使...有必要"
+    }
+}

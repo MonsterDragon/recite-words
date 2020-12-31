@@ -1,0 +1,72 @@
+{
+    "catastrophe": {
+        "attr": "n", 
+        "sentence": "() insurance -- 灾难保险", 
+        "translation": "灾难"
+    }, 
+    "cube": {
+        "attr": "n", 
+        "sentence": "sugar () -- 方糖", 
+        "translation": "立方体；立方"
+    }, 
+    "disruption": {
+        "attr": "n", 
+        "sentence": "Fogs brought () to the traffic -- 大雾给交通带来了混乱", 
+        "translation": "中断；扰乱；混乱"
+    }, 
+    "eminent": {
+        "attr": "adj", 
+        "sentence": "He is () in the field of biology -- 他在生物学领域很有名", 
+        "translation": "著名的；非凡的"
+    }, 
+    "fluctuate": {
+        "attr": "v", 
+        "sentence": "Stock prices () wildly -- 股票价格大幅波动", 
+        "translation": "波动；起伏不定"
+    }, 
+    "hemisphere": {
+        "attr": "n", 
+        "sentence": "the northern () -- 北半球", 
+        "translation": "半球体"
+    }, 
+    "huddle": {
+        "attr": "v, n", 
+        "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人", 
+        "translation": "v: 拥挤 n: 挤作一团"
+    }, 
+    "illuminate": {
+        "attr": "v", 
+        "sentence": "() the sky -- 照亮天空", 
+        "translation": "照亮；阐明"
+    }, 
+    "obscure": {
+        "attr": "v, adj", 
+        "sentence": "The point of his speech is () -- 他发言的观点不明确", 
+        "translation": "adj: 昏暗的；不清楚的；无名的 v: 使模糊；使隐晦；使费解"
+    }, 
+    "reciprocity": {
+        "attr": "n", 
+        "sentence": "equality () -- 平等互惠", 
+        "translation": "相互性；互惠"
+    }, 
+    "scorn": {
+        "attr": "n, v", 
+        "sentence": "an expression of () -- 轻视的表情", 
+        "translation": "蔑视"
+    }, 
+    "startling": {
+        "attr": "adj, v", 
+        "sentence": "a () change -- 吃惊的变化", 
+        "translation": "adj: 令人吃惊地 v: 使惊动；使吃惊"
+    }, 
+    "susceptible": {
+        "attr": "adj", 
+        "sentence": "Children are more () to colds than adults -- 小孩比大人容易患感冒", 
+        "translation": "易受影响的；易动感情的"
+    }, 
+    "versatile": {
+        "attr": "adj", 
+        "sentence": "Nylon is a () material -- 尼龙是一种有多方面用途的材料", 
+        "translation": "多方面的；多才多艺的"
+    }
+}

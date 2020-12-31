@@ -1,0 +1,222 @@
+{
+    "bare": {
+        "attr": "adj，v", 
+        "sentence": "to () one's arm -- 露出胳膊", 
+        "translation": "adj：赤裸的；空的 v：使漏出"
+    }, 
+    "beverage": {
+        "attr": "n", 
+        "sentence": "Beer is a kind of () -- 啤酒是一种饮料", 
+        "translation": "n：饮料"
+    }, 
+    "ceiling": {
+        "attr": "n", 
+        "sentence": "lights on the () -- 天花板上的灯", 
+        "translation": "n：天花板"
+    }, 
+    "conceive": {
+        "attr": "v", 
+        "sentence": "() a plan -- 构思一个计划", 
+        "translation": "v：构思；设想"
+    }, 
+    "concise": {
+        "attr": "adj", 
+        "sentence": "() description -- 简要地描述", 
+        "translation": "adj：简要的；简明的"
+    }, 
+    "congestion": {
+        "attr": "n", 
+        "sentence": "There is always traffic () in that stree -- 那条路总是有交通堵塞", 
+        "translation": "n：堵塞；充血；瘀血"
+    }, 
+    "contention": {
+        "attr": "n", 
+        "sentence": "The evidence supports their () -- 这一证据证实她的论点", 
+        "translation": "n：论点；争辩"
+    }, 
+    "crab": {
+        "attr": "n；v", 
+        "sentence": "The () crab is great delicacy -- 这螃蟹是珍馐美味", 
+        "translation": "n：螃蟹 v：抱怨"
+    }, 
+    "decent": {
+        "attr": "adj", 
+        "sentence": "() behaviour -- 正当行为", 
+        "translation": "adj：像样的；体面的；正派的"
+    }, 
+    "diffusion": {
+        "attr": "n", 
+        "sentence": "free () -- 自由扩散", 
+        "translation": "n：扩散；传播"
+    }, 
+    "dimension": {
+        "attr": "n", 
+        "sentence": "Height is an external () -- 高是外部尺寸", 
+        "translation": "n：维度；尺寸"
+    }, 
+    "dreadful": {
+        "attr": "adj", 
+        "sentence": "a () disaster -- 可拍的灾难", 
+        "translation": "adj：可怕的；恐惧的"
+    }, 
+    "ebb": {
+        "attr": "v，n", 
+        "sentence": "My luck is on the () -- 我的运气不好", 
+        "translation": "n：退潮；衰退；减少 v：退潮；衰退；减少"
+    }, 
+    "exceedingly": {
+        "attr": "adv", 
+        "sentence": "The tyrant was () cruel -- 那个暴君极其残忍", 
+        "translation": "adv：极度地；非常地"
+    }, 
+    "excess": {
+        "attr": "n，adj", 
+        "sentence": "drink to () -- 过量饮酒", 
+        "translation": "n：过度；超过 adj：过度的；额外的"
+    }, 
+    "fare": {
+        "attr": "n，v", 
+        "sentence": "I () well without computers -- 没有电脑我也过的很好", 
+        "translation": "n：车费；票价；费用 v：进展；遭遇"
+    }, 
+    "generally": {
+        "attr": "adv", 
+        "sentence": "() speaking -- 一般而言", 
+        "translation": "adv：通常的；一般地"
+    }, 
+    "gossip": {
+        "attr": "v，n", 
+        "sentence": "Never () about your boss -- 永远不要说你上司的闲话", 
+        "translation": "v：散播 n：流言蜚语；闲话"
+    }, 
+    "grave": {
+        "attr": "n，adj", 
+        "sentence": "() wound -- 严重的创伤", 
+        "translation": "n：坟墓 adj：严重的；沉重的"
+    }, 
+    "hint": {
+        "attr": "v，n", 
+        "sentence": "He gave me a () that I was being cheated -- 他安是我在受欺骗", 
+        "translation": "v：暗示；提示 n：暗示；提示"
+    }, 
+    "incensory": {
+        "attr": "n", 
+        "sentence": "incense and () -- 熏香和香炉", 
+        "translation": "n：香炉"
+    }, 
+    "intensity": {
+        "attr": "n", 
+        "sentence": "The pain increased in () -- 疼痛越来越剧烈了", 
+        "translation": "n：强度；强烈"
+    }, 
+    "invade": {
+        "attr": "v", 
+        "sentence": "Germs may () the organism -- 细菌会侵入有机体", 
+        "translation": "v：侵犯；侵略"
+    }, 
+    "lame": {
+        "attr": "adj；v", 
+        "sentence": "a () excuse -- 不充分的理由", 
+        "translation": "adj：瘸的；站不住脚的；无说服力的 v：变瘸"
+    }, 
+    "lane": {
+        "attr": "n", 
+        "sentence": "bus lane -- 公共汽车专用车道", 
+        "translation": "n：小路；小巷；巷道；车道"
+    }, 
+    "multitude": {
+        "attr": "n", 
+        "sentence": "a noisy () -- 喧闹的人群", 
+        "translation": "n：大量；众多；群众"
+    }, 
+    "narrative": {
+        "attr": "n，adj", 
+        "sentence": "() poem -- 叙事诗", 
+        "translation": "n：叙述；叙事 adj：叙述性的"
+    }, 
+    "narrow": {
+        "attr": "adj，v", 
+        "sentence": "a () path -- 羊肠小道", 
+        "translation": "adj：狭窄的；窄小的 v：使窄小"
+    }, 
+    "nudge": {
+        "attr": "v，n", 
+        "sentence": "She gave him a () --他轻轻推了他一下", 
+        "translation": "v：轻推；劝说；鼓动 n：轻推；劝说；鼓动"
+    }, 
+    "plot": {
+        "attr": "n,v", 
+        "sentence": "The military () a coup -- 军方密谋一场政变", 
+        "translation": "n: 图标；阴谋 v: 划分；绘图；密谋"
+    }, 
+    "press": {
+        "attr": "n，v", 
+        "sentence": "() conference -- 新闻招待会", 
+        "translation": "n：按；出版社；新闻界 v：按；压榨"
+    }, 
+    "puff": {
+        "attr": "n，v", 
+        "sentence": "The stove let out a () of smoke -- 炉子里冒出一股烟", 
+        "translation": "n：吸；吹；喘息 v：吸；吹；喘息"
+    }, 
+    "rage": {
+        "attr": "n；v", 
+        "sentence": "() of infection -- 传染病的肆虐", 
+        "translation": "n：狂补；暴怒；肆虐 v：发怒；怒斥"
+    }, 
+    "refrain": {
+        "attr": "v，n", 
+        "sentence": "I could not () from laughter -- 我忍俊不禁", 
+        "translation": "v：克制；节制；忍耐 n：副歌"
+    }, 
+    "revise": {
+        "attr": "v", 
+        "sentence": "to () the Constitution -- 修改宪法", 
+        "translation": "v：校阅；修正；温习"
+    }, 
+    "segregate": {
+        "attr": "v", 
+        "sentence": "They () you from the rest of the community -- 他们把你从剩余的社区中隔离出来", 
+        "translation": "v：分开；分离；隔离"
+    }, 
+    "spectacle": {
+        "attr": "n", 
+        "sentence": "The sunrise was a splendid () -- 日出可是个壮观的景象", 
+        "translation": "n：景象，奇观；场面"
+    }, 
+    "spoil": {
+        "attr": "v，n", 
+        "sentence": "As a mother, you should not () your child -- 作为母亲，你不能宠坏你的孩子", 
+        "translation": "v：宠坏；变糟；变质 n：赃物；战利品"
+    }, 
+    "strain": {
+        "attr": "v，n", 
+        "sentence": "to () the muscle -- 拉伤肌肉", 
+        "translation": "v：拉紧 n：压力；拉力"
+    }, 
+    "substantially": {
+        "attr": "adv", 
+        "sentence": "not () different -- 没有本质上的不同", 
+        "translation": "adv：实质上；本质上"
+    }, 
+    "surge": {
+        "attr": "v，n", 
+        "sentence": "Waves () waves -- 后浪推前浪", 
+        "translation": "v：汹涌；涌起；猛增 n：汹涌；波涛；激增"
+    }, 
+    "transient": {
+        "attr": "adj", 
+        "sentence": "We stayed at the inn as () guests -- 我们在小旅馆中短暂停留", 
+        "translation": "adj：短暂的"
+    }, 
+    "tribe": {
+        "attr": "n", 
+        "sentence": "a rude () -- 野蛮的部落", 
+        "translation": "n：部落"
+    }, 
+    "unanimous": {
+        "attr": "adj", 
+        "sentence": "The jury are unable to reach a () decision -- 陪审团无法达成一致裁决", 
+        "translation": "adj：全体的；一致的"
+    }
+}

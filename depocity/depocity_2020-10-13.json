@@ -1,0 +1,137 @@
+{
+    "attuned": {
+        "attr": "adj", 
+        "sentence": "He is more () to the political climate of the region -- 他更适应这一地区的政治气候", 
+        "translation": "adj：熟悉的 "
+    }, 
+    "authorize": {
+        "attr": "v", 
+        "sentence": "() the project -- 批准工程", 
+        "translation": "v：授权；委托；批准"
+    }, 
+    "conformity": {
+        "attr": "n", 
+        "sentence": "I acted in () with my principles -- 我依照我的原则办事", 
+        "translation": "n：符合；一致；遵从；依照"
+    }, 
+    "consideration": {
+        "attr": "n", 
+        "sentence": "careful () -- 仔细的考虑", 
+        "translation": "n：考虑；体贴；报酬"
+    }, 
+    "contraction": {
+        "attr": "n", 
+        "sentence": "muscular () -- 肌肉的收缩", 
+        "translation": "n：收缩；缩小"
+    }, 
+    "controversial": {
+        "attr": "adj", 
+        "sentence": "we tried to stay away from () topics -- 我们尽量避免一些争议的话题", 
+        "translation": "adj：有争议的"
+    }, 
+    "dean": {
+        "attr": "n", 
+        "sentence": "install a () -- 让一个院长就职", 
+        "translation": "n：学院院长；系主任"
+    }, 
+    "deceptiveness": {
+        "attr": "n", 
+        "sentence": "distinguish between () and true -- 分辨是非", 
+        "translation": "n：欺骗性；虚伪"
+    }, 
+    "discreet": {
+        "attr": "adj", 
+        "sentence": "She wore () jewellery -- 她戴着素净的首饰", 
+        "translation": "adj：谨慎的；不显眼的；朴素的"
+    }, 
+    "distress": {
+        "attr": "adj，n", 
+        "sentence": "Everyone should help people in () -- 每一个人应帮助有困难的人", 
+        "translation": "adj：有苦难的  n：忧虑；悲伤"
+    }, 
+    "drip": {
+        "attr": "n，v", 
+        "sentence": "listen to the () of the rain -- 听雨滴下的声音", 
+        "translation": "n：水滴 v：滴答"
+    }, 
+    "exotic": {
+        "attr": "adj", 
+        "sentence": "() animals -- 外来动物", 
+        "translation": "adj：外来的；外国的；奇异的"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "intact": {
+        "attr": "adj", 
+        "sentence": "The packages are () -- 包装完好无损", 
+        "translation": "adj：完整无损的；未经触动的"
+    }, 
+    "intricate": {
+        "attr": "adj", 
+        "sentence": "The design is () -- 这个设计错综复杂", 
+        "translation": "adj：错综复杂的"
+    }, 
+    "jog": {
+        "attr": "v，n", 
+        "sentence": "Matters () along -- 事情在慢慢地进行", 
+        "translation": "v：慢跑；轻碰；轻撞 n：慢跑；轻碰；轻撞"
+    }, 
+    "oblige": {
+        "attr": "v", 
+        "sentence": "The laws () parents to send their children to school -- 法律要求父母送子女上学", 
+        "translation": "v：迫使；效劳"
+    }, 
+    "poll": {
+        "attr": "n，v", 
+        "sentence": "They expected a heavy () -- 他们期望会有很高的投票数", 
+        "translation": "n：民意调查 v：获得"
+    }, 
+    "proposition": {
+        "attr": "n", 
+        "sentence": "to demonstrate a () -- 证明一个命题", 
+        "translation": "n：命题；建议；主张"
+    }, 
+    "rein": {
+        "attr": "n，v", 
+        "sentence": "Give free () to your imagination -- 自由的运用你的想象力", 
+        "translation": "n：缰绳；控制 v：控制；驾驭"
+    }, 
+    "revelation": {
+        "attr": "n", 
+        "sentence": "a moment of () -- 真相大白的一刻", 
+        "translation": "n：揭露"
+    }, 
+    "sake": {
+        "attr": "n", 
+        "sentence": "We made concession for the () of peace -- 为了和平我们做出了让步", 
+        "translation": "n：缘故；理由"
+    }, 
+    "saturate": {
+        "attr": "v", 
+        "sentence": "The heavy rain will () our clothes -- 大雨将浸透我们的衣服", 
+        "translation": "v：使浸透；使湿透；使饱和"
+    }, 
+    "sham": {
+        "attr": "v，adj，n", 
+        "sentence": "() modest -- 伪装谦虚", 
+        "translation": "v：伪装 adj：虚假的 n：假冒者"
+    }, 
+    "specialise": {
+        "attr": "v", 
+        "sentence": "He plans to () in history -- 他打算专门研究历史", 
+        "translation": "v：专用于；专门研究"
+    }, 
+    "stripe": {
+        "attr": "n", 
+        "sentence": "a dress with dark () -- 一条有着深色条纹的裙子", 
+        "translation": "n：条纹；类型"
+    }, 
+    "wrench": {
+        "attr": "v，n", 
+        "sentence": "the () of leaving home -- 离家的悲痛", 
+        "translation": "v：猛扭；扭伤；挣脱 n：扳手；痛苦"
+    }
+}

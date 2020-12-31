@@ -1,0 +1,132 @@
+{
+    "accusation": {
+        "attr": "n", 
+        "sentence": "letter of () -- 检举信", 
+        "translation": "n：控告；起诉"
+    }, 
+    "arithmetic": {
+        "attr": "n", 
+        "sentence": "He got the answer by mental () -- 他用心算得出了答案", 
+        "translation": "n：算术"
+    }, 
+    "circus": {
+        "attr": "n", 
+        "sentence": "() performers -- 马戏团演员", 
+        "translation": "n：马戏团"
+    }, 
+    "compliment": {
+        "attr": "v，n", 
+        "sentence": "sincere () -- 由衷地称赞", 
+        "translation": "v：称赞；恭维 n：称赞；恭维"
+    }, 
+    "condemn": {
+        "attr": "v", 
+        "sentence": "They () him to death for his murder -- 他们因为他的谋杀而判处他死刑", 
+        "translation": "v：谴责；判刑"
+    }, 
+    "detain": {
+        "attr": "v", 
+        "sentence": "The police () several people but released them after questioning -- 警方拘留了几个人，但在审问后释放了他们", 
+        "translation": "v：扣留；拘押；耽搁"
+    }, 
+    "dial": {
+        "attr": "n，v", 
+        "sentence": "I started to () but then hung up -- 我开始拨号，但后来挂断了电话", 
+        "translation": "n：拨号；刻度盘 v：拨"
+    }, 
+    "diversity": {
+        "attr": "n", 
+        "sentence": "cultrual () -- 文化多样性", 
+        "translation": "n：多样性；多样化"
+    }, 
+    "endorse": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 支持候选人", 
+        "translation": "v：签署；支持；赞同"
+    }, 
+    "envisage": {
+        "attr": "v", 
+        "sentence": "() a bright future -- 设想一个光明的未来", 
+        "translation": "v：设想；想象"
+    }, 
+    "feat": {
+        "attr": "n", 
+        "sentence": "an acrobatic () -- 杂技表演", 
+        "translation": "n：功绩，技艺"
+    }, 
+    "gauge": {
+        "attr": "n，v", 
+        "sentence": "the temperature () -- 温度计", 
+        "translation": "n：测量仪器；规格；评估 v：测量；评估"
+    }, 
+    "gear": {
+        "attr": "n，v", 
+        "sentence": "You have to gear down, when you drive uphill -- 当你上山时，必须换抵挡", 
+        "translation": "n：用具；齿轮 v：换挡；调整"
+    }, 
+    "hence": {
+        "attr": "adv", 
+        "sentence": "It is very late, hence you must go to bed -- 时间已经很晚了，因此你必须睡觉去", 
+        "translation": "adv：因此；从此之后"
+    }, 
+    "hypocrisy": {
+        "attr": "n", 
+        "sentence": "We were cheated by his () -- 我们都被他的伪善欺骗了", 
+        "translation": "n：伪善；虚伪"
+    }, 
+    "indicate": {
+        "attr": "v", 
+        "sentence": "Road markings () where you can stop -- 道路标志告诉你哪里可以停车", 
+        "translation": "v：指示；表明；暗示"
+    }, 
+    "ingenious": {
+        "attr": "adj", 
+        "sentence": "an () invention -- 有创意的发明", 
+        "translation": "adj：有创意的；巧妙地"
+    }, 
+    "liable": {
+        "attr": "adj", 
+        "sentence": "It is () to rain -- 很可能要下雨", 
+        "translation": "adj：有义务的；有责任的"
+    }, 
+    "lid": {
+        "attr": "n", 
+        "sentence": "I can't get thelid off the jar -- 我打不开这个管子的盖子", 
+        "translation": "n：盖子"
+    }, 
+    "merchandise": {
+        "attr": "n，v", 
+        "sentence": "The () is not up to standard -- 货物品质未达标准", 
+        "translation": "n：商品；货物 v：推销；销售"
+    }, 
+    "perceive": {
+        "attr": "v", 
+        "sentence": "We can () his sorrow by looks on his face -- 我们从他的表情中察觉出悲伤", 
+        "translation": "v：察觉；理解；发觉"
+    }, 
+    "savage": {
+        "attr": "adj，n，v", 
+        "sentence": "a () temper -- 凶暴的脾气", 
+        "translation": "adj：狂暴的；凶狠的；野蛮的 n：野蛮人 v：凶狠的攻击"
+    }, 
+    "sketch": {
+        "attr": "v，n", 
+        "sentence": "Can you () in a few details of the proposal -- 你能把建议的一些细节补充概述一下吗", 
+        "translation": "v：草拟；简述 n：草图；素描；概述"
+    }, 
+    "skim": {
+        "attr": "v", 
+        "sentence": "It took me an hour to () the book -- 我花了一小时把书略读了一遍", 
+        "translation": "v：略读；撇去；掠过"
+    }, 
+    "verse": {
+        "attr": "n", 
+        "sentence": "He expressed his ideas in () -- 他用诗的形式来表达他的观点", 
+        "translation": "n：诗；诗节"
+    }, 
+    "vertical": {
+        "attr": "adj", 
+        "sentence": "the () axis -- 纵轴", 
+        "translation": "adj:竖的；垂直的"
+    }
+}

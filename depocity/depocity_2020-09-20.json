@@ -1,0 +1,157 @@
+{
+    "bend": {
+        "attr": "v，n", 
+        "sentence": "There is a sharp () in the road -- 路上有一处急转弯", 
+        "translation": "v：弯曲；弯腰 n：弯曲处"
+    }, 
+    "cellar": {
+        "attr": "n", 
+        "sentence": "wine () -- 酒窖", 
+        "translation": "n：地窖；地下室"
+    }, 
+    "choke": {
+        "attr": "n，v", 
+        "sentence": "Leaves () the drain -- 树叶把排水管塞住了", 
+        "translation": "n：窒息；阻塞 v：窒息；阻塞"
+    }, 
+    "coalition": {
+        "attr": "n", 
+        "sentence": "plitical () -- 政治联盟", 
+        "translation": "n：结合；联合；联盟"
+    }, 
+    "coarse": {
+        "attr": "adj", 
+        "sentence": "() manners -- 粗鲁的举止", 
+        "translation": "adj：粗糙地；粗鲁的"
+    }, 
+    "consensus": {
+        "attr": "n", 
+        "sentence": "It seems we have a () -- 看来我们的意见是一致的", 
+        "translation": "n：一致；共识"
+    }, 
+    "contemptible": {
+        "attr": "adj", 
+        "sentence": "a () act of violence -- 卑劣的暴力行径", 
+        "translation": "adj：可鄙的；可轻视的"
+    }, 
+    "coverage": {
+        "attr": "n", 
+        "sentence": "This radio station has great () -- 这个无线电台的覆盖范围很广", 
+        "translation": "n：覆盖范围；新闻报道"
+    }, 
+    "deposit": {
+        "attr": "n，v", 
+        "sentence": "current () -- 活期存款", 
+        "translation": "n：存款；押金；沉淀"
+    }, 
+    "deteriorate": {
+        "attr": "v", 
+        "sentence": "Food is apt to () in summer -- 食物在夏天容易变坏", 
+        "translation": "v：恶化；变坏；退化"
+    }, 
+    "dizzy": {
+        "attr": "adj", 
+        "sentence": "The airplane flew to a () height -- 飞机飞到令人头晕目眩的高度", 
+        "translation": "adj：头晕目眩的；头晕眼花的"
+    }, 
+    "esteem": {
+        "attr": "v，n", 
+        "sentence": "lack of self-() -- 缺乏自尊心", 
+        "translation": "v：尊重；尊敬 n：尊重；尊敬"
+    }, 
+    "interim": {
+        "attr": "adj，n", 
+        "sentence": "an () agreement -- 一项临时协议", 
+        "translation": "adj：暂时的；临时的 n：过渡时期；中间时期"
+    }, 
+    "irony": {
+        "attr": "n，adj", 
+        "sentence": "Do you see the () here -- 你看这里的讽刺之处了吗", 
+        "translation": "n：讽刺；反语 adj：铁的；似铁的"
+    }, 
+    "lap": {
+        "attr": "n，v", 
+        "sentence": "the last () of the race -- 比赛的最后一圈", 
+        "translation": "n：大腿部；一圈 v：超越一圈；轻拍"
+    }, 
+    "margin": {
+        "attr": "n，v", 
+        "sentence": "a () of 500 votes -- 五百张选票的差额", 
+        "translation": "n：边缘；差额；利润；空白处；余地 v：加边于"
+    }, 
+    "monotonous": {
+        "attr": "adj", 
+        "sentence": "The () voice sent me to sleep -- 单调乏味的声音使我昏昏欲睡", 
+        "translation": "adj：单调乏味的；毫无变化的"
+    }, 
+    "nominate": {
+        "attr": "v", 
+        "sentence": "to () a candidate -- 提名一名候选人", 
+        "translation": "v：提名；推荐；指派"
+    }, 
+    "pedestrian": {
+        "attr": "n，adj", 
+        "sentence": "() crossing -- 人行横道", 
+        "translation": "n：行人；步行者 adj：不行的；代办的；平淡无奇的"
+    }, 
+    "pragmatist": {
+        "attr": "n", 
+        "sentence": "the malleable mind of the () -- 实用主义者那适应性很强的思想", 
+        "translation": "n：实用主义者"
+    }, 
+    "prestige": {
+        "attr": "n", 
+        "sentence": "international () -- 国际声望", 
+        "translation": "n: 声望；威望；威信"
+    }, 
+    "prudent": {
+        "attr": "adj", 
+        "sentence": "We should be modest and () -- 我们应该谦虚谨慎", 
+        "translation": "adj：谨慎的；慎重的；精明的"
+    }, 
+    "retort": {
+        "attr": "n, v", 
+        "sentence": "sharp () -- 尖刻的反驳", 
+        "translation": "v: 反驳；回嘴 n: 反驳"
+    }, 
+    "revenue": {
+        "attr": "n", 
+        "sentence": "() officer -- 税务员", 
+        "translation": "n：收入；税说"
+    }, 
+    "rub": {
+        "attr": "v，n", 
+        "sentence": "The mud will () off easily -- 污泥很容易擦掉", 
+        "translation": "v：擦；擦掉 n：擦；摩擦；阻碍"
+    }, 
+    "spiral": {
+        "attr": "n，adj，v", 
+        "sentence": "a () staircase -- 螺旋形楼梯", 
+        "translation": "n：螺旋形 v：螺旋式上升 adj：螺旋形的"
+    }, 
+    "tissue": {
+        "attr": "n", 
+        "sentence": "nervous () -- 神经组织", 
+        "translation": "n；组织；纸巾；薄纸"
+    }, 
+    "turbine": {
+        "attr": "n", 
+        "sentence": "The () maked a lot of noise -- 涡轮机发出震耳欲聋的响声", 
+        "translation": "n：涡轮"
+    }, 
+    "turbulent": {
+        "attr": "adj", 
+        "sentence": " () rapids -- 汹涌的急流", 
+        "translation": "adj: 汹涌的；骚动的"
+    }, 
+    "virtuosity": {
+        "attr": "n", 
+        "sentence": "a performance of breathtaking () -- 技艺令人叫绝的演出", 
+        "translation": "n：精湛演艺"
+    }, 
+    "weld": {
+        "attr": "v，n", 
+        "sentence": "It's possible to () stainless steel to ordinary steel -- 不锈钢是有可能和普通钢焊接在一起的", 
+        "translation": "v：焊接 n：焊接"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "contagious": {
+        "attr": "adj", 
+        "sentence": "Her laughter is () -- 她的笑很有感染力", 
+        "translation": "adj: 感染力的；传染性的"
+    }, 
+    "innovative": {
+        "attr": "adj", 
+        "sentence": "() product -- 新颖的产品", 
+        "translation": "adj: 新颖的；革新的"
+    }, 
+    "instalment": {
+        "attr": "n", 
+        "sentence": "The () plan is popular in buying houses -- 流行用分期付款的办法买房子", 
+        "translation": "n: 部分；分期付款"
+    }, 
+    "presumably": {
+        "attr": "adv", 
+        "sentence": "() the bad weather has delayed the flight -- 大概恶劣天气使飞机误点了", 
+        "translation": "adv: 大概"
+    }, 
+    "prophet": {
+        "attr": "n", 
+        "sentence": "The () foresaw a famine -- 预言者预测到了饥荒", 
+        "translation": "n: 预言者"
+    }, 
+    "propaganda": {
+        "attr": "n", 
+        "sentence": "political () -- 政治宣传", 
+        "translation": "n: 宣传"
+    }
+}

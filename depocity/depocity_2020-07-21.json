@@ -1,0 +1,167 @@
+{
+    "amplify": {
+        "attr": "v", 
+        "sentence": "to () the signal -- 增强信号", 
+        "translation": "v：放大；扩大；增强；详述"
+    }, 
+    "batch": {
+        "attr": "n", 
+        "sentence": "She made a () of cookies -- 她做了一炉甜饼", 
+        "translation": "n：一批；一炉；一组"
+    }, 
+    "bulk": {
+        "attr": "n", 
+        "sentence": "I have done the () of work -- 我已经完成了大部分的工作", 
+        "translation": "n: 巨大的体积；大量"
+    }, 
+    "classification": {
+        "attr": "n", 
+        "sentence": "Which () does this plant belong to -- 这植物属于哪一类？", 
+        "translation": "n：分类，分级"
+    }, 
+    "compat": {
+        "attr": "n，v", 
+        "sentence": "single () -- 一对一搏斗", 
+        "translation": "n：搏斗；战斗 v：搏斗；战斗"
+    }, 
+    "consult": {
+        "attr": "v", 
+        "sentence": " () a lawyer  -- 咨询律师", 
+        "translation": "v: 咨询；查询；请教"
+    }, 
+    "coverage": {
+        "attr": "n", 
+        "sentence": "This radio station has great () -- 这个无线电台的覆盖范围很广", 
+        "translation": "n：覆盖范围；新闻报道"
+    }, 
+    "destructive": {
+        "attr": "adj", 
+        "sentence": "a () influence -- 破坏性影响", 
+        "translation": "adj：破坏的 毁灭性的"
+    }, 
+    "evolve": {
+        "attr": "v", 
+        "sentence": "Buds () into flowers -- 花蕾进化到花朵", 
+        "translation": "v：形成；演变；进化"
+    }, 
+    "garment": {
+        "attr": "n，v", 
+        "sentence": "to () the model -- 给模特穿衣服", 
+        "translation": "n：衣服；外衣 v：给...穿衣服"
+    }, 
+    "hazard": {
+        "attr": "v", 
+        "sentence": "He had put his own life in () -- 他是在拿自己的生命来冒险", 
+        "translation": "n: 危害；危险 v: 冒险；使遭受危险"
+    }, 
+    "hypocritical": {
+        "attr": "adj", 
+        "sentence": "() praise -- 虚伪的夸奖", 
+        "translation": "adj：伪善的；虚伪的"
+    }, 
+    "household": {
+        "attr": "n，adj", 
+        "sentence": "() chores -- 家务琐事", 
+        "translation": "n：家庭 adj：家庭的；家喻户晓的"
+    }, 
+    "impose": {
+        "attr": "v", 
+        "sentence": "to () a tax -- 征税", 
+        "translation": "v：征收"
+    }, 
+    "indefinitely": {
+        "attr": "adv", 
+        "sentence": "The visit was postponed () -- 访问被无限期的推迟", 
+        "translation": "adv：无限期地；不确定的"
+    }, 
+    "inventory": {
+        "attr": "n", 
+        "sentence": "He made an () of everything that was to stay -- 他把所有要留下的东西列了详细的清单", 
+        "translation": "n：详细目录；清单；储备；存货"
+    }, 
+    "legacy": {
+        "attr": "n", 
+        "sentence": "() tax -- 遗产税", 
+        "translation": "n：遗产；遗赠"
+    }, 
+    "notion": {
+        "attr": "n", 
+        "sentence": "absract () -- 抽象概念", 
+        "translation": "n：概念；观念；想法"
+    }, 
+    "nuisance": {
+        "attr": "n", 
+        "sentence": "It is a () to take classes every day -- 每天上课很讨厌", 
+        "translation": "n：讨厌的人；讨厌的事"
+    }, 
+    "obedient": {
+        "attr": "adj", 
+        "sentence": "His dog is very () -- 他的狗非常温顺", 
+        "translation": "adj：服从的；顺从的"
+    }, 
+    "overwhelm": {
+        "attr": "v", 
+        "sentence": "No difficulty can () us -- 没有困难能击败我们", 
+        "translation": "v：击败；压垮；淹没"
+    }, 
+    "patron": {
+        "attr": "n", 
+        "sentence": "a () of arts -- 艺术事业的赞助者", 
+        "translation": "n：赞助人；老主顾"
+    }, 
+    "perish": {
+        "attr": "v", 
+        "sentence": "Civilizations do eventually () -- 文明最终会死亡", 
+        "translation": "v：死；毁灭"
+    }, 
+    "prestige": {
+        "attr": "n", 
+        "sentence": "international () -- 国际声望", 
+        "translation": "n: 声望；威望；威信"
+    }, 
+    "provision": {
+        "attr": "", 
+        "sentence": "make () for the future -- 准备日后只需", 
+        "translation": ""
+    }, 
+    "reconcile": {
+        "attr": "v", 
+        "sentence": "() disputes -- 调解纠纷", 
+        "translation": "v：使和解；调和"
+    }, 
+    "recruit": {
+        "attr": "v，n", 
+        "sentence": "to () volunteers -- 招募志愿者", 
+        "translation": "v：征募；招收；招聘 n：新兵"
+    }, 
+    "routinely": {
+        "attr": "adv", 
+        "sentence": "All procedures are () followed -- 所有的程序都例行的执行", 
+        "translation": "adv：例行地；常规地；通常地"
+    }, 
+    "scorn": {
+        "attr": "n，v", 
+        "sentence": "an expression of () -- 轻视的表情", 
+        "translation": "n：蔑视；v：蔑视"
+    }, 
+    "seize": {
+        "attr": "v", 
+        "sentence": "I () him by the arm -- 我抓住她的胳膊", 
+        "translation": "v：抓住；捉拿；夺取"
+    }, 
+    "setback": {
+        "attr": "n", 
+        "sentence": "He suffered a () in his business -- 他在生意上遭遇挫折", 
+        "translation": "n: 退步；挫折"
+    }, 
+    "striking": {
+        "attr": "adj，v", 
+        "sentence": "() differences -- 显著的差别", 
+        "translation": "adj：显著的；引人瞩目的 v：打击；罢工"
+    }, 
+    "townsfolk": {
+        "attr": "n", 
+        "sentence": "some wealthy () -- 一些富有的市镇居民", 
+        "translation": "n：市民"
+    }
+}

@@ -1,0 +1,157 @@
+{
+	"dubious": {
+            "sentence": "I remian () about her motives -- 我对她的动机仍存疑念",
+            "translation": "adj：可疑的；怀疑的",
+            "attr": "adj"
+        },
+	"inference": {
+            "sentence": "We drew the () that he was satisfied -- 我们推断出他很满意",
+            "translation": "n：推断",
+            "attr": "n"
+        },
+	"discourse": {
+            "sentence": "a length () -- 长篇大论",
+            "translation": "n：演说；论述；论文， v：谈论；交谈",
+            "attr": "n， v"
+        },
+	"diligent": {
+            "sentence": "No one can be more () than him -- 没有人可以比他更勤奋了",
+            "translation": "adj：勤勉的；勤奋的",
+            "attr": "adj"
+        },
+	"intact": {
+            "sentence": "The packages are () -- 包装是完整的",
+            "translation": "adj：完整无损的",
+            "attr": "adj"
+        },
+	"conceive": {
+            "sentence": "() a plan -- 构思一个计划",
+            "translation": "v：构思；设想；怀孕",
+            "attr": "v"
+        },
+	"cite": {
+            "sentence": "to () someone for murder -- 因谋杀传唤某人",
+            "translation": "v：引用；提及；距离；引证；传讯",
+            "attr": "v"
+        },
+	"rapid": {
+            "sentence": "The city developed at a very () rate -- 这座城市迅速发展了起来",
+            "translation": "adj：迅速的",
+            "attr": "adj"
+        },
+	"slit": {
+            "sentence": "Her skirt has a long () -- 她的裙子上有个细长的开口",
+            "translation": "n：裂缝；狭长的切口 v：撕裂",
+            "attr": "n， adj"
+        },
+	"scan": {
+            "sentence": "I () my pocket for change -- 我仔细查看口袋找零钱",
+            "translation": "v：扫描；浏览；绅士 n：扫描；浏览",
+            "attr": "v，n"
+        },
+	"assignment": {
+            "sentence": "His () was to follow the spy -- 他的任务是跟踪这个间谍",
+            "translation": "n：分配；指派；作业",
+            "attr": "n"
+        },
+	"relish": {
+            "sentence": "() each moment in your life -- 好好享受生活中的每一个时刻",
+            "translation": "v：喜欢；享受 n：享受；乐趣",
+            "attr": "v n"
+        },
+	"exhibit": {
+            "sentence": "They () great courage -- 他们展现出了极大的勇气",
+            "translation": "v：展览；陈列 n：展品；展览",
+            "attr": "v，n"
+        },
+	"plot": {
+            "sentence": "How do you uncover their () -- 你怎么揭露出他们的阴谋的",
+            "translation": "n：情节；阴谋 v：绘图；密谋",
+            "attr": "n， v"
+        },
+	"crucial": {
+            "sentence": "It's a () decision -- 这是一个至关重要的决定",
+            "translation": "adj：至关重要的；决定性的",
+            "attr": "adj"
+        },
+	"absorption": {
+            "sentence": "() in one's work -- 专心于工作",
+            "translation": "n：吸收；专注；合并",
+            "attr": "n"
+        },
+	"complementary": {
+            "sentence": "His personality is () to hers -- 他的个性与她的互补",
+            "translation": "adj：互补的；补充的",
+            "attr": "adj"
+        },
+	"deplore": {
+            "sentence": "We () the use of nuclear weapon -- 我们抢了谴责使用核武器",
+            "translation": "v：谴责；强烈反对",
+            "attr": "v"
+        },
+	"omit": {
+            "sentence": "Don't () locking the door -- 别忘了锁门",
+            "translation": "v：省略；遗漏",
+            "attr": "v"
+        },
+	"prosperous": {
+            "sentence": "() industry -- 繁荣的工业",
+            "translation": "adj：繁荣的",
+            "attr": "adj"
+        },
+	"reluctant": {
+            "sentence": "He is () to be photographed -- 他不喜欢被拍照",
+            "translation": "adj：不情愿的；勉强的",
+            "attr": "adj"
+        },
+	"desolate": {
+            "sentence": "a () desert -- 荒凉的沙漠",
+            "translation": "adj：荒凉的 v：使荒凉",
+            "attr": "adj，v"
+        },
+	"huddle": {
+            "sentence": "There was a () of people around the injured man -- 拥挤的一群人围着受伤的人",
+            "translation": "adj：拥挤的 v：拥挤",
+            "attr": "adj，v"
+        },
+	"incensory": {
+            "sentence": "Incense and () -- 熏香和香炉",
+            "translation": "n：香炉",
+            "attr": "n"
+        },
+	"artery": {
+            "sentence": "the blocked () -- 栓塞的动脉",
+            "translation": "n：动脉；干线",
+            "attr": "n"
+        },
+	"quarrel": {
+            "sentence": "We had a () about money -- 我们就钱的问题争吵起来",
+            "translation": "n：争吵；口角 v：争吵；吵嘴",
+            "attr": "v，n"
+        },
+	"pant": {
+            "sentence": "She gave a () and faint -- 她喘了一口气然后晕了过去",
+            "translation": "v：喘气；喘息 n：喘息",
+            "attr": "v；n"
+        },
+	"gulf": {
+            "sentence": "() between generation -- 一代与另一代人的隔阂",
+            "translation": "n：隔阂",
+            "attr": "n"
+        },
+	"bronze": {
+            "sentence": "The swimmer won a () -- 游泳运动员赢得了铜牌",
+            "translation": "n：青铜；青铜色 adj：青铜色",
+            "attr": "n；adj"
+        },
+	"nerve": {
+            "sentence": "Strong coffee excites your () -- 浓咖啡是神经兴奋",
+            "translation": "n：神经；勇气；胆量",
+            "attr": "n"
+        },
+	"tilt": {
+            "sentence": "The new policy will () toward industry development -- 新政策将倾向于工业发展",
+            "translation": "v：倾斜；偏向 n：倾斜；企图",
+            "attr": "v， n"
+        }
+}
